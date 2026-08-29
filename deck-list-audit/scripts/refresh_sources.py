@@ -164,6 +164,7 @@ def spellbook_record(slug: str, fetched_on: str) -> dict[str, Any]:
     estimate_path = ROOT / f"data/spellbook-results/{slug}-estimate.json"
     combos_path = ROOT / f"data/spellbook-results/{slug}-combos.json"
     return {
+        "status": "exact-list-scan",
         "fetched_on": fetched_on,
         "request_sha256": sha256_bytes(canonical_json_bytes(json_load(request_path))),
         "estimate_file": str(estimate_path.relative_to(ROOT)),

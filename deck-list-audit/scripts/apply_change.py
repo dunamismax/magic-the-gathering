@@ -186,8 +186,8 @@ def apply_plan(plan_path: Path, *, apply: bool) -> None:
         "before_sha256": actual_sha,
         "after_sha256": sha256_file(target),
         "post_change_audit_valid": True,
-        "external_combo_evidence_stale": True,
-        "human_reports_stale": True,
+        "external_combo_evidence_stale_at_application": True,
+        "human_reports_stale_at_application": True,
     }
     applied_path = ROOT / f"changes/applied/{slug}-{sha256_file(target)[:12]}.json"
     applied_path.parent.mkdir(parents=True, exist_ok=True)

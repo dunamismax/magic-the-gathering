@@ -22,6 +22,7 @@
 1 Dwarven Mine
 1 Fable of the Mirror-Breaker
 1 Firdoch Core
+1 Fíli and Kíli, Joyous
 1 Ganax, Astral Hunter
 1 Glóin the Mighty
 1 Glóin, Dwarf Emissary
@@ -32,7 +33,7 @@
 1 Hangar Scrounger
 1 Haven of the Spirit Dragon
 1 Holdout Settlement
-1 Jeska's Will
+1 Idol of Oblivion
 1 Knollspine Dragon
 1 Lathliss, Dragon Queen
 1 Luxurious Locomotive
@@ -43,7 +44,6 @@
 1 Molten Echoes
 23 Mountain
 1 Mutavault
-1 Óin the Brave
 1 Paradise Mantle
 1 Parapet Thrasher
 1 Plaza of Heroes
@@ -64,7 +64,6 @@
 1 Swiftfoot Boots
 1 Taurean Mauler
 1 Terror of the Peaks
-1 The One Ring
 1 The Reaver Cleaver
 1 There and Back Again
 1 Thundermane Dragon
@@ -75,5 +74,6 @@
 1 Utvara Hellkite
 1 Wild Magic Surge
 1 Xorn
+1 Óin the Brave
 
 1 Magda, Brazen Outlaw

@@ -43,7 +43,7 @@ collection. Treat deck advice and deck edits as stateful, audited work.
 - Clearly label a package `proposed`, `applied`, or `user-confirmed`.
 - Do not edit a deck for a review-only request.
 - For an authorized edit, create a change plan from
-  `changes/change-plan.example.json` and use `just apply-change PLAN=...`.
+  `changes/change-plan.example.json` and use `just apply-change changes/plan.json`.
 - Never bypass the baseline SHA-256 guard or hand-edit generated artifacts.
 - Adds and cuts must have equal total quantities. Present actionable card
   packages in one Moxfield-ready fenced block with one `1 Card Name` per line.

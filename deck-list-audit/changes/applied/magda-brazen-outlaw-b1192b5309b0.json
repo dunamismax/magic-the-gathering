@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "status": "user-confirmed",
+  "deck": "magda-brazen-outlaw",
+  "baseline_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+  "game_changer_policy": "no-increase",
+  "adds": [
+    {
+      "name": "Fíli and Kíli, Joyous",
+      "quantity": 1,
+      "reason": "Adds a hasty Dwarf whose restricted mana advances the deck's Dwarf, Equipment, and Saga plan."
+    },
+    {
+      "name": "Idol of Oblivion",
+      "quantity": 1,
+      "reason": "Turns the deck's routine Treasure and other token production into repeatable card advantage."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "The One Ring",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a generic protection and card-advantage Game Changer."
+    },
+    {
+      "name": "Jeska's Will",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a generic burst-mana and impulse-advantage Game Changer."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "Game Changer count reduced from three to one",
+    "Dwarf, Dragon, and Treasure identity preserved",
+    "combo and social implications reviewed"
+  ],
+  "notes": "User-confirmed swaps supplied on 2026-08-29.",
+  "application": {
+    "applied_at": "2026-08-29T13:57:13.456336+00:00",
+    "before_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+    "after_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
+    "post_change_audit_valid": true,
+    "external_combo_evidence_stale_at_application": true,
+    "human_reports_stale_at_application": true
+  },
+  "recertification": {
+    "reviewed_on": "2026-08-29",
+    "combo_evidence": "manual-card-delta-review-over-preserved-exact-list-scan",
+    "human_report": "commander-social-audit.md",
+    "current_system_check_passed": true,
+    "full_decklist_uploaded": false
+  }
+}

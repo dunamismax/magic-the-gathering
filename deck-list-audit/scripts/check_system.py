@@ -16,6 +16,7 @@ from audit_decks import (
     canonical_json_bytes,
     json_bytes,
     json_load,
+    normalize_name,
     sha256_bytes,
     sha256_file,
 )
@@ -113,8 +114,63 @@ def validate_spellbook(
         if record is None:
             errors.append(f"missing Spellbook evidence record: {slug}")
             continue
-        if record.get("request_sha256") != deck["spellbook_request_sha256"]:
-            errors.append(f"stale Spellbook evidence for changed deck: {slug}")
+        status = record.get("status", "exact-list-scan")
+        evidence_date = record.get("fetched_on")
+        if status == "exact-list-scan":
+            if record.get("request_sha256") != deck["spellbook_request_sha256"]:
+                errors.append(f"stale Spellbook evidence for changed deck: {slug}")
+        elif status == "delta-reviewed":
+            if record.get("current_request_sha256") != deck["spellbook_request_sha256"]:
+                errors.append(f"stale Spellbook delta review for changed deck: {slug}")
+            if record.get("current_deck_sha256") != deck["deck_sha256"]:
+                errors.append(f"delta review targets the wrong deck hash: {slug}")
+            review = record.get("delta_review") or {}
+            applied_path = ROOT / (
+                f"changes/applied/{slug}-{deck['deck_sha256'][:12]}.json"
+            )
+            if not applied_path.exists():
+                errors.append(f"delta review has no matching applied change: {slug}")
+            else:
+                applied = json_load(applied_path)
+                application = applied.get("application") or {}
+                if application.get("before_sha256") != record.get(
+                    "source_deck_sha256"
+                ):
+                    errors.append(f"delta review source hash is unproven: {slug}")
+                if application.get("after_sha256") != deck["deck_sha256"]:
+                    errors.append(f"delta review applied hash is stale: {slug}")
+                planned_adds = {
+                    normalize_name(item["name"]) for item in applied.get("adds") or []
+                }
+                planned_cuts = {
+                    normalize_name(item["name"]) for item in applied.get("cuts") or []
+                }
+                reviewed_adds = {
+                    normalize_name(name) for name in review.get("added") or []
+                }
+                reviewed_cuts = {
+                    normalize_name(name) for name in review.get("removed") or []
+                }
+                if planned_adds != reviewed_adds or planned_cuts != reviewed_cuts:
+                    errors.append(f"delta review does not match applied change: {slug}")
+            current_cards = {
+                normalize_name(card["canonical_name"]) for card in deck["cards"]
+            }
+            for name in review.get("added") or []:
+                if normalize_name(name) not in current_cards:
+                    errors.append(f"delta-reviewed add is absent from {slug}: {name}")
+            for name in review.get("removed") or []:
+                if normalize_name(name) in current_cards:
+                    errors.append(f"delta-reviewed cut is still present in {slug}: {name}")
+            evidence_date = record.get("delta_reviewed_on")
+            if not evidence_date:
+                errors.append(f"delta review has no review date: {slug}")
+            warnings.append(
+                f"{slug} uses a current manual delta review over a dated prior "
+                "exact-list Spellbook scan; no revised full list was uploaded"
+            )
+        else:
+            errors.append(f"unknown Spellbook evidence status for {slug}: {status}")
         for file_key, hash_key in (
             ("estimate_file", "estimate_sha256"),
             ("combos_file", "combos_sha256"),
@@ -124,7 +180,9 @@ def validate_spellbook(
                 errors.append(f"missing Spellbook result for {slug}: {path}")
             elif sha256_file(path) != record.get(hash_key):
                 errors.append(f"modified Spellbook result without manifest update: {path}")
-        if require_current and age_days(record["fetched_on"], today) > int(freshness):
+        if require_current and evidence_date and age_days(evidence_date, today) > int(
+            freshness
+        ):
             errors.append(
                 f"Spellbook evidence for {slug} is older than {freshness} days"
             )
@@ -150,16 +208,16 @@ def validate_adjudications(audit: dict[str, Any]) -> tuple[list[str], list[str]]
     return errors, warnings
 
 
-def validate_historical_report(audit: dict[str, Any]) -> tuple[list[str], list[str]]:
+def validate_social_report(audit: dict[str, Any]) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
     path = ROOT / "reports/manifest.json"
     if not path.exists():
-        return ["missing historical report manifest"], warnings
+        return ["missing social report manifest"], warnings
     manifest = json_load(path)
     report_path = ROOT / manifest["report_file"]
     if not report_path.exists() or sha256_file(report_path) != manifest["report_sha256"]:
-        errors.append("historical social report changed without manifest update")
+        errors.append("social report changed without manifest update")
     changed = [
         slug
         for slug, deck in audit["decks"].items()
@@ -167,7 +225,7 @@ def validate_historical_report(audit: dict[str, Any]) -> tuple[list[str], list[s
     ]
     if changed:
         warnings.append(
-            "historical social report does not describe current deck hashes: "
+            "social report does not describe current deck hashes: "
             + ", ".join(changed)
         )
     return errors, warnings
@@ -223,7 +281,7 @@ def main() -> int:
             adjudication_errors, adjudication_warnings = validate_adjudications(audit)
             errors.extend(adjudication_errors)
             warnings.extend(adjudication_warnings)
-            report_errors, report_warnings = validate_historical_report(audit)
+            report_errors, report_warnings = validate_social_report(audit)
             errors.extend(report_errors)
             warnings.extend(report_warnings)
             errors.extend(validate_request_hash_formula(audit))

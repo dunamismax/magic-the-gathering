@@ -8,7 +8,7 @@
   },
   "inputs": {
     "collection_file": "collection.json",
-    "collection_sha256": "196af0f5c56efa2fd20916c30c2ab2bee17c91259782e2ab031fda4d5899f5df",
+    "collection_sha256": "ecb3ca8d26a8c7705c41a1e4ebe3cae41bf044b963e42c0cc697bd3b708f528a",
     "oracle_file": "data/oracle-cards.jsonl.gz",
     "oracle_sha256": "f11ad49902e6df0d89e1ecc01f1f0021656f5fd999ca853e5716d7c787361cf4",
     "oracle_source_updated_at": "2026-08-29T09:01:53.042+00:00",
@@ -32,8 +32,8 @@
       "moxfield_id": "jfWEvfYBHkGi7P1oqzAQww",
       "moxfield_url": "https://moxfield.com/decks/jfWEvfYBHkGi7P1oqzAQww",
       "file": "decks/blor-the-impervious.txt",
-      "deck_sha256": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
-      "spellbook_request_sha256": "783f93000e6eb2a84fdc3d2a5845d661b5d2486ff2f338986fb1d15d7583c482",
+      "deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
+      "spellbook_request_sha256": "bc00262b0c5bdb95a6e828487503be84df6d1c9b4de2f7546379efdb1e57129d",
       "valid": true,
       "analysis_ready": true,
       "errors": [],
@@ -79,30 +79,28 @@
         "G"
       ],
       "type_counts": {
-        "Artifact": 25,
+        "Artifact": 24,
         "Land": 36,
         "Creature": 16,
         "Instant": 7,
         "Enchantment": 13,
-        "Sorcery": 5
+        "Sorcery": 6
       },
       "overlapping_type_counts": {
-        "Artifact": 25,
+        "Artifact": 24,
         "Land": 36,
         "Creature": 16,
         "Instant": 7,
         "Enchantment": 13,
-        "Sorcery": 5
+        "Sorcery": 6
       },
       "printed_lands": 36,
       "mdfc_lands": 0,
       "modal_land_backs": 0,
       "effective_land_faces": 36,
-      "game_changer_count": 3,
+      "game_changer_count": 1,
       "game_changers": [
-        "Ancient Tomb",
-        "Mana Vault",
-        "The One Ring"
+        "Ancient Tomb"
       ],
       "not_commander_legal": [
         "Blor the Impervious"
@@ -1002,10 +1000,63 @@
           }
         },
         {
+          "listed_name": "Creeping Renaissance",
+          "canonical_name": "Creeping Renaissance",
+          "quantity": 1,
+          "line_number": 18,
+          "is_commander": false,
+          "card": {
+            "id": "71569961-d56c-43f9-ae51-d86561419743",
+            "oracle_id": "e2375f13-fd45-4087-abd1-c884acc6c736",
+            "name": "Creeping Renaissance",
+            "released_at": "2018-08-10",
+            "mana_cost": "{3}{G}{G}",
+            "cmc": 5.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+            "color_identity": [
+              "G"
+            ],
+            "keywords": [
+              "Flashback"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "not_legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "oval",
+            "set_type": "commander",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Delighted Halfling",
           "canonical_name": "Delighted Halfling",
           "quantity": 1,
-          "line_number": 18,
+          "line_number": 19,
           "is_commander": false,
           "card": {
             "id": "71384418-173a-4f77-adab-56e52fa23692",
@@ -1056,7 +1107,7 @@
           "listed_name": "Devoted Druid",
           "canonical_name": "Devoted Druid",
           "quantity": 1,
-          "line_number": 19,
+          "line_number": 20,
           "is_commander": false,
           "card": {
             "id": "22589a81-3ea8-4e78-98c9-c015e7539cf9",
@@ -1107,7 +1158,7 @@
           "listed_name": "Elvish Mystic",
           "canonical_name": "Elvish Mystic",
           "quantity": 1,
-          "line_number": 20,
+          "line_number": 21,
           "is_commander": false,
           "card": {
             "id": "08b9a296-3b76-4f8f-9d71-7c9af92bb3b4",
@@ -1158,7 +1209,7 @@
           "listed_name": "Epic Fight",
           "canonical_name": "Epic Fight",
           "quantity": 1,
-          "line_number": 21,
+          "line_number": 22,
           "is_commander": false,
           "card": {
             "id": "d521b80b-4b0b-4d69-bd95-4c83feaf2145",
@@ -1212,7 +1263,7 @@
           "listed_name": "Eternal Witness",
           "canonical_name": "Eternal Witness",
           "quantity": 1,
-          "line_number": 22,
+          "line_number": 23,
           "is_commander": false,
           "card": {
             "id": "39704000-65d3-4d39-849e-a3b617376bbc",
@@ -1263,7 +1314,7 @@
           "listed_name": "Excalibur, Sword of Eden",
           "canonical_name": "Excalibur, Sword of Eden",
           "quantity": 1,
-          "line_number": 23,
+          "line_number": 24,
           "is_commander": false,
           "card": {
             "id": "26dbf574-3193-413e-a982-4b9d27dafaf5",
@@ -1312,7 +1363,7 @@
           "listed_name": "Fanatic of Rhonas",
           "canonical_name": "Fanatic of Rhonas",
           "quantity": 1,
-          "line_number": 24,
+          "line_number": 25,
           "is_commander": false,
           "card": {
             "id": "1f9fb33a-3b39-4aff-93b8-aedafe0ea694",
@@ -1366,7 +1417,7 @@
           "listed_name": "Forest",
           "canonical_name": "Forest",
           "quantity": 24,
-          "line_number": 25,
+          "line_number": 26,
           "is_commander": false,
           "card": {
             "id": "dce15387-4114-4b3e-91aa-5b42b45c44ac",
@@ -1417,7 +1468,7 @@
           "listed_name": "Fyndhorn Elves",
           "canonical_name": "Fyndhorn Elves",
           "quantity": 1,
-          "line_number": 26,
+          "line_number": 27,
           "is_commander": false,
           "card": {
             "id": "450744cf-7eba-491b-97b0-ca80c6368bbb",
@@ -1468,7 +1519,7 @@
           "listed_name": "Gemrazer",
           "canonical_name": "Gemrazer",
           "quantity": 1,
-          "line_number": 27,
+          "line_number": 28,
           "is_commander": false,
           "card": {
             "id": "0095245c-a30e-4e2a-88c9-632c678e9f03",
@@ -1523,7 +1574,7 @@
           "listed_name": "Genji Glove",
           "canonical_name": "Genji Glove",
           "quantity": 1,
-          "line_number": 28,
+          "line_number": 29,
           "is_commander": false,
           "card": {
             "id": "f724dde1-84b0-4e3b-a9b8-44cd22bb9f79",
@@ -1574,7 +1625,7 @@
           "listed_name": "High Score",
           "canonical_name": "High Score",
           "quantity": 1,
-          "line_number": 29,
+          "line_number": 30,
           "is_commander": false,
           "card": {
             "id": "b9077ef5-d19a-4106-950b-bb49b3b37510",
@@ -1625,7 +1676,7 @@
           "listed_name": "Hunter's Insight",
           "canonical_name": "Hunter's Insight",
           "quantity": 1,
-          "line_number": 30,
+          "line_number": 31,
           "is_commander": false,
           "card": {
             "id": "de399acd-e792-4f4a-8025-434f1080c0fc",
@@ -1676,7 +1727,7 @@
           "listed_name": "Hunter's Talent",
           "canonical_name": "Hunter's Talent",
           "quantity": 1,
-          "line_number": 31,
+          "line_number": 32,
           "is_commander": false,
           "card": {
             "id": "e9a31863-9649-4a4f-99e4-c93729938bd7",
@@ -1727,7 +1778,7 @@
           "listed_name": "Inquisitor's Flail",
           "canonical_name": "Inquisitor's Flail",
           "quantity": 1,
-          "line_number": 32,
+          "line_number": 33,
           "is_commander": false,
           "card": {
             "id": "3014f59d-9012-473a-8bb1-8085c6e91632",
@@ -1779,7 +1830,7 @@
           "listed_name": "Inventors' Fair",
           "canonical_name": "Inventors' Fair",
           "quantity": 1,
-          "line_number": 33,
+          "line_number": 34,
           "is_commander": false,
           "card": {
             "id": "275471e3-ded1-40ac-91ef-369dce5764d9",
@@ -1828,7 +1879,7 @@
           "listed_name": "Keen Sense",
           "canonical_name": "Keen Sense",
           "quantity": 1,
-          "line_number": 34,
+          "line_number": 35,
           "is_commander": false,
           "card": {
             "id": "d16e927d-0f23-4fac-9b35-3cfcb22ebc26",
@@ -1881,7 +1932,7 @@
           "listed_name": "Lavaspur Boots",
           "canonical_name": "Lavaspur Boots",
           "quantity": 1,
-          "line_number": 35,
+          "line_number": 36,
           "is_commander": false,
           "card": {
             "id": "e50709de-e6ef-4dbc-af1e-290fed279f34",
@@ -1932,7 +1983,7 @@
           "listed_name": "Legolas's Quick Reflexes",
           "canonical_name": "Legolas's Quick Reflexes",
           "quantity": 1,
-          "line_number": 36,
+          "line_number": 37,
           "is_commander": false,
           "card": {
             "id": "851c0167-04ba-4d15-b0fa-c211bd8826f1",
@@ -1985,7 +2036,7 @@
           "listed_name": "Level Up",
           "canonical_name": "Level Up",
           "quantity": 1,
-          "line_number": 37,
+          "line_number": 38,
           "is_commander": false,
           "card": {
             "id": "d4398907-17d2-4fad-bfa9-56925fb75834",
@@ -2039,7 +2090,7 @@
           "listed_name": "Lion Umbra",
           "canonical_name": "Lion Umbra",
           "quantity": 1,
-          "line_number": 38,
+          "line_number": 39,
           "is_commander": false,
           "card": {
             "id": "89d58e9b-b1d9-4174-a30d-426d2e0ace07",
@@ -2093,7 +2144,7 @@
           "listed_name": "Llanowar Elves",
           "canonical_name": "Llanowar Elves",
           "quantity": 1,
-          "line_number": 39,
+          "line_number": 40,
           "is_commander": false,
           "card": {
             "id": "6a0b230b-d391-4998-a3f7-7b158a0ec2cd",
@@ -2137,55 +2188,6 @@
             "layout": "normal",
             "security_stamp": null,
             "set_type": "core",
-            "card_faces": []
-          }
-        },
-        {
-          "listed_name": "Mana Vault",
-          "canonical_name": "Mana Vault",
-          "quantity": 1,
-          "line_number": 40,
-          "is_commander": false,
-          "card": {
-            "id": "c1a31d52-a407-4ded-bfca-cc812f11afa0",
-            "oracle_id": "736892cb-a34b-4bb9-b56c-e26e3db207a2",
-            "name": "Mana Vault",
-            "released_at": "2022-07-08",
-            "mana_cost": "{1}",
-            "cmc": 1.0,
-            "type_line": "Artifact",
-            "oracle_text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}.",
-            "color_identity": [],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "not_legal",
-              "timeless": "not_legal",
-              "gladiator": "not_legal",
-              "pioneer": "not_legal",
-              "modern": "not_legal",
-              "legacy": "banned",
-              "pauper": "not_legal",
-              "vintage": "restricted",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "banned",
-              "standardbrawl": "not_legal",
-              "brawl": "not_legal",
-              "competitivebrawl": "not_legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "banned",
-              "oldschool": "not_legal",
-              "premodern": "banned",
-              "predh": "legal",
-              "tlr": "banned"
-            },
-            "game_changer": true,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "masters",
             "card_faces": []
           }
         },
@@ -2446,10 +2448,64 @@
           }
         },
         {
+          "listed_name": "Pip-Boy 3000",
+          "canonical_name": "Pip-Boy 3000",
+          "quantity": 1,
+          "line_number": 46,
+          "is_commander": false,
+          "card": {
+            "id": "c2248694-aab0-47a8-ae8b-8d5283075e10",
+            "oracle_id": "1e2ee630-9d37-4396-ae18-697c1a3a4e62",
+            "name": "Pip-Boy 3000",
+            "released_at": "2024-03-08",
+            "mana_cost": "{1}",
+            "cmc": 1.0,
+            "type_line": "Artifact — Equipment",
+            "oracle_text": "Whenever equipped creature attacks, choose one —\n• Sort Inventory — Draw a card, then discard a card.\n• Pick a Perk — Put a +1/+1 counter on that creature.\n• Check Map — Untap up to two target lands.\nEquip {2}",
+            "color_identity": [],
+            "keywords": [
+              "Check Map",
+              "Pick a Perk",
+              "Equip",
+              "Sort Inventory"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "not_legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "triangle",
+            "set_type": "commander",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Power Fist",
           "canonical_name": "Power Fist",
           "quantity": 1,
-          "line_number": 46,
+          "line_number": 47,
           "is_commander": false,
           "card": {
             "id": "9e8f7fbc-bf2a-43c1-a88d-807c1e7dab69",
@@ -2502,7 +2558,7 @@
           "listed_name": "Ram Through",
           "canonical_name": "Ram Through",
           "quantity": 1,
-          "line_number": 47,
+          "line_number": 48,
           "is_commander": false,
           "card": {
             "id": "44063a90-e4cf-4bcd-a128-792de15371a7",
@@ -2553,7 +2609,7 @@
           "listed_name": "Return of the Wildspeaker",
           "canonical_name": "Return of the Wildspeaker",
           "quantity": 1,
-          "line_number": 48,
+          "line_number": 49,
           "is_commander": false,
           "card": {
             "id": "2fa1dac5-51ba-403e-b48b-d2c0d23a8146",
@@ -2604,7 +2660,7 @@
           "listed_name": "Rishkar's Expertise",
           "canonical_name": "Rishkar's Expertise",
           "quantity": 1,
-          "line_number": 49,
+          "line_number": 50,
           "is_commander": false,
           "card": {
             "id": "efa9d2dc-b3b8-4475-bbfc-2db457ee4ffd",
@@ -2655,7 +2711,7 @@
           "listed_name": "Sakura-Tribe Elder",
           "canonical_name": "Sakura-Tribe Elder",
           "quantity": 1,
-          "line_number": 50,
+          "line_number": 51,
           "is_commander": false,
           "card": {
             "id": "7a8b1c49-8594-426d-b585-41140235bb0e",
@@ -2706,7 +2762,7 @@
           "listed_name": "Sawtusk Demolisher",
           "canonical_name": "Sawtusk Demolisher",
           "quantity": 1,
-          "line_number": 51,
+          "line_number": 52,
           "is_commander": false,
           "card": {
             "id": "574d1a02-a403-4b6e-8ce0-a472325c9c2c",
@@ -2760,7 +2816,7 @@
           "listed_name": "Selvala, Heart of the Wilds",
           "canonical_name": "Selvala, Heart of the Wilds",
           "quantity": 1,
-          "line_number": 52,
+          "line_number": 53,
           "is_commander": false,
           "card": {
             "id": "812856be-cf51-42de-96d2-4ac91e71d442",
@@ -2811,7 +2867,7 @@
           "listed_name": "Shifting Woodland",
           "canonical_name": "Shifting Woodland",
           "quantity": 1,
-          "line_number": 53,
+          "line_number": 54,
           "is_commander": false,
           "card": {
             "id": "059164e1-894d-4586-9800-e60d6fbd6eb6",
@@ -2864,7 +2920,7 @@
           "listed_name": "Silkguard",
           "canonical_name": "Silkguard",
           "quantity": 1,
-          "line_number": 54,
+          "line_number": 55,
           "is_commander": false,
           "card": {
             "id": "2b5fbcb8-9023-4a1c-b082-db44be8d8325",
@@ -2915,7 +2971,7 @@
           "listed_name": "Sixth Sense",
           "canonical_name": "Sixth Sense",
           "quantity": 1,
-          "line_number": 55,
+          "line_number": 56,
           "is_commander": false,
           "card": {
             "id": "e564db6b-0b8b-4c67-9135-5da76d2225fe",
@@ -2968,7 +3024,7 @@
           "listed_name": "Sol Ring",
           "canonical_name": "Sol Ring",
           "quantity": 1,
-          "line_number": 56,
+          "line_number": 57,
           "is_commander": false,
           "card": {
             "id": "91fdb56b-54d5-4272-8319-505ff987fe9b",
@@ -3017,7 +3073,7 @@
           "listed_name": "Song of the Dryads",
           "canonical_name": "Song of the Dryads",
           "quantity": 1,
-          "line_number": 57,
+          "line_number": 58,
           "is_commander": false,
           "card": {
             "id": "161e66e3-0339-495c-bd06-0a799a254906",
@@ -3070,7 +3126,7 @@
           "listed_name": "Staff of Titania",
           "canonical_name": "Staff of Titania",
           "quantity": 1,
-          "line_number": 58,
+          "line_number": 59,
           "is_commander": false,
           "card": {
             "id": "a5b765f3-e59e-4af1-bac5-e50797f8629f",
@@ -3121,7 +3177,7 @@
           "listed_name": "Strip Mine",
           "canonical_name": "Strip Mine",
           "quantity": 1,
-          "line_number": 59,
+          "line_number": 60,
           "is_commander": false,
           "card": {
             "id": "f57fd4c9-0004-4f71-a30f-2720943f57ca",
@@ -3170,7 +3226,7 @@
           "listed_name": "Strong Back",
           "canonical_name": "Strong Back",
           "quantity": 1,
-          "line_number": 60,
+          "line_number": 61,
           "is_commander": false,
           "card": {
             "id": "3f65afa5-e4f7-49c2-97f9-47ad5dbcacfa",
@@ -3223,7 +3279,7 @@
           "listed_name": "Super Combo",
           "canonical_name": "Super Combo",
           "quantity": 1,
-          "line_number": 61,
+          "line_number": 62,
           "is_commander": false,
           "card": {
             "id": "52bed0d4-3bcf-4770-b9c9-2a1d0666d220",
@@ -3276,7 +3332,7 @@
           "listed_name": "Sword of Fire and Ice",
           "canonical_name": "Sword of Fire and Ice",
           "quantity": 1,
-          "line_number": 62,
+          "line_number": 63,
           "is_commander": false,
           "card": {
             "id": "2626d4c9-fcef-4057-a154-7d987a4a4b84",
@@ -3327,7 +3383,7 @@
           "listed_name": "Swordsman's Steel",
           "canonical_name": "Swordsman's Steel",
           "quantity": 1,
-          "line_number": 63,
+          "line_number": 64,
           "is_commander": false,
           "card": {
             "id": "ae4ab04b-a3bd-40ea-9a71-df221cde4496",
@@ -3378,7 +3434,7 @@
           "listed_name": "Sylvan Library",
           "canonical_name": "Sylvan Library",
           "quantity": 1,
-          "line_number": 64,
+          "line_number": 65,
           "is_commander": false,
           "card": {
             "id": "6ada256f-2e55-4c1f-b4d3-d7b10b498956",
@@ -3429,7 +3485,7 @@
           "listed_name": "Talon Gates of Madara",
           "canonical_name": "Talon Gates of Madara",
           "quantity": 1,
-          "line_number": 65,
+          "line_number": 66,
           "is_commander": false,
           "card": {
             "id": "de92facf-762b-4a23-8d5e-bb673b0500c0",
@@ -3478,7 +3534,7 @@
           "listed_name": "Tanuki Transplanter",
           "canonical_name": "Tanuki Transplanter",
           "quantity": 1,
-          "line_number": 66,
+          "line_number": 67,
           "is_commander": false,
           "card": {
             "id": "45ea5ead-9fd8-4909-96aa-d4e970891c93",
@@ -3531,7 +3587,7 @@
           "listed_name": "The Irencrag",
           "canonical_name": "The Irencrag",
           "quantity": 1,
-          "line_number": 67,
+          "line_number": 68,
           "is_commander": false,
           "card": {
             "id": "8051c5ec-54a6-45a8-8945-fb93c5feaa39",
@@ -3580,7 +3636,7 @@
           "listed_name": "The Mycosynth Gardens",
           "canonical_name": "The Mycosynth Gardens",
           "quantity": 1,
-          "line_number": 68,
+          "line_number": 69,
           "is_commander": false,
           "card": {
             "id": "0a6f0408-6758-495f-9d6c-7686a1542fbd",
@@ -3622,57 +3678,6 @@
             "layout": "normal",
             "security_stamp": "oval",
             "set_type": "commander",
-            "card_faces": []
-          }
-        },
-        {
-          "listed_name": "The One Ring",
-          "canonical_name": "The One Ring",
-          "quantity": 1,
-          "line_number": 69,
-          "is_commander": false,
-          "card": {
-            "id": "d5806e68-1054-458e-866d-1f2470f682b2",
-            "oracle_id": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
-            "name": "The One Ring",
-            "released_at": "2023-06-23",
-            "mana_cost": "{4}",
-            "cmc": 4.0,
-            "type_line": "Legendary Artifact",
-            "oracle_text": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
-            "color_identity": [],
-            "keywords": [
-              "Indestructible"
-            ],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "not_legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "not_legal",
-              "modern": "banned",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "not_legal",
-              "competitivebrawl": "not_legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "banned",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": true,
-            "layout": "normal",
-            "security_stamp": "triangle",
-            "set_type": "draft_innovation",
             "card_faces": []
           }
         },
@@ -18220,8 +18225,8 @@
       "moxfield_id": "sfMB4JriEkaOXwGSCqoZlw",
       "moxfield_url": "https://moxfield.com/decks/sfMB4JriEkaOXwGSCqoZlw",
       "file": "decks/magda-brazen-outlaw.txt",
-      "deck_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
-      "spellbook_request_sha256": "0d733c5cf8bd2124a5fe1432c1865c883f69f32c0df167f93f4a5fed22cb3eb0",
+      "deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
+      "spellbook_request_sha256": "893178698fb5dce0d9ff86677f6445597fa0ffcb96c14f18eb0366dd44509bd6",
       "valid": true,
       "analysis_ready": true,
       "errors": [],
@@ -18266,18 +18271,18 @@
         "R"
       ],
       "type_counts": {
-        "Creature": 39,
+        "Creature": 40,
         "Artifact": 19,
         "Land": 35,
-        "Sorcery": 4,
+        "Sorcery": 3,
         "Instant": 6,
         "Enchantment": 6
       },
       "overlapping_type_counts": {
-        "Creature": 39,
+        "Creature": 40,
         "Artifact": 19,
         "Land": 35,
-        "Sorcery": 4,
+        "Sorcery": 3,
         "Instant": 6,
         "Enchantment": 6
       },
@@ -18285,11 +18290,9 @@
       "mdfc_lands": 0,
       "modal_land_backs": 0,
       "effective_land_faces": 35,
-      "game_changer_count": 3,
+      "game_changer_count": 1,
       "game_changers": [
-        "Ancient Tomb",
-        "Jeska's Will",
-        "The One Ring"
+        "Ancient Tomb"
       ],
       "not_commander_legal": [],
       "legality_issues": [],
@@ -19603,10 +19606,63 @@
           }
         },
         {
+          "listed_name": "Fíli and Kíli, Joyous",
+          "canonical_name": "Fíli and Kíli, Joyous",
+          "quantity": 1,
+          "line_number": 25,
+          "is_commander": false,
+          "card": {
+            "id": "e1d12200-ae0b-4155-9853-3ffaf490c84c",
+            "oracle_id": "392f6cd3-3895-42b3-8bb9-6b0c6a689a29",
+            "name": "Fíli and Kíli, Joyous",
+            "released_at": "2026-08-14",
+            "mana_cost": "{2}{R}",
+            "cmc": 3.0,
+            "type_line": "Legendary Creature — Dwarf Bard",
+            "oracle_text": "Haste\n{T}: Add {R}{R}. Spend this mana only to cast Dwarf, Equipment, and Saga spells.",
+            "color_identity": [
+              "R"
+            ],
+            "keywords": [
+              "Haste"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "legal",
+              "timeless": "legal",
+              "gladiator": "legal",
+              "pioneer": "not_legal",
+              "modern": "not_legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "legal",
+              "competitivebrawl": "legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "oval",
+            "set_type": "eternal",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Ganax, Astral Hunter",
           "canonical_name": "Ganax, Astral Hunter",
           "quantity": 1,
-          "line_number": 25,
+          "line_number": 26,
           "is_commander": false,
           "card": {
             "id": "9f5bb319-29b2-4a7c-82e9-f8b5e47909a1",
@@ -19661,7 +19717,7 @@
           "listed_name": "Glóin the Mighty",
           "canonical_name": "Glóin the Mighty",
           "quantity": 1,
-          "line_number": 26,
+          "line_number": 27,
           "is_commander": false,
           "card": {
             "id": "5793b8eb-2fc5-454d-8fa2-20346fef167a",
@@ -19727,7 +19783,7 @@
           "listed_name": "Glóin, Dwarf Emissary",
           "canonical_name": "Glóin, Dwarf Emissary",
           "quantity": 1,
-          "line_number": 27,
+          "line_number": 28,
           "is_commander": false,
           "card": {
             "id": "868a2aa7-bcaf-409b-8802-d00ee1f2ae77",
@@ -19781,7 +19837,7 @@
           "listed_name": "Goldlust Triad",
           "canonical_name": "Goldlust Triad",
           "quantity": 1,
-          "line_number": 28,
+          "line_number": 29,
           "is_commander": false,
           "card": {
             "id": "2876d57a-a17e-4892-9992-321a32562e13",
@@ -19836,7 +19892,7 @@
           "listed_name": "Goldspan Dragon",
           "canonical_name": "Goldspan Dragon",
           "quantity": 1,
-          "line_number": 29,
+          "line_number": 30,
           "is_commander": false,
           "card": {
             "id": "848c1951-90fa-4f01-9aed-76f1afcd9995",
@@ -19891,7 +19947,7 @@
           "listed_name": "Great Furnace",
           "canonical_name": "Great Furnace",
           "quantity": 1,
-          "line_number": 30,
+          "line_number": 31,
           "is_commander": false,
           "card": {
             "id": "74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1",
@@ -19942,7 +19998,7 @@
           "listed_name": "Great Train Heist",
           "canonical_name": "Great Train Heist",
           "quantity": 1,
-          "line_number": 31,
+          "line_number": 32,
           "is_commander": false,
           "card": {
             "id": "357dd9b2-5d2d-49f6-86f0-f5c4d63474dd",
@@ -19996,7 +20052,7 @@
           "listed_name": "Hangar Scrounger",
           "canonical_name": "Hangar Scrounger",
           "quantity": 1,
-          "line_number": 32,
+          "line_number": 33,
           "is_commander": false,
           "card": {
             "id": "c2551b01-4d88-47f3-b54d-96ec03e093f8",
@@ -20049,7 +20105,7 @@
           "listed_name": "Haven of the Spirit Dragon",
           "canonical_name": "Haven of the Spirit Dragon",
           "quantity": 1,
-          "line_number": 33,
+          "line_number": 34,
           "is_commander": false,
           "card": {
             "id": "d0c552da-874e-49eb-b221-47220b8b7786",
@@ -20098,7 +20154,7 @@
           "listed_name": "Holdout Settlement",
           "canonical_name": "Holdout Settlement",
           "quantity": 1,
-          "line_number": 34,
+          "line_number": 35,
           "is_commander": false,
           "card": {
             "id": "cf08c317-6f2d-47e3-ab5b-8af73fd3e404",
@@ -20144,30 +20200,28 @@
           }
         },
         {
-          "listed_name": "Jeska's Will",
-          "canonical_name": "Jeska's Will",
+          "listed_name": "Idol of Oblivion",
+          "canonical_name": "Idol of Oblivion",
           "quantity": 1,
-          "line_number": 35,
+          "line_number": 36,
           "is_commander": false,
           "card": {
-            "id": "99e0c371-1024-4432-9fd9-3bc29c8d38e4",
-            "oracle_id": "0fd114c4-092b-4e28-b0dc-ef529f3bc73e",
-            "name": "Jeska's Will",
-            "released_at": "2024-02-09",
-            "mana_cost": "{2}{R}",
-            "cmc": 3.0,
-            "type_line": "Sorcery",
-            "oracle_text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn.",
-            "color_identity": [
-              "R"
-            ],
+            "id": "cbc25725-1485-4d98-abe1-906520f868d8",
+            "oracle_id": "c232d974-9c65-4bce-b045-e5a7cc0c62e0",
+            "name": "Idol of Oblivion",
+            "released_at": "2025-04-11",
+            "mana_cost": "{2}",
+            "cmc": 2.0,
+            "type_line": "Artifact",
+            "oracle_text": "{T}: Draw a card. Activate only if you created a token this turn.\n{8}, {T}, Sacrifice this artifact: Create a 10/10 colorless Eldrazi creature token.",
+            "color_identity": [],
             "keywords": [],
             "legalities": {
               "standard": "not_legal",
               "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
               "pioneer": "not_legal",
               "modern": "not_legal",
               "legacy": "legal",
@@ -20177,8 +20231,8 @@
               "commander": "legal",
               "oathbreaker": "legal",
               "standardbrawl": "not_legal",
-              "brawl": "legal",
-              "competitivebrawl": "legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
               "alchemy": "not_legal",
               "paupercommander": "not_legal",
               "duel": "legal",
@@ -20187,7 +20241,7 @@
               "predh": "not_legal",
               "tlr": "legal"
             },
-            "game_changer": true,
+            "game_changer": false,
             "layout": "normal",
             "security_stamp": "oval",
             "set_type": "commander",
@@ -20198,7 +20252,7 @@
           "listed_name": "Knollspine Dragon",
           "canonical_name": "Knollspine Dragon",
           "quantity": 1,
-          "line_number": 36,
+          "line_number": 37,
           "is_commander": false,
           "card": {
             "id": "bfcfec58-bfe4-4b04-80e3-ee11c44e91a7",
@@ -20251,7 +20305,7 @@
           "listed_name": "Lathliss, Dragon Queen",
           "canonical_name": "Lathliss, Dragon Queen",
           "quantity": 1,
-          "line_number": 37,
+          "line_number": 38,
           "is_commander": false,
           "card": {
             "id": "0cb48015-627b-49cd-8dc3-d446e82b8172",
@@ -20304,7 +20358,7 @@
           "listed_name": "Luxurious Locomotive",
           "canonical_name": "Luxurious Locomotive",
           "quantity": 1,
-          "line_number": 38,
+          "line_number": 39,
           "is_commander": false,
           "card": {
             "id": "cc598338-eeba-4815-a0a6-ff2dc09790d2",
@@ -20356,7 +20410,7 @@
           "listed_name": "Magda, the Hoardmaster",
           "canonical_name": "Magda, the Hoardmaster",
           "quantity": 1,
-          "line_number": 39,
+          "line_number": 40,
           "is_commander": false,
           "card": {
             "id": "4443d112-209b-49ec-bc40-3a11dcdb092e",
@@ -20409,7 +20463,7 @@
           "listed_name": "Maskwood Nexus",
           "canonical_name": "Maskwood Nexus",
           "quantity": 1,
-          "line_number": 40,
+          "line_number": 41,
           "is_commander": false,
           "card": {
             "id": "1246c42d-57c0-4cba-959a-15ad89d8a50b",
@@ -20458,7 +20512,7 @@
           "listed_name": "Mines of Moria",
           "canonical_name": "Mines of Moria",
           "quantity": 1,
-          "line_number": 41,
+          "line_number": 42,
           "is_commander": false,
           "card": {
             "id": "0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f",
@@ -20511,7 +20565,7 @@
           "listed_name": "Mithril Coat",
           "canonical_name": "Mithril Coat",
           "quantity": 1,
-          "line_number": 42,
+          "line_number": 43,
           "is_commander": false,
           "card": {
             "id": "0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec",
@@ -20564,7 +20618,7 @@
           "listed_name": "Molten Echoes",
           "canonical_name": "Molten Echoes",
           "quantity": 1,
-          "line_number": 43,
+          "line_number": 44,
           "is_commander": false,
           "card": {
             "id": "461d9f1c-53a4-48a6-bafb-0e70099f276c",
@@ -20615,7 +20669,7 @@
           "listed_name": "Mountain",
           "canonical_name": "Mountain",
           "quantity": 23,
-          "line_number": 44,
+          "line_number": 45,
           "is_commander": false,
           "card": {
             "id": "2a844b96-6616-4c39-8f4f-5d14a3b2bd55",
@@ -20666,7 +20720,7 @@
           "listed_name": "Mutavault",
           "canonical_name": "Mutavault",
           "quantity": 1,
-          "line_number": 45,
+          "line_number": 46,
           "is_commander": false,
           "card": {
             "id": "52cc2f10-142d-4e6a-984e-b25f566cc960",
@@ -20708,59 +20762,6 @@
             "layout": "normal",
             "security_stamp": "oval",
             "set_type": "draft_innovation",
-            "card_faces": []
-          }
-        },
-        {
-          "listed_name": "Óin the Brave",
-          "canonical_name": "Óin the Brave",
-          "quantity": 1,
-          "line_number": 46,
-          "is_commander": false,
-          "card": {
-            "id": "9984b9ef-e81c-48f4-aa33-0504171a2d3c",
-            "oracle_id": "a25ba5cc-6ff8-4215-b70d-7e86e15e3c1a",
-            "name": "Óin the Brave",
-            "released_at": "2026-08-14",
-            "mana_cost": "{1}{R}",
-            "cmc": 2.0,
-            "type_line": "Legendary Creature — Dwarf Warrior",
-            "oracle_text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, Óin gets +1/+0 and has haste.\n{1}, {T}, Discard a card: Draw a card.",
-            "color_identity": [
-              "R"
-            ],
-            "keywords": [
-              "Storied"
-            ],
-            "legalities": {
-              "standard": "legal",
-              "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "legal",
-              "modern": "legal",
-              "legacy": "legal",
-              "pauper": "legal",
-              "vintage": "legal",
-              "penny": "legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "legal",
-              "brawl": "legal",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": null,
-            "set_type": "expansion",
             "card_faces": []
           }
         },
@@ -21798,61 +21799,10 @@
           }
         },
         {
-          "listed_name": "The One Ring",
-          "canonical_name": "The One Ring",
-          "quantity": 1,
-          "line_number": 67,
-          "is_commander": false,
-          "card": {
-            "id": "d5806e68-1054-458e-866d-1f2470f682b2",
-            "oracle_id": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
-            "name": "The One Ring",
-            "released_at": "2023-06-23",
-            "mana_cost": "{4}",
-            "cmc": 4.0,
-            "type_line": "Legendary Artifact",
-            "oracle_text": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
-            "color_identity": [],
-            "keywords": [
-              "Indestructible"
-            ],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "not_legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "not_legal",
-              "modern": "banned",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "not_legal",
-              "competitivebrawl": "not_legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "banned",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": true,
-            "layout": "normal",
-            "security_stamp": "triangle",
-            "set_type": "draft_innovation",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "The Reaver Cleaver",
           "canonical_name": "The Reaver Cleaver",
           "quantity": 1,
-          "line_number": 68,
+          "line_number": 67,
           "is_commander": false,
           "card": {
             "id": "5bcd1591-b5b9-49fc-9f2a-45f31ed1871e",
@@ -21906,7 +21856,7 @@
           "listed_name": "There and Back Again",
           "canonical_name": "There and Back Again",
           "quantity": 1,
-          "line_number": 69,
+          "line_number": 68,
           "is_commander": false,
           "card": {
             "id": "939b0bd0-24ea-45de-a2d3-37bbf6a3e6f9",
@@ -21960,7 +21910,7 @@
           "listed_name": "Thundermane Dragon",
           "canonical_name": "Thundermane Dragon",
           "quantity": 1,
-          "line_number": 70,
+          "line_number": 69,
           "is_commander": false,
           "card": {
             "id": "7ca93b31-d6ec-4265-b2ff-d46090086f07",
@@ -22013,7 +21963,7 @@
           "listed_name": "Treasure Vault",
           "canonical_name": "Treasure Vault",
           "quantity": 1,
-          "line_number": 71,
+          "line_number": 70,
           "is_commander": false,
           "card": {
             "id": "a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4",
@@ -22064,7 +22014,7 @@
           "listed_name": "Twinflame Tyrant",
           "canonical_name": "Twinflame Tyrant",
           "quantity": 1,
-          "line_number": 72,
+          "line_number": 71,
           "is_commander": false,
           "card": {
             "id": "1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb",
@@ -22118,7 +22068,7 @@
           "listed_name": "Universal Automaton",
           "canonical_name": "Universal Automaton",
           "quantity": 1,
-          "line_number": 73,
+          "line_number": 72,
           "is_commander": false,
           "card": {
             "id": "53c682e2-c90f-4f4b-9010-00b099e85518",
@@ -22169,7 +22119,7 @@
           "listed_name": "Untimely Malfunction",
           "canonical_name": "Untimely Malfunction",
           "quantity": 1,
-          "line_number": 74,
+          "line_number": 73,
           "is_commander": false,
           "card": {
             "id": "857bfb0e-17dc-4dda-bc37-3df927a9eae6",
@@ -22220,7 +22170,7 @@
           "listed_name": "Utvara Hellkite",
           "canonical_name": "Utvara Hellkite",
           "quantity": 1,
-          "line_number": 75,
+          "line_number": 74,
           "is_commander": false,
           "card": {
             "id": "df459109-d6ab-4b1d-9570-c7677ff4a014",
@@ -22273,7 +22223,7 @@
           "listed_name": "Wild Magic Surge",
           "canonical_name": "Wild Magic Surge",
           "quantity": 1,
-          "line_number": 76,
+          "line_number": 75,
           "is_commander": false,
           "card": {
             "id": "c4c89d88-9d40-46b6-bee0-6bc2e2ca8ba1",
@@ -22324,7 +22274,7 @@
           "listed_name": "Xorn",
           "canonical_name": "Xorn",
           "quantity": 1,
-          "line_number": 77,
+          "line_number": 76,
           "is_commander": false,
           "card": {
             "id": "f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e",
@@ -22369,6 +22319,59 @@
             "game_changer": false,
             "layout": "normal",
             "security_stamp": "oval",
+            "set_type": "expansion",
+            "card_faces": []
+          }
+        },
+        {
+          "listed_name": "Óin the Brave",
+          "canonical_name": "Óin the Brave",
+          "quantity": 1,
+          "line_number": 77,
+          "is_commander": false,
+          "card": {
+            "id": "9984b9ef-e81c-48f4-aa33-0504171a2d3c",
+            "oracle_id": "a25ba5cc-6ff8-4215-b70d-7e86e15e3c1a",
+            "name": "Óin the Brave",
+            "released_at": "2026-08-14",
+            "mana_cost": "{1}{R}",
+            "cmc": 2.0,
+            "type_line": "Legendary Creature — Dwarf Warrior",
+            "oracle_text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, Óin gets +1/+0 and has haste.\n{1}, {T}, Discard a card: Draw a card.",
+            "color_identity": [
+              "R"
+            ],
+            "keywords": [
+              "Storied"
+            ],
+            "legalities": {
+              "standard": "legal",
+              "future": "not_legal",
+              "historic": "legal",
+              "timeless": "legal",
+              "gladiator": "legal",
+              "pioneer": "legal",
+              "modern": "legal",
+              "legacy": "legal",
+              "pauper": "legal",
+              "vintage": "legal",
+              "penny": "legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "legal",
+              "brawl": "legal",
+              "competitivebrawl": "legal",
+              "alchemy": "not_legal",
+              "paupercommander": "legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": null,
             "set_type": "expansion",
             "card_faces": []
           }
@@ -25286,8 +25289,8 @@
       "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
       "moxfield_url": "https://moxfield.com/decks/yRogqEE7oE29tp9aASt9IQ",
       "file": "decks/minn-wily-illusionist.txt",
-      "deck_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
-      "spellbook_request_sha256": "45617889160cc5efce1c8d887bc416e898603617abf50a5c60b5a33d09c62b98",
+      "deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
+      "spellbook_request_sha256": "e85990b313bc550779c2642140dc5179cf03d07fba615a035dc5abb7c98afde9",
       "valid": true,
       "analysis_ready": true,
       "errors": [],
@@ -25344,32 +25347,30 @@
         "U"
       ],
       "type_counts": {
-        "Instant": 11,
+        "Instant": 10,
         "Land": 37,
-        "Artifact": 16,
-        "Creature": 33,
+        "Artifact": 17,
+        "Creature": 34,
         "Sorcery": 2,
         "Enchantment": 8,
-        "Planeswalker": 3
+        "Planeswalker": 2
       },
       "overlapping_type_counts": {
-        "Instant": 11,
+        "Instant": 10,
         "Land": 37,
-        "Artifact": 16,
-        "Creature": 33,
+        "Artifact": 17,
+        "Creature": 34,
         "Sorcery": 2,
         "Enchantment": 8,
-        "Planeswalker": 3
+        "Planeswalker": 2
       },
       "printed_lands": 35,
       "mdfc_lands": 2,
       "modal_land_backs": 2,
       "effective_land_faces": 37,
-      "game_changer_count": 3,
+      "game_changer_count": 1,
       "game_changers": [
-        "Consecrated Sphinx",
-        "Fierce Guardianship",
-        "Force of Will"
+        "Consecrated Sphinx"
       ],
       "not_commander_legal": [
         "The Theorist, Jace Beleren"
@@ -25992,61 +25993,10 @@
           }
         },
         {
-          "listed_name": "Fierce Guardianship",
-          "canonical_name": "Fierce Guardianship",
-          "quantity": 1,
-          "line_number": 12,
-          "is_commander": false,
-          "card": {
-            "id": "f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc",
-            "oracle_id": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
-            "name": "Fierce Guardianship",
-            "released_at": "2023-08-04",
-            "mana_cost": "{2}{U}",
-            "cmc": 3.0,
-            "type_line": "Instant",
-            "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
-            "color_identity": [
-              "U"
-            ],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "not_legal",
-              "modern": "not_legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "banned",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "banned",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "banned"
-            },
-            "game_changer": true,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "masters",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Flare of Denial",
           "canonical_name": "Flare of Denial",
           "quantity": 1,
-          "line_number": 13,
+          "line_number": 12,
           "is_commander": false,
           "card": {
             "id": "71a98efb-9b0a-496b-ac21-8d70527ea544",
@@ -26097,7 +26047,7 @@
           "listed_name": "Flooded Strand",
           "canonical_name": "Flooded Strand",
           "quantity": 1,
-          "line_number": 14,
+          "line_number": 13,
           "is_commander": false,
           "card": {
             "id": "8f85e12c-196b-4459-b81f-0c9c854e9f57",
@@ -26146,7 +26096,7 @@
           "listed_name": "Force of Negation",
           "canonical_name": "Force of Negation",
           "quantity": 1,
-          "line_number": 15,
+          "line_number": 14,
           "is_commander": false,
           "card": {
             "id": "1825a719-1b2a-4af9-9cd2-7cb497cd0317",
@@ -26194,61 +26144,10 @@
           }
         },
         {
-          "listed_name": "Force of Will",
-          "canonical_name": "Force of Will",
-          "quantity": 1,
-          "line_number": 16,
-          "is_commander": false,
-          "card": {
-            "id": "89f612d6-7c59-4a7b-a87d-45f789e88ba5",
-            "oracle_id": "956381ba-6d37-4a8a-846c-bad79222dbee",
-            "name": "Force of Will",
-            "released_at": "2023-01-13",
-            "mana_cost": "{3}{U}{U}",
-            "cmc": 5.0,
-            "type_line": "Instant",
-            "oracle_text": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.",
-            "color_identity": [
-              "U"
-            ],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "banned",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "not_legal",
-              "modern": "not_legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "banned",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "banned",
-              "oldschool": "not_legal",
-              "premodern": "banned",
-              "predh": "legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": true,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "masters",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Fountainport",
           "canonical_name": "Fountainport",
           "quantity": 1,
-          "line_number": 17,
+          "line_number": 15,
           "is_commander": false,
           "card": {
             "id": "658cfcb7-81b7-48c6-9dd2-1663d06108cf",
@@ -26299,7 +26198,7 @@
           "listed_name": "Fresh Start",
           "canonical_name": "Fresh Start",
           "quantity": 1,
-          "line_number": 18,
+          "line_number": 16,
           "is_commander": false,
           "card": {
             "id": "96f7af08-ac05-45d0-979f-282943130c61",
@@ -26353,7 +26252,7 @@
           "listed_name": "Ghostly Pilferer",
           "canonical_name": "Ghostly Pilferer",
           "quantity": 1,
-          "line_number": 19,
+          "line_number": 17,
           "is_commander": false,
           "card": {
             "id": "2f6a3605-950d-488b-8e4f-e2c339ef48dc",
@@ -26404,7 +26303,7 @@
           "listed_name": "Glasspool Mimic",
           "canonical_name": "Glasspool Mimic",
           "quantity": 1,
-          "line_number": 20,
+          "line_number": 18,
           "is_commander": false,
           "card": {
             "id": "5adcb500-8c77-4925-8e2c-1243502827d1",
@@ -26472,7 +26371,7 @@
           "listed_name": "Harmonized Trio",
           "canonical_name": "Harmonized Trio",
           "quantity": 1,
-          "line_number": 21,
+          "line_number": 19,
           "is_commander": false,
           "card": {
             "id": "617208ff-dd9b-44fd-a740-d3188081e5cc",
@@ -26540,7 +26439,7 @@
           "listed_name": "High Market",
           "canonical_name": "High Market",
           "quantity": 1,
-          "line_number": 22,
+          "line_number": 20,
           "is_commander": false,
           "card": {
             "id": "894aa6b6-0d08-4c43-8734-9cb7b31359c6",
@@ -26589,7 +26488,7 @@
           "listed_name": "Horizon of Progress",
           "canonical_name": "Horizon of Progress",
           "quantity": 1,
-          "line_number": 23,
+          "line_number": 21,
           "is_commander": false,
           "card": {
             "id": "5ae3a9c8-194e-421b-b77d-9c8784442651",
@@ -26638,7 +26537,7 @@
           "listed_name": "Hydroelectric Specimen",
           "canonical_name": "Hydroelectric Specimen",
           "quantity": 1,
-          "line_number": 24,
+          "line_number": 22,
           "is_commander": false,
           "card": {
             "id": "8689ecd7-e9a6-458b-99d2-6dbaca527f00",
@@ -26708,7 +26607,7 @@
           "listed_name": "Island",
           "canonical_name": "Island",
           "quantity": 19,
-          "line_number": 25,
+          "line_number": 23,
           "is_commander": false,
           "card": {
             "id": "f3cc07cd-cc79-4745-b0b7-eade60175cc3",
@@ -26759,7 +26658,7 @@
           "listed_name": "Jace, Vryn's Prodigy",
           "canonical_name": "Jace, Vryn's Prodigy",
           "quantity": 1,
-          "line_number": 26,
+          "line_number": 24,
           "is_commander": false,
           "card": {
             "id": "02d6d693-f1f3-4317-bcc0-c21fa8490d38",
@@ -26832,7 +26731,7 @@
           "listed_name": "Kindred Discovery",
           "canonical_name": "Kindred Discovery",
           "quantity": 1,
-          "line_number": 27,
+          "line_number": 25,
           "is_commander": false,
           "card": {
             "id": "19bdedb2-768b-4adf-8193-917a10c8f729",
@@ -26883,7 +26782,7 @@
           "listed_name": "Kitsa, Otterball Elite",
           "canonical_name": "Kitsa, Otterball Elite",
           "quantity": 1,
-          "line_number": 28,
+          "line_number": 26,
           "is_commander": false,
           "card": {
             "id": "c8ff751a-ec64-41d5-b22c-2a483ad9a9b2",
@@ -26937,7 +26836,7 @@
           "listed_name": "Krang, the All-Powerful",
           "canonical_name": "Krang, the All-Powerful",
           "quantity": 1,
-          "line_number": 29,
+          "line_number": 27,
           "is_commander": false,
           "card": {
             "id": "08a0ca58-e29e-477e-9377-f8b00e4b28a0",
@@ -26988,7 +26887,7 @@
           "listed_name": "Ledger Shredder",
           "canonical_name": "Ledger Shredder",
           "quantity": 1,
-          "line_number": 30,
+          "line_number": 28,
           "is_commander": false,
           "card": {
             "id": "7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d",
@@ -27042,7 +26941,7 @@
           "listed_name": "Leyline of Transformation",
           "canonical_name": "Leyline of Transformation",
           "quantity": 1,
-          "line_number": 31,
+          "line_number": 29,
           "is_commander": false,
           "card": {
             "id": "4bd941ca-f3d2-44c1-8df3-851362f6b848",
@@ -27093,7 +26992,7 @@
           "listed_name": "Malcolm, Alluring Scoundrel",
           "canonical_name": "Malcolm, Alluring Scoundrel",
           "quantity": 1,
-          "line_number": 32,
+          "line_number": 30,
           "is_commander": false,
           "card": {
             "id": "19d6834d-afa3-4747-a62d-0654f4d9729f",
@@ -27144,10 +27043,61 @@
           }
         },
         {
+          "listed_name": "Mask of Memory",
+          "canonical_name": "Mask of Memory",
+          "quantity": 1,
+          "line_number": 31,
+          "is_commander": false,
+          "card": {
+            "id": "ba275c02-8581-46a0-9c7c-8baa0fdb4982",
+            "oracle_id": "d6b2c998-a226-426c-a40d-6e6007041bfe",
+            "name": "Mask of Memory",
+            "released_at": "2020-11-20",
+            "mana_cost": "{2}",
+            "cmc": 2.0,
+            "type_line": "Artifact — Equipment",
+            "oracle_text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+            "color_identity": [],
+            "keywords": [
+              "Equip"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": null,
+            "set_type": "draft_innovation",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Maskwood Nexus",
           "canonical_name": "Maskwood Nexus",
           "quantity": 1,
-          "line_number": 33,
+          "line_number": 32,
           "is_commander": false,
           "card": {
             "id": "1246c42d-57c0-4cba-959a-15ad89d8a50b",
@@ -27196,7 +27146,7 @@
           "listed_name": "Minamo, School at Water's Edge",
           "canonical_name": "Minamo, School at Water's Edge",
           "quantity": 1,
-          "line_number": 34,
+          "line_number": 33,
           "is_commander": false,
           "card": {
             "id": "7536292c-da25-41c8-ba28-1e35758a7f3d",
@@ -27247,7 +27197,7 @@
           "listed_name": "Mind Stone",
           "canonical_name": "Mind Stone",
           "quantity": 1,
-          "line_number": 35,
+          "line_number": 34,
           "is_commander": false,
           "card": {
             "id": "b30a8f92-ce42-4b27-a893-bcf97fde228d",
@@ -27296,7 +27246,7 @@
           "listed_name": "Misty Rainforest",
           "canonical_name": "Misty Rainforest",
           "quantity": 1,
-          "line_number": 36,
+          "line_number": 35,
           "is_commander": false,
           "card": {
             "id": "88231c0d-0cc8-44ec-bf95-81d1710ac141",
@@ -27345,7 +27295,7 @@
           "listed_name": "Molecule Man",
           "canonical_name": "Molecule Man",
           "quantity": 1,
-          "line_number": 37,
+          "line_number": 36,
           "is_commander": false,
           "card": {
             "id": "ee64d0dd-e3d8-4abc-b9d6-b19c505fbfa1",
@@ -27394,7 +27344,7 @@
           "listed_name": "Mutavault",
           "canonical_name": "Mutavault",
           "quantity": 1,
-          "line_number": 38,
+          "line_number": 37,
           "is_commander": false,
           "card": {
             "id": "52cc2f10-142d-4e6a-984e-b25f566cc960",
@@ -27443,7 +27393,7 @@
           "listed_name": "Mystic Sanctuary",
           "canonical_name": "Mystic Sanctuary",
           "quantity": 1,
-          "line_number": 39,
+          "line_number": 38,
           "is_commander": false,
           "card": {
             "id": "4cd86997-d7b9-4b5b-9488-11f5c679e4d3",
@@ -27494,7 +27444,7 @@
           "listed_name": "Nezahal, Primal Tide",
           "canonical_name": "Nezahal, Primal Tide",
           "quantity": 1,
-          "line_number": 40,
+          "line_number": 39,
           "is_commander": false,
           "card": {
             "id": "a959b40d-dd8c-49d8-8003-744d0c877b04",
@@ -27545,7 +27495,7 @@
           "listed_name": "Omni-Changeling",
           "canonical_name": "Omni-Changeling",
           "quantity": 1,
-          "line_number": 41,
+          "line_number": 40,
           "is_commander": false,
           "card": {
             "id": "f29ce8f9-42a3-43fa-8197-666cc26e2c76",
@@ -27592,6 +27542,59 @@
             "layout": "normal",
             "security_stamp": null,
             "set_type": "expansion",
+            "card_faces": []
+          }
+        },
+        {
+          "listed_name": "Oneirophage",
+          "canonical_name": "Oneirophage",
+          "quantity": 1,
+          "line_number": 41,
+          "is_commander": false,
+          "card": {
+            "id": "61921b05-ee83-4768-a405-4d3355c0ad6e",
+            "oracle_id": "48c97aeb-6591-4175-a24b-d3488bf3ab0b",
+            "name": "Oneirophage",
+            "released_at": "2020-07-17",
+            "mana_cost": "{3}{U}",
+            "cmc": 4.0,
+            "type_line": "Creature — Squid Illusion",
+            "oracle_text": "Flying\nWhenever you draw a card, put a +1/+1 counter on this creature.",
+            "color_identity": [
+              "U"
+            ],
+            "keywords": [
+              "Flying"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "legal",
+              "timeless": "legal",
+              "gladiator": "legal",
+              "pioneer": "not_legal",
+              "modern": "legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "legal",
+              "competitivebrawl": "legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "not_legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": null,
+            "set_type": "draft_innovation",
             "card_faces": []
           }
         },
@@ -28155,10 +28158,61 @@
           }
         },
         {
+          "listed_name": "Read the Runes",
+          "canonical_name": "Read the Runes",
+          "quantity": 1,
+          "line_number": 53,
+          "is_commander": false,
+          "card": {
+            "id": "2c65088f-bbbd-4e8d-b482-58181069bef2",
+            "oracle_id": "74316be1-041f-4a2e-a296-0b496f90ca25",
+            "name": "Read the Runes",
+            "released_at": "2020-07-17",
+            "mana_cost": "{X}{U}",
+            "cmc": 1.0,
+            "type_line": "Instant",
+            "oracle_text": "Draw X cards. For each card drawn this way, discard a card unless you sacrifice a permanent.",
+            "color_identity": [
+              "U"
+            ],
+            "keywords": [],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "not_legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "legal",
+              "predh": "legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "oval",
+            "set_type": "draft_innovation",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Reliquary Tower",
           "canonical_name": "Reliquary Tower",
           "quantity": 1,
-          "line_number": 53,
+          "line_number": 54,
           "is_commander": false,
           "card": {
             "id": "e2a27742-08c1-4153-af7f-25a7a98f585e",
@@ -28207,7 +28261,7 @@
           "listed_name": "Resculpt",
           "canonical_name": "Resculpt",
           "quantity": 1,
-          "line_number": 54,
+          "line_number": 55,
           "is_commander": false,
           "card": {
             "id": "5443f46d-03f9-468e-a78d-a059529b1151",
@@ -28258,7 +28312,7 @@
           "listed_name": "Roaming Throne",
           "canonical_name": "Roaming Throne",
           "quantity": 1,
-          "line_number": 55,
+          "line_number": 56,
           "is_commander": false,
           "card": {
             "id": "32fd8b7c-baf3-4d3d-be6f-044a917b11a0",
@@ -28309,7 +28363,7 @@
           "listed_name": "Sakashima of a Thousand Faces",
           "canonical_name": "Sakashima of a Thousand Faces",
           "quantity": 1,
-          "line_number": 56,
+          "line_number": 57,
           "is_commander": false,
           "card": {
             "id": "714c3a1f-7b30-4ed8-8f38-6176758741fb",
@@ -28362,7 +28416,7 @@
           "listed_name": "Sakashima the Impostor",
           "canonical_name": "Sakashima the Impostor",
           "quantity": 1,
-          "line_number": 57,
+          "line_number": 58,
           "is_commander": false,
           "card": {
             "id": "61dc2f54-3637-4caa-9741-36ff14dc5527",
@@ -28413,7 +28467,7 @@
           "listed_name": "Sapphire Medallion",
           "canonical_name": "Sapphire Medallion",
           "quantity": 1,
-          "line_number": 58,
+          "line_number": 59,
           "is_commander": false,
           "card": {
             "id": "a77850b2-6478-449e-bdb9-5b92650e3504",
@@ -28462,7 +28516,7 @@
           "listed_name": "Scalding Tarn",
           "canonical_name": "Scalding Tarn",
           "quantity": 1,
-          "line_number": 59,
+          "line_number": 60,
           "is_commander": false,
           "card": {
             "id": "71e491c5-8c07-449b-b2f1-ffa052e6d311",
@@ -28511,7 +28565,7 @@
           "listed_name": "Sensei's Divining Top",
           "canonical_name": "Sensei's Divining Top",
           "quantity": 1,
-          "line_number": 60,
+          "line_number": 61,
           "is_commander": false,
           "card": {
             "id": "e5142b7a-e580-4737-a4aa-2590f6610ceb",
@@ -28560,7 +28614,7 @@
           "listed_name": "Skullclamp",
           "canonical_name": "Skullclamp",
           "quantity": 1,
-          "line_number": 61,
+          "line_number": 62,
           "is_commander": false,
           "card": {
             "id": "1d8b007b-3169-4ee3-80c7-781fc096fc7a",
@@ -28611,7 +28665,7 @@
           "listed_name": "Sol Ring",
           "canonical_name": "Sol Ring",
           "quantity": 1,
-          "line_number": 62,
+          "line_number": 63,
           "is_commander": false,
           "card": {
             "id": "91fdb56b-54d5-4272-8319-505ff987fe9b",
@@ -28660,7 +28714,7 @@
           "listed_name": "Spark Double",
           "canonical_name": "Spark Double",
           "quantity": 1,
-          "line_number": 63,
+          "line_number": 64,
           "is_commander": false,
           "card": {
             "id": "c41b9ba2-0006-4d8e-b600-efe81ff5e0cc",
@@ -28711,7 +28765,7 @@
           "listed_name": "Subtlety",
           "canonical_name": "Subtlety",
           "quantity": 1,
-          "line_number": 64,
+          "line_number": 65,
           "is_commander": false,
           "card": {
             "id": "701256d5-1389-48b7-9581-d6037209bd06",
@@ -28766,7 +28820,7 @@
           "listed_name": "Swan Song",
           "canonical_name": "Swan Song",
           "quantity": 1,
-          "line_number": 65,
+          "line_number": 66,
           "is_commander": false,
           "card": {
             "id": "83d0b761-d694-4232-9f40-5bd8c82a05f1",
@@ -28810,57 +28864,6 @@
             "layout": "normal",
             "security_stamp": "oval",
             "set_type": "commander",
-            "card_faces": []
-          }
-        },
-        {
-          "listed_name": "Teferi, Master of Time",
-          "canonical_name": "Teferi, Master of Time",
-          "quantity": 1,
-          "line_number": 66,
-          "is_commander": false,
-          "card": {
-            "id": "9c0c61e3-9f3d-4e7f-9046-0ea336dd8a2d",
-            "oracle_id": "e802fb53-7cf5-46bc-8a0b-f99cf5c20f74",
-            "name": "Teferi, Master of Time",
-            "released_at": "2020-07-03",
-            "mana_cost": "{2}{U}{U}",
-            "cmc": 4.0,
-            "type_line": "Legendary Planeswalker — Teferi",
-            "oracle_text": "You may activate loyalty abilities of Teferi on any player's turn any time you could cast an instant.\n+1: Draw a card, then discard a card.\n−3: Target creature you don't control phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)\n−10: Take two extra turns after this one.",
-            "color_identity": [
-              "U"
-            ],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "legal",
-              "modern": "legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "legal",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "core",
             "card_faces": []
           }
         },

@@ -1,10 +1,12 @@
 # dunamismax Commander lineup: Bracket 3 and social-power audit
 
-> Historical 2026-08-29 snapshot. Verify current deck hashes and source
-> freshness with `just check-current` before reusing any conclusion.
+> Reviewed 2026-08-29 snapshot. Verify deck hashes and source freshness with
+> `just check-current` before reusing any conclusion.
 
 Audit date: 2026-08-29  
-Source: [live public Moxfield profile](https://moxfield.com/users/dunamismax) and the nine exact exports in [`decks/`](decks/README.md)
+Source: the nine exact local lists in [`decks/`](decks/README.md), including
+user-confirmed Blor, Magda, and Minn changes dated 2026-08-29; public Moxfield
+links are tracked as source references, not treated as silently synchronized.
 
 ## Bottom line
 
@@ -21,9 +23,12 @@ specific play patterns, not a generalized staple problem:
   producing a board-clearing, potentially near-infinite damage chain. The
   slower three-card versions with `Akroma's Will` or `Flawless Maneuver` are
   less concerning.
-- **Minn, Magda, and Blor are powerful but defensible upper-Bracket-3 decks.**
-  Minn's free-counter density, Magda's command-zone tutor, and Blor's almost
-  unanswerable Voltron body are the things to disclose—not hidden early wins.
+- **Minn, Magda, and Blor are powerful but more comfortably defensible
+  Bracket 3 decks after the latest changes.** Each now has only one Game
+  Changer. Minn exchanged two free counters and Teferi's extra-turn ceiling for
+  on-theme draw/Illusion cards; Magda exchanged generic burst/value cards for
+  Dwarf and token synergies; Blor exchanged generic fast mana/value for
+  Equipment utility and permanent-type recovery.
 - **Queen Marchesa has a concealed loop worth disclosing:** `Orcish Bowmasters`
   plus `Flumph` loops draws and Bowmasters triggers if Flumph is made
   indestructible and the first damage/draw trigger occurs. The surrounding
@@ -48,18 +53,19 @@ less commander-specific identity.
 |---:|---|---|---:|---:|---:|---:|---:|
 | 1 | Kang Prime | Borderline B4; opt-in B3 | 5 | 5 | 4 | 5 | 4 |
 | 2 | Pantlaza | Upper B3; combo disclosure | 4 | 5 | 2 | 4 | 4 |
-| 3 | Minn | Upper B3 | 4 | 4 | 3 | 4 | 4 |
-| 4 | Magda | Upper B3 | 4 | 4 | 2 | 3 | 3 |
-| 5 | Blor | Upper B3 | 4 | 4 | 4 | 4 | 3 |
-| 6 | Queen Marchesa | Upper B3; loop disclosure | 4 | 3 | 3 | 3 | 5 |
+| 3 | Queen Marchesa | Upper B3; loop disclosure | 4 | 3 | 3 | 3 | 5 |
+| 4 | Magda | Upper B3 | 4 | 4 | 1 | 3 | 4 |
+| 5 | Minn | Upper B3 | 4 | 3 | 2 | 3 | 5 |
+| 6 | Blor | Upper B3 | 4 | 3 | 3 | 4 | 4 |
 | 7 | Henzie | Mid B3 | 3 | 3 | 3 | 3 | 5 |
 | 8 | Ekthi | Mid-to-upper B3 | 4 | 2 | 2 | 2 | 4 |
 | 9 | Marrow-Gnawer | Low-to-mid B3 | 3 | 2 | 2 | 2 | 3 |
 
-The ordering between Minn, Magda, and Blor will vary by pod. Experienced
-players may fear Magda most at commander reveal, while the actual Minn list is
-more likely to create an “I cannot resolve anything” experience and Blor is
-harder to answer with normal removal.
+The ordering between Magda, Minn, and Blor will vary by pod. Experienced
+players may fear Magda most at commander reveal, while Minn still has a deep
+permission suite and Blor remains harder to answer with normal removal. Queen
+Marchesa ranks above them here because its conditional unbounded loop is a
+more important blind-pod disclosure than any line introduced by the new cards.
 
 ## Structural and policy audit
 
@@ -72,13 +78,13 @@ still reduce replayability and make a risky line recur too often.
 
 | Deck | Printed lands | Spell/land MDFCs | Game Changers | Current legality note |
 |---|---:|---:|---|---|
-| Blor | 36 | 0 | `Ancient Tomb`, `Mana Vault`, `The One Ring` | Commander releases 2026-11-09; Rule Zero today |
+| Blor | 36 | 0 | `Ancient Tomb` | Commander releases 2026-11-09; Rule Zero today |
 | Ekthi | 34 | 0 | `Ancient Tomb`, `Enlightened Tutor`, `Teferi's Protection` | Commander releases 2026-11-09; Rule Zero today |
 | Henzie | 35 | 3 | None | Legal |
 | Kang | 35 | 1 | `Ancient Tomb`, `Bolas's Citadel`, `Fierce Guardianship` | Legal |
-| Magda | 35 | 0 | `Ancient Tomb`, `Jeska's Will`, `The One Ring` | Legal |
+| Magda | 35 | 0 | `Ancient Tomb` | Legal |
 | Marrow | 35 | 0 | None | Legal |
-| Minn | 35 | 2 | `Consecrated Sphinx`, `Fierce Guardianship`, `Force of Will` | `The Theorist, Jace Beleren` releases 2026-10-02; Rule Zero today |
+| Minn | 35 | 2 | `Consecrated Sphinx` | `The Theorist, Jace Beleren` releases 2026-10-02; Rule Zero today |
 | Pantlaza | 35 | 3 | `Ancient Tomb`, `Worldly Tutor` | `Maular, the Next Evolution` releases 2026-11-09; Rule Zero today |
 | Queen Marchesa | 36 | 2 | `Orcish Bowmasters`, `Smothering Tithe`, `Teferi's Protection` | Legal |
 
@@ -88,7 +94,7 @@ commander release; the other two affected lists need one Rule Zero card each.
 
 ## Individual reviews
 
-### 1. Kang Prime — the real mismatch risk
+### Kang Prime — the real mismatch risk
 
 Kang is not generic Dimir good stuff wearing a commander name, but it has enough
 premium generic infrastructure and enough punishing payloads that the
@@ -114,7 +120,7 @@ Kang suspend hits; the issue is density, not lack of synergy.
 Verdict: **borderline Bracket 4 in practice**. It is the only list where “three
 Game Changers” materially understates the table experience.
 
-### 2. Pantlaza — strongly themed, one Ruthless line
+### Pantlaza — strongly themed, one Ruthless line
 
 This is a real Dinosaur deck, not Naya staples with a Dinosaur commander. The
 good-stuff drift is low. `Etali, Primal Conqueror`, `Ghalta, Stampede Tyrant`,
@@ -134,28 +140,31 @@ three-card Dinosaur interaction.
 Verdict: **upper Bracket 3 with a mandatory combo disclosure**. Without the
 `Savage Order`/`Wrathful Raptors` line, it would be a very clean high-power B3.
 
-### 3. Minn — no current infinite, but a very sharp permission deck
+### Minn — no current infinite, and now less oppressive
 
-The current list has no complete combo documented by Commander Spellbook.
-Removing `Meloku the Clouded Mirror` successfully broke the compact Minn lines
-with `Ashnod's Altar`, `Phyrexian Altar`, and `Blasting Station`. Those outlets
-remain fair Minn infrastructure, although experienced opponents will recognize
-them as combo-coded cards and may ask.
+The prior exact-list Spellbook scan documented no complete combo after `Meloku
+the Clouded Mirror` left. A current card-delta review found no `Read the Runes`
+or `Mask of Memory` variants. Spellbook has `Oneirophage` lines, but every one
+requires cards absent from this 100; the mono-blue line requires both `O'aka,
+Traveling Merchant` and `Mind Over Matter`, and the lines that also use the
+present `Sensei's Divining Top` require off-color `Falco Spara, Pactweaver`.
 
-The social pressure is the counter package: `Fierce Guardianship`, `Force of
-Will`, `Force of Negation`, `Flare of Denial`, `Pact of Negation`, `Subtlety`,
-`Swan Song`, `Arcane Denial`, and `Abjure`. Add `Consecrated Sphinx`,
-`Treachery`, and the unreleased `The Theorist, Jace Beleren`, and opponents can
-reasonably feel that Minn sees more cards and has more free answers than the
-rest of an ordinary B3 pod.
+`Read the Runes` is strong Minn infrastructure because it can draw at instant
+speed and convert Illusions into sacrificed permanents. `Mask of Memory`
+reliably supplies the second draw through evasive bodies, while `Oneirophage`
+is an on-theme, visible combat payoff. None is a compact deterministic win here.
 
-`Teferi, Master of Time` also takes two chained extra turns at ultimate. It is
-slow and visible, but still belongs in the pregame description.
+The permission suite is still meaningful—`Force of Negation`, `Flare of
+Denial`, `Pact of Negation`, `Subtlety`, `Swan Song`, `Arcane Denial`, and
+`Abjure` remain—but removing `Fierce Guardianship` and `Force of Will` lowers
+both free-answer density and Game Changer count. Removing `Teferi, Master of
+Time` also eliminates the finite two-extra-turn ultimate from the pregame
+conversation.
 
-Verdict: **defensible upper Bracket 3**, with high opponent-agency pressure but
-no current deterministic win package.
+Verdict: **defensible upper Bracket 3**, now with materially lower
+opponent-agency pressure and no current deterministic win package.
 
-### 4. Magda — scary commander reputation, fair current finishers
+### Magda — scary commander reputation, fair current finishers
 
 Magda is a repeatable artifact/Dragon tutor in the command zone, so experienced
 players will assume a combo build until told otherwise. The current list does
@@ -164,23 +173,34 @@ complete infinite line.
 
 It can still snowball hard. `Dwarven Bloodboiler` taps Dwarves on demand;
 `Roaming Throne` doubles Magda triggers; `Xorn` and `Academy Manufactor`
-multiply the token economy; and five Treasures can put `The One Ring`,
-`Maskwood Nexus`, or the best Dragon directly onto the battlefield. `Ancient
-Copper Dragon`, `Terror of the Peaks`, `Scourge of Valkas`, and `Utvara
-Hellkite` convert that advantage quickly but through finite, visible combat.
+multiply the token economy; and five Treasures can put `Maskwood Nexus` or the
+best Dragon directly onto the battlefield. `Ancient Copper Dragon`, `Terror of
+the Peaks`, `Scourge of Valkas`, and `Utvara Hellkite` convert that advantage
+quickly but through finite, visible combat.
 
-Only the three Game Changers are conspicuously generic. The rest of the deck is
-excellent Dwarf/Dragon/Treasure construction.
+`Fíli and Kíli, Joyous` is a hasty Dwarf that makes restricted mana for the
+deck's Dwarves, Equipment, and Sagas. `Idol of Oblivion` turns routine Treasure
+or other token production into cards. Spellbook's one Idol line needs
+off-color, absent `Mind Over Matter`, and no Fíli/Kíli line was returned. These
+adds deepen the actual theme while `Jeska's Will` and `The One Ring` remove two
+generic Game Changers.
 
 Verdict: **upper Bracket 3**. Say “Magda toolbox, no Clock combo or infinite” at
 commander reveal and most of the social mismatch disappears.
 
-### 5. Blor — the largest generic staple cluster after Kang
+### Blor — resilient Voltron with a smaller generic-power cluster
 
-Blor's plan is coherent Voltron, but the list contains the most visible
-off-the-shelf power package outside Kang: `Ancient Tomb`, `Mana Vault`, `The
-One Ring`, `Sylvan Library`, `Selvala, Heart of the Wilds`, `Urza's Saga`,
-`Strip Mine`, and premium Equipment.
+Blor's plan is coherent Voltron. Removing `Mana Vault` and `The One Ring`
+shrinks what had been one of the lineup's most visible off-the-shelf power
+packages. `Ancient Tomb`, `Sylvan Library`, `Selvala, Heart of the Wilds`,
+`Urza's Saga`, `Strip Mine`, and premium Equipment remain, but only Ancient
+Tomb is a Game Changer.
+
+`Pip-Boy 3000` is cheap Equipment with selection, permanent growth, or land
+untapping attached to combat. `Creeping Renaissance` lets a permanent-heavy
+Voltron deck recover an entire chosen card type and can be flashed back. The
+current card-delta search found only two Pip-Boy combo records, both requiring
+absent `Bruce Banner` plus a specific land, and no Creeping Renaissance record.
 
 The social issue is interaction geometry. Blor naturally has trample,
 hexproof, and indestructible; `Conqueror's Flail` can shut off opponents' spells
@@ -189,11 +209,11 @@ and `Genji Glove` turn a difficult-to-answer commander into a sudden one-shot.
 That is powerful but also telegraphed and combat-based. There is no documented
 infinite combo.
 
-Verdict: **upper Bracket 3 once legal**, but it will draw early table focus. It
-is the list most vulnerable to a “too many premium staples” critique after
-Kang, even though the underlying Voltron identity remains clear.
+Verdict: **upper Bracket 3 once legal**, but it will still draw early table
+focus because of Blor's interaction geometry. The latest swaps materially
+improve its thematic cohesion and blind-pod presentation.
 
-### 6. Queen Marchesa — excellent social texture, one hidden loop
+### Queen Marchesa — excellent social texture, one hidden loop
 
 This is the most socially interactive and replayable deck in the lineup:
 monarch politics, goad, gifts, damage redirection, and table-dependent target
@@ -217,7 +237,7 @@ political identity.
 Verdict: **upper Bracket 3 with a loop disclosure**, otherwise an excellent
 social deck.
 
-### 7. Henzie — “Jund good stuff” appearance, commander-specific reality
+### Henzie — “Jund good stuff” appearance, commander-specific reality
 
 Henzie looks like a pile of premium Jund creatures, but most of those creatures
 are exactly what blitz wants: expensive ETB/death bodies that replace
@@ -239,7 +259,7 @@ creature, so that is **not a complete combo in this list**.
 Verdict: **mid Bracket 3**, strong and explosive but finite, with zero Game
 Changers and high replayability.
 
-### 8. Ekthi — consistent, synergistic, and fair after the Norn cuts
+### Ekthi — consistent, synergistic, and fair after the Norn cuts
 
 Ekthi is almost entirely Equipment, living-weapon, Germ, artifact-token, and
 support infrastructure. `Enlightened Tutor`, `Steelshaper's Gift`, `Stoneforge
@@ -255,7 +275,7 @@ two Elesh Norns that formerly reduced opponent agency are absent.
 Verdict: **clean mid-to-upper Bracket 3 once legal**. High consistency, low
 good-stuff drift, and low agency pressure.
 
-### 9. Marrow-Gnawer — cleanest social fit, most linear play pattern
+### Marrow-Gnawer — cleanest social fit, most linear play pattern
 
 The current Marrow list has no Game Changers and no documented combo.
 `Thrumming Stone`, `Demonic Tutor`, `Bolas's Citadel`, `Necropotence`,
@@ -282,13 +302,13 @@ Verdict: **low-to-mid Bracket 3 and the safest blind-pod choice**.
   no mass land denial.”
 - **Pantlaza:** “High-power Dinosaurs; Savage Order plus Wrathful Raptors can
   tutor Apex Altisaur for the indestructible fight/damage line.”
-- **Minn:** “Upper B3 Illusions with three Game Changers and a heavy free
-  counter suite; no known infinite after Meloku came out; Teferi can take two
-  extra turns.”
-- **Magda:** “High-power Dwarf/Dragon toolbox; Magda tutors from the command
-  zone, but there is no Clock combo or infinite.”
-- **Blor:** “Three-Game-Changer Voltron; the commander is hexproof and
-  indestructible and can one-shot, but there is no combo.”
+- **Minn:** “Upper B3 Illusions with one Game Changer and several free or
+  alternate-cost counters; no known infinite after Meloku came out, and no
+  extra-turn package.”
+- **Magda:** “High-power Dwarf/Dragon toolbox with one Game Changer; Magda
+  tutors from the command zone, but there is no Clock combo or infinite.”
+- **Blor:** “One-Game-Changer Voltron; the commander is hexproof and
+  indestructible and can one-shot, but there is no known combo.”
 - **Queen Marchesa:** “Political redirection with three Game Changers; Flumph
   and Bowmasters can loop if Flumph is made indestructible.”
 - **Henzie:** “Zero Game Changers and no infinite; explosive Pod, blitz, and
@@ -307,6 +327,9 @@ Verdict: **low-to-mid Bracket 3 and the safest blind-pod choice**.
 - Current official policy: [Commander format and Game Changers](https://magic.wizards.com/en/formats/commander), [October 2025 bracket intent update](https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025), and [current Commander banned list](https://magic.wizards.com/en/banned-restricted-list)
 
 Combo databases are incomplete, especially for newly released cards. Their
-results were treated as leads and manually checked against the exact lists;
-that is why the Henzie abstract-template result is excluded and the new Kang
+results were treated as leads and manually checked against the lists. Blor,
+Magda, and Minn preserve their 2026-08-29 pre-change exact-list responses as
+dated evidence and add a current exact-card-name delta review; no revised full
+list was uploaded. This limitation is explicit in the Spellbook manifest. It
+is also why the Henzie abstract-template result is excluded and the Kang
 turn-sequencing risk is discussed separately.

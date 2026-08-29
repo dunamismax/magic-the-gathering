@@ -4,14 +4,26 @@
   "api_version": "6.2.6",
   "decks": {
     "blor-the-impervious": {
+      "status": "delta-reviewed",
       "fetched_on": "2026-08-29",
+      "source_deck_sha256": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
+      "current_deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
       "request_sha256": "783f93000e6eb2a84fdc3d2a5845d661b5d2486ff2f338986fb1d15d7583c482",
+      "current_request_sha256": "bc00262b0c5bdb95a6e828487503be84df6d1c9b4de2f7546379efdb1e57129d",
+      "delta_reviewed_on": "2026-08-29",
+      "delta_review": {
+        "added": ["Pip-Boy 3000", "Creeping Renaissance"],
+        "removed": ["Mana Vault", "The One Ring"],
+        "method": "Exact card-name Commander Spellbook queries, intersection with the current local list, and manual Oracle review.",
+        "exact_list_upload_performed": false
+      },
       "estimate_file": "data/spellbook-results/blor-the-impervious-estimate.json",
       "estimate_sha256": "2733760aff571657ee8512a00168c861b9354a68f222a8c3cb2bde5904fb5507",
       "combos_file": "data/spellbook-results/blor-the-impervious-combos.json",
       "combos_sha256": "ed2cd806dd9c6c6c084be40f7cd4a4cd76cc2e2ef814d4ed19b5ae2b82c901bf"
     },
     "ekthi-contaminator-priest": {
+      "status": "exact-list-scan",
       "fetched_on": "2026-08-29",
       "request_sha256": "d5d3c49c35058360144b95d652840d846063eab147aec59095b0acc1535d1b0f",
       "estimate_file": "data/spellbook-results/ekthi-contaminator-priest-estimate.json",
@@ -20,6 +32,7 @@
       "combos_sha256": "4597ce04a5ad281b0cfa379ee321b254f9b905822ffea38620e9ad51127a94d2"
     },
     "henzie-toolbox-torre": {
+      "status": "exact-list-scan",
       "fetched_on": "2026-08-29",
       "request_sha256": "0d9281f67c547174f75f82dcc27f1291efb81a52c32b321d1b95cf2c383d9a7c",
       "estimate_file": "data/spellbook-results/henzie-toolbox-torre-estimate.json",
@@ -28,6 +41,7 @@
       "combos_sha256": "50f17115051c05daac5e2d774f30f22db9b297964bdf84c3663a344212907e19"
     },
     "kang-prime": {
+      "status": "exact-list-scan",
       "fetched_on": "2026-08-29",
       "request_sha256": "c8731516f8253181f2ba3cc4f6e4bbb87006c37f84267e4dadb4347dafb71750",
       "estimate_file": "data/spellbook-results/kang-prime-estimate.json",
@@ -36,14 +50,26 @@
       "combos_sha256": "08246fb99bbd86948eb4f1c3fc0ce56d16c942b5d3a7d5bb0ab125e26e10fc23"
     },
     "magda-brazen-outlaw": {
+      "status": "delta-reviewed",
       "fetched_on": "2026-08-29",
+      "source_deck_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+      "current_deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
       "request_sha256": "0d733c5cf8bd2124a5fe1432c1865c883f69f32c0df167f93f4a5fed22cb3eb0",
+      "current_request_sha256": "893178698fb5dce0d9ff86677f6445597fa0ffcb96c14f18eb0366dd44509bd6",
+      "delta_reviewed_on": "2026-08-29",
+      "delta_review": {
+        "added": ["Fíli and Kíli, Joyous", "Idol of Oblivion"],
+        "removed": ["The One Ring", "Jeska's Will"],
+        "method": "Exact card-name Commander Spellbook queries, intersection with the current local list, and manual Oracle review.",
+        "exact_list_upload_performed": false
+      },
       "estimate_file": "data/spellbook-results/magda-brazen-outlaw-estimate.json",
       "estimate_sha256": "1ddb0e6c27d5fedbbb031a97ca1e455ca889c990be401a314fd96d2976c7faac",
       "combos_file": "data/spellbook-results/magda-brazen-outlaw-combos.json",
       "combos_sha256": "0bb6f185e0335f633d2c73c0636ad62a544734f41b4541c9574b6ca403cb4494"
     },
     "marrow-gnawer": {
+      "status": "exact-list-scan",
       "fetched_on": "2026-08-29",
       "request_sha256": "1dc7d9ac2c1047a4bcd7b0428b789a51ccdcdf76f45ce9b46ebc763d2e7498ad",
       "estimate_file": "data/spellbook-results/marrow-gnawer-estimate.json",
@@ -52,14 +78,26 @@
       "combos_sha256": "61f4a491c8301a0a510d3c8c3e0e046d8d30221ef40085b17b4a3cefafee0aa8"
     },
     "minn-wily-illusionist": {
+      "status": "delta-reviewed",
       "fetched_on": "2026-08-29",
+      "source_deck_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
+      "current_deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
       "request_sha256": "45617889160cc5efce1c8d887bc416e898603617abf50a5c60b5a33d09c62b98",
+      "current_request_sha256": "e85990b313bc550779c2642140dc5179cf03d07fba615a035dc5abb7c98afde9",
+      "delta_reviewed_on": "2026-08-29",
+      "delta_review": {
+        "added": ["Read the Runes", "Mask of Memory", "Oneirophage"],
+        "removed": ["Force of Will", "Fierce Guardianship", "Teferi, Master of Time"],
+        "method": "Exact card-name Commander Spellbook queries, intersection with the current local list, and manual Oracle review.",
+        "exact_list_upload_performed": false
+      },
       "estimate_file": "data/spellbook-results/minn-wily-illusionist-estimate.json",
       "estimate_sha256": "c5d04687cca9002e5983eda8ed9209ffbf2fa0d99438a3160c022826a5dc9ece",
       "combos_file": "data/spellbook-results/minn-wily-illusionist-combos.json",
       "combos_sha256": "804a884354cec431c3cc710529c7fa33fede677ada6e3f5e6e8c850c589e224a"
     },
     "pantlaza-sun-favored": {
+      "status": "exact-list-scan",
       "fetched_on": "2026-08-29",
       "request_sha256": "64f3c0213085b2df00cc4814e8ae3196ef2d003108c099b8145b93df82a1eb50",
       "estimate_file": "data/spellbook-results/pantlaza-sun-favored-estimate.json",
@@ -68,6 +106,7 @@
       "combos_sha256": "159bf37558c19e1202f881c4dc0c7248638daedd407177665b244a595e15a006"
     },
     "queen-marchesa": {
+      "status": "exact-list-scan",
       "fetched_on": "2026-08-29",
       "request_sha256": "c56dfe2239910043db6f8c33a0f8962508c8bdc7521ceda8f6e953c5aecc7162",
       "estimate_file": "data/spellbook-results/queen-marchesa-estimate.json",

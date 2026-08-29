@@ -15,6 +15,7 @@
 1 Cavern of Souls
 1 Commander's Plate
 1 Conqueror's Flail
+1 Creeping Renaissance
 1 Delighted Halfling
 1 Devoted Druid
 1 Elvish Mystic
@@ -37,12 +38,12 @@
 1 Level Up
 1 Lion Umbra
 1 Llanowar Elves
-1 Mana Vault
 1 Mask of Memory
 1 Masterwork of Ingenuity
 1 Mosswort Bridge
 1 Nature's Lore
 1 Nettlecyst
+1 Pip-Boy 3000
 1 Power Fist
 1 Ram Through
 1 Return of the Wildspeaker
@@ -66,7 +67,6 @@
 1 Tanuki Transplanter
 1 The Irencrag
 1 The Mycosynth Gardens
-1 The One Ring
 1 Three Visits
 1 Toski, Bearer of Secrets
 1 Ulvenwald Tracker

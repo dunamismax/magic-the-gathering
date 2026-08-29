@@ -2,10 +2,10 @@
   "schema_version": 1,
   "audit_date": "2026-08-29",
   "inputs": {
-    "audit_sha256": "973a6d95bfefd696b9635061c20767c6872071babb30edeec58542786ee006e9",
+    "audit_sha256": "2a8d801141ab6531465998511a5b8cf6e659724cf2cd3249bbad5a964088ca1d",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
-    "overrides_sha256": "f3b37ca855be25c239408e9a6636edaad856c253c9de14d5daa3b35b75d905e3",
-    "combo_adjudications_sha256": "56c992a261a845754ee1051a80fddd9a04bd4d8f994315fb99d7d2e831cd2365"
+    "overrides_sha256": "7587299ef807cdb0f4dcc7e1f6c9ec84cd043b2dcc8d49376a1b29c067627cd4",
+    "combo_adjudications_sha256": "6a31426c01099a570eb0edebc4178d3345f02c994529816003606d5f245d57a1"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",
@@ -15,21 +15,21 @@
   },
   "decks": {
     "blor-the-impervious": {
-      "deck_sha256": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
+      "deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
       "counts_overlap": true,
       "role_counts": {
         "card_advantage": 15,
-        "commander_engine": 1,
+        "commander_engine": 2,
         "cost_reduction": 5,
-        "fast_mana": 3,
+        "fast_mana": 2,
         "land": 36,
         "land_capable": 36,
-        "lock_piece": 3,
-        "modal": 4,
-        "protection": 5,
+        "lock_piece": 2,
+        "modal": 5,
+        "protection": 4,
         "ramp": 15,
-        "recursion": 2,
-        "selection": 2,
+        "recursion": 3,
+        "selection": 3,
         "spot_removal": 5,
         "tutor": 5,
         "win_condition": 1
@@ -45,6 +45,11 @@
             "name": "Buster Sword",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Creeping Renaissance",
+            "quantity": 1,
+            "confidence": "override"
           },
           {
             "name": "Eternal Witness",
@@ -102,17 +107,17 @@
             "confidence": "heuristic"
           },
           {
-            "name": "The One Ring",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Toski, Bearer of Secrets",
             "quantity": 1,
             "confidence": "heuristic"
           }
         ],
         "commander_engine": [
+          {
+            "name": "Pip-Boy 3000",
+            "quantity": 1,
+            "confidence": "override"
+          },
           {
             "name": "Blor the Impervious",
             "quantity": 1,
@@ -149,11 +154,6 @@
         "fast_mana": [
           {
             "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Mana Vault",
             "quantity": 1,
             "confidence": "override"
           },
@@ -307,11 +307,6 @@
             "name": "Legolas's Quick Reflexes",
             "quantity": 1,
             "confidence": "heuristic"
-          },
-          {
-            "name": "Mana Vault",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "modal": [
@@ -322,6 +317,11 @@
           },
           {
             "name": "Epic Fight",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Pip-Boy 3000",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -349,11 +349,6 @@
           },
           {
             "name": "Sword of Fire and Ice",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "The One Ring",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -405,14 +400,14 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Mana Vault",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Nature's Lore",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Pip-Boy 3000",
+            "quantity": 1,
+            "confidence": "override"
           },
           {
             "name": "Sakura-Tribe Elder",
@@ -447,6 +442,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Creeping Renaissance",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Eternal Witness",
             "quantity": 1,
             "confidence": "heuristic"
@@ -462,6 +462,11 @@
             "name": "Mosswort Bridge",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Pip-Boy 3000",
+            "quantity": 1,
+            "confidence": "override"
           }
         ],
         "spot_removal": [
@@ -671,6 +676,14 @@
           }
         },
         {
+          "name": "Creeping Renaissance",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override",
+            "recursion": "override"
+          }
+        },
+        {
           "name": "Delighted Halfling",
           "quantity": 1,
           "roles": {
@@ -821,15 +834,6 @@
           }
         },
         {
-          "name": "Mana Vault",
-          "quantity": 1,
-          "roles": {
-            "ramp": "override",
-            "lock_piece": "heuristic",
-            "fast_mana": "override"
-          }
-        },
-        {
           "name": "Mask of Memory",
           "quantity": 1,
           "roles": {
@@ -863,6 +867,16 @@
           "name": "Nettlecyst",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Pip-Boy 3000",
+          "quantity": 1,
+          "roles": {
+            "modal": "heuristic",
+            "commander_engine": "override",
+            "selection": "override",
+            "ramp": "override"
+          }
         },
         {
           "name": "Power Fist",
@@ -1019,14 +1033,6 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "The One Ring",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "protection": "heuristic"
           }
         },
         {
@@ -5027,19 +5033,19 @@
       ]
     },
     "magda-brazen-outlaw": {
-      "deck_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+      "deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 3,
         "card_advantage": 11,
-        "commander_engine": 1,
+        "commander_engine": 3,
         "cost_reduction": 3,
         "fast_mana": 2,
         "land": 35,
         "land_capable": 35,
-        "modal": 5,
-        "protection": 2,
-        "ramp": 23,
+        "modal": 4,
+        "protection": 1,
+        "ramp": 24,
         "recursion": 1,
         "spot_removal": 3,
         "tutor": 2
@@ -5084,9 +5090,9 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Óin the Brave",
+            "name": "Idol of Oblivion",
             "quantity": 1,
-            "confidence": "heuristic"
+            "confidence": "override"
           },
           {
             "name": "Parapet Thrasher",
@@ -5114,12 +5120,22 @@
             "confidence": "heuristic"
           },
           {
-            "name": "The One Ring",
+            "name": "Óin the Brave",
             "quantity": 1,
             "confidence": "heuristic"
           }
         ],
         "commander_engine": [
+          {
+            "name": "Fíli and Kíli, Joyous",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Idol of Oblivion",
+            "quantity": 1,
+            "confidence": "override"
+          },
           {
             "name": "Magda, Brazen Outlaw",
             "quantity": 1,
@@ -5301,11 +5317,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Jeska's Will",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Parapet Thrasher",
             "quantity": 1,
             "confidence": "heuristic"
@@ -5319,11 +5330,6 @@
         "protection": [
           {
             "name": "Plaza of Heroes",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "The One Ring",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -5373,6 +5379,11 @@
             "name": "Firdoch Core",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Fíli and Kíli, Joyous",
+            "quantity": 1,
+            "confidence": "override"
           },
           {
             "name": "Ganax, Astral Hunter",
@@ -5675,6 +5686,14 @@
           }
         },
         {
+          "name": "Fíli and Kíli, Joyous",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
           "name": "Ganax, Astral Hunter",
           "quantity": 1,
           "roles": {
@@ -5750,10 +5769,11 @@
           }
         },
         {
-          "name": "Jeska's Will",
+          "name": "Idol of Oblivion",
           "quantity": 1,
           "roles": {
-            "modal": "heuristic"
+            "card_advantage": "override",
+            "commander_engine": "override"
           }
         },
         {
@@ -5815,13 +5835,6 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Óin the Brave",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
           }
         },
         {
@@ -5959,14 +5972,6 @@
           "roles": {}
         },
         {
-          "name": "The One Ring",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "protection": "heuristic"
-          }
-        },
-        {
           "name": "The Reaver Cleaver",
           "quantity": 1,
           "roles": {}
@@ -6027,6 +6032,13 @@
           "name": "Xorn",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Óin the Brave",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
         },
         {
           "name": "Magda, Brazen Outlaw",
@@ -6852,15 +6864,14 @@
       ]
     },
     "minn-wily-illusionist": {
-      "deck_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
+      "deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
       "counts_overlap": true,
       "role_counts": {
         "card_advantage": 31,
         "combo_piece": 2,
-        "commander_engine": 3,
-        "cost_reduction": 6,
-        "countermagic": 5,
-        "extra_turn": 1,
+        "commander_engine": 6,
+        "cost_reduction": 4,
+        "countermagic": 4,
         "fast_mana": 1,
         "land": 35,
         "land_capable": 37,
@@ -6870,7 +6881,7 @@
         "selection": 2,
         "spot_removal": 3,
         "tutor": 6,
-        "win_condition": 3
+        "win_condition": 4
       },
       "role_cards": {
         "card_advantage": [
@@ -6950,6 +6961,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Mask of Memory",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Mind Stone",
             "quantity": 1,
             "confidence": "heuristic"
@@ -6986,11 +7002,6 @@
           },
           {
             "name": "Skullclamp",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Teferi, Master of Time",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -7054,6 +7065,21 @@
             "confidence": "override"
           },
           {
+            "name": "Mask of Memory",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Oneirophage",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Read the Runes",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Minn, Wily Illusionist",
             "quantity": 1,
             "confidence": "override"
@@ -7061,22 +7087,12 @@
         ],
         "cost_reduction": [
           {
-            "name": "Fierce Guardianship",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Flare of Denial",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
             "name": "Force of Negation",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Force of Will",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -7108,21 +7124,9 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Force of Will",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Pact of Negation",
             "quantity": 1,
             "confidence": "heuristic"
-          }
-        ],
-        "extra_turn": [
-          {
-            "name": "Teferi, Master of Time",
-            "quantity": 1,
-            "confidence": "override"
           }
         ],
         "fast_mana": [
@@ -7369,14 +7373,14 @@
         ],
         "selection": [
           {
+            "name": "Read the Runes",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Sensei's Divining Top",
             "quantity": 1,
             "confidence": "heuristic"
-          },
-          {
-            "name": "Teferi, Master of Time",
-            "quantity": 1,
-            "confidence": "override"
           }
         ],
         "spot_removal": [
@@ -7431,6 +7435,11 @@
         "win_condition": [
           {
             "name": "Blasting Station",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Oneirophage",
             "quantity": 1,
             "confidence": "override"
           },
@@ -7560,13 +7569,6 @@
           }
         },
         {
-          "name": "Fierce Guardianship",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
-          }
-        },
-        {
           "name": "Flare of Denial",
           "quantity": 1,
           "roles": {
@@ -7588,14 +7590,6 @@
           "quantity": 1,
           "roles": {
             "cost_reduction": "heuristic"
-          }
-        },
-        {
-          "name": "Force of Will",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "countermagic": "heuristic"
           }
         },
         {
@@ -7718,6 +7712,14 @@
           }
         },
         {
+          "name": "Mask of Memory",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
           "name": "Maskwood Nexus",
           "quantity": 1,
           "roles": {}
@@ -7779,6 +7781,14 @@
           "name": "Omni-Changeling",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Oneirophage",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
         },
         {
           "name": "Otawara, Soaring City",
@@ -7853,6 +7863,14 @@
           "name": "Raise the Palisade",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Read the Runes",
+          "quantity": 1,
+          "roles": {
+            "selection": "override",
+            "commander_engine": "override"
+          }
         },
         {
           "name": "Reliquary Tower",
@@ -7937,15 +7955,6 @@
           "name": "Swan Song",
           "quantity": 1,
           "roles": {}
-        },
-        {
-          "name": "Teferi, Master of Time",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "extra_turn": "override",
-            "selection": "override"
-          }
         },
         {
           "name": "Teferi's Ageless Insight",

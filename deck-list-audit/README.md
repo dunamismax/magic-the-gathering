@@ -51,13 +51,17 @@ Apply a deck change:
 ```text
 cp changes/change-plan.example.json changes/my-change.json
 # Fill in deck, baseline hash, Adds/Cuts, and rationale.
-just apply-change PLAN=changes/my-change.json
+just apply-change changes/my-change.json
 ```
 
 The change tool verifies the baseline hash, applies the plan to a temporary
 copy, runs the deterministic audit, preserves the commander block, writes the
 deck atomically, and regenerates local artifacts. External combo results and
-human reports become explicitly stale until refreshed or reviewed.
+human reports become explicitly stale until refreshed or reviewed. A narrow,
+current card-delta review may preserve an earlier exact-list response as dated
+evidence without falsely relabeling it as a scan of the changed 100. The
+Spellbook manifest records which mode was used, and `just check` verifies that
+review against the current deck hash and card delta.
 
 ## Source and generated files
 
@@ -111,9 +115,9 @@ identity checks, so aliases cannot evade singleton validation.
 `collection.json`. A current claim must pass the latter or disclose the locked
 snapshot dates.
 
-## Historical report
+## Reviewed social report
 
-`commander-social-audit.md` is the human collection analysis made against the
-2026-08-29 snapshot. Its input hashes are tracked in `reports/manifest.json`.
-It is historical evidence, not a self-updating statement about later deck
-versions.
+`commander-social-audit.md` is the human collection analysis last reviewed on
+2026-08-29. Its exact input hashes are tracked in `reports/manifest.json`. It
+becomes historical evidence as soon as any listed deck hash changes and must
+be deliberately reviewed before the manifest is advanced.

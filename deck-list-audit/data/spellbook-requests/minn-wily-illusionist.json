@@ -45,10 +45,6 @@
       "quantity": 1
     },
     {
-      "card": "Fierce Guardianship",
-      "quantity": 1
-    },
-    {
       "card": "Flare of Denial",
       "quantity": 1
     },
@@ -58,10 +54,6 @@
     },
     {
       "card": "Force of Negation",
-      "quantity": 1
-    },
-    {
-      "card": "Force of Will",
       "quantity": 1
     },
     {
@@ -129,6 +121,10 @@
       "quantity": 1
     },
     {
+      "card": "Mask of Memory",
+      "quantity": 1
+    },
+    {
       "card": "Maskwood Nexus",
       "quantity": 1
     },
@@ -162,6 +158,10 @@
     },
     {
       "card": "Omni-Changeling",
+      "quantity": 1
+    },
+    {
+      "card": "Oneirophage",
       "quantity": 1
     },
     {
@@ -206,6 +206,10 @@
     },
     {
       "card": "Raise the Palisade",
+      "quantity": 1
+    },
+    {
+      "card": "Read the Runes",
       "quantity": 1
     },
     {
@@ -258,10 +262,6 @@
     },
     {
       "card": "Swan Song",
-      "quantity": 1
-    },
-    {
-      "card": "Teferi, Master of Time",
       "quantity": 1
     },
     {

@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "status": "historical-snapshot",
+  "status": "reviewed-current-snapshot",
   "audit_date": "2026-08-29",
   "report_file": "commander-social-audit.md",
-  "report_sha256": "9ba1dc8d9dda7440125aaa6aa83bc7d3bfd6cf1f8c86193ffd696fba78a4d958",
+  "report_sha256": "53ed21a2e128494b3a25a576fa1226d7137fca7593d36330d9d2fe1d318f309a",
   "deck_sha256": {
-    "blor-the-impervious": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
+    "blor-the-impervious": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
     "ekthi-contaminator-priest": "0f83ae8ef56123ddbd3d3946d885ed344c041914b64d6780ee9a7ae40b61259c",
     "henzie-toolbox-torre": "7f2d64015709c865a4d620589ca1f66bdfa73cecfe0740b92176774d1472a509",
     "kang-prime": "a9f5e57b173818f59e7c2dcb1e95d8635eb46a492411ac7686a340ab852f03f1",
-    "magda-brazen-outlaw": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+    "magda-brazen-outlaw": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
     "marrow-gnawer": "c1de152a9e9e145ee330fe1a6b319b317846368fe7828ff76c18206a383fa29c",
-    "minn-wily-illusionist": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
+    "minn-wily-illusionist": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
     "pantlaza-sun-favored": "28366513f22b08ba600f9c7fbc3ee2572cc61243cce6e29d4592017d202ff0ad",
     "queen-marchesa": "511bca15875ea94d53c626b727d950df01806e131fd898d525da68412f15a4aa"
   },
-  "notes": "This manifest deliberately remains pinned to the report's reviewed inputs. Later deck changes produce a warning instead of silently rewriting historical conclusions."
+  "notes": "Pinned to the report's deliberately reviewed inputs. Later deck changes produce a warning instead of silently rewriting conclusions. Blor, Magda, and Minn use current manual card-delta combo reviews over preserved pre-change exact-list Spellbook responses; no revised full lists were uploaded."
 }

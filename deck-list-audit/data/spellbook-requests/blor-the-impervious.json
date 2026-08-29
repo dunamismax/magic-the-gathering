@@ -69,6 +69,10 @@
       "quantity": 1
     },
     {
+      "card": "Creeping Renaissance",
+      "quantity": 1
+    },
+    {
       "card": "Delighted Halfling",
       "quantity": 1
     },
@@ -157,10 +161,6 @@
       "quantity": 1
     },
     {
-      "card": "Mana Vault",
-      "quantity": 1
-    },
-    {
       "card": "Mask of Memory",
       "quantity": 1
     },
@@ -178,6 +178,10 @@
     },
     {
       "card": "Nettlecyst",
+      "quantity": 1
+    },
+    {
+      "card": "Pip-Boy 3000",
       "quantity": 1
     },
     {
@@ -270,10 +274,6 @@
     },
     {
       "card": "The Mycosynth Gardens",
-      "quantity": 1
-    },
-    {
-      "card": "The One Ring",
       "quantity": 1
     },
     {

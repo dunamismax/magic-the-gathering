@@ -32,6 +32,18 @@ class RoleAnalysisTests(unittest.TestCase):
                 if "land" in card["roles"] and "ramp" in card["roles"]:
                     self.assertEqual(card["name"], "Ancient Tomb")
 
+    def test_context_overrides_can_remove_false_positive_roles(self) -> None:
+        minn = self.analysis["decks"]["minn-wily-illusionist"]
+        oneirophage = next(
+            card for card in minn["cards"] if card["name"] == "Oneirophage"
+        )
+        read_the_runes = next(
+            card for card in minn["cards"] if card["name"] == "Read the Runes"
+        )
+        self.assertNotIn("card_advantage", oneirophage["roles"])
+        self.assertNotIn("card_advantage", read_the_runes["roles"])
+        self.assertEqual(read_the_runes["roles"]["selection"], "override")
+
 
 if __name__ == "__main__":
     unittest.main()

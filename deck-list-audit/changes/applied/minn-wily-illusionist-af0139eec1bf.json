@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "status": "user-confirmed",
+  "deck": "minn-wily-illusionist",
+  "baseline_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
+  "game_changer_policy": "no-increase",
+  "adds": [
+    {
+      "name": "Read the Runes",
+      "quantity": 1,
+      "reason": "Adds instant-speed draw and a scalable sacrifice outlet that directly supports Minn's Illusion engine."
+    },
+    {
+      "name": "Mask of Memory",
+      "quantity": 1,
+      "reason": "Adds repeatable second-draw support through the deck's evasive Illusions."
+    },
+    {
+      "name": "Oneirophage",
+      "quantity": 1,
+      "reason": "Adds an on-theme Illusion payoff that becomes a visible combat threat as the deck draws cards."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "Force of Will",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a free-counter Game Changer."
+    },
+    {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a free-counter Game Changer."
+    },
+    {
+      "name": "Teferi, Master of Time",
+      "quantity": 1,
+      "reason": "User-confirmed removal of the deck's finite two-extra-turn ultimate risk."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "Game Changer count reduced from three to one",
+    "The Theorist and Venser's Journal remain locked",
+    "combo and social implications reviewed"
+  ],
+  "notes": "User-confirmed swaps supplied on 2026-08-29.",
+  "application": {
+    "applied_at": "2026-08-29T13:57:17.320914+00:00",
+    "before_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
+    "after_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
+    "post_change_audit_valid": true,
+    "external_combo_evidence_stale_at_application": true,
+    "human_reports_stale_at_application": true
+  },
+  "recertification": {
+    "reviewed_on": "2026-08-29",
+    "combo_evidence": "manual-card-delta-review-over-preserved-exact-list-scan",
+    "human_report": "commander-social-audit.md",
+    "current_system_check_passed": true,
+    "full_decklist_uploaded": false
+  }
+}

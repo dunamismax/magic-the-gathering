@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "audit_date": "2026-08-29",
-  "audit_sha256": "973a6d95bfefd696b9635061c20767c6872071babb30edeec58542786ee006e9",
-  "collection_sha256": "196af0f5c56efa2fd20916c30c2ab2bee17c91259782e2ab031fda4d5899f5df",
-  "decks_readme_sha256": "8fe535bc9515f59445f8fbcd5bd1cf0be9a8622fd30020babc650b75b0c9849b",
-  "collection_summary_sha256": "d7dc81bfe8add8707b0a9cfe1fbf82b62052fe7fbc15db44da7547a76d1e1bae",
-  "functional_analysis_sha256": "7663ae3765566cb3bc0a4a5882a31da4e35fbfc2a2906da273783922c0c6c163",
+  "audit_sha256": "2a8d801141ab6531465998511a5b8cf6e659724cf2cd3249bbad5a964088ca1d",
+  "collection_sha256": "ecb3ca8d26a8c7705c41a1e4ebe3cae41bf044b963e42c0cc697bd3b708f528a",
+  "decks_readme_sha256": "d97656dfd43ebc80a543a872e7ac0fb4a0d2533d86f69a7fdcbfb277a763f5f3",
+  "collection_summary_sha256": "284bbe66186f885a170f89d2b3d1d6f4f5be64d67c311332889ff25850c206f3",
+  "functional_analysis_sha256": "2e5bfa17aec35d8f8ab15c2a7881bbc179fd8ce3d49d92909da59b13e92c71d7",
   "deck_sha256": {
-    "blor-the-impervious": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
+    "blor-the-impervious": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
     "ekthi-contaminator-priest": "0f83ae8ef56123ddbd3d3946d885ed344c041914b64d6780ee9a7ae40b61259c",
     "henzie-toolbox-torre": "7f2d64015709c865a4d620589ca1f66bdfa73cecfe0740b92176774d1472a509",
     "kang-prime": "a9f5e57b173818f59e7c2dcb1e95d8635eb46a492411ac7686a340ab852f03f1",
-    "magda-brazen-outlaw": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+    "magda-brazen-outlaw": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
     "marrow-gnawer": "c1de152a9e9e145ee330fe1a6b319b317846368fe7828ff76c18206a383fa29c",
-    "minn-wily-illusionist": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
+    "minn-wily-illusionist": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
     "pantlaza-sun-favored": "28366513f22b08ba600f9c7fbc3ee2572cc61243cce6e29d4592017d202ff0ad",
     "queen-marchesa": "511bca15875ea94d53c626b727d950df01806e131fd898d525da68412f15a4aa"
   }

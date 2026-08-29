@@ -97,6 +97,10 @@
       "quantity": 1
     },
     {
+      "card": "Fíli and Kíli, Joyous",
+      "quantity": 1
+    },
+    {
       "card": "Ganax, Astral Hunter",
       "quantity": 1
     },
@@ -137,7 +141,7 @@
       "quantity": 1
     },
     {
-      "card": "Jeska's Will",
+      "card": "Idol of Oblivion",
       "quantity": 1
     },
     {
@@ -178,10 +182,6 @@
     },
     {
       "card": "Mutavault",
-      "quantity": 1
-    },
-    {
-      "card": "Óin the Brave",
       "quantity": 1
     },
     {
@@ -265,10 +265,6 @@
       "quantity": 1
     },
     {
-      "card": "The One Ring",
-      "quantity": 1
-    },
-    {
       "card": "The Reaver Cleaver",
       "quantity": 1
     },
@@ -306,6 +302,10 @@
     },
     {
       "card": "Xorn",
+      "quantity": 1
+    },
+    {
+      "card": "Óin the Brave",
       "quantity": 1
     }
   ],

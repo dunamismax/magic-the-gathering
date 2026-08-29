@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "status": "user-confirmed",
+  "deck": "blor-the-impervious",
+  "baseline_sha256": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
+  "game_changer_policy": "no-increase",
+  "adds": [
+    {
+      "name": "Pip-Boy 3000",
+      "quantity": 1,
+      "reason": "Adds low-cost Equipment synergy, selection, growth, and situational land untapping without generic fast mana."
+    },
+    {
+      "name": "Creeping Renaissance",
+      "quantity": 1,
+      "reason": "Provides theme-aligned recovery for Equipment, enchantments, creatures, or lands after removal and can be flashed back."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "Mana Vault",
+      "quantity": 1,
+      "reason": "User-confirmed removal of generic fast mana and a Game Changer."
+    },
+    {
+      "name": "The One Ring",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a generic protection and card-advantage Game Changer."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "Game Changer count reduced from three to one",
+    "Rule Zero commander preserved",
+    "combo and social implications reviewed"
+  ],
+  "notes": "User-confirmed swaps supplied on 2026-08-29."
+}

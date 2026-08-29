@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "status": "user-confirmed",
+  "deck": "magda-brazen-outlaw",
+  "baseline_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
+  "game_changer_policy": "no-increase",
+  "adds": [
+    {
+      "name": "Fíli and Kíli, Joyous",
+      "quantity": 1,
+      "reason": "Adds a hasty Dwarf whose restricted mana advances the deck's Dwarf, Equipment, and Saga plan."
+    },
+    {
+      "name": "Idol of Oblivion",
+      "quantity": 1,
+      "reason": "Turns the deck's routine Treasure and other token production into repeatable card advantage."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "The One Ring",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a generic protection and card-advantage Game Changer."
+    },
+    {
+      "name": "Jeska's Will",
+      "quantity": 1,
+      "reason": "User-confirmed removal of a generic burst-mana and impulse-advantage Game Changer."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "Game Changer count reduced from three to one",
+    "Dwarf, Dragon, and Treasure identity preserved",
+    "combo and social implications reviewed"
+  ],
+  "notes": "User-confirmed swaps supplied on 2026-08-29."
+}

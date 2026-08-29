@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import sys
 import unittest
+from datetime import date
 from pathlib import Path
 
 
@@ -9,6 +10,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from apply_change import apply_items, render_deck  # noqa: E402
+from audit_decks import build_audit  # noqa: E402
+from check_system import validate_spellbook  # noqa: E402
 
 
 class ChangeTests(unittest.TestCase):
@@ -32,6 +35,16 @@ class ChangeTests(unittest.TestCase):
         entries = [{"quantity": 1, "name": "Only Copy", "line_number": 1}]
         with self.assertRaisesRegex(RuntimeError, "sufficient quantity"):
             apply_items(entries, [], [{"name": "Only Copy", "quantity": 2}])
+
+    def test_current_delta_reviews_are_explicit_and_valid(self) -> None:
+        audit, _ = build_audit(audit_date=date(2026, 8, 29))
+        errors, warnings = validate_spellbook(
+            audit, require_current=False, today=date(2026, 8, 29)
+        )
+        self.assertEqual(errors, [])
+        self.assertEqual(
+            sum("manual delta review" in warning for warning in warnings), 3
+        )
 
 
 if __name__ == "__main__":

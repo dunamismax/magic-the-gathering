@@ -14,12 +14,12 @@ from audit_decks import ROOT, json_bytes, json_load, sha256_bytes, sha256_file
 def deck_readme(collection: dict[str, Any], audit: dict[str, Any]) -> str:
     audit_date = audit["audit_date"]
     lines = [
-        "# dunamismax public Moxfield snapshot",
+        "# dunamismax local Commander deck snapshots",
         "",
         f"Current local source files were audited on {audit_date}. Every listed deck",
-        "is linked to its exact SHA-256 and public Moxfield source.",
+        "is linked to its exact SHA-256 and public Moxfield reference.",
         "",
-        "| Deck | Live Moxfield list | Profile updated | Local export | SHA-256 |",
+        "| Deck | Moxfield reference | Local source updated | Local list | SHA-256 |",
         "|---|---|---:|---|---|",
     ]
     for slug, metadata in collection["decks"].items():

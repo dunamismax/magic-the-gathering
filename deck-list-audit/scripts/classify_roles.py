@@ -154,11 +154,16 @@ def build_analysis() -> dict[str, Any]:
         unclassified_nonlands: list[str] = []
         global_overrides = overrides.get("global", {})
         override_map = {
-            normalize_name(name): roles
+            normalize_name(name): instruction
             for name, roles in {
                 **global_overrides,
                 **overrides.get("decks", {}).get(slug, {}),
             }.items()
+            for instruction in [
+                {"include": roles, "exclude": []}
+                if isinstance(roles, list)
+                else roles
+            ]
         }
         classified_quantity = 0
         nonland_quantity = 0
@@ -172,10 +177,15 @@ def build_analysis() -> dict[str, Any]:
                 normalize_name(str(detail["card"].get("name", ""))),
             }
             for key in keys:
-                for role in override_map.get(key, []):
+                instruction = override_map.get(key, {})
+                for role in instruction.get("include", []):
                     if role not in valid_roles:
                         raise RuntimeError(f"unknown role override {role!r} for {slug}")
                     roles[role] = "override"
+                for role in instruction.get("exclude", []):
+                    if role not in valid_roles:
+                        raise RuntimeError(f"unknown role exclusion {role!r} for {slug}")
+                    roles.pop(role, None)
             if combo_hashes.get(slug) == deck["deck_sha256"] and keys & combo_cards[slug]:
                 roles["combo_piece"] = "confirmed-combo"
             if "land" not in roles:

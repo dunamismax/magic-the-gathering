@@ -9,11 +9,9 @@
 1 Consecrated Sphinx
 1 Defiler of Dreams
 1 Faerie Mastermind
-1 Fierce Guardianship
 1 Flare of Denial
 1 Flooded Strand
 1 Force of Negation
-1 Force of Will
 1 Fountainport
 1 Fresh Start
 1 Ghostly Pilferer
@@ -30,6 +28,7 @@
 1 Ledger Shredder
 1 Leyline of Transformation
 1 Malcolm, Alluring Scoundrel
+1 Mask of Memory
 1 Maskwood Nexus
 1 Minamo, School at Water's Edge
 1 Mind Stone
@@ -39,6 +38,7 @@
 1 Mystic Sanctuary
 1 Nezahal, Primal Tide
 1 Omni-Changeling
+1 Oneirophage
 1 Otawara, Soaring City
 1 Pact of Negation
 1 Perilous Research
@@ -50,6 +50,7 @@
 1 Proft's Eidetic Memory
 1 Psychosis Crawler
 1 Raise the Palisade
+1 Read the Runes
 1 Reliquary Tower
 1 Resculpt
 1 Roaming Throne
@@ -63,7 +64,6 @@
 1 Spark Double
 1 Subtlety
 1 Swan Song
-1 Teferi, Master of Time
 1 Teferi's Ageless Insight
 1 Tetsuko Umezawa, Fugitive
 1 The Theorist, Jace Beleren

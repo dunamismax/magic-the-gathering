@@ -5,8 +5,16 @@
   "decks": [
     {
       "deck": "blor-the-impervious",
-      "deck_sha256": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
-      "summary": "No complete exact-list combo returned; combat one-shots remain sharp finite lines.",
+      "deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
+      "summary": "The prior exact-list scan returned no complete combo. A current delta review found two Pip-Boy 3000 variants, both requiring absent cards, and no Creeping Renaissance variants; combat one-shots remain sharp finite lines.",
+      "delta_evidence": {
+        "reviewed_on": "2026-08-29",
+        "source": "Commander Spellbook variants API exact-card-name queries plus current-list intersection",
+        "queries": [
+          {"card": "Pip-Boy 3000", "variants_returned": 2, "complete_current_list_matches": 0},
+          {"card": "Creeping Renaissance", "variants_returned": 0, "complete_current_list_matches": 0}
+        ]
+      },
       "lines": []
     },
     {
@@ -64,8 +72,16 @@
     },
     {
       "deck": "magda-brazen-outlaw",
-      "deck_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
-      "summary": "No complete exact-list combo returned; command-zone tutoring remains a consistency disclosure.",
+      "deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
+      "summary": "The prior exact-list scan returned no complete combo. A current delta review found no Fíli and Kíli, Joyous variants; Idol of Oblivion's only returned line requires absent, off-color Mind Over Matter. Command-zone tutoring remains a consistency disclosure.",
+      "delta_evidence": {
+        "reviewed_on": "2026-08-29",
+        "source": "Commander Spellbook variants API exact-card-name queries plus current-list intersection",
+        "queries": [
+          {"card": "Fíli and Kíli, Joyous", "variants_returned": 0, "complete_current_list_matches": 0},
+          {"card": "Idol of Oblivion", "variants_returned": 1, "complete_current_list_matches": 0}
+        ]
+      },
       "lines": []
     },
     {
@@ -76,18 +92,18 @@
     },
     {
       "deck": "minn-wily-illusionist",
-      "deck_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
-      "summary": "No complete exact-list combo returned after Meloku was removed; outlet density and Teferi remain disclosure context.",
-      "lines": [
-        {
-          "id": "manual-teferi-master-of-time-ultimate",
-          "cards": ["Teferi, Master of Time"],
-          "status": "manual-risk",
-          "classification": "finite-two-extra-turns",
-          "disclosure_required": true,
-          "source": "oracle-text-review"
-        }
-      ]
+      "deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
+      "summary": "The prior exact-list scan returned no complete combo after Meloku was removed. A current delta review found no Read the Runes or Mask of Memory variants; all Oneirophage variants require absent cards, despite Sensei's Divining Top appearing in some off-color Falco Spara lines. Teferi's extra-turn risk is gone.",
+      "delta_evidence": {
+        "reviewed_on": "2026-08-29",
+        "source": "Commander Spellbook variants API exact-card-name queries plus current-list intersection",
+        "queries": [
+          {"card": "Read the Runes", "variants_returned": 0, "complete_current_list_matches": 0},
+          {"card": "Mask of Memory", "variants_returned": 0, "complete_current_list_matches": 0},
+          {"card": "Oneirophage", "variants_returned": 36, "complete_current_list_matches": 0}
+        ]
+      },
+      "lines": []
     },
     {
       "deck": "pantlaza-sun-favored",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "reviewed_on": "2026-08-29",
-  "notes": "Overrides are deck-context judgments. Absence is unclassified, not proof that a card lacks a role.",
+  "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. Absence is unclassified, not proof that a card lacks a role.",
   "global": {
     "Ancient Tomb": ["land", "land_capable", "ramp", "fast_mana"],
     "Mana Vault": ["ramp", "fast_mana"],
@@ -9,7 +9,12 @@
   },
   "decks": {
     "blor-the-impervious": {
-      "Blor the Impervious": ["commander_engine", "win_condition", "protection"]
+      "Blor the Impervious": ["commander_engine", "win_condition", "protection"],
+      "Pip-Boy 3000": {
+        "include": ["commander_engine", "selection", "ramp"],
+        "exclude": ["card_advantage"]
+      },
+      "Creeping Renaissance": ["recursion", "card_advantage"]
     },
     "ekthi-contaminator-priest": {
       "Ekthi, Contaminator Priest": ["commander_engine", "card_advantage", "cost_reduction"]
@@ -35,12 +40,22 @@
     },
     "minn-wily-illusionist": {
       "Minn, Wily Illusionist": ["commander_engine", "card_advantage", "win_condition"],
-      "Teferi, Master of Time": ["selection", "extra_turn"],
       "Ashnod's Altar": ["ramp", "combo_piece", "commander_engine"],
-      "Blasting Station": ["win_condition", "combo_piece", "commander_engine"]
+      "Blasting Station": ["win_condition", "combo_piece", "commander_engine"],
+      "Read the Runes": {
+        "include": ["selection", "commander_engine"],
+        "exclude": ["card_advantage"]
+      },
+      "Mask of Memory": ["card_advantage", "commander_engine"],
+      "Oneirophage": {
+        "include": ["commander_engine", "win_condition"],
+        "exclude": ["card_advantage"]
+      }
     },
     "magda-brazen-outlaw": {
-      "Magda, Brazen Outlaw": ["commander_engine", "ramp", "tutor"]
+      "Magda, Brazen Outlaw": ["commander_engine", "ramp", "tutor"],
+      "Fíli and Kíli, Joyous": ["commander_engine", "ramp"],
+      "Idol of Oblivion": ["commander_engine", "card_advantage"]
     },
     "marrow-gnawer": {
       "Marrow-Gnawer": ["commander_engine", "win_condition"]
