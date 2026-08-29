@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "overlap_allowed": true,
+  "roles": {
+    "land": "Front face is a land.",
+    "land_capable": "Can be played as a land from the relevant zone.",
+    "ramp": "Produces or searches for additional mana beyond the normal land drop.",
+    "fast_mana": "Produces more mana than its immediate mana investment at low cost.",
+    "land_tutor": "Searches specifically for a land as part of mana development.",
+    "cost_reduction": "Reduces or bypasses mana costs for the deck's plan.",
+    "selection": "Cheaply filters, scries, surveils, or reorganizes cards.",
+    "card_advantage": "Produces sustained or net-positive access to cards.",
+    "tutor": "Searches a hidden zone for a constrained or unrestricted card.",
+    "recursion": "Returns or casts cards from the graveyard or other used zone.",
+    "spot_removal": "Answers a bounded number of permanents or threats.",
+    "countermagic": "Counters spells or abilities on the stack.",
+    "board_wipe": "Removes or resets a broad portion of the battlefield.",
+    "protection": "Protects cards, board state, life total, or a key turn.",
+    "graveyard_interaction": "Disrupts opposing graveyards or graveyard lines.",
+    "win_condition": "Directly closes the game or creates a decisive state.",
+    "combo_piece": "Participates in a confirmed or meaningful deterministic line.",
+    "lock_piece": "Restricts opponents from meaningfully taking game actions.",
+    "extra_turn": "Creates or repeats an additional turn.",
+    "mass_land_denial": "Broadly destroys, prevents, or removes access to lands.",
+    "modal": "Provides materially different selectable functions.",
+    "commander_engine": "Specifically advances or multiplies the commander's text."
+  },
+  "counting_rule": "Counts overlap. Every published count must state that overlap and must include deck-context overrides."
+}

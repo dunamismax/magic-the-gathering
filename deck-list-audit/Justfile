@@ -1,0 +1,37 @@
+set dotenv-load := false
+
+root := justfile_directory()
+python := "python3"
+
+doctor:
+    {{python}} "{{root}}/scripts/check_system.py" --doctor
+
+audit:
+    {{python}} "{{root}}/scripts/audit_decks.py"
+    {{python}} "{{root}}/scripts/classify_roles.py"
+    {{python}} "{{root}}/scripts/generate_reports.py"
+
+check:
+    {{python}} "{{root}}/scripts/check_system.py"
+
+check-current:
+    {{python}} "{{root}}/scripts/check_system.py" --require-current
+
+report:
+    {{python}} "{{root}}/scripts/classify_roles.py"
+    {{python}} "{{root}}/scripts/generate_reports.py"
+
+roles:
+    {{python}} "{{root}}/scripts/classify_roles.py"
+
+test:
+    PYTHONDONTWRITEBYTECODE=1 {{python}} -m unittest discover -s "{{root}}/tests" -v
+
+lint:
+    ruff check "{{root}}/scripts" "{{root}}/tests"
+
+refresh-oracle:
+    {{python}} "{{root}}/scripts/refresh_sources.py" oracle
+
+apply-change PLAN:
+    {{python}} "{{root}}/scripts/apply_change.py" --plan "{{PLAN}}" --apply

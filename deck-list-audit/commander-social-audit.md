@@ -1,5 +1,8 @@
 # dunamismax Commander lineup: Bracket 3 and social-power audit
 
+> Historical 2026-08-29 snapshot. Verify current deck hashes and source
+> freshness with `just check-current` before reusing any conclusion.
+
 Audit date: 2026-08-29  
 Source: [live public Moxfield profile](https://moxfield.com/users/dunamismax) and the nine exact exports in [`decks/`](decks/README.md)
 

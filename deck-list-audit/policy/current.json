@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-08-29",
+  "format": "commander",
+  "sources": [
+    {
+      "name": "Commander format and Game Changers",
+      "url": "https://magic.wizards.com/en/formats/commander"
+    },
+    {
+      "name": "Commander Brackets beta update",
+      "url": "https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025"
+    },
+    {
+      "name": "Banned and restricted list",
+      "url": "https://magic.wizards.com/en/banned-restricted-list"
+    }
+  ],
+  "bracket_3": {
+    "game_changer_max": 3,
+    "expected_minimum_turns_before_win_or_loss": 6,
+    "summary": "Upgraded decks with strong synergy, high card quality, and effective interaction; actual play pattern and intent remain controlling.",
+    "required_additional_screening": [
+      "deterministic combos",
+      "tutor density",
+      "fast mana",
+      "extra turns",
+      "mass land denial",
+      "locks",
+      "expected speed",
+      "opponent agency"
+    ]
+  },
+  "notes": "This is a dated human-verified policy lock. Scryfall card legality and game_changer fields are evidence inputs, not substitutes for official policy verification."
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-08-29",
+  "notes": "Overrides are deck-context judgments. Absence is unclassified, not proof that a card lacks a role.",
+  "global": {
+    "Ancient Tomb": ["land", "land_capable", "ramp", "fast_mana"],
+    "Mana Vault": ["ramp", "fast_mana"],
+    "Sol Ring": ["ramp", "fast_mana"]
+  },
+  "decks": {
+    "blor-the-impervious": {
+      "Blor the Impervious": ["commander_engine", "win_condition", "protection"]
+    },
+    "ekthi-contaminator-priest": {
+      "Ekthi, Contaminator Priest": ["commander_engine", "card_advantage", "cost_reduction"]
+    },
+    "kang-prime": {
+      "Kang Prime": ["commander_engine", "cost_reduction", "card_advantage"],
+      "Displacer Kitten": ["commander_engine", "combo_piece"],
+      "One with the Multiverse": ["card_advantage", "cost_reduction", "combo_piece"],
+      "Sensei's Divining Top": ["selection", "combo_piece", "commander_engine"],
+      "Blade of Selves": ["commander_engine", "combo_piece"],
+      "Blightsteel Colossus": ["win_condition", "combo_piece"]
+    },
+    "pantlaza-sun-favored": {
+      "Pantlaza, Sun-Favored": ["commander_engine", "card_advantage", "cost_reduction"],
+      "Savage Order": ["tutor", "protection", "combo_piece"],
+      "Wrathful Raptors": ["win_condition", "combo_piece"],
+      "Apex Altisaur": ["spot_removal", "board_wipe", "combo_piece"]
+    },
+    "henzie-toolbox-torre": {
+      "Mikaeus, the Unhallowed": ["recursion", "combo_piece"],
+      "Viscera Seer": ["selection", "combo_piece"],
+      "Henzie \u201cToolbox\u201d Torre": ["commander_engine", "cost_reduction", "card_advantage"]
+    },
+    "minn-wily-illusionist": {
+      "Minn, Wily Illusionist": ["commander_engine", "card_advantage", "win_condition"],
+      "Teferi, Master of Time": ["selection", "extra_turn"],
+      "Ashnod's Altar": ["ramp", "combo_piece", "commander_engine"],
+      "Blasting Station": ["win_condition", "combo_piece", "commander_engine"]
+    },
+    "magda-brazen-outlaw": {
+      "Magda, Brazen Outlaw": ["commander_engine", "ramp", "tutor"]
+    },
+    "marrow-gnawer": {
+      "Marrow-Gnawer": ["commander_engine", "win_condition"]
+    },
+    "queen-marchesa": {
+      "Queen Marchesa": ["commander_engine", "card_advantage"],
+      "Orcish Bowmasters": ["spot_removal", "win_condition", "combo_piece"],
+      "Flumph": ["card_advantage", "combo_piece"],
+      "Fire Covenant": ["board_wipe", "combo_piece"],
+      "Brash Taunter": ["win_condition", "combo_piece"]
+    }
+  }
+}

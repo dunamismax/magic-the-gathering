@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "collection": {
+    "owner": "dunamismax",
+    "format": "commander",
+    "default_target_bracket": 3,
+    "default_game_changer_max": 3,
+    "default_combo_policy": "disclose",
+    "default_visibility": "public"
+  },
+  "freshness": {
+    "oracle_max_age_days": 2,
+    "policy_max_age_days": 14,
+    "spellbook_max_age_days": 14
+  },
+  "sources": {
+    "scryfall_bulk_index": "https://api.scryfall.com/bulk-data",
+    "commander_spellbook_base": "https://backend.commanderspellbook.com",
+    "moxfield_profile": "https://moxfield.com/users/dunamismax"
+  },
+  "aliases": {
+    "Giantcraft Helm": "Doc Ock's Tentacles",
+    "Egrix the Bile Bulwark": "Gwenom, Remorseless",
+    "Escape Containment": "Incarnation Technique",
+    "Vazin, Two-Faced Trickster": "Chameleon, Master of Disguise",
+    "The Terminus of Return": "The Soul Stone"
+  },
+  "decks": {
+    "blor-the-impervious": {
+      "commanders": ["Blor the Impervious"],
+      "title": "Blor the Impervious | Built Frog Tough",
+      "moxfield_id": "jfWEvfYBHkGi7P1oqzAQww",
+      "source_updated_on": "2026-08-18",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": ["Blor the Impervious"],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Resilient mono-green Voltron with visible combat wins."
+      }
+    },
+    "ekthi-contaminator-priest": {
+      "commanders": ["Ekthi, Contaminator Priest"],
+      "title": "Ekthi, Contaminator Priest | Armed and Contagious",
+      "moxfield_id": "-7GF8IrCdkWIVS667RgA9w",
+      "source_updated_on": "2026-08-28",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": ["Ekthi, Contaminator Priest"],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Living-weapon and Equipment combat with finite, interactable wins."
+      }
+    },
+    "henzie-toolbox-torre": {
+      "commanders": ["Henzie \u201cToolbox\u201d Torre"],
+      "title": "Henzie \u201cToolbox\u201d Torre | Jundyard Shift",
+      "moxfield_id": "hmDd37TPIEaienBhw05Udw",
+      "source_updated_on": "2026-08-19",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Replayable Jund blitz, creature-toolbox, and reanimation gameplay."
+      }
+    },
+    "kang-prime": {
+      "commanders": ["Kang Prime"],
+      "title": "Kang Prime | All in Due Time",
+      "moxfield_id": "Yr7eDw8Ay0-9gX091oXxkA",
+      "source_updated_on": "2026-08-28",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Commander-centric top-deck setup, suspend, blink, and large payloads."
+      }
+    },
+    "magda-brazen-outlaw": {
+      "commanders": ["Magda, Brazen Outlaw"],
+      "title": "Magda, Brazen Outlaw | Dragon Delivery Service",
+      "moxfield_id": "sfMB4JriEkaOXwGSCqoZlw",
+      "source_updated_on": "2026-08-05",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Dwarf, Dragon, and Treasure toolbox without a mandatory compact combo."
+      }
+    },
+    "marrow-gnawer": {
+      "commanders": ["Marrow-Gnawer"],
+      "title": "Marrow-Gnawer | Rats All, Folks!",
+      "moxfield_id": "ih0yHz5lR0iEcRJyRNMpQQ",
+      "source_updated_on": "2026-08-28",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Finite Rat Colony swarm with visible, creature-based pressure."
+      }
+    },
+    "minn-wily-illusionist": {
+      "commanders": ["Minn, Wily Illusionist"],
+      "title": "Minn, Wily Illusionist | Now You See Minn",
+      "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
+      "source_updated_on": "2026-08-28",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": ["The Theorist, Jace Beleren"],
+        "locked_cards": ["The Theorist, Jace Beleren", "Venser's Journal"],
+        "budget": null,
+        "experience": "Illusion and second-draw engine with strong protection and replayable value."
+      }
+    },
+    "pantlaza-sun-favored": {
+      "commanders": ["Pantlaza, Sun-Favored"],
+      "title": "Pantlaza, Sun-Favored | The Land Before Value",
+      "moxfield_id": "zqJp4nSGKEqfbE0Jx1iJJA",
+      "source_updated_on": "2026-08-05",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": ["Maular, the Next Evolution"],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Dinosaur discover and combat deck with commander-specific value."
+      }
+    },
+    "queen-marchesa": {
+      "commanders": ["Queen Marchesa"],
+      "title": "Queen Marchesa | Mardu Your Business",
+      "moxfield_id": "CXl1HrG9uE21A_07vqY3lA",
+      "source_updated_on": "2026-08-04",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Political monarch, goad, gifting, and damage-redirection gameplay."
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "status": "proposed",
+  "deck": "deck-slug",
+  "baseline_sha256": "replace-with-current-64-character-deck-sha256",
+  "game_changer_policy": "no-increase",
+  "adds": [
+    {
+      "name": "Card to Add",
+      "quantity": 1,
+      "reason": "Specific deck-level improvement."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "Card to Cut",
+      "quantity": 1,
+      "reason": "Specific current-list weakness."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "Game Changer policy preserved",
+    "locked cards preserved",
+    "combo and social implications reviewed"
+  ],
+  "notes": "Run without --apply first for a validated diff."
+}

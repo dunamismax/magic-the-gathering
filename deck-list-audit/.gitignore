@@ -1,0 +1,9 @@
+cache/**
+!cache/README.md
+output/**
+!output/.gitkeep
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+changes/applied-local/**

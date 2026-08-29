@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "api_base": "https://backend.commanderspellbook.com",
+  "api_version": "6.2.6",
+  "decks": {
+    "blor-the-impervious": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "783f93000e6eb2a84fdc3d2a5845d661b5d2486ff2f338986fb1d15d7583c482",
+      "estimate_file": "data/spellbook-results/blor-the-impervious-estimate.json",
+      "estimate_sha256": "2733760aff571657ee8512a00168c861b9354a68f222a8c3cb2bde5904fb5507",
+      "combos_file": "data/spellbook-results/blor-the-impervious-combos.json",
+      "combos_sha256": "ed2cd806dd9c6c6c084be40f7cd4a4cd76cc2e2ef814d4ed19b5ae2b82c901bf"
+    },
+    "ekthi-contaminator-priest": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "d5d3c49c35058360144b95d652840d846063eab147aec59095b0acc1535d1b0f",
+      "estimate_file": "data/spellbook-results/ekthi-contaminator-priest-estimate.json",
+      "estimate_sha256": "f85a2c66300db4bbb7e976d375a48230be4497c7b7f698190413825e8c549ecc",
+      "combos_file": "data/spellbook-results/ekthi-contaminator-priest-combos.json",
+      "combos_sha256": "4597ce04a5ad281b0cfa379ee321b254f9b905822ffea38620e9ad51127a94d2"
+    },
+    "henzie-toolbox-torre": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "0d9281f67c547174f75f82dcc27f1291efb81a52c32b321d1b95cf2c383d9a7c",
+      "estimate_file": "data/spellbook-results/henzie-toolbox-torre-estimate.json",
+      "estimate_sha256": "48296b8e2ad09384cd1f5a23f8d413d518f245096d357ea20ced3be1265887eb",
+      "combos_file": "data/spellbook-results/henzie-toolbox-torre-combos.json",
+      "combos_sha256": "50f17115051c05daac5e2d774f30f22db9b297964bdf84c3663a344212907e19"
+    },
+    "kang-prime": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "c8731516f8253181f2ba3cc4f6e4bbb87006c37f84267e4dadb4347dafb71750",
+      "estimate_file": "data/spellbook-results/kang-prime-estimate.json",
+      "estimate_sha256": "a3399fe0e32f01145e7463a0a78bc1dcd9bd82f49a9ee0e05d172003d25b4f9e",
+      "combos_file": "data/spellbook-results/kang-prime-combos.json",
+      "combos_sha256": "08246fb99bbd86948eb4f1c3fc0ce56d16c942b5d3a7d5bb0ab125e26e10fc23"
+    },
+    "magda-brazen-outlaw": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "0d733c5cf8bd2124a5fe1432c1865c883f69f32c0df167f93f4a5fed22cb3eb0",
+      "estimate_file": "data/spellbook-results/magda-brazen-outlaw-estimate.json",
+      "estimate_sha256": "1ddb0e6c27d5fedbbb031a97ca1e455ca889c990be401a314fd96d2976c7faac",
+      "combos_file": "data/spellbook-results/magda-brazen-outlaw-combos.json",
+      "combos_sha256": "0bb6f185e0335f633d2c73c0636ad62a544734f41b4541c9574b6ca403cb4494"
+    },
+    "marrow-gnawer": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "1dc7d9ac2c1047a4bcd7b0428b789a51ccdcdf76f45ce9b46ebc763d2e7498ad",
+      "estimate_file": "data/spellbook-results/marrow-gnawer-estimate.json",
+      "estimate_sha256": "7e4547e670d98c1863705592a46e3657f3adf95a999393c031114af3ce9f121f",
+      "combos_file": "data/spellbook-results/marrow-gnawer-combos.json",
+      "combos_sha256": "61f4a491c8301a0a510d3c8c3e0e046d8d30221ef40085b17b4a3cefafee0aa8"
+    },
+    "minn-wily-illusionist": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "45617889160cc5efce1c8d887bc416e898603617abf50a5c60b5a33d09c62b98",
+      "estimate_file": "data/spellbook-results/minn-wily-illusionist-estimate.json",
+      "estimate_sha256": "c5d04687cca9002e5983eda8ed9209ffbf2fa0d99438a3160c022826a5dc9ece",
+      "combos_file": "data/spellbook-results/minn-wily-illusionist-combos.json",
+      "combos_sha256": "804a884354cec431c3cc710529c7fa33fede677ada6e3f5e6e8c850c589e224a"
+    },
+    "pantlaza-sun-favored": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "64f3c0213085b2df00cc4814e8ae3196ef2d003108c099b8145b93df82a1eb50",
+      "estimate_file": "data/spellbook-results/pantlaza-sun-favored-estimate.json",
+      "estimate_sha256": "ac1c4694e4d2d7c9252345188a376be447e09b18435b5cfd713a0648552e8292",
+      "combos_file": "data/spellbook-results/pantlaza-sun-favored-combos.json",
+      "combos_sha256": "159bf37558c19e1202f881c4dc0c7248638daedd407177665b244a595e15a006"
+    },
+    "queen-marchesa": {
+      "fetched_on": "2026-08-29",
+      "request_sha256": "c56dfe2239910043db6f8c33a0f8962508c8bdc7521ceda8f6e953c5aecc7162",
+      "estimate_file": "data/spellbook-results/queen-marchesa-estimate.json",
+      "estimate_sha256": "062c2c0408a3ccdb750fc25b1989c6c13904b0309ba069df985cfa3aef03402c",
+      "combos_file": "data/spellbook-results/queen-marchesa-combos.json",
+      "combos_sha256": "effe6defc162989c8f63541bbfdcdc0f16db377ddb5eb3e83a17f5cda90fffa7"
+    }
+  }
+}
