@@ -1,0 +1,374 @@
+{
+  "main": [
+    {
+      "card": "Abundant Countryside",
+      "quantity": 1
+    },
+    {
+      "card": "Alpha Deathclaw",
+      "quantity": 1
+    },
+    {
+      "card": "Anger",
+      "quantity": 1
+    },
+    {
+      "card": "Apex Devastator",
+      "quantity": 1
+    },
+    {
+      "card": "Archon of Cruelty",
+      "quantity": 1
+    },
+    {
+      "card": "Assassin's Trophy",
+      "quantity": 1
+    },
+    {
+      "card": "Bala Ged Recovery",
+      "quantity": 1
+    },
+    {
+      "card": "Bane of Progress",
+      "quantity": 1
+    },
+    {
+      "card": "Beast Within",
+      "quantity": 1
+    },
+    {
+      "card": "Birds of Paradise",
+      "quantity": 1
+    },
+    {
+      "card": "Birthing Pod",
+      "quantity": 1
+    },
+    {
+      "card": "Birthing Ritual",
+      "quantity": 1
+    },
+    {
+      "card": "Blasphemous Act",
+      "quantity": 1
+    },
+    {
+      "card": "Blood Crypt",
+      "quantity": 1
+    },
+    {
+      "card": "Bloom Tender",
+      "quantity": 1
+    },
+    {
+      "card": "Blossoming Tortoise",
+      "quantity": 1
+    },
+    {
+      "card": "Bojuka Bog",
+      "quantity": 1
+    },
+    {
+      "card": "Bringer of the Last Gift",
+      "quantity": 1
+    },
+    {
+      "card": "Chainer, Nightmare Adept",
+      "quantity": 1
+    },
+    {
+      "card": "Command Tower",
+      "quantity": 1
+    },
+    {
+      "card": "Deadpool, Trading Card",
+      "quantity": 1
+    },
+    {
+      "card": "Deathcap Glade",
+      "quantity": 1
+    },
+    {
+      "card": "Delighted Halfling",
+      "quantity": 1
+    },
+    {
+      "card": "Disciple of Bolas",
+      "quantity": 1
+    },
+    {
+      "card": "Disciple of Freyalise",
+      "quantity": 1
+    },
+    {
+      "card": "Dragonskull Summit",
+      "quantity": 1
+    },
+    {
+      "card": "Druid of Purification",
+      "quantity": 1
+    },
+    {
+      "card": "Gwenom, Remorseless",
+      "quantity": 1
+    },
+    {
+      "card": "Elves of Deep Shadow",
+      "quantity": 1
+    },
+    {
+      "card": "Incarnation Technique",
+      "quantity": 1
+    },
+    {
+      "card": "Etali, Primal Conqueror",
+      "quantity": 1
+    },
+    {
+      "card": "Evercoat Ursine",
+      "quantity": 1
+    },
+    {
+      "card": "Exotic Orchard",
+      "quantity": 1
+    },
+    {
+      "card": "Fabled Passage",
+      "quantity": 1
+    },
+    {
+      "card": "Farseek",
+      "quantity": 1
+    },
+    {
+      "card": "Forest",
+      "quantity": 6
+    },
+    {
+      "card": "Gray Merchant of Asphodel",
+      "quantity": 1
+    },
+    {
+      "card": "Greater Good",
+      "quantity": 1
+    },
+    {
+      "card": "Grim Servant",
+      "quantity": 1
+    },
+    {
+      "card": "Ignoble Hierarch",
+      "quantity": 1
+    },
+    {
+      "card": "Incinerator of the Guilty",
+      "quantity": 1
+    },
+    {
+      "card": "Industrial Advancement",
+      "quantity": 1
+    },
+    {
+      "card": "Junji, the Midnight Sky",
+      "quantity": 1
+    },
+    {
+      "card": "Kardur, Doomscourge",
+      "quantity": 1
+    },
+    {
+      "card": "Karlach, Fury of Avernus",
+      "quantity": 1
+    },
+    {
+      "card": "Karplusan Forest",
+      "quantity": 1
+    },
+    {
+      "card": "Living Death",
+      "quantity": 1
+    },
+    {
+      "card": "Llanowar Wastes",
+      "quantity": 1
+    },
+    {
+      "card": "Luxury Suite",
+      "quantity": 1
+    },
+    {
+      "card": "Malakir Rebirth",
+      "quantity": 1
+    },
+    {
+      "card": "Massacre Wurm",
+      "quantity": 1
+    },
+    {
+      "card": "Metamorphosis Fanatic",
+      "quantity": 1
+    },
+    {
+      "card": "Mikaeus, the Unhallowed",
+      "quantity": 1
+    },
+    {
+      "card": "Moraug, Fury of Akoum",
+      "quantity": 1
+    },
+    {
+      "card": "Mountain",
+      "quantity": 2
+    },
+    {
+      "card": "Nature's Lore",
+      "quantity": 1
+    },
+    {
+      "card": "Necron Deathmark",
+      "quantity": 1
+    },
+    {
+      "card": "Ojer Kaslem, Deepest Growth",
+      "quantity": 1
+    },
+    {
+      "card": "Overgrown Tomb",
+      "quantity": 1
+    },
+    {
+      "card": "Pathbreaker Ibex",
+      "quantity": 1
+    },
+    {
+      "card": "Plaza of Heroes",
+      "quantity": 1
+    },
+    {
+      "card": "Primaris Eliminator",
+      "quantity": 1
+    },
+    {
+      "card": "Primeval Herald",
+      "quantity": 1
+    },
+    {
+      "card": "Rampant Rejuvenator",
+      "quantity": 1
+    },
+    {
+      "card": "Ravenous Chupacabra",
+      "quantity": 1
+    },
+    {
+      "card": "Riveteers Overlook",
+      "quantity": 1
+    },
+    {
+      "card": "Rockfall Vale",
+      "quantity": 1
+    },
+    {
+      "card": "Rootbound Crag",
+      "quantity": 1
+    },
+    {
+      "card": "Roxanne, Starfall Savant",
+      "quantity": 1
+    },
+    {
+      "card": "Sakura-Tribe Elder",
+      "quantity": 1
+    },
+    {
+      "card": "Seedguide Ash",
+      "quantity": 1
+    },
+    {
+      "card": "Skullclamp",
+      "quantity": 1
+    },
+    {
+      "card": "Solemn Simulacrum",
+      "quantity": 1
+    },
+    {
+      "card": "Spire Garden",
+      "quantity": 1
+    },
+    {
+      "card": "Stomping Ground",
+      "quantity": 1
+    },
+    {
+      "card": "Sulfurous Springs",
+      "quantity": 1
+    },
+    {
+      "card": "Swamp",
+      "quantity": 3
+    },
+    {
+      "card": "Takenuma, Abandoned Mire",
+      "quantity": 1
+    },
+    {
+      "card": "The Notary Hobbits",
+      "quantity": 1
+    },
+    {
+      "card": "Three Visits",
+      "quantity": 1
+    },
+    {
+      "card": "Timeless Witness",
+      "quantity": 1
+    },
+    {
+      "card": "Tom, Bert, and William",
+      "quantity": 1
+    },
+    {
+      "card": "Tortured Existence",
+      "quantity": 1
+    },
+    {
+      "card": "Treeshaker Chimera",
+      "quantity": 1
+    },
+    {
+      "card": "Underground Mortuary",
+      "quantity": 1
+    },
+    {
+      "card": "Undergrowth Stadium",
+      "quantity": 1
+    },
+    {
+      "card": "Viscera Seer",
+      "quantity": 1
+    },
+    {
+      "card": "Wasteland Raider",
+      "quantity": 1
+    },
+    {
+      "card": "Will of the Abzan",
+      "quantity": 1
+    },
+    {
+      "card": "Woodland Cemetery",
+      "quantity": 1
+    },
+    {
+      "card": "Ziatora's Proving Ground",
+      "quantity": 1
+    }
+  ],
+  "commanders": [
+    {
+      "card": "Henzie \"Toolbox\" Torre",
+      "quantity": 1
+    }
+  ]
+}

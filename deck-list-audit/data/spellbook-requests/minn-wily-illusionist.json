@@ -1,0 +1,334 @@
+{
+  "main": [
+    {
+      "card": "Abjure",
+      "quantity": 1
+    },
+    {
+      "card": "Academy Ruins",
+      "quantity": 1
+    },
+    {
+      "card": "Agna Qel'a",
+      "quantity": 1
+    },
+    {
+      "card": "Arcane Denial",
+      "quantity": 1
+    },
+    {
+      "card": "Ashnod's Altar",
+      "quantity": 1
+    },
+    {
+      "card": "Bilbo, Luckwearer",
+      "quantity": 1
+    },
+    {
+      "card": "Blasting Station",
+      "quantity": 1
+    },
+    {
+      "card": "Cephalid Coliseum",
+      "quantity": 1
+    },
+    {
+      "card": "Consecrated Sphinx",
+      "quantity": 1
+    },
+    {
+      "card": "Defiler of Dreams",
+      "quantity": 1
+    },
+    {
+      "card": "Faerie Mastermind",
+      "quantity": 1
+    },
+    {
+      "card": "Fierce Guardianship",
+      "quantity": 1
+    },
+    {
+      "card": "Flare of Denial",
+      "quantity": 1
+    },
+    {
+      "card": "Flooded Strand",
+      "quantity": 1
+    },
+    {
+      "card": "Force of Negation",
+      "quantity": 1
+    },
+    {
+      "card": "Force of Will",
+      "quantity": 1
+    },
+    {
+      "card": "Fountainport",
+      "quantity": 1
+    },
+    {
+      "card": "Fresh Start",
+      "quantity": 1
+    },
+    {
+      "card": "Ghostly Pilferer",
+      "quantity": 1
+    },
+    {
+      "card": "Glasspool Mimic",
+      "quantity": 1
+    },
+    {
+      "card": "Harmonized Trio",
+      "quantity": 1
+    },
+    {
+      "card": "High Market",
+      "quantity": 1
+    },
+    {
+      "card": "Horizon of Progress",
+      "quantity": 1
+    },
+    {
+      "card": "Hydroelectric Specimen",
+      "quantity": 1
+    },
+    {
+      "card": "Island",
+      "quantity": 19
+    },
+    {
+      "card": "Jace, Vryn's Prodigy",
+      "quantity": 1
+    },
+    {
+      "card": "Kindred Discovery",
+      "quantity": 1
+    },
+    {
+      "card": "Kitsa, Otterball Elite",
+      "quantity": 1
+    },
+    {
+      "card": "Krang, the All-Powerful",
+      "quantity": 1
+    },
+    {
+      "card": "Ledger Shredder",
+      "quantity": 1
+    },
+    {
+      "card": "Leyline of Transformation",
+      "quantity": 1
+    },
+    {
+      "card": "Malcolm, Alluring Scoundrel",
+      "quantity": 1
+    },
+    {
+      "card": "Maskwood Nexus",
+      "quantity": 1
+    },
+    {
+      "card": "Minamo, School at Water's Edge",
+      "quantity": 1
+    },
+    {
+      "card": "Mind Stone",
+      "quantity": 1
+    },
+    {
+      "card": "Misty Rainforest",
+      "quantity": 1
+    },
+    {
+      "card": "Molecule Man",
+      "quantity": 1
+    },
+    {
+      "card": "Mutavault",
+      "quantity": 1
+    },
+    {
+      "card": "Mystic Sanctuary",
+      "quantity": 1
+    },
+    {
+      "card": "Nezahal, Primal Tide",
+      "quantity": 1
+    },
+    {
+      "card": "Omni-Changeling",
+      "quantity": 1
+    },
+    {
+      "card": "Otawara, Soaring City",
+      "quantity": 1
+    },
+    {
+      "card": "Pact of Negation",
+      "quantity": 1
+    },
+    {
+      "card": "Perilous Research",
+      "quantity": 1
+    },
+    {
+      "card": "Phantasmal Image",
+      "quantity": 1
+    },
+    {
+      "card": "Phyrexian Altar",
+      "quantity": 1
+    },
+    {
+      "card": "Phyrexian Metamorph",
+      "quantity": 1
+    },
+    {
+      "card": "Polluted Delta",
+      "quantity": 1
+    },
+    {
+      "card": "Pollywog Prodigy",
+      "quantity": 1
+    },
+    {
+      "card": "Proft's Eidetic Memory",
+      "quantity": 1
+    },
+    {
+      "card": "Psychosis Crawler",
+      "quantity": 1
+    },
+    {
+      "card": "Raise the Palisade",
+      "quantity": 1
+    },
+    {
+      "card": "Reliquary Tower",
+      "quantity": 1
+    },
+    {
+      "card": "Resculpt",
+      "quantity": 1
+    },
+    {
+      "card": "Roaming Throne",
+      "quantity": 1
+    },
+    {
+      "card": "Sakashima of a Thousand Faces",
+      "quantity": 1
+    },
+    {
+      "card": "Sakashima the Impostor",
+      "quantity": 1
+    },
+    {
+      "card": "Sapphire Medallion",
+      "quantity": 1
+    },
+    {
+      "card": "Scalding Tarn",
+      "quantity": 1
+    },
+    {
+      "card": "Sensei's Divining Top",
+      "quantity": 1
+    },
+    {
+      "card": "Skullclamp",
+      "quantity": 1
+    },
+    {
+      "card": "Sol Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Spark Double",
+      "quantity": 1
+    },
+    {
+      "card": "Subtlety",
+      "quantity": 1
+    },
+    {
+      "card": "Swan Song",
+      "quantity": 1
+    },
+    {
+      "card": "Teferi, Master of Time",
+      "quantity": 1
+    },
+    {
+      "card": "Teferi's Ageless Insight",
+      "quantity": 1
+    },
+    {
+      "card": "Tetsuko Umezawa, Fugitive",
+      "quantity": 1
+    },
+    {
+      "card": "The Theorist, Jace Beleren",
+      "quantity": 1
+    },
+    {
+      "card": "The Unagi of Kyoshi Island",
+      "quantity": 1
+    },
+    {
+      "card": "Thought Vessel",
+      "quantity": 1
+    },
+    {
+      "card": "Titan of Littjara",
+      "quantity": 1
+    },
+    {
+      "card": "Toothy, Imaginary Friend",
+      "quantity": 1
+    },
+    {
+      "card": "Treachery",
+      "quantity": 1
+    },
+    {
+      "card": "Trophy Mage",
+      "quantity": 1
+    },
+    {
+      "card": "Urza's Saga",
+      "quantity": 1
+    },
+    {
+      "card": "Utter Insignificance",
+      "quantity": 1
+    },
+    {
+      "card": "Venser's Journal",
+      "quantity": 1
+    },
+    {
+      "card": "Wan Shi Tong, Librarian",
+      "quantity": 1
+    },
+    {
+      "card": "Wizard's Staff",
+      "quantity": 1
+    },
+    {
+      "card": "Wonder",
+      "quantity": 1
+    }
+  ],
+  "commanders": [
+    {
+      "card": "Minn, Wily Illusionist",
+      "quantity": 1
+    }
+  ]
+}

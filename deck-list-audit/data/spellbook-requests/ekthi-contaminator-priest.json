@@ -1,0 +1,322 @@
+{
+  "main": [
+    {
+      "card": "Adaptive Omnitool",
+      "quantity": 1
+    },
+    {
+      "card": "Aettir and Priwen",
+      "quantity": 1
+    },
+    {
+      "card": "Akroma's Will",
+      "quantity": 1
+    },
+    {
+      "card": "Ancient Den",
+      "quantity": 1
+    },
+    {
+      "card": "Ancient Tomb",
+      "quantity": 1
+    },
+    {
+      "card": "Arcane Signet",
+      "quantity": 1
+    },
+    {
+      "card": "Armed with Proof",
+      "quantity": 1
+    },
+    {
+      "card": "Austere Command",
+      "quantity": 1
+    },
+    {
+      "card": "Bitterthorn, Nissa's Animus",
+      "quantity": 1
+    },
+    {
+      "card": "Blackblade Reforged",
+      "quantity": 1
+    },
+    {
+      "card": "Bloodforged Battle-Axe",
+      "quantity": 1
+    },
+    {
+      "card": "Brilliant Restoration",
+      "quantity": 1
+    },
+    {
+      "card": "Buster Sword",
+      "quantity": 1
+    },
+    {
+      "card": "Caretaker's Talent",
+      "quantity": 1
+    },
+    {
+      "card": "Castle Ardenvale",
+      "quantity": 1
+    },
+    {
+      "card": "Cid, Freeflier Pilot",
+      "quantity": 1
+    },
+    {
+      "card": "Clever Concealment",
+      "quantity": 1
+    },
+    {
+      "card": "Cloud, Midgar Mercenary",
+      "quantity": 1
+    },
+    {
+      "card": "Codsworth, Handy Helper",
+      "quantity": 1
+    },
+    {
+      "card": "Colossus Hammer",
+      "quantity": 1
+    },
+    {
+      "card": "Commander's Plate",
+      "quantity": 1
+    },
+    {
+      "card": "Dispatch",
+      "quantity": 1
+    },
+    {
+      "card": "Eiganjo, Seat of the Empire",
+      "quantity": 1
+    },
+    {
+      "card": "Emeria, the Sky Ruin",
+      "quantity": 1
+    },
+    {
+      "card": "Enlightened Tutor",
+      "quantity": 1
+    },
+    {
+      "card": "Fabrication Foundry",
+      "quantity": 1
+    },
+    {
+      "card": "Forge Anew",
+      "quantity": 1
+    },
+    {
+      "card": "Generous Gift",
+      "quantity": 1
+    },
+    {
+      "card": "Genji Glove",
+      "quantity": 1
+    },
+    {
+      "card": "Doc Ock's Tentacles",
+      "quantity": 1
+    },
+    {
+      "card": "Glimmer Lens",
+      "quantity": 1
+    },
+    {
+      "card": "Halvar, God of Battle",
+      "quantity": 1
+    },
+    {
+      "card": "Hammer of Nazahn",
+      "quantity": 1
+    },
+    {
+      "card": "Heliod's Intervention",
+      "quantity": 1
+    },
+    {
+      "card": "Hulkbuster Armor",
+      "quantity": 1
+    },
+    {
+      "card": "Idol of Oblivion",
+      "quantity": 1
+    },
+    {
+      "card": "Infested Fleshcutter",
+      "quantity": 1
+    },
+    {
+      "card": "Inquisitorial Rosette",
+      "quantity": 1
+    },
+    {
+      "card": "Inventors' Fair",
+      "quantity": 1
+    },
+    {
+      "card": "Kaldra Compleat",
+      "quantity": 1
+    },
+    {
+      "card": "Kíli the Resourceful",
+      "quantity": 1
+    },
+    {
+      "card": "Land Tax",
+      "quantity": 1
+    },
+    {
+      "card": "Mandibular Kite",
+      "quantity": 1
+    },
+    {
+      "card": "Masterwork of Ingenuity",
+      "quantity": 1
+    },
+    {
+      "card": "Minas Tirith",
+      "quantity": 1
+    },
+    {
+      "card": "Mirrex",
+      "quantity": 1
+    },
+    {
+      "card": "Mithril Coat",
+      "quantity": 1
+    },
+    {
+      "card": "Mondrak, Glory Dominus",
+      "quantity": 1
+    },
+    {
+      "card": "Monumental Henge",
+      "quantity": 1
+    },
+    {
+      "card": "Nettlecyst",
+      "quantity": 1
+    },
+    {
+      "card": "Nykthos, Shrine to Nyx",
+      "quantity": 1
+    },
+    {
+      "card": "Orcrist, Goblin-cleaver",
+      "quantity": 1
+    },
+    {
+      "card": "Paradise Mantle",
+      "quantity": 1
+    },
+    {
+      "card": "Patchwork Banner",
+      "quantity": 1
+    },
+    {
+      "card": "Plains",
+      "quantity": 22
+    },
+    {
+      "card": "Pre-War Formalwear",
+      "quantity": 1
+    },
+    {
+      "card": "Puresteel Paladin",
+      "quantity": 1
+    },
+    {
+      "card": "Reprieve",
+      "quantity": 1
+    },
+    {
+      "card": "Sevinne's Reclamation",
+      "quantity": 1
+    },
+    {
+      "card": "Shadowspear",
+      "quantity": 1
+    },
+    {
+      "card": "Sigarda's Aid",
+      "quantity": 1
+    },
+    {
+      "card": "Skrelv, Defector Mite",
+      "quantity": 1
+    },
+    {
+      "card": "Skullclamp",
+      "quantity": 1
+    },
+    {
+      "card": "Sol Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Sram, Senior Edificer",
+      "quantity": 1
+    },
+    {
+      "card": "Stalactite Dagger",
+      "quantity": 1
+    },
+    {
+      "card": "Steelshaper's Gift",
+      "quantity": 1
+    },
+    {
+      "card": "Stoneforge Mystic",
+      "quantity": 1
+    },
+    {
+      "card": "Strip Mine",
+      "quantity": 1
+    },
+    {
+      "card": "Sunfall",
+      "quantity": 1
+    },
+    {
+      "card": "Sword of Fire and Ice",
+      "quantity": 1
+    },
+    {
+      "card": "Swords to Plowshares",
+      "quantity": 1
+    },
+    {
+      "card": "Swordsman's Steel",
+      "quantity": 1
+    },
+    {
+      "card": "Teferi's Protection",
+      "quantity": 1
+    },
+    {
+      "card": "Umezawa's Jitte",
+      "quantity": 1
+    },
+    {
+      "card": "Urza's Saga",
+      "quantity": 1
+    },
+    {
+      "card": "Vulpine Harvester",
+      "quantity": 1
+    },
+    {
+      "card": "Wrecking Ball Arm",
+      "quantity": 1
+    }
+  ],
+  "commanders": [
+    {
+      "card": "Ekthi, Contaminator Priest",
+      "quantity": 1
+    }
+  ]
+}
