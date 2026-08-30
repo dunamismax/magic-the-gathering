@@ -1,20 +1,22 @@
 {
   "schema_version": 1,
-  "audit_date": "2026-08-29",
-  "audit_sha256": "2a8d801141ab6531465998511a5b8cf6e659724cf2cd3249bbad5a964088ca1d",
-  "collection_sha256": "ecb3ca8d26a8c7705c41a1e4ebe3cae41bf044b963e42c0cc697bd3b708f528a",
-  "decks_readme_sha256": "d97656dfd43ebc80a543a872e7ac0fb4a0d2533d86f69a7fdcbfb277a763f5f3",
-  "collection_summary_sha256": "284bbe66186f885a170f89d2b3d1d6f4f5be64d67c311332889ff25850c206f3",
-  "functional_analysis_sha256": "2e5bfa17aec35d8f8ab15c2a7881bbc179fd8ce3d49d92909da59b13e92c71d7",
+  "audit_date": "2026-08-30",
+  "audit_sha256": "ffb856a2352168da1f420e5cf41d3e9c099b5ae61cbf86df006e15441b2bc632",
+  "collection_sha256": "66beffb8936c82e59a4d7bbf27bb769cf7020a48cc7e63ba8cb0fa0a4a30fb7f",
+  "moxfield_refresh_sha256": "2c9793ecfea54d0fc54efa9ee26ee029ab326d7efc6e22301b1ee3d242e90d00",
+  "decks_readme_sha256": "ba30f89400898809303cfe6ee0f711e1e0d822401a4310df83337afcc3cef24d",
+  "collection_summary_sha256": "047ba0e302ae768226aa98cbff7ef16b7dce6181a2cdc0a55b83b0e9d76540b7",
+  "functional_analysis_sha256": "48c8572e66cb046bcfbc36bbbf33578338663a24e79532203cd984aa737e77ec",
   "deck_sha256": {
-    "blor-the-impervious": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
-    "ekthi-contaminator-priest": "0f83ae8ef56123ddbd3d3946d885ed344c041914b64d6780ee9a7ae40b61259c",
-    "henzie-toolbox-torre": "7f2d64015709c865a4d620589ca1f66bdfa73cecfe0740b92176774d1472a509",
-    "kang-prime": "a9f5e57b173818f59e7c2dcb1e95d8635eb46a492411ac7686a340ab852f03f1",
-    "magda-brazen-outlaw": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
-    "marrow-gnawer": "c1de152a9e9e145ee330fe1a6b319b317846368fe7828ff76c18206a383fa29c",
-    "minn-wily-illusionist": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
-    "pantlaza-sun-favored": "28366513f22b08ba600f9c7fbc3ee2572cc61243cce6e29d4592017d202ff0ad",
-    "queen-marchesa": "511bca15875ea94d53c626b727d950df01806e131fd898d525da68412f15a4aa"
+    "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+    "ekthi-contaminator-priest": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
+    "henzie-toolbox-torre": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb",
+    "kang-prime": "9095b78c618cee0a47dd0af64651d3a711b8aa85361fa42b83a6e7c6709e2f32",
+    "magda-brazen-outlaw": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
+    "marrow-gnawer": "748f7a61f472c885924acd21f2a44d34c0d39b393f0093c32a47ccf9a5c86f63",
+    "minn-wily-illusionist": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
+    "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
+    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
+    "the-fifth-doctor-susan-foreman": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a"
   }
 }

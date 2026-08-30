@@ -47,7 +47,7 @@
   "recertification": {
     "reviewed_on": "2026-08-29",
     "combo_evidence": "manual-card-delta-review-over-preserved-exact-list-scan",
-    "human_report": "commander-social-audit.md",
+    "human_report": "reports/archive/commander-social-audit-2026-08-29.md",
     "current_system_check_passed": true,
     "full_decklist_uploaded": false
   }

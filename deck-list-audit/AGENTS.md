@@ -15,7 +15,8 @@ collection. Treat deck advice and deck edits as stateful, audited work.
    - collection comparison: `collection-review.md`
 4. Treat `decks/*.txt` and `collection.json` as human-owned source files.
    Treat `data/audit.json`, `data/spellbook-requests/`, and `generated/` as
-   generated artifacts.
+   generated artifacts. Use `source_updated_on` for the Moxfield page date and
+   `source_refreshed_on` for the latest verified local download.
 
 ## Non-negotiable audit rules
 
@@ -57,12 +58,16 @@ collection. Treat deck advice and deck edits as stateful, audited work.
 - `just check-current` is required before calling an audit current. If current
   verification is unavailable, state the exact locked snapshot dates.
 - Oracle bulk data may be refreshed locally with `just refresh-oracle`.
-- Moxfield refresh is local-import only: use a user-provided MTGO text export.
+- Moxfield refresh is local-import only. Use a user-provided export or, when
+  explicitly asked to refresh a public collection, Moxfield's public plain-text
+  export UI. Do not treat the displayed update date as proof of an unchanged list.
 - Do not upload a complete private decklist to any third party. Commander
   Spellbook refresh requires both `visibility: public` in `collection.json` and
   the explicit `--allow-deck-upload` command flag.
 
 ## Completion gate
 
-Before finalizing deck work, run `just check`. Report any remaining warning,
-stale external analysis, Rule Zero dependency, or subjective uncertainty.
+Before finalizing deck work, run `just check`. A source refresh may pass with
+explicit `needs-refresh` or `needs-review` warnings; do not relabel those layers
+as current. Report every remaining stale external analysis, Rule Zero dependency,
+or subjective uncertainty.

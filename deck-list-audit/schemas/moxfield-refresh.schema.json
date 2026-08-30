@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dunamismax.local/schemas/moxfield-refresh.schema.json",
+  "type": "object",
+  "required": ["schema_version", "profile_url", "refreshed_on", "method", "deck_count", "decks"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "profile_url": {"type": "string", "format": "uri"},
+    "refreshed_on": {"type": "string", "format": "date"},
+    "deck_count": {"type": "integer", "minimum": 1},
+    "decks": {"type": "object"}
+  }
+}

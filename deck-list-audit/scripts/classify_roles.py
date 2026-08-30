@@ -139,8 +139,12 @@ def build_analysis() -> dict[str, Any]:
     valid_roles = set(taxonomy["roles"])
     combo_cards: dict[str, set[str]] = defaultdict(set)
     combo_hashes: dict[str, str] = {}
+    combo_statuses: dict[str, str] = {}
     for deck_record in combos.get("decks") or []:
-        combo_hashes[deck_record["deck"]] = deck_record["deck_sha256"]
+        status = deck_record.get("status", "reviewed")
+        combo_statuses[deck_record["deck"]] = status
+        if status == "reviewed":
+            combo_hashes[deck_record["deck"]] = deck_record["deck_sha256"]
         for line in deck_record.get("lines") or []:
             if str(line.get("status", "")).startswith("confirmed"):
                 combo_cards[deck_record["deck"]].update(
@@ -220,6 +224,7 @@ def build_analysis() -> dict[str, Any]:
             ),
             "unclassified_nonlands": sorted(unclassified_nonlands),
             "combo_adjudication_current": combo_hashes.get(slug) == deck["deck_sha256"],
+            "combo_adjudication_status": combo_statuses.get(slug, "missing"),
             "cards": card_results,
         }
     return {

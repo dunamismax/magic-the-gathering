@@ -1,10 +1,11 @@
-# dunamismax Commander lineup: Bracket 3 and social-power audit
+# Archived report: dunamismax nine-deck Bracket 3 and social-power audit
 
-> Reviewed 2026-08-29 snapshot. Verify deck hashes and source freshness with
+> Historical snapshot only. The 2026-08-30 refresh changed the lineup and every local deck file.
+> Reviewed against the nine-deck 2026-08-29 snapshot. Verify deck hashes and source freshness with
 > `just check-current` before reusing any conclusion.
 
 Audit date: 2026-08-29  
-Source: the nine exact local lists in [`decks/`](decks/README.md), including
+Source: the nine exact local lists in [`decks/`](../../decks/README.md), including
 user-confirmed Blor, Magda, and Minn changes dated 2026-08-29; public Moxfield
 links are tracked as source references, not treated as silently synchronized.
 

@@ -1,0 +1,386 @@
+{
+  "main": [
+    {
+      "card": "Abzan Falconer",
+      "quantity": 1
+    },
+    {
+      "card": "Adagia, Windswept Bastion",
+      "quantity": 1
+    },
+    {
+      "card": "Adarkar Wastes",
+      "quantity": 1
+    },
+    {
+      "card": "Arcanis the Omnipotent",
+      "quantity": 1
+    },
+    {
+      "card": "Banishing Knack",
+      "quantity": 1
+    },
+    {
+      "card": "Basking Broodscale",
+      "quantity": 1
+    },
+    {
+      "card": "Benthic Biomancer",
+      "quantity": 1
+    },
+    {
+      "card": "Bountiful Promenade",
+      "quantity": 1
+    },
+    {
+      "card": "Breeding Pool",
+      "quantity": 1
+    },
+    {
+      "card": "Brushland",
+      "quantity": 1
+    },
+    {
+      "card": "Bulwark Ox",
+      "quantity": 1
+    },
+    {
+      "card": "Captain America, Living Legend",
+      "quantity": 1
+    },
+    {
+      "card": "City of Brass",
+      "quantity": 1
+    },
+    {
+      "card": "Clever Concealment",
+      "quantity": 1
+    },
+    {
+      "card": "Collective Effort",
+      "quantity": 1
+    },
+    {
+      "card": "Command Tower",
+      "quantity": 1
+    },
+    {
+      "card": "Cosima, God of the Voyage",
+      "quantity": 1
+    },
+    {
+      "card": "Cryptolith Rite",
+      "quantity": 1
+    },
+    {
+      "card": "Danny Pink",
+      "quantity": 1
+    },
+    {
+      "card": "Daring Thief",
+      "quantity": 1
+    },
+    {
+      "card": "Dawnsire, Sunstar Dreadnought",
+      "quantity": 1
+    },
+    {
+      "card": "Dazzling Theater // Prop Room",
+      "quantity": 1
+    },
+    {
+      "card": "Drumbellower",
+      "quantity": 1
+    },
+    {
+      "card": "Dusk Legion Duelist",
+      "quantity": 1
+    },
+    {
+      "card": "Emmara, Soul of the Accord",
+      "quantity": 1
+    },
+    {
+      "card": "Enduring Vitality",
+      "quantity": 1
+    },
+    {
+      "card": "Evolution Witness",
+      "quantity": 1
+    },
+    {
+      "card": "Exotic Orchard",
+      "quantity": 1
+    },
+    {
+      "card": "Fallowsage",
+      "quantity": 1
+    },
+    {
+      "card": "Flooded Strand",
+      "quantity": 1
+    },
+    {
+      "card": "Floodfarm Verge",
+      "quantity": 1
+    },
+    {
+      "card": "Forest",
+      "quantity": 3
+    },
+    {
+      "card": "Formidable Speaker",
+      "quantity": 1
+    },
+    {
+      "card": "Gathering Place",
+      "quantity": 1
+    },
+    {
+      "card": "Glacial Fortress",
+      "quantity": 1
+    },
+    {
+      "card": "Gleaming Bastion",
+      "quantity": 1
+    },
+    {
+      "card": "Gran-Gran",
+      "quantity": 1
+    },
+    {
+      "card": "Hallowed Fountain",
+      "quantity": 1
+    },
+    {
+      "card": "Harmonized Trio",
+      "quantity": 1
+    },
+    {
+      "card": "Hinterland Harbor",
+      "quantity": 1
+    },
+    {
+      "card": "Horizon Canopy",
+      "quantity": 1
+    },
+    {
+      "card": "Hushwood Verge",
+      "quantity": 1
+    },
+    {
+      "card": "Incubation Druid",
+      "quantity": 1
+    },
+    {
+      "card": "Inspiring Call",
+      "quantity": 1
+    },
+    {
+      "card": "Island",
+      "quantity": 3
+    },
+    {
+      "card": "Jiang Yanggu, Wildcrafter",
+      "quantity": 1
+    },
+    {
+      "card": "Kami of Whispered Hopes",
+      "quantity": 1
+    },
+    {
+      "card": "Kona, Rescue Beastie",
+      "quantity": 1
+    },
+    {
+      "card": "Mana Confluence",
+      "quantity": 1
+    },
+    {
+      "card": "Mechan Navigator",
+      "quantity": 1
+    },
+    {
+      "card": "Midnight Crusader Shuttle",
+      "quantity": 1
+    },
+    {
+      "card": "Mighty Servant of Leuk-o",
+      "quantity": 1
+    },
+    {
+      "card": "Mistmeadow Vanisher",
+      "quantity": 1
+    },
+    {
+      "card": "Misty Rainforest",
+      "quantity": 1
+    },
+    {
+      "card": "Mole Module",
+      "quantity": 1
+    },
+    {
+      "card": "N'Yami-Class Mother Ship",
+      "quantity": 1
+    },
+    {
+      "card": "Nature's Claim",
+      "quantity": 1
+    },
+    {
+      "card": "Nautiloid Ship",
+      "quantity": 1
+    },
+    {
+      "card": "Plains",
+      "quantity": 2
+    },
+    {
+      "card": "Possession Engine",
+      "quantity": 1
+    },
+    {
+      "card": "Recon Craft Theta",
+      "quantity": 1
+    },
+    {
+      "card": "Reflecting Pool",
+      "quantity": 1
+    },
+    {
+      "card": "Rejuvenating Springs",
+      "quantity": 1
+    },
+    {
+      "card": "Retraction Helix",
+      "quantity": 1
+    },
+    {
+      "card": "Rip, Spawn Hunter",
+      "quantity": 1
+    },
+    {
+      "card": "Salvation Engine",
+      "quantity": 1
+    },
+    {
+      "card": "Sanwell, Avenger Ace",
+      "quantity": 1
+    },
+    {
+      "card": "Saryth, the Viper's Fang",
+      "quantity": 1
+    },
+    {
+      "card": "Sea of Clouds",
+      "quantity": 1
+    },
+    {
+      "card": "Skysovereign, Consul Flagship",
+      "quantity": 1
+    },
+    {
+      "card": "Song of Freyalise",
+      "quantity": 1
+    },
+    {
+      "card": "Split Up",
+      "quantity": 1
+    },
+    {
+      "card": "Starting Town",
+      "quantity": 1
+    },
+    {
+      "card": "Sunpetal Grove",
+      "quantity": 1
+    },
+    {
+      "card": "Surgehacker Mech",
+      "quantity": 1
+    },
+    {
+      "card": "TARDIS",
+      "quantity": 1
+    },
+    {
+      "card": "Temple Garden",
+      "quantity": 1
+    },
+    {
+      "card": "The Indomitable",
+      "quantity": 1
+    },
+    {
+      "card": "The Thanos-Copter",
+      "quantity": 1
+    },
+    {
+      "card": "Thousand-Year Elixir",
+      "quantity": 1
+    },
+    {
+      "card": "Thunderhawk Gunship",
+      "quantity": 1
+    },
+    {
+      "card": "Thunderous Velocipede",
+      "quantity": 1
+    },
+    {
+      "card": "Tui and La, Moon and Ocean",
+      "quantity": 1
+    },
+    {
+      "card": "Unidentified Hovership",
+      "quantity": 1
+    },
+    {
+      "card": "Unswerving Sloth",
+      "quantity": 1
+    },
+    {
+      "card": "Uthros Research Craft",
+      "quantity": 1
+    },
+    {
+      "card": "Waterlogged Grove",
+      "quantity": 1
+    },
+    {
+      "card": "Wave Goodbye",
+      "quantity": 1
+    },
+    {
+      "card": "Weatherlight",
+      "quantity": 1
+    },
+    {
+      "card": "Willowrush Verge",
+      "quantity": 1
+    },
+    {
+      "card": "Windswept Heath",
+      "quantity": 1
+    },
+    {
+      "card": "Wylie Duke, Atiin Hero",
+      "quantity": 1
+    },
+    {
+      "card": "Yavimaya Coast",
+      "quantity": 1
+    }
+  ],
+  "commanders": [
+    {
+      "card": "Susan Foreman",
+      "quantity": 1
+    },
+    {
+      "card": "The Fifth Doctor",
+      "quantity": 1
+    }
+  ]
+}

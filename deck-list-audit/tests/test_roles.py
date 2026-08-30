@@ -16,15 +16,26 @@ class RoleAnalysisTests(unittest.TestCase):
     def setUpClass(cls) -> None:
         cls.analysis = build_analysis()
 
-    def test_all_combo_adjudications_match_current_decks(self) -> None:
+    def test_combo_reviews_match_every_current_deck_hash(self) -> None:
         for deck in self.analysis["decks"].values():
             self.assertTrue(deck["combo_adjudication_current"])
+            self.assertEqual(deck["combo_adjudication_status"], "reviewed")
 
-    def test_confirmed_kang_combo_pieces_are_structured(self) -> None:
+    def test_superseded_kang_combos_are_not_carried_forward(self) -> None:
         kang = self.analysis["decks"]["kang-prime"]
-        self.assertGreaterEqual(kang["role_counts"]["combo_piece"], 5)
         top = next(card for card in kang["cards"] if card["name"] == "Sensei's Divining Top")
-        self.assertEqual(top["roles"]["combo_piece"], "confirmed-combo")
+        self.assertNotEqual(top["roles"].get("combo_piece"), "confirmed-combo")
+
+    def test_current_confirmed_combo_roles_are_scoped_to_working_lines(self) -> None:
+        queen = self.analysis["decks"]["queen-marchesa"]
+        queen_cards = {card["name"]: card for card in queen["cards"]}
+        self.assertEqual(
+            queen_cards["Arcbond"]["roles"].get("combo_piece"),
+            "confirmed-combo",
+        )
+        henzie = self.analysis["decks"]["henzie-toolbox-torre"]
+        seer = next(card for card in henzie["cards"] if card["name"] == "Viscera Seer")
+        self.assertNotEqual(seer["roles"].get("combo_piece"), "confirmed-combo")
 
     def test_normal_lands_are_not_counted_as_ramp(self) -> None:
         for deck in self.analysis["decks"].values():
@@ -43,6 +54,13 @@ class RoleAnalysisTests(unittest.TestCase):
         self.assertNotIn("card_advantage", oneirophage["roles"])
         self.assertNotIn("card_advantage", read_the_runes["roles"])
         self.assertEqual(read_the_runes["roles"]["selection"], "override")
+
+    def test_partner_commanders_receive_collection_specific_roles(self) -> None:
+        deck = self.analysis["decks"]["the-fifth-doctor-susan-foreman"]
+        fifth = next(card for card in deck["cards"] if card["name"] == "The Fifth Doctor")
+        susan = next(card for card in deck["cards"] if card["name"] == "Susan Foreman")
+        self.assertEqual(fifth["roles"]["commander_engine"], "override")
+        self.assertEqual(susan["roles"]["ramp"], "override")
 
 
 if __name__ == "__main__":

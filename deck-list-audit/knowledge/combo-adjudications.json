@@ -1,163 +1,177 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-08-29",
+  "reviewed_on": "2026-08-30",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
+  "archive": "reports/archive/combo-adjudications-2026-08-29.json",
+  "notes": "Every record below is tied to the exact current deck hash, a 2026-08-30 full-list Commander Spellbook scan, and a manual prerequisite review of the returned candidates and newer cards.",
   "decks": [
     {
       "deck": "blor-the-impervious",
-      "deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
-      "summary": "The prior exact-list scan returned no complete combo. A current delta review found two Pip-Boy 3000 variants, both requiring absent cards, and no Creeping Renaissance variants; combat one-shots remain sharp finite lines.",
-      "delta_evidence": {
-        "reviewed_on": "2026-08-29",
-        "source": "Commander Spellbook variants API exact-card-name queries plus current-list intersection",
-        "queries": [
-          {"card": "Pip-Boy 3000", "variants_returned": 2, "complete_current_list_matches": 0},
-          {"card": "Creeping Renaissance", "variants_returned": 0, "complete_current_list_matches": 0}
-        ]
-      },
+      "deck_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Manual review found no loop among Selvala, Devoted Druid, Pip-Boy 3000, Bear Umbra, or the Equipment-copy package; the deck's sharp finishes remain finite commander-damage attacks.",
       "lines": []
     },
     {
       "deck": "ekthi-contaminator-priest",
-      "deck_sha256": "0f83ae8ef56123ddbd3d3946d885ed344c041914b64d6780ee9a7ae40b61259c",
-      "summary": "No complete exact-list combo returned; Equipment consistency is the main pressure axis.",
+      "deck_sha256": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Free Equipment movement, token doubling, and Bloodforged Battle-Axe scaling are strong but finite in the current 100.",
       "lines": []
     },
     {
       "deck": "henzie-toolbox-torre",
-      "deck_sha256": "7f2d64015709c865a4d620589ca1f66bdfa73cecfe0740b92176774d1472a509",
-      "summary": "The returned Mikaeus/Seer template is incomplete in this exact list.",
+      "deck_sha256": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 1,
+      "summary": "Commander Spellbook returned the Mikaeus and Viscera Seer template, but the exact list has no qualifying persist creature. Manual review of the death, blitz, and reanimation package found no replacement that closes the loop.",
       "lines": [
         {
           "id": "628-2292--5",
-          "cards": ["Mikaeus, the Unhallowed", "Viscera Seer", "Persist Creature"],
+          "cards": [
+            "Mikaeus, the Unhallowed",
+            "Viscera Seer",
+            "Persist Creature"
+          ],
           "status": "incomplete",
           "classification": "infinite-template",
-          "reason": "No qualifying persist creature is present in the current 100.",
+          "reason": "No creature with persist is present in the current 100.",
           "disclosure_required": false,
-          "source": "commander-spellbook"
+          "source": "commander-spellbook-and-manual-prerequisite-review"
         }
       ]
     },
     {
       "deck": "kang-prime",
-      "deck_sha256": "a9f5e57b173818f59e7c2dcb1e95d8635eb46a492411ac7686a340ab852f03f1",
-      "summary": "Two complete Spellbook lines plus a commander-specific chained-extra-turn risk require disclosure.",
-      "lines": [
-        {
-          "id": "1170-1456-5078--30",
-          "cards": ["Displacer Kitten", "Sensei's Divining Top", "One with the Multiverse", "untapped one-mana rock"],
-          "status": "confirmed",
-          "classification": "infinite-card-draw",
-          "disclosure_required": true,
-          "source": "commander-spellbook"
-        },
-        {
-          "id": "1571-3851",
-          "cards": ["Blightsteel Colossus", "Blade of Selves"],
-          "status": "confirmed",
-          "classification": "compact-table-kill",
-          "disclosure_required": true,
-          "source": "commander-spellbook"
-        },
-        {
-          "id": "manual-kang-extra-turn-banking",
-          "cards": ["Kang the Conqueror", "legend-safe clone or retrigger"],
-          "status": "manual-risk",
-          "classification": "finite-chained-extra-turns",
-          "disclosure_required": true,
-          "source": "manual-rules-review"
-        }
-      ]
+      "deck_sha256": "9095b78c618cee0a47dd0af64651d3a711b8aa85361fa42b83a6e7c6709e2f32",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. The former Displacer Kitten and Blightsteel Colossus lines are absent. Suspend acceleration, duplicated Kang triggers, and added beginning or end phases can generate large finite turns, but the list contains no extra-turn card or deterministic loop.",
+      "lines": []
     },
     {
       "deck": "magda-brazen-outlaw",
-      "deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
-      "summary": "The prior exact-list scan returned no complete combo. A current delta review found no Fíli and Kíli, Joyous variants; Idol of Oblivion's only returned line requires absent, off-color Mind Over Matter. Command-zone tutoring remains a consistency disclosure.",
-      "delta_evidence": {
-        "reviewed_on": "2026-08-29",
-        "source": "Commander Spellbook variants API exact-card-name queries plus current-list intersection",
-        "queries": [
-          {"card": "Fíli and Kíli, Joyous", "variants_returned": 0, "complete_current_list_matches": 0},
-          {"card": "Idol of Oblivion", "variants_returned": 1, "complete_current_list_matches": 0}
-        ]
-      },
+      "deck_sha256": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Dwarven Bloodboiler, Relic of Legends, crew effects, Maskwood Nexus, and Roaming Throne create or double a finite number of Magda triggers because the deck has no repeatable untap engine.",
       "lines": []
     },
     {
       "deck": "marrow-gnawer",
-      "deck_sha256": "c1de152a9e9e145ee330fe1a6b319b317846368fe7828ff76c18206a383fa29c",
-      "summary": "No complete exact-list combo returned after the Thornbite and ripple packages were removed.",
+      "deck_sha256": "748f7a61f472c885924acd21f2a44d34c0d39b393f0093c32a47ccf9a5c86f63",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The refreshed exact-list scan returned no included combo. Illusionist's Bracers, Sting, and Roaming Throne multiply Rat production at bounded turn and combat events; the Thornbite and ripple loops remain absent.",
       "lines": []
     },
     {
       "deck": "minn-wily-illusionist",
-      "deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
-      "summary": "The prior exact-list scan returned no complete combo after Meloku was removed. A current delta review found no Read the Runes or Mask of Memory variants; all Oneirophage variants require absent cards, despite Sensei's Divining Top appearing in some off-color Falco Spara lines. Teferi's extra-turn risk is gone.",
-      "delta_evidence": {
-        "reviewed_on": "2026-08-29",
-        "source": "Commander Spellbook variants API exact-card-name queries plus current-list intersection",
-        "queries": [
-          {"card": "Read the Runes", "variants_returned": 0, "complete_current_list_matches": 0},
-          {"card": "Mask of Memory", "variants_returned": 0, "complete_current_list_matches": 0},
-          {"card": "Oneirophage", "variants_returned": 36, "complete_current_list_matches": 0}
-        ]
-      },
+      "deck_sha256": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Ashnod's Altar, Phyrexian Altar, and Blasting Station convert Illusions into finite value; Homunculus Horde and Krang multiply second-draw triggers but do not retrigger the same draw event or recur a sacrificed token.",
       "lines": []
     },
     {
       "deck": "pantlaza-sun-favored",
-      "deck_sha256": "28366513f22b08ba600f9c7fbc3ee2572cc61243cce6e29d4592017d202ff0ad",
-      "summary": "Three indestructible Apex/Raptors lines are complete; Savage Order is the compact tutored version.",
+      "deck_sha256": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 3,
+      "summary": "All three returned Apex Altisaur and Wrathful Raptors lines are present. They clear opposing creatures and can deal near-infinite damage when opposing bodies keep Apex Altisaur's fight chain going; Savage Order is the compact tutored version and is the list's main Bracket 3 disclosure.",
       "lines": [
         {
           "id": "2488-7167-7391",
-          "cards": ["Apex Altisaur", "Wrathful Raptors", "Savage Order"],
+          "cards": [
+            "Apex Altisaur",
+            "Wrathful Raptors",
+            "Savage Order"
+          ],
           "status": "confirmed",
-          "classification": "tutored-near-infinite-damage",
+          "classification": "tutored-conditional-near-infinite-damage",
           "disclosure_required": true,
-          "source": "commander-spellbook"
+          "source": "commander-spellbook-and-manual-prerequisite-review"
         },
         {
           "id": "2488-6338-7167",
-          "cards": ["Apex Altisaur", "Wrathful Raptors", "Flawless Maneuver"],
+          "cards": [
+            "Apex Altisaur",
+            "Wrathful Raptors",
+            "Flawless Maneuver"
+          ],
           "status": "confirmed",
-          "classification": "near-infinite-damage",
+          "classification": "conditional-near-infinite-damage",
           "disclosure_required": true,
-          "source": "commander-spellbook"
+          "source": "commander-spellbook-and-manual-prerequisite-review"
         },
         {
           "id": "2488-6778-7167",
-          "cards": ["Apex Altisaur", "Wrathful Raptors", "Akroma's Will"],
+          "cards": [
+            "Apex Altisaur",
+            "Wrathful Raptors",
+            "Akroma's Will"
+          ],
           "status": "confirmed",
-          "classification": "near-infinite-damage",
+          "classification": "conditional-near-infinite-damage",
           "disclosure_required": true,
-          "source": "commander-spellbook"
+          "source": "commander-spellbook-and-manual-prerequisite-review"
         }
       ]
     },
     {
       "deck": "queen-marchesa",
-      "deck_sha256": "511bca15875ea94d53c626b727d950df01806e131fd898d525da68412f15a4aa",
-      "summary": "One finite life-limited damage line and one conditional unbounded Bowmasters/Flumph loop are complete.",
+      "deck_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 1,
+      "summary": "Commander Spellbook returned the finite Fire Covenant and Brash Taunter kill. Manual review also found a real but expensive five-card Arcbond loop: copy Arcbond onto Selfless Squire, make both it and Brash Taunter indestructible, then have Brash fight the Squire. The two delayed triggers feed each other while the Squire prevents damage to you.",
       "lines": [
         {
           "id": "220-1203",
-          "cards": ["Fire Covenant", "Brash Taunter"],
+          "cards": [
+            "Fire Covenant",
+            "Brash Taunter"
+          ],
           "status": "confirmed",
           "classification": "finite-life-limited-damage",
           "disclosure_required": false,
           "source": "commander-spellbook"
         },
         {
-          "id": "2677-3862",
-          "cards": ["Orcish Bowmasters", "Flumph", "indestructibility effect"],
+          "id": "manual-queen-double-arcbond",
+          "cards": [
+            "Arcbond",
+            "Return the Favor",
+            "Boros Charm",
+            "Selfless Squire",
+            "Brash Taunter"
+          ],
           "status": "confirmed-conditional",
-          "classification": "unbounded-draw-trigger-loop",
+          "classification": "five-card-unbounded-damage-loop",
+          "reason": "Copy Arcbond so Brash Taunter and Selfless Squire each have its delayed trigger, give both indestructible, and activate Brash Taunter to fight the Squire. Each Arcbond trigger damages the other creature and creates the next trigger; Selfless Squire prevents the damage to you while opponents take every iteration.",
           "disclosure_required": true,
-          "source": "commander-spellbook-and-manual-prerequisite-review"
+          "source": "manual-oracle-and-rules-prerequisite-review"
         }
       ]
+    },
+    {
+      "deck": "the-fifth-doctor-susan-foreman",
+      "deck_sha256": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a",
+      "status": "reviewed",
+      "reviewed_on": "2026-08-30",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Manual review found that Banishing Knack and Retraction Helix lack a free recast and untap engine, Basking Broodscale lacks a counter-removal loop, and the creature untappers produce bounded activations. The deck remains a finite tap, untap, counter, and Vehicle engine.",
+      "lines": []
     }
   ]
 }

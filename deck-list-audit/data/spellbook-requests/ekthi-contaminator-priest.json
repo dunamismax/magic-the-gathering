@@ -17,10 +17,6 @@
       "quantity": 1
     },
     {
-      "card": "Ancient Tomb",
-      "quantity": 1
-    },
-    {
       "card": "Arcane Signet",
       "quantity": 1
     },
@@ -46,6 +42,10 @@
     },
     {
       "card": "Brilliant Restoration",
+      "quantity": 1
+    },
+    {
+      "card": "Buried Ruin",
       "quantity": 1
     },
     {
@@ -89,15 +89,15 @@
       "quantity": 1
     },
     {
+      "card": "Doc Ock's Tentacles",
+      "quantity": 1
+    },
+    {
       "card": "Eiganjo, Seat of the Empire",
       "quantity": 1
     },
     {
       "card": "Emeria, the Sky Ruin",
-      "quantity": 1
-    },
-    {
-      "card": "Enlightened Tutor",
       "quantity": 1
     },
     {
@@ -114,10 +114,6 @@
     },
     {
       "card": "Genji Glove",
-      "quantity": 1
-    },
-    {
-      "card": "Doc Ock's Tentacles",
       "quantity": 1
     },
     {
@@ -166,6 +162,10 @@
     },
     {
       "card": "Land Tax",
+      "quantity": 1
+    },
+    {
+      "card": "Long-Lost Lances",
       "quantity": 1
     },
     {
@@ -261,10 +261,6 @@
       "quantity": 1
     },
     {
-      "card": "Stalactite Dagger",
-      "quantity": 1
-    },
-    {
       "card": "Steelshaper's Gift",
       "quantity": 1
     },
@@ -285,15 +281,15 @@
       "quantity": 1
     },
     {
+      "card": "Sword of the Animist",
+      "quantity": 1
+    },
+    {
       "card": "Swords to Plowshares",
       "quantity": 1
     },
     {
       "card": "Swordsman's Steel",
-      "quantity": 1
-    },
-    {
-      "card": "Teferi's Protection",
       "quantity": 1
     },
     {
@@ -306,6 +302,10 @@
     },
     {
       "card": "Vulpine Harvester",
+      "quantity": 1
+    },
+    {
+      "card": "Witch Enchanter",
       "quantity": 1
     },
     {

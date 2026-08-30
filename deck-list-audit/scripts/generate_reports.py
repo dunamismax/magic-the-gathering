@@ -19,22 +19,25 @@ def deck_readme(collection: dict[str, Any], audit: dict[str, Any]) -> str:
         f"Current local source files were audited on {audit_date}. Every listed deck",
         "is linked to its exact SHA-256 and public Moxfield reference.",
         "",
-        "| Deck | Moxfield reference | Local source updated | Local list | SHA-256 |",
-        "|---|---|---:|---|---|",
+        "| Deck | Target | Moxfield updated | Refreshed locally | Local list | SHA-256 |",
+        "|---|---:|---:|---:|---|---|",
     ]
     for slug, metadata in collection["decks"].items():
         deck = audit["decks"][slug]
         title = str(metadata["title"]).replace("|", "\\|")
         moxfield = f"https://moxfield.com/decks/{metadata['moxfield_id']}"
         lines.append(
-            f"| {title} | [Moxfield]({moxfield}) | {metadata['source_updated_on']} | "
+            f"| [{title}]({moxfield}) | B{metadata['constraints']['target_bracket']} | "
+            f"{metadata['source_updated_on']} | {metadata['source_refreshed_on']} | "
             f"[list]({slug}.txt) | `{deck['deck_sha256']}` |"
         )
     aliases = collection.get("aliases") or {}
     lines.extend(
         [
             "",
-            "The local text files are the source of truth. Alternate/flavor names are",
+            "`Moxfield updated` is the public page date. `Refreshed locally` records",
+            "when the export was last downloaded and verified. The local text files",
+            "are the source of truth. Alternate/flavor names are",
             "resolved to shared Oracle objects before validation:",
             "",
         ]
@@ -55,8 +58,8 @@ def collection_summary(collection: dict[str, Any], audit: dict[str, Any]) -> str
     lines = [
         "# Generated Commander collection summary",
         "",
-        f"Audit date: {audit['audit_date']}  ",
-        f"Oracle snapshot: {audit['inputs']['oracle_source_updated_at']}  ",
+        f"Audit date: {audit['audit_date']}",
+        f"Oracle snapshot: {audit['inputs']['oracle_source_updated_at']}",
         f"Policy lock: {json_load(ROOT / 'policy/current.json')['verified_on']}",
         "",
         "This file contains deterministic construction results. Bracket and social",
@@ -99,6 +102,7 @@ def expected_outputs() -> dict[Path, bytes]:
         "audit_date": audit["audit_date"],
         "audit_sha256": sha256_file(ROOT / "data/audit.json"),
         "collection_sha256": sha256_file(ROOT / "collection.json"),
+        "moxfield_refresh_sha256": sha256_file(ROOT / "data/moxfield-refresh.json"),
         "decks_readme_sha256": sha256_bytes(readme_bytes),
         "collection_summary_sha256": sha256_bytes(summary_bytes),
         "functional_analysis_sha256": sha256_file(

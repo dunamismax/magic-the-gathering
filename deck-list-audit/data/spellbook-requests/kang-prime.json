@@ -9,10 +9,6 @@
       "quantity": 1
     },
     {
-      "card": "Ancient Tomb",
-      "quantity": 1
-    },
-    {
       "card": "Arcane Denial",
       "quantity": 1
     },
@@ -37,15 +33,7 @@
       "quantity": 1
     },
     {
-      "card": "Blightsteel Colossus",
-      "quantity": 1
-    },
-    {
       "card": "Bloodstained Mire",
-      "quantity": 1
-    },
-    {
-      "card": "Bolas's Citadel",
       "quantity": 1
     },
     {
@@ -61,7 +49,23 @@
       "quantity": 1
     },
     {
+      "card": "Castle Vantress",
+      "quantity": 1
+    },
+    {
+      "card": "Cavalier of Gales",
+      "quantity": 1
+    },
+    {
       "card": "Cavern of Souls",
+      "quantity": 1
+    },
+    {
+      "card": "Chameleon, Master of Disguise",
+      "quantity": 1
+    },
+    {
+      "card": "Clockspinning",
       "quantity": 1
     },
     {
@@ -74,6 +78,14 @@
     },
     {
       "card": "Commander's Sphere",
+      "quantity": 1
+    },
+    {
+      "card": "Conjurer's Closet",
+      "quantity": 1
+    },
+    {
+      "card": "Counterspell",
       "quantity": 1
     },
     {
@@ -90,10 +102,6 @@
     },
     {
       "card": "Dimir Signet",
-      "quantity": 1
-    },
-    {
-      "card": "Displacer Kitten",
       "quantity": 1
     },
     {
@@ -117,10 +125,6 @@
       "quantity": 1
     },
     {
-      "card": "Fierce Guardianship",
-      "quantity": 1
-    },
-    {
       "card": "Flooded Strand",
       "quantity": 1
     },
@@ -141,19 +145,11 @@
       "quantity": 1
     },
     {
-      "card": "Kang the Conqueror",
-      "quantity": 1
-    },
-    {
       "card": "Lim-Dûl's Vault",
       "quantity": 1
     },
     {
       "card": "Loki, Lord of Misrule",
-      "quantity": 1
-    },
-    {
-      "card": "Mana Drain",
       "quantity": 1
     },
     {
@@ -205,15 +201,15 @@
       "quantity": 1
     },
     {
+      "card": "Path of Ancestry",
+      "quantity": 1
+    },
+    {
       "card": "Plaza of Heroes",
       "quantity": 1
     },
     {
       "card": "Polluted Delta",
-      "quantity": 1
-    },
-    {
-      "card": "Portal to Phyrexia",
       "quantity": 1
     },
     {
@@ -234,6 +230,10 @@
     },
     {
       "card": "Rune-Scarred Demon",
+      "quantity": 1
+    },
+    {
+      "card": "Runo Stromkirk",
       "quantity": 1
     },
     {
@@ -258,6 +258,10 @@
     },
     {
       "card": "Sensei's Divining Top",
+      "quantity": 1
+    },
+    {
+      "card": "Sepulchral Primordial",
       "quantity": 1
     },
     {
@@ -337,14 +341,6 @@
       "quantity": 1
     },
     {
-      "card": "Urborg, Tomb of Yawgmoth",
-      "quantity": 1
-    },
-    {
-      "card": "Chameleon, Master of Disguise",
-      "quantity": 1
-    },
-    {
       "card": "Verdant Catacombs",
       "quantity": 1
     },
@@ -358,6 +354,10 @@
     },
     {
       "card": "Watery Grave",
+      "quantity": 1
+    },
+    {
+      "card": "Wibbly-wobbly, Timey-wimey",
       "quantity": 1
     },
     {

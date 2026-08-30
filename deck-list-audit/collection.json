@@ -23,46 +23,59 @@
     "Egrix the Bile Bulwark": "Gwenom, Remorseless",
     "Escape Containment": "Incarnation Technique",
     "Vazin, Two-Faced Trickster": "Chameleon, Master of Disguise",
-    "The Terminus of Return": "The Soul Stone"
+    "The Terminus of Return": "The Soul Stone",
+    "Dazzling Theater/Prop Room": "Dazzling Theater // Prop Room"
   },
   "decks": {
     "blor-the-impervious": {
-      "commanders": ["Blor the Impervious"],
+      "commanders": [
+        "Blor the Impervious"
+      ],
       "title": "Blor the Impervious | Built Frog Tough",
       "moxfield_id": "jfWEvfYBHkGi7P1oqzAQww",
-      "source_updated_on": "2026-08-29",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
         "game_changer_max": 3,
         "combo_policy": "disclose",
-        "rule_zero_cards": ["Blor the Impervious"],
+        "rule_zero_cards": [
+          "Blor the Impervious"
+        ],
         "locked_cards": [],
         "budget": null,
         "experience": "Resilient mono-green Voltron with visible combat wins."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "ekthi-contaminator-priest": {
-      "commanders": ["Ekthi, Contaminator Priest"],
+      "commanders": [
+        "Ekthi, Contaminator Priest"
+      ],
       "title": "Ekthi, Contaminator Priest | Armed and Contagious",
       "moxfield_id": "-7GF8IrCdkWIVS667RgA9w",
-      "source_updated_on": "2026-08-28",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
         "game_changer_max": 3,
         "combo_policy": "disclose",
-        "rule_zero_cards": ["Ekthi, Contaminator Priest"],
+        "rule_zero_cards": [
+          "Ekthi, Contaminator Priest"
+        ],
         "locked_cards": [],
         "budget": null,
         "experience": "Living-weapon and Equipment combat with finite, interactable wins."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "henzie-toolbox-torre": {
-      "commanders": ["Henzie \u201cToolbox\u201d Torre"],
-      "title": "Henzie \u201cToolbox\u201d Torre | Jundyard Shift",
+      "commanders": [
+        "Henzie “Toolbox” Torre"
+      ],
+      "title": "Henzie “Toolbox” Torre | Jundyard Shift",
       "moxfield_id": "hmDd37TPIEaienBhw05Udw",
-      "source_updated_on": "2026-08-19",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -72,13 +85,16 @@
         "locked_cards": [],
         "budget": null,
         "experience": "Replayable Jund blitz, creature-toolbox, and reanimation gameplay."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "kang-prime": {
-      "commanders": ["Kang Prime"],
+      "commanders": [
+        "Kang Prime"
+      ],
       "title": "Kang Prime | All in Due Time",
       "moxfield_id": "Yr7eDw8Ay0-9gX091oXxkA",
-      "source_updated_on": "2026-08-28",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -88,13 +104,16 @@
         "locked_cards": [],
         "budget": null,
         "experience": "Commander-centric top-deck setup, suspend, blink, and large payloads."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "magda-brazen-outlaw": {
-      "commanders": ["Magda, Brazen Outlaw"],
+      "commanders": [
+        "Magda, Brazen Outlaw"
+      ],
       "title": "Magda, Brazen Outlaw | Dragon Delivery Service",
       "moxfield_id": "sfMB4JriEkaOXwGSCqoZlw",
-      "source_updated_on": "2026-08-29",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -104,10 +123,13 @@
         "locked_cards": [],
         "budget": null,
         "experience": "Dwarf, Dragon, and Treasure toolbox without a mandatory compact combo."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "marrow-gnawer": {
-      "commanders": ["Marrow-Gnawer"],
+      "commanders": [
+        "Marrow-Gnawer"
+      ],
       "title": "Marrow-Gnawer | Rats All, Folks!",
       "moxfield_id": "ih0yHz5lR0iEcRJyRNMpQQ",
       "source_updated_on": "2026-08-28",
@@ -120,45 +142,61 @@
         "locked_cards": [],
         "budget": null,
         "experience": "Finite Rat Colony swarm with visible, creature-based pressure."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "minn-wily-illusionist": {
-      "commanders": ["Minn, Wily Illusionist"],
+      "commanders": [
+        "Minn, Wily Illusionist"
+      ],
       "title": "Minn, Wily Illusionist | Now You See Minn",
       "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
-      "source_updated_on": "2026-08-29",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
         "game_changer_max": 3,
         "combo_policy": "disclose",
-        "rule_zero_cards": ["The Theorist, Jace Beleren"],
-        "locked_cards": ["The Theorist, Jace Beleren", "Venser's Journal"],
+        "rule_zero_cards": [
+          "The Theorist, Jace Beleren"
+        ],
+        "locked_cards": [
+          "The Theorist, Jace Beleren",
+          "Venser's Journal"
+        ],
         "budget": null,
         "experience": "Illusion and second-draw engine with strong protection and replayable value."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "pantlaza-sun-favored": {
-      "commanders": ["Pantlaza, Sun-Favored"],
+      "commanders": [
+        "Pantlaza, Sun-Favored"
+      ],
       "title": "Pantlaza, Sun-Favored | The Land Before Value",
       "moxfield_id": "zqJp4nSGKEqfbE0Jx1iJJA",
-      "source_updated_on": "2026-08-05",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
         "game_changer_max": 3,
         "combo_policy": "disclose",
-        "rule_zero_cards": ["Maular, the Next Evolution"],
+        "rule_zero_cards": [
+          "Maular, the Next Evolution"
+        ],
         "locked_cards": [],
         "budget": null,
         "experience": "Dinosaur discover and combat deck with commander-specific value."
-      }
+      },
+      "source_refreshed_on": "2026-08-30"
     },
     "queen-marchesa": {
-      "commanders": ["Queen Marchesa"],
+      "commanders": [
+        "Queen Marchesa"
+      ],
       "title": "Queen Marchesa | Mardu Your Business",
       "moxfield_id": "CXl1HrG9uE21A_07vqY3lA",
-      "source_updated_on": "2026-08-04",
+      "source_updated_on": "2026-08-30",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -168,6 +206,27 @@
         "locked_cards": [],
         "budget": null,
         "experience": "Political monarch, goad, gifting, and damage-redirection gameplay."
+      },
+      "source_refreshed_on": "2026-08-30"
+    },
+    "the-fifth-doctor-susan-foreman": {
+      "commanders": [
+        "The Fifth Doctor",
+        "Susan Foreman"
+      ],
+      "title": "The Fifth Doctor + Susan Foreman | Tap That Ash",
+      "moxfield_id": "s8vZJzEHUEq0lgQTvqSV_w",
+      "source_updated_on": "2026-08-30",
+      "source_refreshed_on": "2026-08-30",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 2,
+        "game_changer_max": 0,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Bant tap and untap synergies that turn creatures into +1/+1 counters, cards, and crew for Vehicles and Spacecraft."
       }
     }
   }

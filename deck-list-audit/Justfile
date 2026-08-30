@@ -30,6 +30,8 @@ test:
 lint:
     ruff check "{{root}}/scripts" "{{root}}/tests"
 
+verify: check-current test lint
+
 refresh-oracle:
     {{python}} "{{root}}/scripts/refresh_sources.py" oracle
 

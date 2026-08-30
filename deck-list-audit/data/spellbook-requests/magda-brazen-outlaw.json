@@ -9,10 +9,6 @@
       "quantity": 1
     },
     {
-      "card": "Ancient Tomb",
-      "quantity": 1
-    },
-    {
       "card": "Arena of Glory",
       "quantity": 1
     },
@@ -93,11 +89,11 @@
       "quantity": 1
     },
     {
-      "card": "Firdoch Core",
+      "card": "Fíli and Kíli, Joyous",
       "quantity": 1
     },
     {
-      "card": "Fíli and Kíli, Joyous",
+      "card": "Firdoch Core",
       "quantity": 1
     },
     {
@@ -178,10 +174,14 @@
     },
     {
       "card": "Mountain",
-      "quantity": 23
+      "quantity": 24
     },
     {
       "card": "Mutavault",
+      "quantity": 1
+    },
+    {
+      "card": "Óin the Brave",
       "quantity": 1
     },
     {
@@ -302,10 +302,6 @@
     },
     {
       "card": "Xorn",
-      "quantity": 1
-    },
-    {
-      "card": "Óin the Brave",
       "quantity": 1
     }
   ],

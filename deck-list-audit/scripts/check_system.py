@@ -28,6 +28,7 @@ REQUIRED_FILES = (
     "README.md",
     "Justfile",
     "collection.json",
+    "data/moxfield-refresh.json",
     "policy/current.json",
     "knowledge/combo-adjudications.json",
     "knowledge/role-taxonomy.json",
@@ -104,6 +105,7 @@ def validate_spellbook(
 ) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
+    needs_refresh: list[str] = []
     manifest_path = ROOT / "data/spellbook-results/manifest.json"
     if not manifest_path.exists():
         return ["missing Spellbook evidence manifest"], warnings
@@ -169,12 +171,23 @@ def validate_spellbook(
                 f"{slug} uses a current manual delta review over a dated prior "
                 "exact-list Spellbook scan; no revised full list was uploaded"
             )
+        elif status == "needs-refresh":
+            if record.get("current_request_sha256") != deck["spellbook_request_sha256"]:
+                errors.append(f"Spellbook refresh marker is stale for changed deck: {slug}")
+            if record.get("current_deck_sha256") != deck["deck_sha256"]:
+                errors.append(f"Spellbook refresh marker targets the wrong deck hash: {slug}")
+            if not record.get("invalidated_on"):
+                errors.append(f"Spellbook refresh marker has no invalidation date: {slug}")
+            needs_refresh.append(slug)
+            evidence_date = None
         else:
             errors.append(f"unknown Spellbook evidence status for {slug}: {status}")
         for file_key, hash_key in (
             ("estimate_file", "estimate_sha256"),
             ("combos_file", "combos_sha256"),
         ):
+            if not record.get(file_key) and not record.get(hash_key):
+                continue
             path = ROOT / str(record.get(file_key, ""))
             if not path.exists():
                 errors.append(f"missing Spellbook result for {slug}: {path}")
@@ -186,12 +199,24 @@ def validate_spellbook(
             errors.append(
                 f"Spellbook evidence for {slug} is older than {freshness} days"
             )
+    if needs_refresh:
+        warnings.append(
+            "exact-list Spellbook refresh needed: " + ", ".join(needs_refresh)
+        )
+        if require_current:
+            errors.append(
+                "current Spellbook evidence is unavailable for: "
+                + ", ".join(needs_refresh)
+            )
     return errors, warnings
 
 
-def validate_adjudications(audit: dict[str, Any]) -> tuple[list[str], list[str]]:
+def validate_adjudications(
+    audit: dict[str, Any], *, require_current: bool = False
+) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
+    needs_review: list[str] = []
     knowledge = json_load(ROOT / "knowledge/combo-adjudications.json")
     covered: set[str] = set()
     for record in knowledge.get("decks") or []:
@@ -202,9 +227,23 @@ def validate_adjudications(audit: dict[str, Any]) -> tuple[list[str], list[str]]
         covered.add(slug)
         if record.get("deck_sha256") != audit["decks"][slug]["deck_sha256"]:
             errors.append(f"stale combo adjudication for changed deck: {slug}")
+        status = record.get("status", "reviewed")
+        if status == "needs-review":
+            if not record.get("invalidated_on"):
+                errors.append(f"combo review marker has no invalidation date: {slug}")
+            needs_review.append(slug)
+        elif status != "reviewed":
+            errors.append(f"unknown combo adjudication status for {slug}: {status}")
     missing = sorted(set(audit["decks"]) - covered)
     if missing:
         errors.append(f"decks without combo adjudication records: {', '.join(missing)}")
+    if needs_review:
+        warnings.append("exact-list combo review needed: " + ", ".join(needs_review))
+        if require_current:
+            errors.append(
+                "current combo adjudication is unavailable for: "
+                + ", ".join(needs_review)
+            )
     return errors, warnings
 
 
@@ -260,6 +299,30 @@ def validate_request_hash_formula(audit: dict[str, Any]) -> list[str]:
     return errors
 
 
+def validate_moxfield_refresh(audit: dict[str, Any]) -> list[str]:
+    errors: list[str] = []
+    collection = json_load(ROOT / "collection.json")
+    refresh = json_load(ROOT / "data/moxfield-refresh.json")
+    records = refresh.get("decks") or {}
+    expected_slugs = set(collection["decks"])
+    if set(records) != expected_slugs:
+        errors.append("Moxfield refresh manifest deck set does not match collection.json")
+    if refresh.get("deck_count") != len(expected_slugs):
+        errors.append("Moxfield refresh manifest deck count is incorrect")
+    if refresh.get("profile_url") != collection["sources"]["moxfield_profile"]:
+        errors.append("Moxfield refresh manifest profile URL is incorrect")
+    for slug, metadata in collection["decks"].items():
+        record = records.get(slug) or {}
+        for key in ("title", "moxfield_id", "source_updated_on"):
+            if record.get(key) != metadata.get(key):
+                errors.append(f"Moxfield refresh metadata mismatch for {slug}: {key}")
+        if record.get("refreshed_on") != metadata.get("source_refreshed_on"):
+            errors.append(f"Moxfield refresh date mismatch for {slug}")
+        if record.get("deck_sha256") != audit["decks"][slug]["deck_sha256"]:
+            errors.append(f"Moxfield refresh hash mismatch for {slug}")
+    return errors
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--doctor", action="store_true")
@@ -278,13 +341,16 @@ def main() -> int:
             )
             errors.extend(spellbook_errors)
             warnings.extend(spellbook_warnings)
-            adjudication_errors, adjudication_warnings = validate_adjudications(audit)
+            adjudication_errors, adjudication_warnings = validate_adjudications(
+                audit, require_current=args.require_current
+            )
             errors.extend(adjudication_errors)
             warnings.extend(adjudication_warnings)
             report_errors, report_warnings = validate_social_report(audit)
             errors.extend(report_errors)
             warnings.extend(report_warnings)
             errors.extend(validate_request_hash_formula(audit))
+            errors.extend(validate_moxfield_refresh(audit))
             if args.require_current:
                 errors.extend(validate_current_sources(date.today()))
 

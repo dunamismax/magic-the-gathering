@@ -1,6 +1,5 @@
 1 Academy Manufactor
 1 Ancient Copper Dragon
-1 Ancient Tomb
 1 Arena of Glory
 1 Atsushi, the Blazing Sky
 1 Axgard Cavalry
@@ -21,8 +20,8 @@
 1 Dwarven Bloodboiler
 1 Dwarven Mine
 1 Fable of the Mirror-Breaker
-1 Firdoch Core
 1 Fíli and Kíli, Joyous
+1 Firdoch Core
 1 Ganax, Astral Hunter
 1 Glóin the Mighty
 1 Glóin, Dwarf Emissary
@@ -42,8 +41,9 @@
 1 Mines of Moria
 1 Mithril Coat
 1 Molten Echoes
-23 Mountain
+24 Mountain
 1 Mutavault
+1 Óin the Brave
 1 Paradise Mantle
 1 Parapet Thrasher
 1 Plaza of Heroes
@@ -74,6 +74,4 @@
 1 Utvara Hellkite
 1 Wild Magic Surge
 1 Xorn
-1 Óin the Brave
-
 1 Magda, Brazen Outlaw

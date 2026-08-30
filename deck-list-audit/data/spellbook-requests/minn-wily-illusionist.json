@@ -1,10 +1,6 @@
 {
   "main": [
     {
-      "card": "Abjure",
-      "quantity": 1
-    },
-    {
       "card": "Academy Ruins",
       "quantity": 1
     },
@@ -13,7 +9,11 @@
       "quantity": 1
     },
     {
-      "card": "Arcane Denial",
+      "card": "Alandra, Sky Dreamer",
+      "quantity": 1
+    },
+    {
+      "card": "Arcanis the Omnipotent",
       "quantity": 1
     },
     {
@@ -29,11 +29,19 @@
       "quantity": 1
     },
     {
+      "card": "Brainstorm",
+      "quantity": 1
+    },
+    {
       "card": "Cephalid Coliseum",
       "quantity": 1
     },
     {
-      "card": "Consecrated Sphinx",
+      "card": "Chasm Skulker",
+      "quantity": 1
+    },
+    {
+      "card": "Curiosity Crafter",
       "quantity": 1
     },
     {
@@ -41,19 +49,11 @@
       "quantity": 1
     },
     {
+      "card": "Drowned Rusalka",
+      "quantity": 1
+    },
+    {
       "card": "Faerie Mastermind",
-      "quantity": 1
-    },
-    {
-      "card": "Flare of Denial",
-      "quantity": 1
-    },
-    {
-      "card": "Flooded Strand",
-      "quantity": 1
-    },
-    {
-      "card": "Force of Negation",
       "quantity": 1
     },
     {
@@ -81,6 +81,10 @@
       "quantity": 1
     },
     {
+      "card": "Homunculus Horde",
+      "quantity": 1
+    },
+    {
       "card": "Horizon of Progress",
       "quantity": 1
     },
@@ -90,7 +94,7 @@
     },
     {
       "card": "Island",
-      "quantity": 19
+      "quantity": 23
     },
     {
       "card": "Jace, Vryn's Prodigy",
@@ -137,15 +141,15 @@
       "quantity": 1
     },
     {
-      "card": "Misty Rainforest",
-      "quantity": 1
-    },
-    {
       "card": "Molecule Man",
       "quantity": 1
     },
     {
       "card": "Mutavault",
+      "quantity": 1
+    },
+    {
+      "card": "Mystic Remora",
       "quantity": 1
     },
     {
@@ -169,10 +173,6 @@
       "quantity": 1
     },
     {
-      "card": "Pact of Negation",
-      "quantity": 1
-    },
-    {
       "card": "Perilous Research",
       "quantity": 1
     },
@@ -186,10 +186,6 @@
     },
     {
       "card": "Phyrexian Metamorph",
-      "quantity": 1
-    },
-    {
-      "card": "Polluted Delta",
       "quantity": 1
     },
     {
@@ -237,14 +233,6 @@
       "quantity": 1
     },
     {
-      "card": "Scalding Tarn",
-      "quantity": 1
-    },
-    {
-      "card": "Sensei's Divining Top",
-      "quantity": 1
-    },
-    {
       "card": "Skullclamp",
       "quantity": 1
     },
@@ -254,14 +242,6 @@
     },
     {
       "card": "Spark Double",
-      "quantity": 1
-    },
-    {
-      "card": "Subtlety",
-      "quantity": 1
-    },
-    {
-      "card": "Swan Song",
       "quantity": 1
     },
     {
@@ -306,6 +286,10 @@
     },
     {
       "card": "Utter Insignificance",
+      "quantity": 1
+    },
+    {
+      "card": "Vanishing",
       "quantity": 1
     },
     {

@@ -5,10 +5,6 @@
       "quantity": 1
     },
     {
-      "card": "Ancient Tomb",
-      "quantity": 1
-    },
-    {
       "card": "Arbor Elf",
       "quantity": 1
     },
@@ -29,6 +25,10 @@
       "quantity": 1
     },
     {
+      "card": "Beast Within",
+      "quantity": 1
+    },
+    {
       "card": "Berserk",
       "quantity": 1
     },
@@ -38,6 +38,10 @@
     },
     {
       "card": "Bloodforged Battle-Axe",
+      "quantity": 1
+    },
+    {
+      "card": "Bone Sabres",
       "quantity": 1
     },
     {
@@ -102,7 +106,7 @@
     },
     {
       "card": "Forest",
-      "quantity": 24
+      "quantity": 25
     },
     {
       "card": "Fyndhorn Elves",
@@ -150,10 +154,6 @@
     },
     {
       "card": "Level Up",
-      "quantity": 1
-    },
-    {
-      "card": "Lion Umbra",
       "quantity": 1
     },
     {
@@ -242,10 +242,6 @@
     },
     {
       "card": "Strong Back",
-      "quantity": 1
-    },
-    {
-      "card": "Super Combo",
       "quantity": 1
     },
     {

@@ -5,15 +5,7 @@
       "quantity": 1
     },
     {
-      "card": "Ancient Tomb",
-      "quantity": 1
-    },
-    {
       "card": "Apex Altisaur",
-      "quantity": 1
-    },
-    {
-      "card": "Arcane Signet",
       "quantity": 1
     },
     {
@@ -85,6 +77,10 @@
       "quantity": 1
     },
     {
+      "card": "Deflecting Swat",
+      "quantity": 1
+    },
+    {
       "card": "Devil Dinosaur",
       "quantity": 1
     },
@@ -109,7 +105,7 @@
       "quantity": 1
     },
     {
-      "card": "Elemental Bond",
+      "card": "Eladamri's Call",
       "quantity": 1
     },
     {
@@ -125,19 +121,11 @@
       "quantity": 1
     },
     {
-      "card": "Eternal Witness",
-      "quantity": 1
-    },
-    {
       "card": "Fanatic of Rhonas",
       "quantity": 1
     },
     {
       "card": "Finale of Devastation",
-      "quantity": 1
-    },
-    {
-      "card": "Flaming Tyrannosaurus",
       "quantity": 1
     },
     {
@@ -161,10 +149,6 @@
       "quantity": 1
     },
     {
-      "card": "Gishath, Sun's Avatar",
-      "quantity": 1
-    },
-    {
       "card": "Greater Good",
       "quantity": 1
     },
@@ -174,6 +158,10 @@
     },
     {
       "card": "Hulking Raptor",
+      "quantity": 1
+    },
+    {
+      "card": "Hunting Velociraptor",
       "quantity": 1
     },
     {
@@ -197,7 +185,15 @@
       "quantity": 1
     },
     {
+      "card": "Legion's Initiative",
+      "quantity": 1
+    },
+    {
       "card": "Luminous Broodmoth",
+      "quantity": 1
+    },
+    {
+      "card": "Mana Confluence",
       "quantity": 1
     },
     {
@@ -206,10 +202,6 @@
     },
     {
       "card": "Maular, the Next Evolution",
-      "quantity": 1
-    },
-    {
-      "card": "Mirari's Wake",
       "quantity": 1
     },
     {
@@ -225,8 +217,16 @@
       "quantity": 1
     },
     {
+      "card": "Parting Gust",
+      "quantity": 1
+    },
+    {
       "card": "Plains",
       "quantity": 3
+    },
+    {
+      "card": "Radagast of Rhosgobel",
+      "quantity": 1
     },
     {
       "card": "Ravenous Tyrannosaurus",
@@ -234,6 +234,10 @@
     },
     {
       "card": "Reflecting Pool",
+      "quantity": 1
+    },
+    {
+      "card": "Regal Behemoth",
       "quantity": 1
     },
     {
@@ -245,7 +249,7 @@
       "quantity": 1
     },
     {
-      "card": "Runic Armasaur",
+      "card": "Roaming Throne",
       "quantity": 1
     },
     {
@@ -254,14 +258,6 @@
     },
     {
       "card": "Savage Order",
-      "quantity": 1
-    },
-    {
-      "card": "Scion of Calamity",
-      "quantity": 1
-    },
-    {
-      "card": "Shadow in the Warp",
       "quantity": 1
     },
     {
@@ -301,6 +297,10 @@
       "quantity": 1
     },
     {
+      "card": "Swooping Pteranodon",
+      "quantity": 1
+    },
+    {
       "card": "Swords to Plowshares",
       "quantity": 1
     },
@@ -310,6 +310,10 @@
     },
     {
       "card": "Temple Garden",
+      "quantity": 1
+    },
+    {
+      "card": "The Great Henge",
       "quantity": 1
     },
     {
@@ -333,6 +337,10 @@
       "quantity": 1
     },
     {
+      "card": "Urza's Incubator",
+      "quantity": 1
+    },
+    {
       "card": "Vaultborn Tyrant",
       "quantity": 1
     },
@@ -349,15 +357,7 @@
       "quantity": 1
     },
     {
-      "card": "Wood Elves",
-      "quantity": 1
-    },
-    {
       "card": "Wooded Foothills",
-      "quantity": 1
-    },
-    {
-      "card": "Worldly Tutor",
       "quantity": 1
     },
     {

@@ -14,6 +14,10 @@ Before evaluating the deck:
 4. State the date of the audit and link the principal sources used.
 5. If current information cannot be verified, clearly identify which conclusions remain unverified.
 6. Treat unreleased or not-yet-legal cards as Rule Zero/proxy cards rather than normally Commander-legal cards.
+7. Record the exact input list or its SHA-256 so every conclusion is tied to one
+   list state. Normalize alternate and flavor names to shared Oracle objects.
+8. Use local Oracle bulk data when available. Do not upload a complete private
+   list to a third party without explicit authorization.
 
 ## Optional Context
 
@@ -35,6 +39,8 @@ Include tuning recommendations: [YES / NO — DEFAULT YES]
 
 Other hard constraints: [OPTIONAL]
 
+Locked cards: [OPTIONAL]
+
 ## Decklist
 
 [PASTE THE COMPLETE DECKLIST HERE]
@@ -53,7 +59,10 @@ Verify:
 - Exact current Game Changer count and card names
 - Any obvious decklist spelling or card-identification problems
 
-If the list is not legal or is not exactly 100 cards, continue evaluating the submitted list but clearly flag the problem.
+If any card remains unresolved, do not assert legality, Game Changer totals, or
+an official bracket. If the list is illegal or not exactly 100 cards, clearly
+separate limited structural observations from conclusions that require a valid
+exact list.
 
 ### 2. Strategy and Architecture
 
@@ -222,17 +231,13 @@ Rules:
 - Additions and cuts must match exactly.
 - If no sufficiently meaningful improvement exists, write “None” for both lists.
 
-Use this exact format:
+Use one proposed package in this exact format:
 
-**Adds**
 ```text
+Adds
 1 Card Name
-1 Card Name
-```
 
-**Cuts**
-```text
-1 Card Name
+Cuts
 1 Card Name
 ```
 
@@ -340,4 +345,7 @@ Finish with a natural two-to-four-sentence script the pilot can read before a ga
 - Do not mistake zero Game Changers for a low-power deck.
 - Do not mistake three Game Changers for automatic Bracket 3 eligibility.
 - Do not pad the response with generic Commander advice.
+- Treat recommendations as proposed until the user adopts them.
+- Reconstruct the proposed post-swap 100 and rerun count, legality, color
+  identity, Game Changer, release, and combo checks before finalizing.
 - Keep the analysis comprehensive but clean, skimmable, and reasonably concise.

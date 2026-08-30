@@ -1,19 +1,57 @@
-Please review the Commander deck below and identify any clear upgrades or improvements that can be made without increasing the number of Game Changers.
+# Conservative Commander upgrade prompt
 
-Be conservative and focus only on high-impact changes. Do not recommend changes merely for variety or minor optimization. Suggest a cut only when there is a clearly weaker, redundant, inefficient, or poorly synergistic card, and suggest an addition only when it is a meaningful upgrade for the deck’s strategy.
+Review the exact Commander deck below and recommend only clear, high-impact
+improvements. Preserve its identity, intended experience, budget, locked cards,
+Rule Zero context, combo policy, and Game Changer ceiling.
 
-Keep the response concise and provide two clean lists:
+Before recommending changes:
 
-**Adds**
+1. Machine-count the submitted list and resolve every card to current Oracle
+   data. Separate printed lands from spell/land MDFCs.
+2. Verify commander configuration, singleton rules, color identity, legality,
+   release timing, banned cards, and current Game Changers.
+3. Check the exact current 100 for deterministic lines, locks, extra turns, and
+   other social-pressure changes. A combo-database miss is not proof of absence.
+4. Evaluate cards in this deck's plan rather than as generic staples.
+
+Recommend the smallest defensible package, with no more than five swaps and
+fewer when appropriate. Stop when the remaining choices are sidegrades. A cut
+must be clearly weak, redundant, unreliable, inefficient, or misaligned here;
+an addition must materially improve the plan. Do not increase the current Game
+Changer count or introduce a prohibited combo.
+
+Return one proposal, not alternatives. Label it **proposed**. Put the complete
+Adds/Cuts package in one fenced block, with one `1 Card Name` entry per line,
+and keep the rationale outside it:
+
 ```text
+Adds
 1 Card Name
+
+Cuts
 1 Card Name
 ```
 
-**Cuts**
-```text
-1 Card Name
-1 Card Name
-```
+After constructing the proposed 100, rerun every validation and combo/social
+screen. State the before/after card count and Game Changer count. If no material
+improvement exists, say so instead of forcing swaps.
 
-The number of additions and cuts must match. Briefly explain the most important recommendations, but do not provide a lengthy card-by-card review.
+## Context
+
+Deck name: [DECK NAME]
+
+Desired experience: [OPTIONAL]
+
+Intended bracket: [OPTIONAL]
+
+Budget: [OPTIONAL]
+
+Locked cards: [OPTIONAL]
+
+Combo policy: [OPTIONAL]
+
+Other hard constraints: [OPTIONAL]
+
+## Decklist
+
+[PASTE THE COMPLETE CURRENT DECKLIST HERE]

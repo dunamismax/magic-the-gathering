@@ -1,13 +1,14 @@
 1 Adaptive Omnitool
-1 Ancient Tomb
 1 Arbor Elf
 1 Archdruid's Charm
 1 Assault Suit
 1 Basilisk Collar
 1 Bear Umbra
+1 Beast Within
 1 Berserk
 1 Blackblade Reforged
 1 Bloodforged Battle-Axe
+1 Bone Sabres
 1 Boseiju, Who Endures
 1 Brass Knuckles
 1 Buried Ruin
@@ -23,7 +24,7 @@
 1 Eternal Witness
 1 Excalibur, Sword of Eden
 1 Fanatic of Rhonas
-24 Forest
+25 Forest
 1 Fyndhorn Elves
 1 Gemrazer
 1 Genji Glove
@@ -36,7 +37,6 @@
 1 Lavaspur Boots
 1 Legolas's Quick Reflexes
 1 Level Up
-1 Lion Umbra
 1 Llanowar Elves
 1 Mask of Memory
 1 Masterwork of Ingenuity
@@ -59,7 +59,6 @@
 1 Staff of Titania
 1 Strip Mine
 1 Strong Back
-1 Super Combo
 1 Sword of Fire and Ice
 1 Swordsman's Steel
 1 Sylvan Library
@@ -74,5 +73,4 @@
 1 Utopia Sprawl
 1 Wild Growth
 1 Yavimaya, Cradle of Growth
-
 1 Blor the Impervious

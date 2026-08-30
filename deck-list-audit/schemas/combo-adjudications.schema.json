@@ -10,7 +10,10 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["deck", "deck_sha256", "summary", "lines"]
+        "required": ["deck", "deck_sha256", "status", "summary", "lines"],
+        "properties": {
+          "status": {"enum": ["reviewed", "needs-review"]}
+        }
       }
     }
   }

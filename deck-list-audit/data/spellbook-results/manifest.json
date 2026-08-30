@@ -4,115 +4,94 @@
   "api_version": "6.2.6",
   "decks": {
     "blor-the-impervious": {
-      "status": "delta-reviewed",
-      "fetched_on": "2026-08-29",
-      "source_deck_sha256": "09c948821714bc9d2e2a8f220e5842292724cc515bd63e3007ee33bccbc57fa6",
-      "current_deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
-      "request_sha256": "783f93000e6eb2a84fdc3d2a5845d661b5d2486ff2f338986fb1d15d7583c482",
-      "current_request_sha256": "bc00262b0c5bdb95a6e828487503be84df6d1c9b4de2f7546379efdb1e57129d",
-      "delta_reviewed_on": "2026-08-29",
-      "delta_review": {
-        "added": ["Pip-Boy 3000", "Creeping Renaissance"],
-        "removed": ["Mana Vault", "The One Ring"],
-        "method": "Exact card-name Commander Spellbook queries, intersection with the current local list, and manual Oracle review.",
-        "exact_list_upload_performed": false
-      },
+      "status": "exact-list-scan",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "8c9c0c9657b7911cdc4d5bc76100dc43817240ca51880772b70e71ec0789afd1",
       "estimate_file": "data/spellbook-results/blor-the-impervious-estimate.json",
-      "estimate_sha256": "2733760aff571657ee8512a00168c861b9354a68f222a8c3cb2bde5904fb5507",
+      "estimate_sha256": "8a091e2e46caa4678c7c09cb1add03aff5d5b7693f868529c466fb55c3c9fb37",
       "combos_file": "data/spellbook-results/blor-the-impervious-combos.json",
-      "combos_sha256": "ed2cd806dd9c6c6c084be40f7cd4a4cd76cc2e2ef814d4ed19b5ae2b82c901bf"
+      "combos_sha256": "3f68b46eea641005ee0b45dd3f34393332f7c716d91adf9367bae118178a3856"
     },
     "ekthi-contaminator-priest": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-29",
-      "request_sha256": "d5d3c49c35058360144b95d652840d846063eab147aec59095b0acc1535d1b0f",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "fa02ac29a744966bd58720d4193acdcd9ae0bf8fc4fccbb9cb3c28d0592e2cfe",
       "estimate_file": "data/spellbook-results/ekthi-contaminator-priest-estimate.json",
-      "estimate_sha256": "f85a2c66300db4bbb7e976d375a48230be4497c7b7f698190413825e8c549ecc",
+      "estimate_sha256": "8d33a70076ae32fb6f1ea871cf953077c36a6843ebe7cf4c72de6735e55270f1",
       "combos_file": "data/spellbook-results/ekthi-contaminator-priest-combos.json",
-      "combos_sha256": "4597ce04a5ad281b0cfa379ee321b254f9b905822ffea38620e9ad51127a94d2"
+      "combos_sha256": "1027b7b2c5cd19e99368b4ecb9ad95324cabb559db02ec1ca8dec902b9098c67"
     },
     "henzie-toolbox-torre": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-29",
-      "request_sha256": "0d9281f67c547174f75f82dcc27f1291efb81a52c32b321d1b95cf2c383d9a7c",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "e4b9d5025e5da3913a4506c9a921172c588865e1c55b2a7d9836984b6c7b7fb8",
       "estimate_file": "data/spellbook-results/henzie-toolbox-torre-estimate.json",
-      "estimate_sha256": "48296b8e2ad09384cd1f5a23f8d413d518f245096d357ea20ced3be1265887eb",
+      "estimate_sha256": "1ae04337d33cc9feafd53a7c1cc6d0242727c091b76e7f1ae702757ac67ca693",
       "combos_file": "data/spellbook-results/henzie-toolbox-torre-combos.json",
-      "combos_sha256": "50f17115051c05daac5e2d774f30f22db9b297964bdf84c3663a344212907e19"
+      "combos_sha256": "1dc2eb0a3ee8e65962b8de5cf3d9a4ad35cd2b9a4b21bbc7c2ddbea41caaf38b"
     },
     "kang-prime": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-29",
-      "request_sha256": "c8731516f8253181f2ba3cc4f6e4bbb87006c37f84267e4dadb4347dafb71750",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "66189fc9e6e1cefb554ad92a603641346f0a9c637470514d113df1fa247a55ac",
       "estimate_file": "data/spellbook-results/kang-prime-estimate.json",
-      "estimate_sha256": "a3399fe0e32f01145e7463a0a78bc1dcd9bd82f49a9ee0e05d172003d25b4f9e",
+      "estimate_sha256": "2d3c60bdc76516c50e72603d4483018e9eb91782b569442c68e1515d4afcffe0",
       "combos_file": "data/spellbook-results/kang-prime-combos.json",
-      "combos_sha256": "08246fb99bbd86948eb4f1c3fc0ce56d16c942b5d3a7d5bb0ab125e26e10fc23"
+      "combos_sha256": "c79d60c70dbab42b9f256f1afe942cb3c4d27e0ad43ea8f2a85a6bd3dc8e4b46"
     },
     "magda-brazen-outlaw": {
-      "status": "delta-reviewed",
-      "fetched_on": "2026-08-29",
-      "source_deck_sha256": "504abcb685cebd0bf11deba27d94ecee76ea23ebbb41b84b8fb421b31c7e58be",
-      "current_deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
-      "request_sha256": "0d733c5cf8bd2124a5fe1432c1865c883f69f32c0df167f93f4a5fed22cb3eb0",
-      "current_request_sha256": "893178698fb5dce0d9ff86677f6445597fa0ffcb96c14f18eb0366dd44509bd6",
-      "delta_reviewed_on": "2026-08-29",
-      "delta_review": {
-        "added": ["Fíli and Kíli, Joyous", "Idol of Oblivion"],
-        "removed": ["The One Ring", "Jeska's Will"],
-        "method": "Exact card-name Commander Spellbook queries, intersection with the current local list, and manual Oracle review.",
-        "exact_list_upload_performed": false
-      },
+      "status": "exact-list-scan",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "90fd396c8339fc4123b4718d5fa77b4a83953c05b6f99d694ead813032838c9d",
       "estimate_file": "data/spellbook-results/magda-brazen-outlaw-estimate.json",
-      "estimate_sha256": "1ddb0e6c27d5fedbbb031a97ca1e455ca889c990be401a314fd96d2976c7faac",
+      "estimate_sha256": "f68f77ea7da823362ca2e96042aa1b7c1bf403ecb55469b7958f830facc3418d",
       "combos_file": "data/spellbook-results/magda-brazen-outlaw-combos.json",
-      "combos_sha256": "0bb6f185e0335f633d2c73c0636ad62a544734f41b4541c9574b6ca403cb4494"
+      "combos_sha256": "54c4d5865ea7d36644892322f6e8c31e73e87057e7503323e0fb4ce0c5a2fe96"
     },
     "marrow-gnawer": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-29",
+      "fetched_on": "2026-08-30",
       "request_sha256": "1dc7d9ac2c1047a4bcd7b0428b789a51ccdcdf76f45ce9b46ebc763d2e7498ad",
       "estimate_file": "data/spellbook-results/marrow-gnawer-estimate.json",
-      "estimate_sha256": "7e4547e670d98c1863705592a46e3657f3adf95a999393c031114af3ce9f121f",
+      "estimate_sha256": "53ac939c4276124be211cfe8b5a1653acd20bd64e4167f177061711f86fcb89a",
       "combos_file": "data/spellbook-results/marrow-gnawer-combos.json",
-      "combos_sha256": "61f4a491c8301a0a510d3c8c3e0e046d8d30221ef40085b17b4a3cefafee0aa8"
+      "combos_sha256": "fb1de6ea6c1b1a0e1baeeef3855dcc6e8a2088cf79dd67baa58f84f89dd96b20"
     },
     "minn-wily-illusionist": {
-      "status": "delta-reviewed",
-      "fetched_on": "2026-08-29",
-      "source_deck_sha256": "67ce5297d7788643b0ec8778ed3ff07fccf7a179e8cd85e143e152009986d2e9",
-      "current_deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
-      "request_sha256": "45617889160cc5efce1c8d887bc416e898603617abf50a5c60b5a33d09c62b98",
-      "current_request_sha256": "e85990b313bc550779c2642140dc5179cf03d07fba615a035dc5abb7c98afde9",
-      "delta_reviewed_on": "2026-08-29",
-      "delta_review": {
-        "added": ["Read the Runes", "Mask of Memory", "Oneirophage"],
-        "removed": ["Force of Will", "Fierce Guardianship", "Teferi, Master of Time"],
-        "method": "Exact card-name Commander Spellbook queries, intersection with the current local list, and manual Oracle review.",
-        "exact_list_upload_performed": false
-      },
+      "status": "exact-list-scan",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "f2d5bf35bb4e94752bde7dde8c5e2991b58f9d09e2ec5bf9d119e608fe0fc607",
       "estimate_file": "data/spellbook-results/minn-wily-illusionist-estimate.json",
-      "estimate_sha256": "c5d04687cca9002e5983eda8ed9209ffbf2fa0d99438a3160c022826a5dc9ece",
+      "estimate_sha256": "645429c37e2f79f4b9bc6fb05783c29755b730b5942a54a93c2d38c36fc5ca5c",
       "combos_file": "data/spellbook-results/minn-wily-illusionist-combos.json",
-      "combos_sha256": "804a884354cec431c3cc710529c7fa33fede677ada6e3f5e6e8c850c589e224a"
+      "combos_sha256": "0d38df6c1ef568726f6a5c4cc474c77c861c29cace0704e1533b97bc37754188"
     },
     "pantlaza-sun-favored": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-29",
-      "request_sha256": "64f3c0213085b2df00cc4814e8ae3196ef2d003108c099b8145b93df82a1eb50",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "dc6d72114b5efb89c6ad8ddc20c5feaa8de24991db19ff9259586592c9e4e8a0",
       "estimate_file": "data/spellbook-results/pantlaza-sun-favored-estimate.json",
-      "estimate_sha256": "ac1c4694e4d2d7c9252345188a376be447e09b18435b5cfd713a0648552e8292",
+      "estimate_sha256": "14ab5a02ddcc62cffad05a6ccae29486590a4011d769b4bc6c70a549e999d930",
       "combos_file": "data/spellbook-results/pantlaza-sun-favored-combos.json",
-      "combos_sha256": "159bf37558c19e1202f881c4dc0c7248638daedd407177665b244a595e15a006"
+      "combos_sha256": "d44a38b8cf075fe6530e5620dcc736420e11ebc955be7895eff5f3858a44ba7a"
     },
     "queen-marchesa": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-29",
-      "request_sha256": "c56dfe2239910043db6f8c33a0f8962508c8bdc7521ceda8f6e953c5aecc7162",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "cbc62f85249637bbdb0583b4c845015128e61838df6e9edf1ce0659e63ed1844",
       "estimate_file": "data/spellbook-results/queen-marchesa-estimate.json",
-      "estimate_sha256": "062c2c0408a3ccdb750fc25b1989c6c13904b0309ba069df985cfa3aef03402c",
+      "estimate_sha256": "30ed4cd68b7748f402007512d438072bea2193d1f7a374be82f0c1f47f3432b0",
       "combos_file": "data/spellbook-results/queen-marchesa-combos.json",
-      "combos_sha256": "effe6defc162989c8f63541bbfdcdc0f16db377ddb5eb3e83a17f5cda90fffa7"
+      "combos_sha256": "f0b1310168b6a7f2678214fcc4207928b041dadf7bc1e6b4f95e65a9a3a69728"
+    },
+    "the-fifth-doctor-susan-foreman": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "5148fb5cd5df10b8337ef70440b618b555712c610bba5801db4156b160624dcb",
+      "estimate_file": "data/spellbook-results/the-fifth-doctor-susan-foreman-estimate.json",
+      "estimate_sha256": "9d4b197af27d14acf2f52cfc74679ae3e7235e96a77c886ec845e19cb8836203",
+      "combos_file": "data/spellbook-results/the-fifth-doctor-susan-foreman-combos.json",
+      "combos_sha256": "8b56afde999bc3924c4698e2766e42577a2d592f10bf438a49ab207857dc3961"
     }
   }
 }

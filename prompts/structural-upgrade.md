@@ -1,48 +1,69 @@
-Please review the Commander deck below and recommend the strongest practical upgrade package without increasing its current number of Game Changers.
+# Structural Commander upgrade prompt
 
-Evaluate the deck as a complete system, not as a collection of isolated cards. Identify any strategic, structural, or functional weaknesses, including problems with the mana curve, land count, ramp, card advantage, interaction, protection, consistency, threat density, win conditions, or overall synergy.
+Review the exact Commander deck below as a complete system and recommend one
+cohesive structural upgrade package. Use this prompt only when broad rebuilding
+or correction of real structural weaknesses is wanted.
 
-You are not limited to direct one-for-one upgrades or replacing cards with others that perform the same role. You may recommend broader structural changes, rebalance card categories, remove weak subthemes, strengthen the deck’s primary game plan, or correct an unfocused strategy when doing so would meaningfully improve the deck.
+First machine-count and resolve the complete list. Verify commander
+configuration, singleton rules, color identity, legality, release timing,
+printed lands versus spell/land MDFCs, banned cards, current Game Changers, and
+known deterministic lines. Use current official policy and Oracle data. Treat a
+combo database as routing evidence rather than a complete verdict.
 
-Be selective, but do not impose an arbitrary limit on the number of changes. Recommend as many coordinated cuts and additions as are genuinely justified to improve the deck. Avoid changes made merely for variety, personal preference, or marginal optimization.
+Assess the mana curve, mana sources, ramp, card flow, selection, tutors,
+interaction, protection, recursion, graveyard control, threat density, closing
+power, resilience, commander dependence, replayability, and weak subthemes.
+Preserve the stated identity and hard constraints unless explicitly authorized
+to change them.
 
-Requirements:
+Recommend as many coordinated swaps as are materially justified, but do not pad
+the package. Adds and cuts must have equal quantities. Do not increase the
+current Game Changer count or introduce a prohibited combo. Return one proposal,
+not a menu of alternatives.
 
-- Do not increase the deck’s current number of Game Changers.
-- Preserve Commander legality and color identity.
-- Keep the final deck at exactly 100 cards.
-- The total number of additions and cuts must match.
-- Treat the recommendations as one cohesive upgrade package; additions and cuts do not need to be direct role-for-role pairs.
-- Prioritize strategic coherence, consistency, resilience, and the deck’s ability to execute and finish its primary game plan.
-- Preserve the deck’s intended identity unless that identity is internally conflicted or preventing the strategy from functioning effectively.
-- If a substantial structural correction is warranted, recommend it clearly rather than restricting the response to a few conservative swaps.
-- Do not pad the lists with marginal changes. If the deck needs only a few changes, keep the package small.
+Use this output:
 
-Use this format:
+## Strategic assessment
 
-## Strategic Assessment
+Explain the main structural problems and the direction of the package.
 
-Briefly explain what the deck is trying to accomplish, its most important weaknesses, and the overall direction of the recommended changes.
-
-## Adds
+## Proposed package
 
 ```text
+Adds
 1 Card Name
+
+Cuts
 1 Card Name
 ```
 
-## Cuts
+## Before and after
 
-```text
-1 Card Name
-1 Card Name
-```
+Provide a compact table for the affected structural categories, card count,
+printed lands, MDFC lands, Game Changers, and known sharp lines.
 
-## Why This Package Works
+## Why the package works
 
-Briefly explain the most important structural improvements and notable synergies. Focus on the package as a whole rather than providing a lengthy card-by-card review.
+Explain the package as a system rather than giving a long card-by-card review.
+Then rerun and report all hard validation, combo, and social-risk checks against
+the resulting exact 100.
 
-Before finalizing, verify that the Adds and Cuts contain the same number of cards and that the recommendations do not increase the deck’s Game Changer count.
+## Context
 
-Decklist:
-[PASTE DECKLIST HERE]
+Deck name: [DECK NAME]
+
+Desired experience: [OPTIONAL]
+
+Intended bracket: [OPTIONAL]
+
+Budget: [OPTIONAL]
+
+Locked cards: [OPTIONAL]
+
+Combo policy: [OPTIONAL]
+
+Other hard constraints: [OPTIONAL]
+
+## Decklist
+
+[PASTE THE COMPLETE CURRENT DECKLIST HERE]

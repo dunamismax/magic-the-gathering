@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "audit_date": "2026-08-29",
+  "audit_date": "2026-08-30",
   "inputs": {
-    "audit_sha256": "2a8d801141ab6531465998511a5b8cf6e659724cf2cd3249bbad5a964088ca1d",
+    "audit_sha256": "ffb856a2352168da1f420e5cf41d3e9c099b5ae61cbf86df006e15441b2bc632",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
-    "overrides_sha256": "7587299ef807cdb0f4dcc7e1f6c9ec84cd043b2dcc8d49376a1b29c067627cd4",
-    "combo_adjudications_sha256": "6a31426c01099a570eb0edebc4178d3345f02c994529816003606d5f245d57a1"
+    "overrides_sha256": "e9d12200a3356e535938c5cdc193603dbb272985fa7fee08221170f81fcb8f7d",
+    "combo_adjudications_sha256": "bcfaf27838bd3a8741552db16b5010cdebbe7cfa262ba9d7f521e4b4608aa029"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",
@@ -15,22 +15,22 @@
   },
   "decks": {
     "blor-the-impervious": {
-      "deck_sha256": "242eb224d8c217e3ba7a1089c3cbf9dfbf1107105148acf0268abe964825f6b4",
+      "deck_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
       "counts_overlap": true,
       "role_counts": {
         "card_advantage": 15,
         "commander_engine": 2,
         "cost_reduction": 5,
-        "fast_mana": 2,
+        "fast_mana": 1,
         "land": 36,
         "land_capable": 36,
         "lock_piece": 2,
         "modal": 5,
         "protection": 4,
-        "ramp": 15,
+        "ramp": 14,
         "recursion": 3,
         "selection": 3,
-        "spot_removal": 5,
+        "spot_removal": 6,
         "tutor": 5,
         "win_condition": 1
       },
@@ -153,22 +153,12 @@
         ],
         "fast_mana": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
           }
         ],
         "land": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Boseiju, Who Endures",
             "quantity": 1,
@@ -186,7 +176,7 @@
           },
           {
             "name": "Forest",
-            "quantity": 24,
+            "quantity": 25,
             "confidence": "deterministic"
           },
           {
@@ -232,11 +222,6 @@
         ],
         "land_capable": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Boseiju, Who Endures",
             "quantity": 1,
             "confidence": "deterministic"
@@ -253,7 +238,7 @@
           },
           {
             "name": "Forest",
-            "quantity": 24,
+            "quantity": 25,
             "confidence": "deterministic"
           },
           {
@@ -359,11 +344,6 @@
           }
         ],
         "ramp": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Archdruid's Charm",
             "quantity": 1,
@@ -476,6 +456,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Beast Within",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Boseiju, Who Endures",
             "quantity": 1,
             "confidence": "heuristic"
@@ -531,7 +516,7 @@
           }
         ]
       },
-      "nonland_role_coverage": 0.6406,
+      "nonland_role_coverage": 0.6562,
       "unclassified_nonlands": [
         "Arbor Elf",
         "Assault Suit",
@@ -540,40 +525,30 @@
         "Berserk",
         "Blackblade Reforged",
         "Bloodforged Battle-Axe",
+        "Bone Sabres",
         "Brass Knuckles",
         "Genji Glove",
         "Inquisitor's Flail",
         "Lavaspur Boots",
-        "Lion Umbra",
         "Masterwork of Ingenuity",
         "Nettlecyst",
         "Power Fist",
         "Ram Through",
         "Song of the Dryads",
         "Staff of Titania",
-        "Super Combo",
         "Tanuki Transplanter",
         "Ulvenwald Tracker",
         "Utopia Sprawl",
         "Wild Growth"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Adaptive Omnitool",
           "quantity": 1,
           "roles": {
             "selection": "heuristic"
-          }
-        },
-        {
-          "name": "Ancient Tomb",
-          "quantity": 1,
-          "roles": {
-            "land": "override",
-            "land_capable": "override",
-            "ramp": "override",
-            "fast_mana": "override"
           }
         },
         {
@@ -607,6 +582,13 @@
           "roles": {}
         },
         {
+          "name": "Beast Within",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
           "name": "Berserk",
           "quantity": 1,
           "roles": {}
@@ -618,6 +600,11 @@
         },
         {
           "name": "Bloodforged Battle-Axe",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Bone Sabres",
           "quantity": 1,
           "roles": {}
         },
@@ -735,7 +722,7 @@
         },
         {
           "name": "Forest",
-          "quantity": 24,
+          "quantity": 25,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
@@ -820,11 +807,6 @@
           "roles": {
             "card_advantage": "heuristic"
           }
-        },
-        {
-          "name": "Lion Umbra",
-          "quantity": 1,
-          "roles": {}
         },
         {
           "name": "Llanowar Elves",
@@ -981,11 +963,6 @@
           }
         },
         {
-          "name": "Super Combo",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Sword of Fire and Ice",
           "quantity": 1,
           "roles": {
@@ -1094,23 +1071,23 @@
       ]
     },
     "ekthi-contaminator-priest": {
-      "deck_sha256": "0f83ae8ef56123ddbd3d3946d885ed344c041914b64d6780ee9a7ae40b61259c",
+      "deck_sha256": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 2,
-        "card_advantage": 15,
+        "card_advantage": 16,
         "commander_engine": 1,
         "cost_reduction": 5,
-        "fast_mana": 2,
+        "fast_mana": 1,
         "land": 34,
-        "land_capable": 34,
-        "modal": 4,
-        "protection": 5,
-        "ramp": 10,
-        "recursion": 8,
+        "land_capable": 35,
+        "modal": 5,
+        "protection": 4,
+        "ramp": 11,
+        "recursion": 9,
         "selection": 2,
-        "spot_removal": 6,
-        "tutor": 6,
+        "spot_removal": 7,
+        "tutor": 5,
         "win_condition": 3
       },
       "role_cards": {
@@ -1129,6 +1106,11 @@
         "card_advantage": [
           {
             "name": "Armed with Proof",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Buried Ruin",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -1239,11 +1221,6 @@
         ],
         "fast_mana": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
@@ -1256,9 +1233,9 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Ancient Tomb",
+            "name": "Buried Ruin",
             "quantity": 1,
-            "confidence": "override"
+            "confidence": "deterministic"
           },
           {
             "name": "Castle Ardenvale",
@@ -1323,9 +1300,9 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Ancient Tomb",
+            "name": "Buried Ruin",
             "quantity": 1,
-            "confidence": "override"
+            "confidence": "deterministic"
           },
           {
             "name": "Castle Ardenvale",
@@ -1381,6 +1358,11 @@
             "name": "Urza's Saga",
             "quantity": 1,
             "confidence": "deterministic"
+          },
+          {
+            "name": "Witch Enchanter",
+            "quantity": 1,
+            "confidence": "deterministic"
           }
         ],
         "modal": [
@@ -1403,6 +1385,11 @@
             "name": "Umezawa's Jitte",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Witch Enchanter",
+            "quantity": 1,
+            "confidence": "deterministic"
           }
         ],
         "protection": [
@@ -1425,19 +1412,9 @@
             "name": "Sword of Fire and Ice",
             "quantity": 1,
             "confidence": "heuristic"
-          },
-          {
-            "name": "Teferi's Protection",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "ramp": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Arcane Signet",
             "quantity": 1,
@@ -1482,11 +1459,26 @@
             "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
+          },
+          {
+            "name": "Sword of the Animist",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Witch Enchanter",
+            "quantity": 1,
+            "confidence": "heuristic"
           }
         ],
         "recursion": [
           {
             "name": "Brilliant Restoration",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Buried Ruin",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -1568,16 +1560,16 @@
             "name": "Umezawa's Jitte",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Witch Enchanter",
+            "quantity": 1,
+            "confidence": "heuristic"
           }
         ],
         "tutor": [
           {
             "name": "Cloud, Midgar Mercenary",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Enlightened Tutor",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -1627,13 +1619,14 @@
         "Bloodforged Battle-Axe",
         "Colossus Hammer",
         "Dispatch",
+        "Doc Ock's Tentacles",
         "Genji Glove",
-        "Giantcraft Helm",
         "Halvar, God of Battle",
         "Hammer of Nazahn",
         "Hulkbuster Armor",
         "Inquisitorial Rosette",
         "Kaldra Compleat",
+        "Long-Lost Lances",
         "Mandibular Kite",
         "Masterwork of Ingenuity",
         "Mithril Coat",
@@ -1641,10 +1634,10 @@
         "Nettlecyst",
         "Shadowspear",
         "Sigarda's Aid",
-        "Stalactite Dagger",
         "Wrecking Ball Arm"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Adaptive Omnitool",
@@ -1672,16 +1665,6 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Ancient Tomb",
-          "quantity": 1,
-          "roles": {
-            "land": "override",
-            "land_capable": "override",
-            "ramp": "override",
-            "fast_mana": "override"
           }
         },
         {
@@ -1727,6 +1710,16 @@
           "name": "Brilliant Restoration",
           "quantity": 1,
           "roles": {
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Buried Ruin",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "card_advantage": "heuristic",
             "recursion": "heuristic"
           }
         },
@@ -1801,6 +1794,11 @@
           "roles": {}
         },
         {
+          "name": "Doc Ock's Tentacles",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Eiganjo, Seat of the Empire",
           "quantity": 1,
           "roles": {
@@ -1816,13 +1814,6 @@
             "land": "deterministic",
             "land_capable": "deterministic",
             "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Enlightened Tutor",
-          "quantity": 1,
-          "roles": {
-            "tutor": "heuristic"
           }
         },
         {
@@ -1850,11 +1841,6 @@
         },
         {
           "name": "Genji Glove",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Giantcraft Helm",
           "quantity": 1,
           "roles": {}
         },
@@ -1934,6 +1920,11 @@
           "roles": {
             "ramp": "heuristic"
           }
+        },
+        {
+          "name": "Long-Lost Lances",
+          "quantity": 1,
+          "roles": {}
         },
         {
           "name": "Mandibular Kite",
@@ -2093,11 +2084,6 @@
           }
         },
         {
-          "name": "Stalactite Dagger",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Steelshaper's Gift",
           "quantity": 1,
           "roles": {
@@ -2136,6 +2122,13 @@
           }
         },
         {
+          "name": "Sword of the Animist",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
           "name": "Swords to Plowshares",
           "quantity": 1,
           "roles": {
@@ -2147,13 +2140,6 @@
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Teferi's Protection",
-          "quantity": 1,
-          "roles": {
-            "protection": "heuristic"
           }
         },
         {
@@ -2181,6 +2167,16 @@
           }
         },
         {
+          "name": "Witch Enchanter",
+          "quantity": 1,
+          "roles": {
+            "land_capable": "deterministic",
+            "modal": "deterministic",
+            "ramp": "heuristic",
+            "spot_removal": "heuristic"
+          }
+        },
+        {
           "name": "Wrecking Ball Arm",
           "quantity": 1,
           "roles": {}
@@ -2197,23 +2193,23 @@
       ]
     },
     "henzie-toolbox-torre": {
-      "deck_sha256": "7f2d64015709c865a4d620589ca1f66bdfa73cecfe0740b92176774d1472a509",
+      "deck_sha256": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb",
       "counts_overlap": true,
       "role_counts": {
-        "board_wipe": 3,
-        "card_advantage": 12,
-        "combo_piece": 2,
+        "board_wipe": 2,
+        "card_advantage": 13,
         "commander_engine": 1,
-        "cost_reduction": 6,
-        "land": 35,
+        "cost_reduction": 5,
+        "fast_mana": 1,
+        "land": 34,
         "land_capable": 38,
-        "modal": 6,
-        "protection": 1,
-        "ramp": 19,
+        "modal": 9,
+        "protection": 2,
+        "ramp": 24,
         "recursion": 11,
-        "selection": 5,
-        "spot_removal": 6,
-        "tutor": 7,
+        "selection": 4,
+        "spot_removal": 8,
+        "tutor": 6,
         "win_condition": 1
       },
       "role_cards": {
@@ -2227,11 +2223,6 @@
             "name": "Blasphemous Act",
             "quantity": 1,
             "confidence": "heuristic"
-          },
-          {
-            "name": "Incinerator of the Guilty",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "card_advantage": [
@@ -2242,6 +2233,11 @@
           },
           {
             "name": "Bala Ged Recovery",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Damage Control Crew",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2276,12 +2272,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Tortured Existence",
+            "name": "Treeshaker Chimera",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
-            "name": "Treeshaker Chimera",
+            "name": "Veil of Summer",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2292,18 +2288,6 @@
           },
           {
             "name": "Henzie \"Toolbox\" Torre",
-            "quantity": 1,
-            "confidence": "override"
-          }
-        ],
-        "combo_piece": [
-          {
-            "name": "Mikaeus, the Unhallowed",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Viscera Seer",
             "quantity": 1,
             "confidence": "override"
           }
@@ -2327,22 +2311,24 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Egrix the Bile Bulwark",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Etali, Primal Conqueror",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
-            "name": "Evercoat Ursine",
+            "name": "Gwenom, Remorseless",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
             "name": "Henzie \"Toolbox\" Torre",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "fast_mana": [
+          {
+            "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
           }
@@ -2390,7 +2376,7 @@
           },
           {
             "name": "Forest",
-            "quantity": 6,
+            "quantity": 5,
             "confidence": "deterministic"
           },
           {
@@ -2536,8 +2522,13 @@
             "confidence": "deterministic"
           },
           {
+            "name": "Fell the Profane",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
             "name": "Forest",
-            "quantity": 6,
+            "quantity": 5,
             "confidence": "deterministic"
           },
           {
@@ -2638,12 +2629,27 @@
         ],
         "modal": [
           {
+            "name": "Atsushi, the Blazing Sky",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Bala Ged Recovery",
             "quantity": 1,
             "confidence": "deterministic"
           },
           {
+            "name": "Damage Control Crew",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Disciple of Freyalise",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Fell the Profane",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -2658,7 +2664,7 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Primaris Eliminator",
+            "name": "Victimize",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2673,11 +2679,21 @@
             "name": "Plaza of Heroes",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Veil of Summer",
+            "quantity": 1,
+            "confidence": "heuristic"
           }
         ],
         "ramp": [
           {
             "name": "Assassin's Trophy",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Atsushi, the Blazing Sky",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2717,7 +2733,22 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Fell the Profane",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Fyndhorn Elves",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Ignoble Hierarch",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Llanowar Elves",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2757,6 +2788,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Sol Ring",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Solemn Simulacrum",
             "quantity": 1,
             "confidence": "heuristic"
@@ -2789,6 +2825,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Damage Control Crew",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Escape Containment",
             "quantity": 1,
             "confidence": "heuristic"
@@ -2799,14 +2840,14 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Metamorphosis Fanatic",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Mikaeus, the Unhallowed",
             "quantity": 1,
             "confidence": "override"
+          },
+          {
+            "name": "Riveteers Ascendancy",
+            "quantity": 1,
+            "confidence": "heuristic"
           },
           {
             "name": "Takenuma, Abandoned Mire",
@@ -2819,11 +2860,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Tortured Existence",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Will of the Abzan",
             "quantity": 1,
             "confidence": "heuristic"
@@ -2832,11 +2868,6 @@
         "selection": [
           {
             "name": "Birthing Ritual",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Evercoat Ursine",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2858,6 +2889,11 @@
         ],
         "spot_removal": [
           {
+            "name": "Abrupt Decay",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Alpha Deathclaw",
             "quantity": 1,
             "confidence": "heuristic"
@@ -2878,7 +2914,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Primaris Eliminator",
+            "name": "Damage Control Crew",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Fell the Profane",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2896,11 +2937,6 @@
           },
           {
             "name": "Farseek",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Grim Servant",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -2933,27 +2969,32 @@
           }
         ]
       },
-      "nonland_role_coverage": 0.7538,
+      "nonland_role_coverage": 0.803,
       "unclassified_nonlands": [
-        "Anger",
         "Bloom Tender",
         "Bringer of the Last Gift",
         "Deadpool, Trading Card",
         "Druid of Purification",
-        "Gray Merchant of Asphodel",
         "Greater Good",
-        "Kardur, Doomscourge",
         "Karlach, Fury of Avernus",
         "Living Death",
+        "Lizard, Connors's Curse",
         "Massacre Wurm",
-        "Moraug, Fury of Akoum",
         "Necron Deathmark",
         "Pathbreaker Ibex",
         "Tom, Bert, and William",
         "Wasteland Raider"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
+        {
+          "name": "Abrupt Decay",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
         {
           "name": "Abundant Countryside",
           "quantity": 1,
@@ -2968,11 +3009,6 @@
           "roles": {
             "spot_removal": "heuristic"
           }
-        },
-        {
-          "name": "Anger",
-          "quantity": 1,
-          "roles": {}
         },
         {
           "name": "Apex Devastator",
@@ -2994,6 +3030,14 @@
           "roles": {
             "ramp": "heuristic",
             "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Atsushi, the Blazing Sky",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "modal": "heuristic"
           }
         },
         {
@@ -3101,6 +3145,16 @@
           }
         },
         {
+          "name": "Damage Control Crew",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "recursion": "heuristic",
+            "spot_removal": "heuristic",
+            "modal": "heuristic"
+          }
+        },
+        {
           "name": "Deadpool, Trading Card",
           "quantity": 1,
           "roles": {}
@@ -3151,13 +3205,6 @@
           "roles": {}
         },
         {
-          "name": "Egrix the Bile Bulwark",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
-          }
-        },
-        {
           "name": "Elves of Deep Shadow",
           "quantity": 1,
           "roles": {
@@ -3177,14 +3224,6 @@
           "roles": {
             "cost_reduction": "heuristic",
             "win_condition": "heuristic"
-          }
-        },
-        {
-          "name": "Evercoat Ursine",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "selection": "heuristic"
           }
         },
         {
@@ -3212,17 +3251,29 @@
           }
         },
         {
+          "name": "Fell the Profane",
+          "quantity": 1,
+          "roles": {
+            "land_capable": "deterministic",
+            "modal": "deterministic",
+            "ramp": "heuristic",
+            "spot_removal": "heuristic"
+          }
+        },
+        {
           "name": "Forest",
-          "quantity": 6,
+          "quantity": 5,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
           }
         },
         {
-          "name": "Gray Merchant of Asphodel",
+          "name": "Fyndhorn Elves",
           "quantity": 1,
-          "roles": {}
+          "roles": {
+            "ramp": "heuristic"
+          }
         },
         {
           "name": "Greater Good",
@@ -3230,10 +3281,10 @@
           "roles": {}
         },
         {
-          "name": "Grim Servant",
+          "name": "Gwenom, Remorseless",
           "quantity": 1,
           "roles": {
-            "tutor": "heuristic"
+            "cost_reduction": "heuristic"
           }
         },
         {
@@ -3241,13 +3292,6 @@
           "quantity": 1,
           "roles": {
             "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Incinerator of the Guilty",
-          "quantity": 1,
-          "roles": {
-            "board_wipe": "heuristic"
           }
         },
         {
@@ -3266,11 +3310,6 @@
           }
         },
         {
-          "name": "Kardur, Doomscourge",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Karlach, Fury of Avernus",
           "quantity": 1,
           "roles": {}
@@ -3287,6 +3326,18 @@
           "name": "Living Death",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Lizard, Connors's Curse",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Llanowar Elves",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
         },
         {
           "name": "Llanowar Wastes",
@@ -3319,24 +3370,11 @@
           "roles": {}
         },
         {
-          "name": "Metamorphosis Fanatic",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
-          }
-        },
-        {
           "name": "Mikaeus, the Unhallowed",
           "quantity": 1,
           "roles": {
-            "recursion": "override",
-            "combo_piece": "override"
+            "recursion": "override"
           }
-        },
-        {
-          "name": "Moraug, Fury of Akoum",
-          "quantity": 1,
-          "roles": {}
         },
         {
           "name": "Mountain",
@@ -3389,14 +3427,6 @@
           }
         },
         {
-          "name": "Primaris Eliminator",
-          "quantity": 1,
-          "roles": {
-            "spot_removal": "heuristic",
-            "modal": "heuristic"
-          }
-        },
-        {
           "name": "Primeval Herald",
           "quantity": 1,
           "roles": {
@@ -3415,6 +3445,13 @@
           "quantity": 1,
           "roles": {
             "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Riveteers Ascendancy",
+          "quantity": 1,
+          "roles": {
+            "recursion": "heuristic"
           }
         },
         {
@@ -3468,6 +3505,14 @@
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Sol Ring",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
           }
         },
         {
@@ -3549,14 +3594,6 @@
           "roles": {}
         },
         {
-          "name": "Tortured Existence",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "recursion": "heuristic"
-          }
-        },
-        {
           "name": "Treeshaker Chimera",
           "quantity": 1,
           "roles": {
@@ -3581,11 +3618,25 @@
           }
         },
         {
+          "name": "Veil of Summer",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Victimize",
+          "quantity": 1,
+          "roles": {
+            "modal": "heuristic"
+          }
+        },
+        {
           "name": "Viscera Seer",
           "quantity": 1,
           "roles": {
-            "selection": "override",
-            "combo_piece": "override"
+            "selection": "override"
           }
         },
         {
@@ -3630,26 +3681,23 @@
       ]
     },
     "kang-prime": {
-      "deck_sha256": "a9f5e57b173818f59e7c2dcb1e95d8635eb46a492411ac7686a340ab852f03f1",
+      "deck_sha256": "9095b78c618cee0a47dd0af64651d3a711b8aa85361fa42b83a6e7c6709e2f32",
       "counts_overlap": true,
       "role_counts": {
-        "card_advantage": 10,
-        "combo_piece": 5,
-        "commander_engine": 4,
-        "cost_reduction": 9,
+        "card_advantage": 12,
+        "commander_engine": 3,
+        "cost_reduction": 7,
         "countermagic": 2,
-        "extra_turn": 1,
-        "fast_mana": 2,
+        "fast_mana": 1,
         "land": 35,
         "land_capable": 36,
         "modal": 2,
         "protection": 2,
-        "ramp": 15,
-        "recursion": 3,
-        "selection": 3,
-        "spot_removal": 6,
-        "tutor": 8,
-        "win_condition": 1
+        "ramp": 14,
+        "recursion": 2,
+        "selection": 6,
+        "spot_removal": 7,
+        "tutor": 8
       },
       "role_cards": {
         "card_advantage": [
@@ -3670,6 +3718,11 @@
           },
           {
             "name": "Brainstorm",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Cavalier of Gales",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -3699,46 +3752,19 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Wibbly-wobbly, Timey-wimey",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Kang Prime",
             "quantity": 1,
             "confidence": "override"
           }
         ],
-        "combo_piece": [
-          {
-            "name": "Blade of Selves",
-            "quantity": 1,
-            "confidence": "confirmed-combo"
-          },
-          {
-            "name": "Blightsteel Colossus",
-            "quantity": 1,
-            "confidence": "confirmed-combo"
-          },
-          {
-            "name": "Displacer Kitten",
-            "quantity": 1,
-            "confidence": "confirmed-combo"
-          },
-          {
-            "name": "One with the Multiverse",
-            "quantity": 1,
-            "confidence": "confirmed-combo"
-          },
-          {
-            "name": "Sensei's Divining Top",
-            "quantity": 1,
-            "confidence": "confirmed-combo"
-          }
-        ],
         "commander_engine": [
           {
             "name": "Blade of Selves",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Displacer Kitten",
             "quantity": 1,
             "confidence": "override"
           },
@@ -3760,22 +3786,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Bolas's Citadel",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Deadly Rollick",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
             "name": "Doom's Time Platform",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Fierce Guardianship",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -3807,24 +3823,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Mana Drain",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "extra_turn": [
-          {
-            "name": "Kang the Conqueror",
+            "name": "Counterspell",
             "quantity": 1,
             "confidence": "heuristic"
           }
         ],
         "fast_mana": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Sol Ring",
             "quantity": 1,
@@ -3838,12 +3842,12 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Ancient Tomb",
+            "name": "Bloodstained Mire",
             "quantity": 1,
-            "confidence": "override"
+            "confidence": "deterministic"
           },
           {
-            "name": "Bloodstained Mire",
+            "name": "Castle Vantress",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -3904,6 +3908,11 @@
           },
           {
             "name": "Otawara, Soaring City",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Path of Ancestry",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -3948,11 +3957,6 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Urborg, Tomb of Yawgmoth",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Verdant Catacombs",
             "quantity": 1,
             "confidence": "deterministic"
@@ -3980,12 +3984,12 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Ancient Tomb",
+            "name": "Bloodstained Mire",
             "quantity": 1,
-            "confidence": "override"
+            "confidence": "deterministic"
           },
           {
-            "name": "Bloodstained Mire",
+            "name": "Castle Vantress",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -4046,6 +4050,11 @@
           },
           {
             "name": "Otawara, Soaring City",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Path of Ancestry",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -4091,11 +4100,6 @@
           },
           {
             "name": "Underground River",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Urborg, Tomb of Yawgmoth",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -4145,11 +4149,6 @@
           }
         ],
         "ramp": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Arcane Signet",
             "quantity": 1,
@@ -4223,24 +4222,34 @@
         ],
         "recursion": [
           {
+            "name": "Chameleon, Master of Disguise",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Multiversal Recruitment",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Portal to Phyrexia",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Vazin, Two-Faced Trickster",
             "quantity": 1,
             "confidence": "heuristic"
           }
         ],
         "selection": [
           {
+            "name": "Castle Vantress",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Cavalier of Gales",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Lim-Dûl's Vault",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Path of Ancestry",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -4256,6 +4265,11 @@
           }
         ],
         "spot_removal": [
+          {
+            "name": "Conjurer's Closet",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
           {
             "name": "Deadly Rollick",
             "quantity": 1,
@@ -4328,19 +4342,13 @@
             "quantity": 1,
             "confidence": "heuristic"
           }
-        ],
-        "win_condition": [
-          {
-            "name": "Blightsteel Colossus",
-            "quantity": 1,
-            "confidence": "override"
-          }
         ]
       },
-      "nonland_role_coverage": 0.6308,
+      "nonland_role_coverage": 0.5846,
       "unclassified_nonlands": [
         "Auton Soldier",
         "Brainsurge",
+        "Clockspinning",
         "Deadeye Navigator",
         "Echo, Perceptive Prodigy",
         "Jhoira's Timebug",
@@ -4349,9 +4357,11 @@
         "Panharmonicon",
         "Paradox Haze",
         "Roaming Throne",
+        "Runo Stromkirk",
         "Sakashima of a Thousand Faces",
         "Sakashima the Impostor",
         "Scroll Rack",
+        "Sepulchral Primordial",
         "Shadow of the Second Sun",
         "Spark Double",
         "Sphinx of the Second Sun",
@@ -4365,6 +4375,7 @@
         "Virtue of Knowledge"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Academy Ruins",
@@ -4379,16 +4390,6 @@
           "quantity": 1,
           "roles": {
             "cost_reduction": "heuristic"
-          }
-        },
-        {
-          "name": "Ancient Tomb",
-          "quantity": 1,
-          "roles": {
-            "land": "override",
-            "land_capable": "override",
-            "ramp": "override",
-            "fast_mana": "override"
           }
         },
         {
@@ -4431,16 +4432,7 @@
           "name": "Blade of Selves",
           "quantity": 1,
           "roles": {
-            "commander_engine": "override",
-            "combo_piece": "confirmed-combo"
-          }
-        },
-        {
-          "name": "Blightsteel Colossus",
-          "quantity": 1,
-          "roles": {
-            "win_condition": "override",
-            "combo_piece": "confirmed-combo"
+            "commander_engine": "override"
           }
         },
         {
@@ -4450,13 +4442,6 @@
             "land": "deterministic",
             "land_capable": "deterministic",
             "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Bolas's Citadel",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
           }
         },
         {
@@ -4479,12 +4464,41 @@
           }
         },
         {
+          "name": "Castle Vantress",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "selection": "heuristic"
+          }
+        },
+        {
+          "name": "Cavalier of Gales",
+          "quantity": 1,
+          "roles": {
+            "selection": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
           "name": "Cavern of Souls",
           "quantity": 1,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
           }
+        },
+        {
+          "name": "Chameleon, Master of Disguise",
+          "quantity": 1,
+          "roles": {
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Clockspinning",
+          "quantity": 1,
+          "roles": {}
         },
         {
           "name": "Coalition Relic",
@@ -4507,6 +4521,20 @@
           "roles": {
             "ramp": "heuristic",
             "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Conjurer's Closet",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Counterspell",
+          "quantity": 1,
+          "roles": {
+            "countermagic": "heuristic"
           }
         },
         {
@@ -4535,14 +4563,6 @@
           "quantity": 1,
           "roles": {
             "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Displacer Kitten",
-          "quantity": 1,
-          "roles": {
-            "commander_engine": "override",
-            "combo_piece": "confirmed-combo"
           }
         },
         {
@@ -4578,13 +4598,6 @@
           "quantity": 1,
           "roles": {
             "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Fierce Guardianship",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
           }
         },
         {
@@ -4625,13 +4638,6 @@
           "roles": {}
         },
         {
-          "name": "Kang the Conqueror",
-          "quantity": 1,
-          "roles": {
-            "extra_turn": "heuristic"
-          }
-        },
-        {
           "name": "Lim-Dûl's Vault",
           "quantity": 1,
           "roles": {
@@ -4642,13 +4648,6 @@
           "name": "Loki, Lord of Misrule",
           "quantity": 1,
           "roles": {}
-        },
-        {
-          "name": "Mana Drain",
-          "quantity": 1,
-          "roles": {
-            "countermagic": "heuristic"
-          }
         },
         {
           "name": "Marsh Flats",
@@ -4716,8 +4715,7 @@
           "quantity": 1,
           "roles": {
             "cost_reduction": "override",
-            "card_advantage": "override",
-            "combo_piece": "confirmed-combo"
+            "card_advantage": "override"
           }
         },
         {
@@ -4740,6 +4738,15 @@
           "roles": {}
         },
         {
+          "name": "Path of Ancestry",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "selection": "heuristic"
+          }
+        },
+        {
           "name": "Plaza of Heroes",
           "quantity": 1,
           "roles": {
@@ -4755,13 +4762,6 @@
             "land": "deterministic",
             "land_capable": "deterministic",
             "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Portal to Phyrexia",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
           }
         },
         {
@@ -4796,6 +4796,11 @@
           "roles": {
             "tutor": "heuristic"
           }
+        },
+        {
+          "name": "Runo Stromkirk",
+          "quantity": 1,
+          "roles": {}
         },
         {
           "name": "Sakashima of a Thousand Faces",
@@ -4836,9 +4841,13 @@
           "roles": {
             "selection": "override",
             "card_advantage": "heuristic",
-            "combo_piece": "confirmed-combo",
             "commander_engine": "override"
           }
+        },
+        {
+          "name": "Sepulchral Primordial",
+          "quantity": 1,
+          "roles": {}
         },
         {
           "name": "Shadow of the Second Sun",
@@ -4962,21 +4971,6 @@
           }
         },
         {
-          "name": "Urborg, Tomb of Yawgmoth",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Vazin, Two-Faced Trickster",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
-          }
-        },
-        {
           "name": "Verdant Catacombs",
           "quantity": 1,
           "roles": {
@@ -5007,6 +5001,13 @@
           }
         },
         {
+          "name": "Wibbly-wobbly, Timey-wimey",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
           "name": "Witch's Cottage",
           "quantity": 1,
           "roles": {
@@ -5033,19 +5034,19 @@
       ]
     },
     "magda-brazen-outlaw": {
-      "deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
+      "deck_sha256": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 3,
         "card_advantage": 11,
         "commander_engine": 3,
         "cost_reduction": 3,
-        "fast_mana": 2,
+        "fast_mana": 1,
         "land": 35,
         "land_capable": 35,
         "modal": 4,
         "protection": 1,
-        "ramp": 24,
+        "ramp": 23,
         "recursion": 1,
         "spot_removal": 3,
         "tutor": 2
@@ -5095,6 +5096,11 @@
             "confidence": "override"
           },
           {
+            "name": "Óin the Brave",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Parapet Thrasher",
             "quantity": 1,
             "confidence": "heuristic"
@@ -5116,11 +5122,6 @@
           },
           {
             "name": "Summon: Bahamut",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Óin the Brave",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -5161,22 +5162,12 @@
         ],
         "fast_mana": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
           }
         ],
         "land": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Arena of Glory",
             "quantity": 1,
@@ -5209,7 +5200,7 @@
           },
           {
             "name": "Mountain",
-            "quantity": 23,
+            "quantity": 24,
             "confidence": "deterministic"
           },
           {
@@ -5240,11 +5231,6 @@
         ],
         "land_capable": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Arena of Glory",
             "quantity": 1,
             "confidence": "deterministic"
@@ -5276,7 +5262,7 @@
           },
           {
             "name": "Mountain",
-            "quantity": 23,
+            "quantity": 24,
             "confidence": "deterministic"
           },
           {
@@ -5336,11 +5322,6 @@
         ],
         "ramp": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Atsushi, the Blazing Sky",
             "quantity": 1,
             "confidence": "heuristic"
@@ -5376,14 +5357,14 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Firdoch Core",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Fíli and Kíli, Joyous",
             "quantity": 1,
             "confidence": "override"
+          },
+          {
+            "name": "Firdoch Core",
+            "quantity": 1,
+            "confidence": "heuristic"
           },
           {
             "name": "Ganax, Astral Hunter",
@@ -5526,6 +5507,7 @@
         "Xorn"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Academy Manufactor",
@@ -5536,16 +5518,6 @@
           "name": "Ancient Copper Dragon",
           "quantity": 1,
           "roles": {}
-        },
-        {
-          "name": "Ancient Tomb",
-          "quantity": 1,
-          "roles": {
-            "land": "override",
-            "land_capable": "override",
-            "ramp": "override",
-            "fast_mana": "override"
-          }
         },
         {
           "name": "Arena of Glory",
@@ -5679,18 +5651,18 @@
           }
         },
         {
-          "name": "Firdoch Core",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
           "name": "Fíli and Kíli, Joyous",
           "quantity": 1,
           "roles": {
             "ramp": "override",
             "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Firdoch Core",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
           }
         },
         {
@@ -5823,7 +5795,7 @@
         },
         {
           "name": "Mountain",
-          "quantity": 23,
+          "quantity": 24,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
@@ -5835,6 +5807,13 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Óin the Brave",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -6034,13 +6013,6 @@
           "roles": {}
         },
         {
-          "name": "Óin the Brave",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
           "name": "Magda, Brazen Outlaw",
           "quantity": 1,
           "roles": {
@@ -6052,7 +6024,7 @@
       ]
     },
     "marrow-gnawer": {
-      "deck_sha256": "c1de152a9e9e145ee330fe1a6b319b317846368fe7828ff76c18206a383fa29c",
+      "deck_sha256": "748f7a61f472c885924acd21f2a44d34c0d39b393f0093c32a47ccf9a5c86f63",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 1,
@@ -6370,7 +6342,7 @@
             "confidence": "override"
           },
           {
-            "name": "The Terminus of Return",
+            "name": "The Soul Stone",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -6412,7 +6384,7 @@
             "confidence": "heuristic"
           },
           {
-            "name": "The Terminus of Return",
+            "name": "The Soul Stone",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -6479,6 +6451,7 @@
         "Valley Rotcaller"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Ashcoat of the Shadow Swarm",
@@ -6812,7 +6785,7 @@
           }
         },
         {
-          "name": "The Terminus of Return",
+          "name": "The Soul Stone",
           "quantity": 1,
           "roles": {
             "ramp": "heuristic",
@@ -6864,24 +6837,22 @@
       ]
     },
     "minn-wily-illusionist": {
-      "deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
+      "deck_sha256": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
       "counts_overlap": true,
       "role_counts": {
-        "card_advantage": 31,
-        "combo_piece": 2,
+        "card_advantage": 34,
         "commander_engine": 6,
-        "cost_reduction": 4,
-        "countermagic": 4,
+        "cost_reduction": 2,
         "fast_mana": 1,
         "land": 35,
         "land_capable": 37,
         "modal": 2,
         "ramp": 6,
         "recursion": 1,
-        "selection": 2,
+        "selection": 1,
         "spot_removal": 3,
-        "tutor": 6,
-        "win_condition": 4
+        "tutor": 2,
+        "win_condition": 3
       },
       "role_cards": {
         "card_advantage": [
@@ -6891,7 +6862,7 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Arcane Denial",
+            "name": "Arcanis the Omnipotent",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -6901,12 +6872,27 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Consecrated Sphinx",
+            "name": "Brainstorm",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Chasm Skulker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Curiosity Crafter",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
             "name": "Defiler of Dreams",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Drowned Rusalka",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -6971,6 +6957,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Mystic Remora",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Nezahal, Primal Tide",
             "quantity": 1,
             "confidence": "heuristic"
@@ -6992,11 +6983,6 @@
           },
           {
             "name": "Psychosis Crawler",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sensei's Divining Top",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -7041,18 +7027,6 @@
             "confidence": "override"
           }
         ],
-        "combo_piece": [
-          {
-            "name": "Ashnod's Altar",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Blasting Station",
-            "quantity": 1,
-            "confidence": "override"
-          }
-        ],
         "commander_engine": [
           {
             "name": "Ashnod's Altar",
@@ -7087,44 +7061,12 @@
         ],
         "cost_reduction": [
           {
-            "name": "Flare of Denial",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Force of Negation",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Malcolm, Alluring Scoundrel",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
             "name": "Sapphire Medallion",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "countermagic": [
-          {
-            "name": "Abjure",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Arcane Denial",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Flare of Denial",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Pact of Negation",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -7153,11 +7095,6 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Flooded Strand",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Fountainport",
             "quantity": 1,
             "confidence": "deterministic"
@@ -7174,16 +7111,11 @@
           },
           {
             "name": "Island",
-            "quantity": 19,
+            "quantity": 23,
             "confidence": "deterministic"
           },
           {
             "name": "Minamo, School at Water's Edge",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Misty Rainforest",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -7203,17 +7135,7 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Polluted Delta",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Reliquary Tower",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Scalding Tarn",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -7236,11 +7158,6 @@
           },
           {
             "name": "Cephalid Coliseum",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Flooded Strand",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -7271,16 +7188,11 @@
           },
           {
             "name": "Island",
-            "quantity": 19,
+            "quantity": 23,
             "confidence": "deterministic"
           },
           {
             "name": "Minamo, School at Water's Edge",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Misty Rainforest",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -7300,17 +7212,7 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Polluted Delta",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Reliquary Tower",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Scalding Tarn",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -7376,11 +7278,6 @@
             "name": "Read the Runes",
             "quantity": 1,
             "confidence": "override"
-          },
-          {
-            "name": "Sensei's Divining Top",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "spot_removal": [
@@ -7401,26 +7298,6 @@
           }
         ],
         "tutor": [
-          {
-            "name": "Flooded Strand",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Misty Rainforest",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Polluted Delta",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Scalding Tarn",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
           {
             "name": "Trophy Mage",
             "quantity": 1,
@@ -7444,20 +7321,17 @@
             "confidence": "override"
           },
           {
-            "name": "Pact of Negation",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Minn, Wily Illusionist",
             "quantity": 1,
             "confidence": "override"
           }
         ]
       },
-      "nonland_role_coverage": 0.6615,
+      "nonland_role_coverage": 0.6462,
       "unclassified_nonlands": [
+        "Alandra, Sky Dreamer",
         "Fresh Start",
+        "Homunculus Horde",
         "Krang, the All-Powerful",
         "Leyline of Transformation",
         "Maskwood Nexus",
@@ -7471,24 +7345,17 @@
         "Sakashima of a Thousand Faces",
         "Sakashima the Impostor",
         "Spark Double",
-        "Subtlety",
-        "Swan Song",
         "Tetsuko Umezawa, Fugitive",
         "Treachery",
         "Utter Insignificance",
+        "Vanishing",
         "Venser's Journal",
         "Wizard's Staff",
         "Wonder"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
-        {
-          "name": "Abjure",
-          "quantity": 1,
-          "roles": {
-            "countermagic": "heuristic"
-          }
-        },
         {
           "name": "Academy Ruins",
           "quantity": 1,
@@ -7507,11 +7374,15 @@
           }
         },
         {
-          "name": "Arcane Denial",
+          "name": "Alandra, Sky Dreamer",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Arcanis the Omnipotent",
           "quantity": 1,
           "roles": {
-            "card_advantage": "heuristic",
-            "countermagic": "heuristic"
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -7519,7 +7390,6 @@
           "quantity": 1,
           "roles": {
             "ramp": "override",
-            "combo_piece": "override",
             "commander_engine": "override"
           }
         },
@@ -7535,8 +7405,14 @@
           "quantity": 1,
           "roles": {
             "win_condition": "override",
-            "combo_piece": "override",
             "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Brainstorm",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -7548,7 +7424,14 @@
           }
         },
         {
-          "name": "Consecrated Sphinx",
+          "name": "Chasm Skulker",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Curiosity Crafter",
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
@@ -7562,34 +7445,17 @@
           }
         },
         {
-          "name": "Faerie Mastermind",
+          "name": "Drowned Rusalka",
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
           }
         },
         {
-          "name": "Flare of Denial",
+          "name": "Faerie Mastermind",
           "quantity": 1,
           "roles": {
-            "cost_reduction": "heuristic",
-            "countermagic": "heuristic"
-          }
-        },
-        {
-          "name": "Flooded Strand",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Force of Negation",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -7638,6 +7504,11 @@
           }
         },
         {
+          "name": "Homunculus Horde",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Horizon of Progress",
           "quantity": 1,
           "roles": {
@@ -7657,7 +7528,7 @@
         },
         {
           "name": "Island",
-          "quantity": 19,
+          "quantity": 23,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
@@ -7741,15 +7612,6 @@
           }
         },
         {
-          "name": "Misty Rainforest",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
-        },
-        {
           "name": "Molecule Man",
           "quantity": 1,
           "roles": {}
@@ -7760,6 +7622,13 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Mystic Remora",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -7800,14 +7669,6 @@
           }
         },
         {
-          "name": "Pact of Negation",
-          "quantity": 1,
-          "roles": {
-            "countermagic": "heuristic",
-            "win_condition": "heuristic"
-          }
-        },
-        {
           "name": "Perilous Research",
           "quantity": 1,
           "roles": {
@@ -7828,15 +7689,6 @@
           "name": "Phyrexian Metamorph",
           "quantity": 1,
           "roles": {}
-        },
-        {
-          "name": "Polluted Delta",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
         },
         {
           "name": "Pollywog Prodigy",
@@ -7910,23 +7762,6 @@
           }
         },
         {
-          "name": "Scalding Tarn",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Sensei's Divining Top",
-          "quantity": 1,
-          "roles": {
-            "selection": "heuristic",
-            "card_advantage": "heuristic"
-          }
-        },
-        {
           "name": "Skullclamp",
           "quantity": 1,
           "roles": {
@@ -7943,16 +7778,6 @@
         },
         {
           "name": "Spark Double",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Subtlety",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Swan Song",
           "quantity": 1,
           "roles": {}
         },
@@ -8030,6 +7855,11 @@
           "roles": {}
         },
         {
+          "name": "Vanishing",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Venser's Journal",
           "quantity": 1,
           "roles": {}
@@ -8063,25 +7893,24 @@
       ]
     },
     "pantlaza-sun-favored": {
-      "deck_sha256": "28366513f22b08ba600f9c7fbc3ee2572cc61243cce6e29d4592017d202ff0ad",
+      "deck_sha256": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
       "counts_overlap": true,
       "role_counts": {
-        "board_wipe": 2,
-        "card_advantage": 14,
+        "board_wipe": 3,
+        "card_advantage": 12,
         "combo_piece": 5,
         "commander_engine": 1,
-        "cost_reduction": 9,
-        "fast_mana": 2,
+        "cost_reduction": 12,
+        "fast_mana": 1,
         "graveyard_interaction": 1,
         "land": 35,
         "land_capable": 38,
         "modal": 7,
         "protection": 5,
-        "ramp": 17,
-        "recursion": 1,
+        "ramp": 15,
         "selection": 1,
         "spot_removal": 12,
-        "tutor": 8,
+        "tutor": 7,
         "win_condition": 2
       },
       "role_cards": {
@@ -8093,6 +7922,11 @@
           },
           {
             "name": "Blasphemous Act",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Legion's Initiative",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -8119,16 +7953,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Elemental Bond",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Eternal Witness",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Garruk's Uprising",
             "quantity": 1,
             "confidence": "heuristic"
@@ -8149,12 +7973,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Runic Armasaur",
+            "name": "Sunbaked Canyon",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
-            "name": "Sunbaked Canyon",
+            "name": "The Great Henge",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -8210,6 +8034,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Deflecting Swat",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Ephemerate",
             "quantity": 1,
             "confidence": "heuristic"
@@ -8240,7 +8069,17 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Shadow in the Warp",
+            "name": "Radagast of Rhosgobel",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Great Henge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Urza's Incubator",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -8251,11 +8090,6 @@
           }
         ],
         "fast_mana": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Sol Ring",
             "quantity": 1,
@@ -8270,11 +8104,6 @@
           }
         ],
         "land": [
-          {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "Arena of Glory",
             "quantity": 1,
@@ -8342,6 +8171,11 @@
           },
           {
             "name": "Karplusan Forest",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mana Confluence",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -8418,11 +8252,6 @@
         ],
         "land_capable": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Arena of Glory",
             "quantity": 1,
             "confidence": "deterministic"
@@ -8494,6 +8323,11 @@
           },
           {
             "name": "Karplusan Forest",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mana Confluence",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -8644,16 +8478,6 @@
         ],
         "ramp": [
           {
-            "name": "Ancient Tomb",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Arcane Signet",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Birds of Paradise",
             "quantity": 1,
             "confidence": "heuristic"
@@ -8709,6 +8533,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "The Great Henge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Three Visits",
             "quantity": 1,
             "confidence": "heuristic"
@@ -8720,18 +8549,6 @@
           },
           {
             "name": "Witch Enchanter",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Wood Elves",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "recursion": [
-          {
-            "name": "Eternal Witness",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -8770,7 +8587,7 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Scion of Calamity",
+            "name": "Parting Gust",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -8812,6 +8629,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Eladamri's Call",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Nature's Lore",
             "quantity": 1,
             "confidence": "heuristic"
@@ -8832,17 +8654,7 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Wood Elves",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Wooded Foothills",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Worldly Tutor",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -8860,29 +8672,31 @@
           }
         ]
       },
-      "nonland_role_coverage": 0.7077,
+      "nonland_role_coverage": 0.6923,
       "unclassified_nonlands": [
         "Bronzebeak Foragers",
         "Curator of Sun's Creation",
         "Devil Dinosaur",
         "Dinosaurs on a Spaceship",
         "Eerie Interlude",
-        "Flaming Tyrannosaurus",
         "Ghalta, Stampede Tyrant",
-        "Gishath, Sun's Avatar",
         "Greater Good",
         "Hulking Raptor",
+        "Hunting Velociraptor",
         "Luminous Broodmoth",
         "Maular, the Next Evolution",
-        "Mirari's Wake",
         "Palani's Hatcher",
         "Ravenous Tyrannosaurus",
+        "Regal Behemoth",
         "Regisaur Alpha",
         "Rhythm of the Wild",
+        "Roaming Throne",
         "Sneak Attack",
+        "Swooping Pteranodon",
         "Wild Growth"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Akroma's Will",
@@ -8894,29 +8708,12 @@
           }
         },
         {
-          "name": "Ancient Tomb",
-          "quantity": 1,
-          "roles": {
-            "land": "override",
-            "land_capable": "override",
-            "ramp": "override",
-            "fast_mana": "override"
-          }
-        },
-        {
           "name": "Apex Altisaur",
           "quantity": 1,
           "roles": {
             "spot_removal": "override",
             "board_wipe": "override",
             "combo_piece": "confirmed-combo"
-          }
-        },
-        {
-          "name": "Arcane Signet",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
           }
         },
         {
@@ -9047,6 +8844,13 @@
           }
         },
         {
+          "name": "Deflecting Swat",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
           "name": "Devil Dinosaur",
           "quantity": 1,
           "roles": {}
@@ -9088,10 +8892,10 @@
           }
         },
         {
-          "name": "Elemental Bond",
+          "name": "Eladamri's Call",
           "quantity": 1,
           "roles": {
-            "card_advantage": "heuristic"
+            "tutor": "heuristic"
           }
         },
         {
@@ -9118,14 +8922,6 @@
           }
         },
         {
-          "name": "Eternal Witness",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "recursion": "heuristic"
-          }
-        },
-        {
           "name": "Fanatic of Rhonas",
           "quantity": 1,
           "roles": {
@@ -9138,11 +8934,6 @@
           "roles": {
             "ramp": "heuristic"
           }
-        },
-        {
-          "name": "Flaming Tyrannosaurus",
-          "quantity": 1,
-          "roles": {}
         },
         {
           "name": "Flawless Maneuver",
@@ -9181,11 +8972,6 @@
           "roles": {}
         },
         {
-          "name": "Gishath, Sun's Avatar",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Greater Good",
           "quantity": 1,
           "roles": {}
@@ -9201,6 +8987,11 @@
         },
         {
           "name": "Hulking Raptor",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Hunting Velociraptor",
           "quantity": 1,
           "roles": {}
         },
@@ -9247,9 +9038,24 @@
           }
         },
         {
+          "name": "Legion's Initiative",
+          "quantity": 1,
+          "roles": {
+            "board_wipe": "heuristic"
+          }
+        },
+        {
           "name": "Luminous Broodmoth",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Mana Confluence",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
         },
         {
           "name": "Marauding Raptor",
@@ -9260,11 +9066,6 @@
         },
         {
           "name": "Maular, the Next Evolution",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Mirari's Wake",
           "quantity": 1,
           "roles": {}
         },
@@ -9290,11 +9091,25 @@
           "roles": {}
         },
         {
+          "name": "Parting Gust",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
           "name": "Plains",
           "quantity": 3,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Radagast of Rhosgobel",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
           }
         },
         {
@@ -9311,6 +9126,11 @@
           }
         },
         {
+          "name": "Regal Behemoth",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Regisaur Alpha",
           "quantity": 1,
           "roles": {}
@@ -9321,11 +9141,9 @@
           "roles": {}
         },
         {
-          "name": "Runic Armasaur",
+          "name": "Roaming Throne",
           "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
+          "roles": {}
         },
         {
           "name": "Sacred Foundry",
@@ -9343,20 +9161,6 @@
             "tutor": "override",
             "protection": "override",
             "combo_piece": "confirmed-combo"
-          }
-        },
-        {
-          "name": "Scion of Calamity",
-          "quantity": 1,
-          "roles": {
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Shadow in the Warp",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
           }
         },
         {
@@ -9432,6 +9236,11 @@
           }
         },
         {
+          "name": "Swooping Pteranodon",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Swords to Plowshares",
           "quantity": 1,
           "roles": {
@@ -9451,6 +9260,15 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "The Great Henge",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "cost_reduction": "heuristic",
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -9491,6 +9309,13 @@
           }
         },
         {
+          "name": "Urza's Incubator",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
           "name": "Vaultborn Tyrant",
           "quantity": 1,
           "roles": {
@@ -9522,26 +9347,11 @@
           }
         },
         {
-          "name": "Wood Elves",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic",
-            "tutor": "heuristic"
-          }
-        },
-        {
           "name": "Wooded Foothills",
           "quantity": 1,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Worldly Tutor",
-          "quantity": 1,
-          "roles": {
             "tutor": "heuristic"
           }
         },
@@ -9580,12 +9390,12 @@
       ]
     },
     "queen-marchesa": {
-      "deck_sha256": "511bca15875ea94d53c626b727d950df01806e131fd898d525da68412f15a4aa",
+      "deck_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 2,
-        "card_advantage": 15,
-        "combo_piece": 4,
+        "card_advantage": 16,
+        "combo_piece": 6,
         "commander_engine": 1,
         "cost_reduction": 3,
         "extra_turn": 1,
@@ -9593,12 +9403,12 @@
         "land": 36,
         "land_capable": 38,
         "modal": 9,
-        "protection": 4,
-        "ramp": 16,
+        "protection": 3,
+        "ramp": 15,
         "selection": 1,
-        "spot_removal": 12,
+        "spot_removal": 11,
         "tutor": 3,
-        "win_condition": 2
+        "win_condition": 1
       },
       "role_cards": {
         "board_wipe": [
@@ -9616,6 +9426,11 @@
         "card_advantage": [
           {
             "name": "Cut a Deal",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Defacing Duskmage",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -9692,6 +9507,16 @@
         ],
         "combo_piece": [
           {
+            "name": "Arcbond",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Boros Charm",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
             "name": "Brash Taunter",
             "quantity": 1,
             "confidence": "confirmed-combo"
@@ -9702,12 +9527,12 @@
             "confidence": "confirmed-combo"
           },
           {
-            "name": "Flumph",
+            "name": "Return the Favor",
             "quantity": 1,
             "confidence": "confirmed-combo"
           },
           {
-            "name": "Orcish Bowmasters",
+            "name": "Selfless Squire",
             "quantity": 1,
             "confidence": "confirmed-combo"
           }
@@ -10116,11 +9941,6 @@
             "name": "Plaza of Heroes",
             "quantity": 1,
             "confidence": "heuristic"
-          },
-          {
-            "name": "Teferi's Protection",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "ramp": [
@@ -10176,11 +9996,6 @@
           },
           {
             "name": "Rakdos Signet",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Smothering Tithe",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -10244,11 +10059,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Orcish Bowmasters",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Path to Exile",
             "quantity": 1,
             "confidence": "heuristic"
@@ -10296,17 +10106,11 @@
             "name": "Brash Taunter",
             "quantity": 1,
             "confidence": "override"
-          },
-          {
-            "name": "Orcish Bowmasters",
-            "quantity": 1,
-            "confidence": "override"
           }
         ]
       },
       "nonland_role_coverage": 0.7656,
       "unclassified_nonlands": [
-        "Arcbond",
         "Breena, the Demagogue",
         "Comeuppance",
         "Curse of Opulence",
@@ -10316,13 +10120,15 @@
         "Duelist's Heritage",
         "Gisela, Blade of Goldnight",
         "Inkshield",
+        "Kambal, Profiteering Mayor",
+        "Kardur, Doomscourge",
         "Olórin's Searing Light",
-        "Selfless Squire",
         "Take the Bait",
         "Taunt from the Rampart",
         "Windshaper Planetar"
       ],
       "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
       "cards": [
         {
           "name": "Akroma's Will",
@@ -10349,7 +10155,9 @@
         {
           "name": "Arcbond",
           "quantity": 1,
-          "roles": {}
+          "roles": {
+            "combo_piece": "confirmed-combo"
+          }
         },
         {
           "name": "Battlefield Forge",
@@ -10373,7 +10181,8 @@
           "roles": {
             "spot_removal": "heuristic",
             "protection": "heuristic",
-            "modal": "heuristic"
+            "modal": "heuristic",
+            "combo_piece": "confirmed-combo"
           }
         },
         {
@@ -10425,6 +10234,13 @@
         },
         {
           "name": "Cut a Deal",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Defacing Duskmage",
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
@@ -10515,8 +10331,7 @@
           "name": "Flumph",
           "quantity": 1,
           "roles": {
-            "card_advantage": "override",
-            "combo_piece": "confirmed-combo"
+            "card_advantage": "override"
           }
         },
         {
@@ -10583,11 +10398,21 @@
           "roles": {}
         },
         {
+          "name": "Kambal, Profiteering Mayor",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Karazikar, the Eye Tyrant",
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
           }
+        },
+        {
+          "name": "Kardur, Doomscourge",
+          "quantity": 1,
+          "roles": {}
         },
         {
           "name": "Legion Leadership",
@@ -10688,15 +10513,6 @@
           "roles": {}
         },
         {
-          "name": "Orcish Bowmasters",
-          "quantity": 1,
-          "roles": {
-            "spot_removal": "override",
-            "win_condition": "override",
-            "combo_piece": "confirmed-combo"
-          }
-        },
-        {
           "name": "Orzhov Signet",
           "quantity": 1,
           "roles": {
@@ -10764,7 +10580,8 @@
           "name": "Return the Favor",
           "quantity": 1,
           "roles": {
-            "modal": "heuristic"
+            "modal": "heuristic",
+            "combo_piece": "confirmed-combo"
           }
         },
         {
@@ -10793,7 +10610,9 @@
         {
           "name": "Selfless Squire",
           "quantity": 1,
-          "roles": {}
+          "roles": {
+            "combo_piece": "confirmed-combo"
+          }
         },
         {
           "name": "Shadowblood Ridge",
@@ -10818,13 +10637,6 @@
             "land_capable": "deterministic",
             "card_advantage": "heuristic",
             "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Smothering Tithe",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
           }
         },
         {
@@ -10929,13 +10741,6 @@
           "roles": {}
         },
         {
-          "name": "Teferi's Protection",
-          "quantity": 1,
-          "roles": {
-            "protection": "heuristic"
-          }
-        },
-        {
           "name": "Tempt with Bunnies",
           "quantity": 1,
           "roles": {
@@ -10999,6 +10804,1347 @@
           "roles": {
             "commander_engine": "override",
             "card_advantage": "override"
+          }
+        }
+      ]
+    },
+    "the-fifth-doctor-susan-foreman": {
+      "deck_sha256": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a",
+      "counts_overlap": true,
+      "role_counts": {
+        "board_wipe": 1,
+        "card_advantage": 19,
+        "commander_engine": 5,
+        "cost_reduction": 1,
+        "land": 37,
+        "land_capable": 37,
+        "modal": 2,
+        "protection": 4,
+        "ramp": 8,
+        "recursion": 3,
+        "selection": 1,
+        "spot_removal": 6,
+        "tutor": 4,
+        "win_condition": 1
+      },
+      "role_cards": {
+        "board_wipe": [
+          {
+            "name": "Split Up",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "card_advantage": [
+          {
+            "name": "Arcanis the Omnipotent",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Benthic Biomancer",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Cosima, God of the Voyage",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Danny Pink",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Dusk Legion Duelist",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Evolution Witness",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Fallowsage",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Gran-Gran",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Harmonized Trio",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Horizon Canopy",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Inspiring Call",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mechan Navigator",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mighty Servant of Leuk-o",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Indomitable",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Thanos-Copter",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Tui and La, Moon and Ocean",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Uthros Research Craft",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Waterlogged Grove",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Wylie Duke, Atiin Hero",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "commander_engine": [
+          {
+            "name": "Cryptolith Rite",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Drumbellower",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Thousand-Year Elixir",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Susan Foreman",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "The Fifth Doctor",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "cost_reduction": [
+          {
+            "name": "Gran-Gran",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "land": [
+          {
+            "name": "Adagia, Windswept Bastion",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Adarkar Wastes",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Bountiful Promenade",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Breeding Pool",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Brushland",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "City of Brass",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Command Tower",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Exotic Orchard",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Flooded Strand",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Floodfarm Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Forest",
+            "quantity": 3,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Gathering Place",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Glacial Fortress",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Gleaming Bastion",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hallowed Fountain",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hinterland Harbor",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Horizon Canopy",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hushwood Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Island",
+            "quantity": 3,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mana Confluence",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Misty Rainforest",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Plains",
+            "quantity": 2,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Reflecting Pool",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Rejuvenating Springs",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sea of Clouds",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Starting Town",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sunpetal Grove",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Temple Garden",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Waterlogged Grove",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Willowrush Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Windswept Heath",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Yavimaya Coast",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "land_capable": [
+          {
+            "name": "Adagia, Windswept Bastion",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Adarkar Wastes",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Bountiful Promenade",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Breeding Pool",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Brushland",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "City of Brass",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Command Tower",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Exotic Orchard",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Flooded Strand",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Floodfarm Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Forest",
+            "quantity": 3,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Gathering Place",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Glacial Fortress",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Gleaming Bastion",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hallowed Fountain",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hinterland Harbor",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Horizon Canopy",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hushwood Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Island",
+            "quantity": 3,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mana Confluence",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Misty Rainforest",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Plains",
+            "quantity": 2,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Reflecting Pool",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Rejuvenating Springs",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sea of Clouds",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Starting Town",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sunpetal Grove",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Temple Garden",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Waterlogged Grove",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Willowrush Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Windswept Heath",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Yavimaya Coast",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "modal": [
+          {
+            "name": "Collective Effort",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Split Up",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "protection": [
+          {
+            "name": "Bulwark Ox",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Clever Concealment",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Inspiring Call",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Unswerving Sloth",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "ramp": [
+          {
+            "name": "Cryptolith Rite",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Enduring Vitality",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Incubation Druid",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Jiang Yanggu, Wildcrafter",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Kami of Whispered Hopes",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "N'Yami-Class Mother Ship",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Song of Freyalise",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Susan Foreman",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "recursion": [
+          {
+            "name": "Evolution Witness",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Salvation Engine",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Indomitable",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "selection": [
+          {
+            "name": "Weatherlight",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "spot_removal": [
+          {
+            "name": "Banishing Knack",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Collective Effort",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Nature's Claim",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Nautiloid Ship",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Retraction Helix",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Skysovereign, Consul Flagship",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "tutor": [
+          {
+            "name": "Flooded Strand",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Formidable Speaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Misty Rainforest",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Windswept Heath",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "win_condition": [
+          {
+            "name": "The Fifth Doctor",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ]
+      },
+      "nonland_role_coverage": 0.6508,
+      "unclassified_nonlands": [
+        "Abzan Falconer",
+        "Basking Broodscale",
+        "Captain America, Living Legend",
+        "Daring Thief",
+        "Dawnsire, Sunstar Dreadnought",
+        "Dazzling Theater/Prop Room",
+        "Emmara, Soul of the Accord",
+        "Kona, Rescue Beastie",
+        "Midnight Crusader Shuttle",
+        "Mistmeadow Vanisher",
+        "Mole Module",
+        "Possession Engine",
+        "Recon Craft Theta",
+        "Rip, Spawn Hunter",
+        "Sanwell, Avenger Ace",
+        "Saryth, the Viper's Fang",
+        "Surgehacker Mech",
+        "TARDIS",
+        "Thunderhawk Gunship",
+        "Thunderous Velocipede",
+        "Unidentified Hovership",
+        "Wave Goodbye"
+      ],
+      "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
+      "cards": [
+        {
+          "name": "Abzan Falconer",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Adagia, Windswept Bastion",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Adarkar Wastes",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Arcanis the Omnipotent",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Banishing Knack",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Basking Broodscale",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Benthic Biomancer",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Bountiful Promenade",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Breeding Pool",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Brushland",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Bulwark Ox",
+          "quantity": 1,
+          "roles": {
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Captain America, Living Legend",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "City of Brass",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Clever Concealment",
+          "quantity": 1,
+          "roles": {
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Collective Effort",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic",
+            "modal": "heuristic"
+          }
+        },
+        {
+          "name": "Command Tower",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Cosima, God of the Voyage",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Cryptolith Rite",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Danny Pink",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Daring Thief",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Dawnsire, Sunstar Dreadnought",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Dazzling Theater/Prop Room",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Drumbellower",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Dusk Legion Duelist",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Emmara, Soul of the Accord",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Enduring Vitality",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Evolution Witness",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Exotic Orchard",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Fallowsage",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Flooded Strand",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Floodfarm Verge",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Forest",
+          "quantity": 3,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Formidable Speaker",
+          "quantity": 1,
+          "roles": {
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Gathering Place",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Glacial Fortress",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Gleaming Bastion",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Gran-Gran",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Hallowed Fountain",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Harmonized Trio",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Hinterland Harbor",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Horizon Canopy",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Hushwood Verge",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Incubation Druid",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Inspiring Call",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Island",
+          "quantity": 3,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Jiang Yanggu, Wildcrafter",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Kami of Whispered Hopes",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Kona, Rescue Beastie",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Mana Confluence",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Mechan Navigator",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Midnight Crusader Shuttle",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Mighty Servant of Leuk-o",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Mistmeadow Vanisher",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Misty Rainforest",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Mole Module",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "N'Yami-Class Mother Ship",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Nature's Claim",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Nautiloid Ship",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Plains",
+          "quantity": 2,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Possession Engine",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Recon Craft Theta",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Reflecting Pool",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Rejuvenating Springs",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Retraction Helix",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Rip, Spawn Hunter",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Salvation Engine",
+          "quantity": 1,
+          "roles": {
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Sanwell, Avenger Ace",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Saryth, the Viper's Fang",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Sea of Clouds",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Skysovereign, Consul Flagship",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Song of Freyalise",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Split Up",
+          "quantity": 1,
+          "roles": {
+            "board_wipe": "heuristic",
+            "modal": "heuristic"
+          }
+        },
+        {
+          "name": "Starting Town",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Sunpetal Grove",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Surgehacker Mech",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "TARDIS",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Temple Garden",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "The Indomitable",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "The Thanos-Copter",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Thousand-Year Elixir",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Thunderhawk Gunship",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Thunderous Velocipede",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Tui and La, Moon and Ocean",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Unidentified Hovership",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Unswerving Sloth",
+          "quantity": 1,
+          "roles": {
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Uthros Research Craft",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Waterlogged Grove",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Wave Goodbye",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Weatherlight",
+          "quantity": 1,
+          "roles": {
+            "selection": "heuristic"
+          }
+        },
+        {
+          "name": "Willowrush Verge",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Windswept Heath",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Wylie Duke, Atiin Hero",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Yavimaya Coast",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Susan Foreman",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "The Fifth Doctor",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
           }
         }
       ]

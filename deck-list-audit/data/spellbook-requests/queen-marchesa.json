@@ -61,6 +61,10 @@
       "quantity": 1
     },
     {
+      "card": "Defacing Duskmage",
+      "quantity": 1
+    },
+    {
       "card": "Deflecting Palm",
       "quantity": 1
     },
@@ -149,7 +153,15 @@
       "quantity": 1
     },
     {
+      "card": "Kambal, Profiteering Mayor",
+      "quantity": 1
+    },
+    {
       "card": "Karazikar, the Eye Tyrant",
+      "quantity": 1
+    },
+    {
+      "card": "Kardur, Doomscourge",
       "quantity": 1
     },
     {
@@ -202,10 +214,6 @@
     },
     {
       "card": "Olórin's Searing Light",
-      "quantity": 1
-    },
-    {
-      "card": "Orcish Bowmasters",
       "quantity": 1
     },
     {
@@ -273,10 +281,6 @@
       "quantity": 1
     },
     {
-      "card": "Smothering Tithe",
-      "quantity": 1
-    },
-    {
       "card": "Sol Ring",
       "quantity": 1
     },
@@ -330,10 +334,6 @@
     },
     {
       "card": "Taunt from the Rampart",
-      "quantity": 1
-    },
-    {
-      "card": "Teferi's Protection",
       "quantity": 1
     },
     {

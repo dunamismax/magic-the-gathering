@@ -36,15 +36,18 @@ class ChangeTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "sufficient quantity"):
             apply_items(entries, [], [{"name": "Only Copy", "quantity": 2}])
 
-    def test_current_delta_reviews_are_explicit_and_valid(self) -> None:
-        audit, _ = build_audit(audit_date=date(2026, 8, 29))
+    def test_refreshed_spellbook_results_are_current(self) -> None:
+        audit, _ = build_audit(audit_date=date(2026, 8, 30))
         errors, warnings = validate_spellbook(
-            audit, require_current=False, today=date(2026, 8, 29)
+            audit, require_current=False, today=date(2026, 8, 30)
         )
         self.assertEqual(errors, [])
-        self.assertEqual(
-            sum("manual delta review" in warning for warning in warnings), 3
+        self.assertEqual(warnings, [])
+
+        current_errors, _ = validate_spellbook(
+            audit, require_current=True, today=date(2026, 8, 30)
         )
+        self.assertEqual(current_errors, [])
 
 
 if __name__ == "__main__":

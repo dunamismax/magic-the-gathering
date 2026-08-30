@@ -1,15 +1,15 @@
 {
   "main": [
     {
+      "card": "Abrupt Decay",
+      "quantity": 1
+    },
+    {
       "card": "Abundant Countryside",
       "quantity": 1
     },
     {
       "card": "Alpha Deathclaw",
-      "quantity": 1
-    },
-    {
-      "card": "Anger",
       "quantity": 1
     },
     {
@@ -22,6 +22,10 @@
     },
     {
       "card": "Assassin's Trophy",
+      "quantity": 1
+    },
+    {
+      "card": "Atsushi, the Blazing Sky",
       "quantity": 1
     },
     {
@@ -81,6 +85,10 @@
       "quantity": 1
     },
     {
+      "card": "Damage Control Crew",
+      "quantity": 1
+    },
+    {
       "card": "Deadpool, Trading Card",
       "quantity": 1
     },
@@ -109,10 +117,6 @@
       "quantity": 1
     },
     {
-      "card": "Gwenom, Remorseless",
-      "quantity": 1
-    },
-    {
       "card": "Elves of Deep Shadow",
       "quantity": 1
     },
@@ -122,10 +126,6 @@
     },
     {
       "card": "Etali, Primal Conqueror",
-      "quantity": 1
-    },
-    {
-      "card": "Evercoat Ursine",
       "quantity": 1
     },
     {
@@ -141,11 +141,15 @@
       "quantity": 1
     },
     {
-      "card": "Forest",
-      "quantity": 6
+      "card": "Fell the Profane",
+      "quantity": 1
     },
     {
-      "card": "Gray Merchant of Asphodel",
+      "card": "Forest",
+      "quantity": 5
+    },
+    {
+      "card": "Fyndhorn Elves",
       "quantity": 1
     },
     {
@@ -153,15 +157,11 @@
       "quantity": 1
     },
     {
-      "card": "Grim Servant",
+      "card": "Gwenom, Remorseless",
       "quantity": 1
     },
     {
       "card": "Ignoble Hierarch",
-      "quantity": 1
-    },
-    {
-      "card": "Incinerator of the Guilty",
       "quantity": 1
     },
     {
@@ -170,10 +170,6 @@
     },
     {
       "card": "Junji, the Midnight Sky",
-      "quantity": 1
-    },
-    {
-      "card": "Kardur, Doomscourge",
       "quantity": 1
     },
     {
@@ -186,6 +182,14 @@
     },
     {
       "card": "Living Death",
+      "quantity": 1
+    },
+    {
+      "card": "Lizard, Connors's Curse",
+      "quantity": 1
+    },
+    {
+      "card": "Llanowar Elves",
       "quantity": 1
     },
     {
@@ -205,15 +209,7 @@
       "quantity": 1
     },
     {
-      "card": "Metamorphosis Fanatic",
-      "quantity": 1
-    },
-    {
       "card": "Mikaeus, the Unhallowed",
-      "quantity": 1
-    },
-    {
-      "card": "Moraug, Fury of Akoum",
       "quantity": 1
     },
     {
@@ -245,10 +241,6 @@
       "quantity": 1
     },
     {
-      "card": "Primaris Eliminator",
-      "quantity": 1
-    },
-    {
       "card": "Primeval Herald",
       "quantity": 1
     },
@@ -258,6 +250,10 @@
     },
     {
       "card": "Ravenous Chupacabra",
+      "quantity": 1
+    },
+    {
+      "card": "Riveteers Ascendancy",
       "quantity": 1
     },
     {
@@ -286,6 +282,10 @@
     },
     {
       "card": "Skullclamp",
+      "quantity": 1
+    },
+    {
+      "card": "Sol Ring",
       "quantity": 1
     },
     {
@@ -329,10 +329,6 @@
       "quantity": 1
     },
     {
-      "card": "Tortured Existence",
-      "quantity": 1
-    },
-    {
       "card": "Treeshaker Chimera",
       "quantity": 1
     },
@@ -342,6 +338,14 @@
     },
     {
       "card": "Undergrowth Stadium",
+      "quantity": 1
+    },
+    {
+      "card": "Veil of Summer",
+      "quantity": 1
+    },
+    {
+      "card": "Victimize",
       "quantity": 1
     },
     {
