@@ -1,11 +1,12 @@
-# Archived report: dunamismax nine-deck Bracket 3 and social-power audit
+# Archived report: dunamismax Bracket 3 and social-power audit — retained eight-deck subset
 
 > Historical snapshot only. The 2026-08-30 refresh changed the lineup and every local deck file.
-> Reviewed against the nine-deck 2026-08-29 snapshot. Verify deck hashes and source freshness with
+> Retains eight decks reviewed in the 2026-08-29 snapshot, not the full original lineup.
+> Verify deck hashes and source freshness with
 > `just check-current` before reusing any conclusion.
 
 Audit date: 2026-08-29  
-Source: the nine exact local lists in [`decks/`](../../decks/README.md), including
+Source: eight retained exact local lists in [`decks/`](../../decks/README.md), including
 user-confirmed Blor, Magda, and Minn changes dated 2026-08-29; public Moxfield
 links are tracked as source references, not treated as silently synchronized.
 
@@ -14,11 +15,6 @@ links are tracked as source references, not treated as silently synchronized.
 The lineup is much more themed than “good-stuff soup.” The primary risks are
 specific play patterns, not a generalized staple problem:
 
-- **Kang Prime is the one list I would not call a clean, ordinary Bracket 3
-  deck unchanged.** It has an infinite-draw engine, a separate two-card
-  Blightsteel table kill, dense premium interaction, and several
-  opponent-agency crushers. It is upper-edge Bracket 3 only for a pod that
-  explicitly opts into those lines; otherwise it plays like Bracket 4.
 - **Pantlaza is upper-edge Bracket 3 with one serious combo caveat.** `Savage
   Order` plus `Wrathful Raptors` tutors `Apex Altisaur` with indestructible,
   producing a board-clearing, potentially near-infinite damage chain. The
@@ -39,7 +35,7 @@ specific play patterns, not a generalized staple problem:
   Equipment-specific; Marrow is now the cleanest list after removing the
   ripple/tutor/life-engine package that made it disproportionately explosive.
 
-No list contains mass land denial. All nine have 100 cards, no banned cards,
+No list contains mass land denial. All eight retained lists have 100 cards, no banned cards,
 no color-identity violations, and no illegal duplicate problem. Game Changer
 counts are all within the current Bracket 3 cap of three, but that cap is not a
 substitute for evaluating combos, speed, consistency, or opponent agency.
@@ -52,15 +48,14 @@ less commander-specific identity.
 
 | Rank | Deck | Bracket 3 verdict | Power | Side-eye | Good-stuff drift | Agency pressure | Replayability |
 |---:|---|---|---:|---:|---:|---:|---:|
-| 1 | Kang Prime | Borderline B4; opt-in B3 | 5 | 5 | 4 | 5 | 4 |
-| 2 | Pantlaza | Upper B3; combo disclosure | 4 | 5 | 2 | 4 | 4 |
-| 3 | Queen Marchesa | Upper B3; loop disclosure | 4 | 3 | 3 | 3 | 5 |
-| 4 | Magda | Upper B3 | 4 | 4 | 1 | 3 | 4 |
-| 5 | Minn | Upper B3 | 4 | 3 | 2 | 3 | 5 |
-| 6 | Blor | Upper B3 | 4 | 3 | 3 | 4 | 4 |
-| 7 | Henzie | Mid B3 | 3 | 3 | 3 | 3 | 5 |
-| 8 | Ekthi | Mid-to-upper B3 | 4 | 2 | 2 | 2 | 4 |
-| 9 | Marrow-Gnawer | Low-to-mid B3 | 3 | 2 | 2 | 2 | 3 |
+| 1 | Pantlaza | Upper B3; combo disclosure | 4 | 5 | 2 | 4 | 4 |
+| 2 | Queen Marchesa | Upper B3; loop disclosure | 4 | 3 | 3 | 3 | 5 |
+| 3 | Magda | Upper B3 | 4 | 4 | 1 | 3 | 4 |
+| 4 | Minn | Upper B3 | 4 | 3 | 2 | 3 | 5 |
+| 5 | Blor | Upper B3 | 4 | 3 | 3 | 4 | 4 |
+| 6 | Henzie | Mid B3 | 3 | 3 | 3 | 3 | 5 |
+| 7 | Ekthi | Mid-to-upper B3 | 4 | 2 | 2 | 2 | 4 |
+| 8 | Marrow-Gnawer | Low-to-mid B3 | 3 | 2 | 2 | 2 | 3 |
 
 The ordering between Magda, Minn, and Blor will vary by pod. Experienced
 players may fear Magda most at commander reveal, while Minn still has a deep
@@ -82,7 +77,6 @@ still reduce replayability and make a risky line recur too often.
 | Blor | 36 | 0 | `Ancient Tomb` | Commander releases 2026-11-09; Rule Zero today |
 | Ekthi | 34 | 0 | `Ancient Tomb`, `Enlightened Tutor`, `Teferi's Protection` | Commander releases 2026-11-09; Rule Zero today |
 | Henzie | 35 | 3 | None | Legal |
-| Kang | 35 | 1 | `Ancient Tomb`, `Bolas's Citadel`, `Fierce Guardianship` | Legal |
 | Magda | 35 | 0 | `Ancient Tomb` | Legal |
 | Marrow | 35 | 0 | None | Legal |
 | Minn | 35 | 2 | `Consecrated Sphinx` | `The Theorist, Jace Beleren` releases 2026-10-02; Rule Zero today |
@@ -94,32 +88,6 @@ Blor and Ekthi cannot be played as ordinary Commander decks before their
 commander release; the other two affected lists need one Rule Zero card each.
 
 ## Individual reviews
-
-### Kang Prime — the real mismatch risk
-
-Kang is not generic Dimir good stuff wearing a commander name, but it has enough
-premium generic infrastructure and enough punishing payloads that the
-distinction may not matter to an average Bracket 3 opponent.
-
-The decisive lines are:
-
-- `One with the Multiverse` + `Displacer Kitten` + `Sensei's Divining Top` +
-  an untapped one-mana rock draws the deck and produces near-infinite storm.
-  The list contains multiple qualifying rocks.
-- `Blade of Selves` + `Blightsteel Colossus` attacks every opponent with an
-  11-infect Blightsteel. It is a two-card table kill if the attackers connect.
-- `Kang the Conqueror` is not itself an infinite-turn engine because its extra
-  turns disable power-up abilities, but the clone package can bank multiple
-  extra turns from one normal turn. That is still a pregame-conversation item.
-
-The social pressure does not stop at combos: `Portal to Phyrexia`, `Archon of
-Cruelty`, `Breach the Multiverse`, both Ulamogs, `Galactus`, free protection,
-`Mana Drain`, `Lim-Dûl's Vault`, `Rune-Scarred Demon`, Top, Rack, and Citadel
-make the deck both disruptive and consistent. Many of those are legitimate
-Kang suspend hits; the issue is density, not lack of synergy.
-
-Verdict: **borderline Bracket 4 in practice**. It is the only list where “three
-Game Changers” materially understates the table experience.
 
 ### Pantlaza — strongly themed, one Ruthless line
 
@@ -224,7 +192,7 @@ The main disclosure is `Orcish Bowmasters` + `Flumph`. If Flumph is made
 indestructible with `Boros Charm`, `Akroma's Will`, or another effect, one
 Flumph trigger can feed Bowmasters back into Flumph repeatedly, creating an
 unbounded draw/amass loop. The two cards alone do not automatically win and
-Flumph must survive, so this is less reliable than Kang's or Pantlaza's lines.
+Flumph must survive, so this is less reliable than Pantlaza's lines.
 
 `Fire Covenant` + `Brash Taunter` can also deal a player an enormous amount of
 damage when your life total supports the payment. It is finite, costly, and
@@ -298,9 +266,6 @@ Verdict: **low-to-mid Bracket 3 and the safest blind-pod choice**.
 
 ## Concise pregame disclosures
 
-- **Kang:** “Upper-edge B3 with three Game Changers; it contains an infinite
-  draw engine, Blade/Blightsteel table kill, and possible chained extra turns;
-  no mass land denial.”
 - **Pantlaza:** “High-power Dinosaurs; Savage Order plus Wrathful Raptors can
   tutor Apex Altisaur for the indestructible fight/damage line.”
 - **Minn:** “Upper B3 Illusions with one Game Changer and several free or
@@ -332,5 +297,4 @@ results were treated as leads and manually checked against the lists. Blor,
 Magda, and Minn preserve their 2026-08-29 pre-change exact-list responses as
 dated evidence and add a current exact-card-name delta review; no revised full
 list was uploaded. This limitation is explicit in the Spellbook manifest. It
-is also why the Henzie abstract-template result is excluded and the Kang
-turn-sequencing risk is discussed separately.
+is also why the Henzie abstract-template result is excluded.

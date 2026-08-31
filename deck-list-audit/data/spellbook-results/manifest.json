@@ -30,15 +30,6 @@
       "combos_file": "data/spellbook-results/henzie-toolbox-torre-combos.json",
       "combos_sha256": "1dc2eb0a3ee8e65962b8de5cf3d9a4ad35cd2b9a4b21bbc7c2ddbea41caaf38b"
     },
-    "kang-prime": {
-      "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "66189fc9e6e1cefb554ad92a603641346f0a9c637470514d113df1fa247a55ac",
-      "estimate_file": "data/spellbook-results/kang-prime-estimate.json",
-      "estimate_sha256": "2d3c60bdc76516c50e72603d4483018e9eb91782b569442c68e1515d4afcffe0",
-      "combos_file": "data/spellbook-results/kang-prime-combos.json",
-      "combos_sha256": "c79d60c70dbab42b9f256f1afe942cb3c4d27e0ad43ea8f2a85a6bd3dc8e4b46"
-    },
     "magda-brazen-outlaw": {
       "status": "exact-list-scan",
       "fetched_on": "2026-08-30",

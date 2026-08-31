@@ -21,11 +21,6 @@ class RoleAnalysisTests(unittest.TestCase):
             self.assertTrue(deck["combo_adjudication_current"])
             self.assertEqual(deck["combo_adjudication_status"], "reviewed")
 
-    def test_superseded_kang_combos_are_not_carried_forward(self) -> None:
-        kang = self.analysis["decks"]["kang-prime"]
-        top = next(card for card in kang["cards"] if card["name"] == "Sensei's Divining Top")
-        self.assertNotEqual(top["roles"].get("combo_piece"), "confirmed-combo")
-
     def test_current_confirmed_combo_roles_are_scoped_to_working_lines(self) -> None:
         queen = self.analysis["decks"]["queen-marchesa"]
         queen_cards = {card["name"]: card for card in queen["cards"]}

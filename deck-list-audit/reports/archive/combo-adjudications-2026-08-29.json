@@ -40,37 +40,6 @@
       ]
     },
     {
-      "deck": "kang-prime",
-      "deck_sha256": "a9f5e57b173818f59e7c2dcb1e95d8635eb46a492411ac7686a340ab852f03f1",
-      "summary": "Two complete Spellbook lines plus a commander-specific chained-extra-turn risk require disclosure.",
-      "lines": [
-        {
-          "id": "1170-1456-5078--30",
-          "cards": ["Displacer Kitten", "Sensei's Divining Top", "One with the Multiverse", "untapped one-mana rock"],
-          "status": "confirmed",
-          "classification": "infinite-card-draw",
-          "disclosure_required": true,
-          "source": "commander-spellbook"
-        },
-        {
-          "id": "1571-3851",
-          "cards": ["Blightsteel Colossus", "Blade of Selves"],
-          "status": "confirmed",
-          "classification": "compact-table-kill",
-          "disclosure_required": true,
-          "source": "commander-spellbook"
-        },
-        {
-          "id": "manual-kang-extra-turn-banking",
-          "cards": ["Kang the Conqueror", "legend-safe clone or retrigger"],
-          "status": "manual-risk",
-          "classification": "finite-chained-extra-turns",
-          "disclosure_required": true,
-          "source": "manual-rules-review"
-        }
-      ]
-    },
-    {
       "deck": "magda-brazen-outlaw",
       "deck_sha256": "b1192b5309b00f22c85e59d38326885c414b3b22fec1893a05bbabb19f5d324f",
       "summary": "The prior exact-list scan returned no complete combo. A current delta review found no Fíli and Kíli, Joyous variants; Idol of Oblivion's only returned line requires absent, off-color Mind Over Matter. Command-zone tutoring remains a consistency disclosure.",

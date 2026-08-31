@@ -88,25 +88,6 @@
       },
       "source_refreshed_on": "2026-08-30"
     },
-    "kang-prime": {
-      "commanders": [
-        "Kang Prime"
-      ],
-      "title": "Kang Prime | All in Due Time",
-      "moxfield_id": "Yr7eDw8Ay0-9gX091oXxkA",
-      "source_updated_on": "2026-08-30",
-      "visibility": "public",
-      "constraints": {
-        "target_bracket": 3,
-        "game_changer_max": 3,
-        "combo_policy": "disclose",
-        "rule_zero_cards": [],
-        "locked_cards": [],
-        "budget": null,
-        "experience": "Commander-centric top-deck setup, suspend, blink, and large payloads."
-      },
-      "source_refreshed_on": "2026-08-30"
-    },
     "magda-brazen-outlaw": {
       "commanders": [
         "Magda, Brazen Outlaw"

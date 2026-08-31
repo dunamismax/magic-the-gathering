@@ -7,20 +7,20 @@ deck edits so one layer cannot silently masquerade as another.
 
 ## Current snapshot
 
-- **10 public decks**, all downloaded from Moxfield and locally verified on
+- **9 public decks**, all downloaded from Moxfield and locally verified on
   **2026-08-30**
 - **1 Bracket 2 target**: The Fifth Doctor + Susan Foreman
-- **9 Bracket 3 targets**
-- All 10 currently resolve to exactly 100 cards and pass deterministic count,
+- **8 Bracket 3 targets**
+- All 9 currently resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, identity, legality, release-state, banned-card, and
   configured Game Changer checks
-- All 10 exact lists were refreshed through Commander Spellbook and manually
+- All 9 exact lists were refreshed through Commander Spellbook and manually
   adjudicated on **2026-08-30**
 - Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
   has one finite Spellbook line and one manually verified five-card loop;
   Henzie's returned persist template is incomplete
-- The current 10-deck social review is pinned to these exact hashes; the prior
-  nine-deck review remains archived
+- The current 9-deck social review is pinned to these exact hashes; the retained
+  eight-deck subset of the prior review remains archived
 
 Browse titles, source dates, Moxfield links, and hashes in
 [`decks/README.md`](decks/README.md). Deterministic totals are in
@@ -85,8 +85,8 @@ For each configured deck:
 
 ```text
 python3 scripts/refresh_sources.py import-moxfield \
-  --deck kang-prime \
-  --file /path/to/kang-prime.txt \
+  --deck magda-brazen-outlaw \
+  --file /path/to/magda-brazen-outlaw.txt \
   --expected-sha CURRENT_LOCAL_SHA256
 ```
 
@@ -113,7 +113,7 @@ Refresh Commander Spellbook only when a full-list upload is intended:
 
 ```text
 python3 scripts/refresh_sources.py spellbook \
-  --deck kang-prime \
+  --deck magda-brazen-outlaw \
   --allow-deck-upload
 ```
 

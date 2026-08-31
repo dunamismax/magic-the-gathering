@@ -1,8 +1,8 @@
-# dunamismax 10-deck social-power audit
+# dunamismax 9-deck social-power audit
 
 Reviewed: 2026-08-30  
 Profile: <https://moxfield.com/users/dunamismax>  
-Scope: the exact 10 public lists and hashes recorded in `data/moxfield-refresh.json`
+Scope: the exact 9 public lists and hashes recorded in `data/moxfield-refresh.json`
 
 This report combines the deterministic Oracle audit, the 2026-08-29 official
 policy lock, full-list Commander Spellbook scans refreshed on 2026-08-30, and
@@ -13,30 +13,29 @@ estimate is evidence rather than the final social judgment.
 
 The lineup remains strongly themed and varied. Pantlaza is the clear outlier:
 Commander Spellbook tags it `R` (Ruthless) because the exact list contains
-three Apex Altisaur and Wrathful Raptors lines. The other nine estimates are
+three Apex Altisaur and Wrathful Raptors lines. The other eight estimates are
 `E` (Exhibition), although several still play above a relaxed table through
 command-zone tutoring, repeated free spells, or explosive combat scaling.
 
 | Side-eye rank | Deck | Target | Current pod judgment | Main pressure | Exact-list combo result |
 |---:|---|---:|---|---|---|
 | 1 | Pantlaza | B3 | Ruthless estimate; disclose before B3 games | Discover, creature tutors, protected Apex fight chain | Three conditional near-infinite lines |
-| 2 | Kang Prime | B3 | Upper B3 | Free spells, copied triggers, extra beginning/end phases, Eldrazi payloads | No complete combo |
-| 3 | Magda | B3 | Upper B3 | Repeatable command-zone artifact/Dragon tutor | No complete combo |
-| 4 | Queen Marchesa | B3 | Upper B3 with loop disclosure | Political control, redirection, Sunforger/Wishclaw access | One finite kill and one five-card unbounded loop |
-| 5 | Minn | B3 | Upper B3 | Draw-trigger multiplication, free permanents, sacrifice outlets | No complete combo |
-| 6 | Henzie | B3 | Mid-to-upper B3 | Blitz value, Birthing Pod, reanimation, large ETBs | Returned persist template is incomplete |
-| 7 | Blor | B3 | Upper B3, Rule Zero today | Resilient Voltron and sudden commander-damage multipliers | No complete combo |
-| 8 | Ekthi | B3 | Mid-to-upper B3, Rule Zero today | Equipment tutoring and low-cost equip turns | No complete combo |
-| 9 | Marrow-Gnawer | B3 | Mid B3 | Exponential Rat production and tribal damage | No complete combo |
-| 10 | The Fifth Doctor + Susan Foreman | B2 | Good B2/Exhibition fit | Tap/untap value, counters, Vehicles, and combat | No complete combo |
+| 2 | Magda | B3 | Upper B3 | Repeatable command-zone artifact/Dragon tutor | No complete combo |
+| 3 | Queen Marchesa | B3 | Upper B3 with loop disclosure | Political control, redirection, Sunforger/Wishclaw access | One finite kill and one five-card unbounded loop |
+| 4 | Minn | B3 | Upper B3 | Draw-trigger multiplication, free permanents, sacrifice outlets | No complete combo |
+| 5 | Henzie | B3 | Mid-to-upper B3 | Blitz value, Birthing Pod, reanimation, large ETBs | Returned persist template is incomplete |
+| 6 | Blor | B3 | Upper B3, Rule Zero today | Resilient Voltron and sudden commander-damage multipliers | No complete combo |
+| 7 | Ekthi | B3 | Mid-to-upper B3, Rule Zero today | Equipment tutoring and low-cost equip turns | No complete combo |
+| 8 | Marrow-Gnawer | B3 | Mid B3 | Exponential Rat production and tribal damage | No complete combo |
+| 9 | The Fifth Doctor + Susan Foreman | B2 | Good B2/Exhibition fit | Tap/untap value, counters, Vehicles, and combat | No complete combo |
 
 The ranking measures likely blind-pod concern, not deck quality. A familiar pod
-can place Kang, Magda, Queen, Minn, Henzie, Blor, and Ekthi in a different order
+can place Magda, Queen, Minn, Henzie, Blor, and Ekthi in a different order
 depending on its tolerance for tutors, commander damage, and snowballing value.
 
 ## Construction and policy facts
 
-All 10 lists resolve 100 of 100 cards, pass singleton and color-identity checks,
+All 9 lists resolve 100 of 100 cards, pass singleton and color-identity checks,
 and contain zero cards marked as Game Changers in the current Oracle snapshot.
 That zero does not settle bracket fit; Pantlaza's complete lines and Magda's
 command-zone tutor are examples of pressure that the count does not express.
@@ -46,7 +45,6 @@ command-zone tutor are examples of pressure that the count does not express.
 | Blor | 36 | 0 | 0 | `Blor the Impervious` releases 2026-11-09; Rule Zero today |
 | Ekthi | 34 | 1 | 0 | `Ekthi, Contaminator Priest` releases 2026-11-09; Rule Zero today |
 | Henzie | 34 | 4 | 0 | Legal |
-| Kang | 35 | 1 | 0 | Legal |
 | Magda | 35 | 0 | 0 | Legal |
 | Marrow-Gnawer | 35 | 0 | 0 | Legal |
 | Minn | 35 | 2 | 0 | `The Theorist, Jace Beleren` releases 2026-10-02; Rule Zero today |
@@ -99,14 +97,12 @@ generic persist-creature requirement. The exact 100 has no creature with
 persist, so the returned template cannot run. The other death and reanimation
 cards recur creatures a bounded number of times.
 
-### Remaining seven decks
+### Remaining six decks
 
-Blor, Ekthi, Kang, Magda, Marrow-Gnawer, Minn, and The Fifth Doctor returned no
+Blor, Ekthi, Magda, Marrow-Gnawer, Minn, and The Fifth Doctor returned no
 included combo. Manual review did not find a replacement among the likely
 engines:
 
-- Kang has no extra-turn card and no deterministic suspend, blink, or
-  Sensei's Divining Top loop. Its added beginning and end phases are finite.
 - Magda has many ways to tap Dwarves, but no repeatable untap engine; its
   Treasure and tutor chains stop.
 - Minn's Altars and Blasting Station consume a finite supply of Illusions.
@@ -128,9 +124,6 @@ Use the shortest statement that covers the actual risk:
 - **Magda:** “There is no infinite combo in the current list, but Magda can
   repeatedly turn five Treasures into the best Dragon or artifact for the
   position.”
-- **Kang Prime:** “There is no extra-turn or infinite line. The deck copies Kang
-  triggers and adds beginning/end phases to accelerate several suspended free
-  spells.”
 - **Blor, Ekthi, Minn, and Pantlaza before release:** identify the Rule Zero card
   listed in the construction table.
 - **The Fifth Doctor + Susan Foreman:** “This is the lower-powered list: Bant

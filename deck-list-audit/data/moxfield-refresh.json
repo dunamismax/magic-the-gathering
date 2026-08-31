@@ -3,7 +3,7 @@
   "profile_url": "https://moxfield.com/users/dunamismax",
   "refreshed_on": "2026-08-30",
   "method": "Moxfield public deck page, Download, Copy Plain Text",
-  "deck_count": 10,
+  "deck_count": 9,
   "decks": {
     "blor-the-impervious": {
       "title": "Blor the Impervious | Built Frog Tough",
@@ -25,13 +25,6 @@
       "source_updated_on": "2026-08-30",
       "refreshed_on": "2026-08-30",
       "deck_sha256": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb"
-    },
-    "kang-prime": {
-      "title": "Kang Prime | All in Due Time",
-      "moxfield_id": "Yr7eDw8Ay0-9gX091oXxkA",
-      "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
-      "deck_sha256": "9095b78c618cee0a47dd0af64651d3a711b8aa85361fa42b83a6e7c6709e2f32"
     },
     "magda-brazen-outlaw": {
       "title": "Magda, Brazen Outlaw | Dragon Delivery Service",

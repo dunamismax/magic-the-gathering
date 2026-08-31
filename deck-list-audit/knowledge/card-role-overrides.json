@@ -47,24 +47,6 @@
         "cost_reduction"
       ]
     },
-    "kang-prime": {
-      "Kang Prime": [
-        "commander_engine",
-        "cost_reduction",
-        "card_advantage"
-      ],
-      "One with the Multiverse": [
-        "card_advantage",
-        "cost_reduction"
-      ],
-      "Sensei's Divining Top": [
-        "selection",
-        "commander_engine"
-      ],
-      "Blade of Selves": [
-        "commander_engine"
-      ]
-    },
     "pantlaza-sun-favored": {
       "Pantlaza, Sun-Favored": [
         "commander_engine",

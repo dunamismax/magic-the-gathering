@@ -8,6 +8,6 @@
   "description": "A JSON file containing one Scryfall card object for each Oracle ID on Scryfall. The chosen sets for the cards are an attempt to return the most up-to-date recognizable version of the card.",
   "jsonl_download_uri": "https://data.scryfall.io/oracle-cards/oracle-cards-20260830090156.jsonl.gz",
   "compressed_size": 24531992,
-  "local_sha256": "a85e1309439fcaca2639b5eaf0cd2f71a0f4de8bd3926617fae3eded1dda5528",
+  "local_sha256": "f11ad49902e6df0d89e1ecc01f1f0021656f5fd999ca853e5716d7c787361cf4",
   "cached_at": "2026-08-30T18:24:02.559085+00:00"
 }
