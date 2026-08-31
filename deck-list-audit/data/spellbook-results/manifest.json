@@ -65,15 +65,6 @@
       "estimate_sha256": "30ed4cd68b7748f402007512d438072bea2193d1f7a374be82f0c1f47f3432b0",
       "combos_file": "data/spellbook-results/queen-marchesa-combos.json",
       "combos_sha256": "f0b1310168b6a7f2678214fcc4207928b041dadf7bc1e6b4f95e65a9a3a69728"
-    },
-    "the-fifth-doctor-susan-foreman": {
-      "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "5148fb5cd5df10b8337ef70440b618b555712c610bba5801db4156b160624dcb",
-      "estimate_file": "data/spellbook-results/the-fifth-doctor-susan-foreman-estimate.json",
-      "estimate_sha256": "9d4b197af27d14acf2f52cfc74679ae3e7235e96a77c886ec845e19cb8836203",
-      "combos_file": "data/spellbook-results/the-fifth-doctor-susan-foreman-combos.json",
-      "combos_sha256": "8b56afde999bc3924c4698e2766e42577a2d592f10bf438a49ab207857dc3961"
     }
   }
 }

@@ -3,7 +3,7 @@
   "profile_url": "https://moxfield.com/users/dunamismax",
   "refreshed_on": "2026-08-30",
   "method": "Moxfield public deck page, Download, Copy Plain Text",
-  "deck_count": 8,
+  "deck_count": 7,
   "decks": {
     "blor-the-impervious": {
       "title": "Blor the Impervious | Built Frog Tough",
@@ -53,13 +53,6 @@
       "source_updated_on": "2026-08-30",
       "refreshed_on": "2026-08-30",
       "deck_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94"
-    },
-    "the-fifth-doctor-susan-foreman": {
-      "title": "The Fifth Doctor + Susan Foreman | Tap That Ash",
-      "moxfield_id": "s8vZJzEHUEq0lgQTvqSV_w",
-      "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
-      "deck_sha256": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a"
     }
   }
 }

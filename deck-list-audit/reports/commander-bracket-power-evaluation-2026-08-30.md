@@ -2,13 +2,13 @@
 
 Reviewed: 2026-08-30  
 Profile: <https://moxfield.com/users/dunamismax>  
-Scope: the exact 8 public lists and hashes recorded in
+Scope: the exact 7 public lists and hashes recorded in
 `data/moxfield-refresh.json`
 
 ## Verdict
 
-The collection contains one Bracket 2 deck and seven Bracket 3 decks. None is a
-Bracket 1, Bracket 4, or Bracket 5 build as currently constructed. Pantlaza is
+The collection contains seven Bracket 3 decks. None is a Bracket 1, Bracket 2,
+Bracket 4, or Bracket 5 build as currently constructed. Pantlaza is
 the only knife-edge decision: its overall intent and normal clock fit the top
 of Bracket 3, but its tutored conditional kill should be disclosed, and a pilot
 who actively seeks that line should present the deck as Bracket 4.
@@ -22,7 +22,6 @@ who actively seeks that line should present the deck as Bracket 4.
 | 5 | Blor the Impervious | **B3, mid-upper** | **7.0-7.5/10** | Medium-high | Upgraded resilient Voltron; Rule Zero until release |
 | 6 | Ekthi, Contaminator Priest | **B3, middle** | **6.5-7.0/10** | Medium-high | Upgraded Equipment combat; Rule Zero until release |
 | 7 | Queen Marchesa | **B3, middle** | **6.5-7.0/10** | High | Upgraded political control with a disclosed clunky loop |
-| 8 | The Fifth Doctor + Susan Foreman | **B2, upper** | **5.0-5.5/10** | High | Core tap/untap, counter, and Vehicle deck |
 
 The numerical ranges are conventional relative power estimates, not a formula
 that converts directly into brackets. Brackets classify expected game
@@ -137,31 +136,17 @@ the deck Bracket 4, but it should be disclosed. Slow closing speed and reliance
 on table state keep raw power near the middle of Bracket 3 even though the deck
 can exert strong control over a game.
 
-### The Fifth Doctor + Susan Foreman — upper Bracket 2
-
-This deck creates incremental value by tapping and untapping creatures,
-distributing +1/+1 counters, and crewing Vehicles and Spacecraft. It has useful
-synergy and a high-quality mana base, but it omits `Sol Ring`, has no Game
-Changer or complete combo, and normally needs several permanents and combat
-steps to close. Its Helix effects and `Basking Broodscale` do not have the
-missing loop pieces.
-
-The resulting gameplay is proactive, telegraphed, and usually gives opponents
-at least eight turns, which is the current Core expectation. It is a good upper
-Bracket 2 deck and would be at a disadvantage in most of this collection's B3
-pods.
-
 ## Collection-wide facts and caveats
 
-- All 8 exact lists contain 100 cards and pass the local singleton, color
+- All 7 exact lists contain 100 cards and pass the local singleton, color
   identity, legality-policy, banned-card, and configured Game Changer checks,
   including the declared Rule Zero exceptions.
-- All 8 contain zero current Game Changers. That does not determine bracket;
+- All 7 contain zero current Game Changers. That does not determine bracket;
   Magda's command-zone tutor and Pantlaza's combo are the clearest examples.
 - No list contains a true extra-turn spell or mass land denial package.
 - Pantlaza has three confirmed conditional near-infinite lines. Queen Marchesa
   has one finite kill and one five-card unbounded loop. Henzie's returned
-  persist template is incomplete. The other five lists have no known complete
+  persist template is incomplete. The other four lists have no known complete
   exact-list combo after the 2026-08-30 Spellbook and manual review.
 - Rule Zero is presently required for `Blor the Impervious`, `Ekthi,
   Contaminator Priest`, `The Theorist, Jace Beleren` in Minn, and `Maular, the

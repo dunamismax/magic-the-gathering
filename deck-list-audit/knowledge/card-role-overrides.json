@@ -149,26 +149,6 @@
         "win_condition",
         "combo_piece"
       ]
-    },
-    "the-fifth-doctor-susan-foreman": {
-      "The Fifth Doctor": [
-        "commander_engine",
-        "win_condition"
-      ],
-      "Susan Foreman": [
-        "commander_engine",
-        "ramp"
-      ],
-      "Cryptolith Rite": [
-        "commander_engine",
-        "ramp"
-      ],
-      "Drumbellower": [
-        "commander_engine"
-      ],
-      "Thousand-Year Elixir": [
-        "commander_engine"
-      ]
     }
   }
 }

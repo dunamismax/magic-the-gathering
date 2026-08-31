@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "audit_date": "2026-08-30",
-  "audit_sha256": "ae82c2c801fe74046a4773c0ec29db164fcf480681d3ffe40cac37f64c496f4f",
-  "collection_sha256": "404dcbe98d6e6352775124c28fc7c6fe854989f5d9bc266bdbd6ca3fc4f0c04c",
-  "moxfield_refresh_sha256": "d3c400934772d612d147aaf1655af0605ccdc423e33f2eb3a5433b46ab693622",
-  "decks_readme_sha256": "b8e1d6940fc6d59b194a07c131ea9bec702f751e9d385ceeb91a97453dea3122",
-  "collection_summary_sha256": "426c46b5a331cf1a1a4912dc1bfa8df4586f7b80425aa4f0d83d46ef7bf86e1f",
-  "functional_analysis_sha256": "b6b563cbb3f6ae13e4cf7961daf2d6a9dc6abdcbc411031e68981f394d9b9329",
+  "audit_sha256": "9fde7785dc16e9bc60425ce6320340992da5e49e736f2a526c0a3542d8884c69",
+  "collection_sha256": "a614967b7003af472dbfb756c81afea4bb4040ce5e20b3d36c83b60c63dc70d8",
+  "moxfield_refresh_sha256": "1c711773f6305a44b0a7f8962dc6ab1d5ce86a1f2d2862305dfa1f25fbe485dc",
+  "decks_readme_sha256": "c8ed051afc10cbc9fa2683b8f5ff37570da863313b949f65f677d78ee7e8ef8a",
+  "collection_summary_sha256": "b5c46f82aa86d022009fb19845943829f3c2e7b19847c8786cf477f2e4f07b3f",
+  "functional_analysis_sha256": "45c32340803e527dc2b4dd6a8b8f953f6e6923ce6c86479cc0b810bd1ef33580",
   "deck_sha256": {
     "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
     "ekthi-contaminator-priest": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
@@ -14,7 +14,6 @@
     "magda-brazen-outlaw": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
     "minn-wily-illusionist": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
-    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
-    "the-fifth-doctor-susan-foreman": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a"
+    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94"
   }
 }

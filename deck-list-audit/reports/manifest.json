@@ -3,7 +3,7 @@
   "status": "reviewed-current-snapshot",
   "audit_date": "2026-08-30",
   "report_file": "reports/commander-social-audit-2026-08-30.md",
-  "report_sha256": "6bbc8c65a1376d63b121547b8883469dc2f28a01f8ae2d47ee15241b009b4328",
+  "report_sha256": "c91fcb9bd98bc5b1f7fa4e74a3f60f5c8f62971caeec1d8788a4bc6e4a6365b7",
   "deck_sha256": {
     "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
     "ekthi-contaminator-priest": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
@@ -11,8 +11,7 @@
     "magda-brazen-outlaw": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
     "minn-wily-illusionist": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
-    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
-    "the-fifth-doctor-susan-foreman": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a"
+    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94"
   },
-  "notes": "Current 8-deck social-power report based on exact 2026-08-30 Moxfield exports, full-list Commander Spellbook refreshes, and manual prerequisite review."
+  "notes": "Current 7-deck social-power report based on exact 2026-08-30 Moxfield exports, full-list Commander Spellbook refreshes, and manual prerequisite review."
 }

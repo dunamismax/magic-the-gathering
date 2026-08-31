@@ -50,13 +50,5 @@ class RoleAnalysisTests(unittest.TestCase):
         self.assertNotIn("card_advantage", read_the_runes["roles"])
         self.assertEqual(read_the_runes["roles"]["selection"], "override")
 
-    def test_partner_commanders_receive_collection_specific_roles(self) -> None:
-        deck = self.analysis["decks"]["the-fifth-doctor-susan-foreman"]
-        fifth = next(card for card in deck["cards"] if card["name"] == "The Fifth Doctor")
-        susan = next(card for card in deck["cards"] if card["name"] == "Susan Foreman")
-        self.assertEqual(fifth["roles"]["commander_engine"], "override")
-        self.assertEqual(susan["roles"]["ramp"], "override")
-
-
 if __name__ == "__main__":
     unittest.main()

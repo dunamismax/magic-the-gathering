@@ -1,8 +1,8 @@
-# dunamismax 8-deck social-power audit
+# dunamismax 7-deck social-power audit
 
 Reviewed: 2026-08-30  
 Profile: <https://moxfield.com/users/dunamismax>  
-Scope: the exact 8 public lists and hashes recorded in `data/moxfield-refresh.json`
+Scope: the exact 7 public lists and hashes recorded in `data/moxfield-refresh.json`
 
 This report combines the deterministic Oracle audit, the 2026-08-29 official
 policy lock, full-list Commander Spellbook scans refreshed on 2026-08-30, and
@@ -13,7 +13,7 @@ estimate is evidence rather than the final social judgment.
 
 The lineup remains strongly themed and varied. Pantlaza is the clear outlier:
 Commander Spellbook tags it `R` (Ruthless) because the exact list contains
-three Apex Altisaur and Wrathful Raptors lines. The other seven estimates are
+three Apex Altisaur and Wrathful Raptors lines. The other six estimates are
 `E` (Exhibition), although several still play above a relaxed table through
 command-zone tutoring, repeated free spells, or explosive combat scaling.
 
@@ -26,7 +26,6 @@ command-zone tutoring, repeated free spells, or explosive combat scaling.
 | 5 | Henzie | B3 | Mid-to-upper B3 | Blitz value, Birthing Pod, reanimation, large ETBs | Returned persist template is incomplete |
 | 6 | Blor | B3 | Upper B3, Rule Zero today | Resilient Voltron and sudden commander-damage multipliers | No complete combo |
 | 7 | Ekthi | B3 | Mid-to-upper B3, Rule Zero today | Equipment tutoring and low-cost equip turns | No complete combo |
-| 8 | The Fifth Doctor + Susan Foreman | B2 | Good B2/Exhibition fit | Tap/untap value, counters, Vehicles, and combat | No complete combo |
 
 The ranking measures likely blind-pod concern, not deck quality. A familiar pod
 can place Magda, Queen, Minn, Henzie, Blor, and Ekthi in a different order
@@ -34,7 +33,7 @@ depending on its tolerance for tutors, commander damage, and snowballing value.
 
 ## Construction and policy facts
 
-All 8 lists resolve 100 of 100 cards, pass singleton and color-identity checks,
+All 7 lists resolve 100 of 100 cards, pass singleton and color-identity checks,
 and contain zero cards marked as Game Changers in the current Oracle snapshot.
 That zero does not settle bracket fit; Pantlaza's complete lines and Magda's
 command-zone tutor are examples of pressure that the count does not express.
@@ -48,7 +47,6 @@ command-zone tutor are examples of pressure that the count does not express.
 | Minn | 35 | 2 | 0 | `The Theorist, Jace Beleren` releases 2026-10-02; Rule Zero today |
 | Pantlaza | 35 | 3 | 0 | `Maular, the Next Evolution` releases 2026-11-09; Rule Zero today |
 | Queen Marchesa | 36 | 2 | 0 | Legal |
-| The Fifth Doctor + Susan Foreman | 37 | 0 | 0 | Legal |
 
 ## Combo and high-pressure findings
 
@@ -95,9 +93,9 @@ generic persist-creature requirement. The exact 100 has no creature with
 persist, so the returned template cannot run. The other death and reanimation
 cards recur creatures a bounded number of times.
 
-### Remaining five decks
+### Remaining four decks
 
-Blor, Ekthi, Magda, Minn, and The Fifth Doctor returned no
+Blor, Ekthi, Magda, and Minn returned no
 included combo. Manual review did not find a replacement among the likely
 engines:
 
@@ -105,8 +103,6 @@ engines:
   Treasure and tutor chains stop.
 - Minn's Altars and Blasting Station consume a finite supply of Illusions.
   Krang and Homunculus Horde multiply a second-draw event without recreating it.
-- The Fifth Doctor's two Helix effects lack a free recast/untap engine, and
-  Basking Broodscale lacks a counter-removal loop.
 - Blor's mana creatures and Equipment package and Ekthi's free equip turns
   scale sharply but remain bounded.
 
@@ -124,8 +120,6 @@ Use the shortest statement that covers the actual risk:
   position.”
 - **Blor, Ekthi, Minn, and Pantlaza before release:** identify the Rule Zero card
   listed in the construction table.
-- **The Fifth Doctor + Susan Foreman:** “This is the lower-powered list: Bant
-  tap/untap, +1/+1 counters, Vehicles, and no known combo.”
 
 ## Evidence boundaries
 

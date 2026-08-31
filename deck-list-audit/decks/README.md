@@ -12,7 +12,6 @@ is linked to its exact SHA-256 and public Moxfield reference.
 | [Minn, Wily Illusionist \| Now You See Minn](https://moxfield.com/decks/yRogqEE7oE29tp9aASt9IQ) | B3 | 2026-08-30 | 2026-08-30 | [list](minn-wily-illusionist.txt) | `426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1` |
 | [Pantlaza, Sun-Favored \| The Land Before Value](https://moxfield.com/decks/zqJp4nSGKEqfbE0Jx1iJJA) | B3 | 2026-08-30 | 2026-08-30 | [list](pantlaza-sun-favored.txt) | `9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e` |
 | [Queen Marchesa \| Mardu Your Business](https://moxfield.com/decks/CXl1HrG9uE21A_07vqY3lA) | B3 | 2026-08-30 | 2026-08-30 | [list](queen-marchesa.txt) | `67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94` |
-| [The Fifth Doctor + Susan Foreman \| Tap That Ash](https://moxfield.com/decks/s8vZJzEHUEq0lgQTvqSV_w) | B2 | 2026-08-30 | 2026-08-30 | [list](the-fifth-doctor-susan-foreman.txt) | `93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a` |
 
 `Moxfield updated` is the public page date. `Refreshed locally` records
 when the export was last downloaded and verified. The local text files

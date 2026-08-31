@@ -6,12 +6,12 @@ update themselves when Moxfield lists change.
 ## Current
 
 - [`commander-social-audit-2026-08-30.md`](commander-social-audit-2026-08-30.md)
-  — social-power and combo review of the current 8-deck lineup
+  — social-power and combo review of the current 7-deck lineup
 - [`commander-bracket-power-evaluation-2026-08-30.md`](commander-bracket-power-evaluation-2026-08-30.md)
   — decisive bracket assignments and relative 1-10 power ranges for the same
-  exact 8-deck snapshot
+  exact 7-deck snapshot
 
-`manifest.json` pins the social-power report to all 8 exact deck hashes. The
+`manifest.json` pins the social-power report to all 7 exact deck hashes. The
 bracket/power companion records the same snapshot through
 `data/moxfield-refresh.json`. The structured adjudications in
 `../knowledge/combo-adjudications.json` pin the underlying combo findings

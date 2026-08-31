@@ -145,15 +145,6 @@
           "source": "manual-oracle-and-rules-prerequisite-review"
         }
       ]
-    },
-    {
-      "deck": "the-fifth-doctor-susan-foreman",
-      "deck_sha256": "93c56bdb6e24c2eab169a8c8196228231b7d6c99755178eaad40ef435fd12f2a",
-      "status": "reviewed",
-      "reviewed_on": "2026-08-30",
-      "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Manual review found that Banishing Knack and Retraction Helix lack a free recast and untap engine, Basking Broodscale lacks a counter-removal loop, and the creature untappers produce bounded activations. The deck remains a finite tap, untap, counter, and Vehicle engine.",
-      "lines": []
     }
   ]
 }

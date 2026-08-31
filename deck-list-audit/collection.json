@@ -170,26 +170,6 @@
         "experience": "Political monarch, goad, gifting, and damage-redirection gameplay."
       },
       "source_refreshed_on": "2026-08-30"
-    },
-    "the-fifth-doctor-susan-foreman": {
-      "commanders": [
-        "The Fifth Doctor",
-        "Susan Foreman"
-      ],
-      "title": "The Fifth Doctor + Susan Foreman | Tap That Ash",
-      "moxfield_id": "s8vZJzEHUEq0lgQTvqSV_w",
-      "source_updated_on": "2026-08-30",
-      "source_refreshed_on": "2026-08-30",
-      "visibility": "public",
-      "constraints": {
-        "target_bracket": 2,
-        "game_changer_max": 0,
-        "combo_policy": "disclose",
-        "rule_zero_cards": [],
-        "locked_cards": [],
-        "budget": null,
-        "experience": "Bant tap and untap synergies that turn creatures into +1/+1 counters, cards, and crew for Vehicles and Spacecraft."
-      }
     }
   }
 }

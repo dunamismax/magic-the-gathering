@@ -16,7 +16,6 @@ conclusions require the relevant rubric and dated human/AI judgment.
 | Minn, Wily Illusionist / Now You See Minn | yes | 100 | 35 | 2 | 0 | The Theorist, Jace Beleren | `426315088393` |
 | Pantlaza, Sun-Favored / The Land Before Value | yes | 100 | 35 | 3 | 0 | Maular, the Next Evolution | `9efdc635e56f` |
 | Queen Marchesa / Mardu Your Business | yes | 100 | 36 | 2 | 0 | None | `67dd7a309bc3` |
-| The Fifth Doctor + Susan Foreman / Tap That Ash | yes | 100 | 37 | 0 | 0 | None | `93c56bdb6e24` |
 
 ## Validation notes
 
