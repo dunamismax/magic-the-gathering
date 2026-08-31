@@ -56,15 +56,6 @@
       "lines": []
     },
     {
-      "deck": "marrow-gnawer",
-      "deck_sha256": "748f7a61f472c885924acd21f2a44d34c0d39b393f0093c32a47ccf9a5c86f63",
-      "status": "reviewed",
-      "reviewed_on": "2026-08-30",
-      "spellbook_included_candidates": 0,
-      "summary": "The refreshed exact-list scan returned no included combo. Illusionist's Bracers, Sting, and Roaming Throne multiply Rat production at bounded turn and combat events; the Thornbite and ripple loops remain absent.",
-      "lines": []
-    },
-    {
       "deck": "minn-wily-illusionist",
       "deck_sha256": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
       "status": "reviewed",

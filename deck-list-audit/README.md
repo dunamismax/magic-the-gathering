@@ -7,20 +7,20 @@ deck edits so one layer cannot silently masquerade as another.
 
 ## Current snapshot
 
-- **9 public decks**, all downloaded from Moxfield and locally verified on
+- **8 public decks**, all downloaded from Moxfield and locally verified on
   **2026-08-30**
 - **1 Bracket 2 target**: The Fifth Doctor + Susan Foreman
-- **8 Bracket 3 targets**
-- All 9 currently resolve to exactly 100 cards and pass deterministic count,
+- **7 Bracket 3 targets**
+- All 8 currently resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, identity, legality, release-state, banned-card, and
   configured Game Changer checks
-- All 9 exact lists were refreshed through Commander Spellbook and manually
+- All 8 exact lists were refreshed through Commander Spellbook and manually
   adjudicated on **2026-08-30**
 - Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
   has one finite Spellbook line and one manually verified five-card loop;
   Henzie's returned persist template is incomplete
-- The current 9-deck social review is pinned to these exact hashes; the retained
-  eight-deck subset of the prior review remains archived
+- The current 8-deck social review is pinned to these exact hashes; the retained
+  seven-deck subset of the prior review remains archived
 
 Browse titles, source dates, Moxfield links, and hashes in
 [`decks/README.md`](decks/README.md). Deterministic totals are in

@@ -2,12 +2,12 @@
 
 Reviewed: 2026-08-30  
 Profile: <https://moxfield.com/users/dunamismax>  
-Scope: the exact 9 public lists and hashes recorded in
+Scope: the exact 8 public lists and hashes recorded in
 `data/moxfield-refresh.json`
 
 ## Verdict
 
-The collection contains one Bracket 2 deck and eight Bracket 3 decks. None is a
+The collection contains one Bracket 2 deck and seven Bracket 3 decks. None is a
 Bracket 1, Bracket 4, or Bracket 5 build as currently constructed. Pantlaza is
 the only knife-edge decision: its overall intent and normal clock fit the top
 of Bracket 3, but its tutored conditional kill should be disclosed, and a pilot
@@ -22,8 +22,7 @@ who actively seeks that line should present the deck as Bracket 4.
 | 5 | Blor the Impervious | **B3, mid-upper** | **7.0-7.5/10** | Medium-high | Upgraded resilient Voltron; Rule Zero until release |
 | 6 | Ekthi, Contaminator Priest | **B3, middle** | **6.5-7.0/10** | Medium-high | Upgraded Equipment combat; Rule Zero until release |
 | 7 | Queen Marchesa | **B3, middle** | **6.5-7.0/10** | High | Upgraded political control with a disclosed clunky loop |
-| 8 | Marrow-Gnawer | **B3, lower-middle** | **6.0-6.5/10** | High | Upgraded Rat swarm |
-| 9 | The Fifth Doctor + Susan Foreman | **B2, upper** | **5.0-5.5/10** | High | Core tap/untap, counter, and Vehicle deck |
+| 8 | The Fifth Doctor + Susan Foreman | **B2, upper** | **5.0-5.5/10** | High | Core tap/untap, counter, and Vehicle deck |
 
 The numerical ranges are conventional relative power estimates, not a formula
 that converts directly into brackets. Brackets classify expected game
@@ -138,19 +137,6 @@ the deck Bracket 4, but it should be disclosed. Slow closing speed and reliance
 on table state keep raw power near the middle of Bracket 3 even though the deck
 can exert strong control over a game.
 
-### Marrow-Gnawer — lower-middle Bracket 3
-
-Marrow-Gnawer is focused and can scale frighteningly through 26 `Rat Colony`,
-copied Rat production, tribal lords, drain effects, and mass recursion. It is
-well above an unoptimized Core deck once Marrow survives a turn cycle.
-
-The current list lacks `Thrumming Stone`, `Thornbite Staff`, and the compact
-combo/tutor package that previously made the archetype much sharper. It has
-only four ramp cards in the local classification, little protection, and light
-interaction. Its creature-based wins are visible and disruptable. Those facts
-place it safely in Bracket 3, toward the lower end of this collection's eight B3
-decks.
-
 ### The Fifth Doctor + Susan Foreman — upper Bracket 2
 
 This deck creates incremental value by tapping and untapping creatures,
@@ -167,15 +153,15 @@ pods.
 
 ## Collection-wide facts and caveats
 
-- All 9 exact lists contain 100 cards and pass the local singleton, color
+- All 8 exact lists contain 100 cards and pass the local singleton, color
   identity, legality-policy, banned-card, and configured Game Changer checks,
   including the declared Rule Zero exceptions.
-- All 9 contain zero current Game Changers. That does not determine bracket;
+- All 8 contain zero current Game Changers. That does not determine bracket;
   Magda's command-zone tutor and Pantlaza's combo are the clearest examples.
 - No list contains a true extra-turn spell or mass land denial package.
 - Pantlaza has three confirmed conditional near-infinite lines. Queen Marchesa
   has one finite kill and one five-card unbounded loop. Henzie's returned
-  persist template is incomplete. The other six lists have no known complete
+  persist template is incomplete. The other five lists have no known complete
   exact-list combo after the 2026-08-30 Spellbook and manual review.
 - Rule Zero is presently required for `Blor the Impervious`, `Ekthi,
   Contaminator Priest`, `The Theorist, Jace Beleren` in Minn, and `Maular, the

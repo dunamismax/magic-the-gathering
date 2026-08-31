@@ -1,12 +1,12 @@
-# Archived report: dunamismax Bracket 3 and social-power audit — retained eight-deck subset
+# Archived report: dunamismax Bracket 3 and social-power audit — retained seven-deck subset
 
 > Historical snapshot only. The 2026-08-30 refresh changed the lineup and every local deck file.
-> Retains eight decks reviewed in the 2026-08-29 snapshot, not the full original lineup.
+> Retains seven decks reviewed in the 2026-08-29 snapshot, not the full original lineup.
 > Verify deck hashes and source freshness with
 > `just check-current` before reusing any conclusion.
 
 Audit date: 2026-08-29  
-Source: eight retained exact local lists in [`decks/`](../../decks/README.md), including
+Source: seven retained exact local lists in [`decks/`](../../decks/README.md), including
 user-confirmed Blor, Magda, and Minn changes dated 2026-08-29; public Moxfield
 links are tracked as source references, not treated as silently synchronized.
 
@@ -30,12 +30,10 @@ specific play patterns, not a generalized staple problem:
   plus `Flumph` loops draws and Bowmasters triggers if Flumph is made
   indestructible and the first damage/draw trigger occurs. The surrounding
   deck is otherwise political, interactive, and highly replayable.
-- **Henzie, Ekthi, and Marrow are socially comfortable Bracket 3 decks.**
-  Henzie is explosive but finite; Ekthi is consistent but strongly
-  Equipment-specific; Marrow is now the cleanest list after removing the
-  ripple/tutor/life-engine package that made it disproportionately explosive.
+- **Henzie and Ekthi are socially comfortable Bracket 3 decks.** Henzie is
+  explosive but finite; Ekthi is consistent and strongly Equipment-specific.
 
-No list contains mass land denial. All eight retained lists have 100 cards, no banned cards,
+No list contains mass land denial. All seven retained lists have 100 cards, no banned cards,
 no color-identity violations, and no illegal duplicate problem. Game Changer
 counts are all within the current Bracket 3 cap of three, but that cap is not a
 substitute for evaluating combos, speed, consistency, or opponent agency.
@@ -55,7 +53,6 @@ less commander-specific identity.
 | 5 | Blor | Upper B3 | 4 | 3 | 3 | 4 | 4 |
 | 6 | Henzie | Mid B3 | 3 | 3 | 3 | 3 | 5 |
 | 7 | Ekthi | Mid-to-upper B3 | 4 | 2 | 2 | 2 | 4 |
-| 8 | Marrow-Gnawer | Low-to-mid B3 | 3 | 2 | 2 | 2 | 3 |
 
 The ordering between Magda, Minn, and Blor will vary by pod. Experienced
 players may fear Magda most at commander reveal, while Minn still has a deep
@@ -78,7 +75,6 @@ still reduce replayability and make a risky line recur too often.
 | Ekthi | 34 | 0 | `Ancient Tomb`, `Enlightened Tutor`, `Teferi's Protection` | Commander releases 2026-11-09; Rule Zero today |
 | Henzie | 35 | 3 | None | Legal |
 | Magda | 35 | 0 | `Ancient Tomb` | Legal |
-| Marrow | 35 | 0 | None | Legal |
 | Minn | 35 | 2 | `Consecrated Sphinx` | `The Theorist, Jace Beleren` releases 2026-10-02; Rule Zero today |
 | Pantlaza | 35 | 3 | `Ancient Tomb`, `Worldly Tutor` | `Maular, the Next Evolution` releases 2026-11-09; Rule Zero today |
 | Queen Marchesa | 36 | 2 | `Orcish Bowmasters`, `Smothering Tithe`, `Teferi's Protection` | Legal |
@@ -244,26 +240,6 @@ two Elesh Norns that formerly reduced opponent agency are absent.
 Verdict: **clean mid-to-upper Bracket 3 once legal**. High consistency, low
 good-stuff drift, and low agency pressure.
 
-### Marrow-Gnawer — cleanest social fit, most linear play pattern
-
-The current Marrow list has no Game Changers and no documented combo.
-`Thrumming Stone`, `Demonic Tutor`, `Bolas's Citadel`, `Necropotence`,
-`Thornbite Staff`, and `Grave Pact` are all absent. That removes the deck's
-former ripple explosion, compact token loop, generic life-based engines, and
-repeated sacrifice-board suppression.
-
-The remaining power is visible and interactable: `Cabal Coffers` + `Urborg`,
-`Nykthos`, `Three Tree City`, `Diabolic Intent`, `Black Market Connections`,
-`Coat of Arms`, `Skullclamp`, and Marrow's activated ability. These can produce
-very large turns, but they require board, mana, or a sacrificed creature and do
-not remove the pod's ability to play.
-
-The weakness is replayability rather than social power: 26 `Rat Colony` copies
-and an unrestricted tutor make the deck more linear than the rest of the
-lineup.
-
-Verdict: **low-to-mid Bracket 3 and the safest blind-pod choice**.
-
 ## Concise pregame disclosures
 
 - **Pantlaza:** “High-power Dinosaurs; Savage Order plus Wrathful Raptors can
@@ -281,9 +257,6 @@ Verdict: **low-to-mid Bracket 3 and the safest blind-pod choice**.
   mass-reanimation turns.”
 - **Ekthi:** “Three-Game-Changer living-weapon Equipment deck; no combo or
   stax.”
-- **Marrow:** “Zero Game Changers; no Thrumming Stone, Thornbite loop, or Grave
-  Pact—just Rat swarm, Coffers, and Diabolic Intent.”
-
 ## Evidence and reproducibility
 
 - Exact exports and hashes: [`decks/README.md`](decks/README.md)

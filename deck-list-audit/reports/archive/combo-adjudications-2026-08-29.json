@@ -54,12 +54,6 @@
       "lines": []
     },
     {
-      "deck": "marrow-gnawer",
-      "deck_sha256": "c1de152a9e9e145ee330fe1a6b319b317846368fe7828ff76c18206a383fa29c",
-      "summary": "No complete exact-list combo returned after the Thornbite and ripple packages were removed.",
-      "lines": []
-    },
-    {
       "deck": "minn-wily-illusionist",
       "deck_sha256": "af0139eec1bf0e28f3bf8a914bd566b3028b395ff43d98f16cc8da6ee0769020",
       "summary": "The prior exact-list scan returned no complete combo after Meloku was removed. A current delta review found no Read the Runes or Mask of Memory variants; all Oneirophage variants require absent cards, despite Sensei's Divining Top appearing in some off-color Falco Spara lines. Teferi's extra-turn risk is gone.",

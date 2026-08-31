@@ -5,7 +5,7 @@ lineup. It stores exact public Moxfield snapshots, deterministic construction
 audits, dated external evidence, safe change tooling, and reusable review
 prompts.
 
-The current collection contains **9 decks**. Every public list was downloaded
+The current collection contains **8 decks**. Every public list was downloaded
 and verified on **2026-08-30**; the newest deck is **The Fifth Doctor + Susan
 Foreman | Tap That Ash**, a Bracket 2 Bant tap-and-untap deck.
 

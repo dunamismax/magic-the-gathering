@@ -39,15 +39,6 @@
       "combos_file": "data/spellbook-results/magda-brazen-outlaw-combos.json",
       "combos_sha256": "54c4d5865ea7d36644892322f6e8c31e73e87057e7503323e0fb4ce0c5a2fe96"
     },
-    "marrow-gnawer": {
-      "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "1dc7d9ac2c1047a4bcd7b0428b789a51ccdcdf76f45ce9b46ebc763d2e7498ad",
-      "estimate_file": "data/spellbook-results/marrow-gnawer-estimate.json",
-      "estimate_sha256": "53ac939c4276124be211cfe8b5a1653acd20bd64e4167f177061711f86fcb89a",
-      "combos_file": "data/spellbook-results/marrow-gnawer-combos.json",
-      "combos_sha256": "fb1de6ea6c1b1a0e1baeeef3855dcc6e8a2088cf79dd67baa58f84f89dd96b20"
-    },
     "minn-wily-illusionist": {
       "status": "exact-list-scan",
       "fetched_on": "2026-08-30",

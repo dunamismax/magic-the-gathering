@@ -13,7 +13,6 @@ conclusions require the relevant rubric and dated human/AI judgment.
 | Ekthi, Contaminator Priest / Armed and Contagious | yes | 100 | 34 | 1 | 0 | Ekthi, Contaminator Priest | `d5463f6b6a4f` |
 | Henzie “Toolbox” Torre / Jundyard Shift | yes | 100 | 34 | 4 | 0 | None | `46926448c709` |
 | Magda, Brazen Outlaw / Dragon Delivery Service | yes | 100 | 35 | 0 | 0 | None | `45e6b6c2e014` |
-| Marrow-Gnawer / Rats All, Folks! | yes | 100 | 35 | 0 | 0 | None | `748f7a61f472` |
 | Minn, Wily Illusionist / Now You See Minn | yes | 100 | 35 | 2 | 0 | The Theorist, Jace Beleren | `426315088393` |
 | Pantlaza, Sun-Favored / The Land Before Value | yes | 100 | 35 | 3 | 0 | Maular, the Next Evolution | `9efdc635e56f` |
 | Queen Marchesa / Mardu Your Business | yes | 100 | 36 | 2 | 0 | None | `67dd7a309bc3` |

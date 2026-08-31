@@ -107,25 +107,6 @@
       },
       "source_refreshed_on": "2026-08-30"
     },
-    "marrow-gnawer": {
-      "commanders": [
-        "Marrow-Gnawer"
-      ],
-      "title": "Marrow-Gnawer | Rats All, Folks!",
-      "moxfield_id": "ih0yHz5lR0iEcRJyRNMpQQ",
-      "source_updated_on": "2026-08-28",
-      "visibility": "public",
-      "constraints": {
-        "target_bracket": 3,
-        "game_changer_max": 3,
-        "combo_policy": "disclose",
-        "rule_zero_cards": [],
-        "locked_cards": [],
-        "budget": null,
-        "experience": "Finite Rat Colony swarm with visible, creature-based pressure."
-      },
-      "source_refreshed_on": "2026-08-30"
-    },
     "minn-wily-illusionist": {
       "commanders": [
         "Minn, Wily Illusionist"
