@@ -6,22 +6,22 @@ Scope: the exact 10 public lists and hashes recorded in `data/moxfield-refresh.j
 
 This report combines the deterministic Oracle audit, the 2026-08-29 official
 policy lock, hash-current exact-list Commander Spellbook evidence for all ten
-decks, and manual Oracle/prerequisite review. The 2026-09-01 scans for Aragorn,
-Frodo and Sam, Gandalf, and revised Minn returned zero included candidates.
+decks, and manual Oracle/prerequisite review. Gandalf's refreshed 2026-09-01
+scan returned and manual review confirmed its new two-card conditional
+unlimited-combat line.
 
 ## Lineup view
 
-The current lineup has nine Bracket 3 decks and one Bracket 2 deck. Pantlaza
-remains the sharpest blind-pod risk because its exact list contains a tutored
-conditional near-infinite damage line. Gandalf is the strongest new addition:
-each extra combat retriggers its free-spell commander ability, producing large
-but finite turns. Frodo and Sam are the clear lower-power landing point and fit
-upper Bracket 2.
+The current lineup has nine Bracket 3 targets and one Bracket 2 deck. Pantlaza
+and Gandalf are now the two knife-edge B3/B4 lists: Pantlaza contains a tutored
+conditional near-infinite damage line, while Gandalf contains a compact
+conditional unlimited-combat line. Frodo and Sam are the clear lower-power
+landing point and fit upper Bracket 2.
 
 | Side-eye rank | Deck | Target | Current pod judgment | Main pressure | Exact-list combo result |
 |---:|---|---:|---|---|---|
 | 1 | Pantlaza | B3 | Ceiling B3; disclose before blind games | Discover, tutors, protected Apex fight chain | Three conditional near-infinite lines |
-| 2 | Gandalf | B3 | Upper B3 | Free spells at every combat, tutors, extra combats | No complete line; finite extra-combat chain |
+| 2 | Gandalf | B3 | Ceiling B3; B4 when combo-forward | Free spells at every combat, tutors, extra combats | `Surge to Victory` + `Savage Beating` conditional unlimited combats |
 | 3 | Magda | B3 | Upper B3 | Repeatable command-zone artifact/Dragon tutor | No complete line |
 | 4 | Queen Marchesa | B3 | Middle B3 with loop disclosure | Political control, redirection, Sunforger/Wishclaw access | One finite kill and one five-card unbounded loop |
 | 5 | Aragorn | B3 | Mid-to-upper B3 | Four-color efficiency, trigger doublers, go-wide pressure | No complete line |
@@ -66,10 +66,13 @@ as well as another attack. `Solve the Equation` and `Muddle the Mixture`
 increase access, while Harmonic Prodigy, Roaming Throne, Veyran, and Wizard's
 Staff multiply other Wizard and spell triggers.
 
-The sequence is finite in this exact 100. The extra-combat spells do not recur
-themselves, and the list has no repeatable combat or spell-recursion loop. The
-pregame concern is repeated free spells and a high-ceiling combat chain, not a
-hidden deterministic combo.
+`Surge to Victory` changes the combo finding. With `Savage Beating` in the
+graveyard, Surge exiles it and gives each creature that connects this turn a
+trigger that casts a copy. Choosing Savage Beating's untap-and-extra-combat mode
+allows the sequence to repeat while at least one creature can keep connecting.
+This conditional two-card unlimited-combat line is a mandatory pregame
+disclosure. Mizzix improves the spell engine, Quistis and Krile add recursion,
+and Linvala adds protection without adding another deterministic line.
 
 ### Aragorn, the Uniter
 
@@ -106,6 +109,10 @@ forming a loop. The revision remains a fairer middle-Bracket-3 value deck.
 
 ## Existing combo disclosures
 
+Gandalf now has the confirmed `Surge to Victory` + `Savage Beating` line. It
+produces unlimited combats and combat damage when Savage Beating is in the
+graveyard and a creature can continue connecting with an opponent.
+
 Pantlaza retains three `Apex Altisaur` + `Wrathful Raptors` lines using
 `Savage Order`, `Flawless Maneuver`, or `Akroma's Will`. They produce a
 one-sided creature clear and can deal near-infinite damage when the opposing
@@ -122,7 +129,9 @@ persist creature.
 - **Pantlaza:** disclose the Savage Order/Apex Altisaur/Wrathful Raptors line.
 - **Queen Marchesa:** disclose the clunky five-card Arcbond loop and finite
   Fire Covenant/Brash Taunter kill.
-- **Gandalf:** disclose that extra combats retrigger the commander's free spell.
+- **Gandalf:** disclose the conditional `Surge to Victory` / `Savage Beating`
+  unlimited-combat line and that all extra combats retrigger the commander's
+  free spell.
 - **Magda:** disclose the repeatable command-zone artifact/Dragon tutor despite
   the absence of a current infinite line.
 - **Blor, Ekthi, Minn, and Pantlaza before release:** identify the Rule Zero card
@@ -131,7 +140,8 @@ persist creature.
 ## Evidence boundaries
 
 Structured findings live in `knowledge/combo-adjudications.json`. Six unchanged
-lists retain hash-current 2026-08-30 Spellbook evidence; the three new lists and
-revised Minn have 2026-09-01 exact-list scans. All ten records also have manual
-prerequisite review. Neither a database miss nor a manual screen proves absolute
-absence; rerun `just check-current` after any deck edit or evidence expiry.
+lists retain hash-current 2026-08-30 Spellbook evidence; Aragorn, Frodo and Sam,
+revised Minn, and the newly changed Gandalf list have 2026-09-01 exact-list
+scans. All ten records also have manual prerequisite review. Neither a database
+miss nor a manual screen proves absolute absence; rerun `just check-current`
+after any deck edit or evidence expiry.

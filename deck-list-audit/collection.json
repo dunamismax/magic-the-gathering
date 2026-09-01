@@ -121,7 +121,7 @@
       ],
       "title": "Gandalf, Party Guest | You Shall Not Pay",
       "moxfield_id": "K90JyPq-kEW6CBX8RnNJ8w",
-      "source_updated_on": "2026-08-31",
+      "source_updated_on": "2026-09-01",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -130,9 +130,9 @@
         "rule_zero_cards": [],
         "locked_cards": [],
         "budget": null,
-        "experience": "Jeskai Wizard spellslinger that chains spells into card advantage, interaction, and extra combat steps."
+        "experience": "Jeskai Wizard spellslinger that chains spells into card advantage, interaction, extra combat steps, and a disclosed conditional unlimited-combat finish."
       },
-      "source_refreshed_on": "2026-08-31"
+      "source_refreshed_on": "2026-09-01"
     },
     "henzie-toolbox-torre": {
       "commanders": [

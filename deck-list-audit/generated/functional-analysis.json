@@ -2,10 +2,10 @@
   "schema_version": 1,
   "audit_date": "2026-09-01",
   "inputs": {
-    "audit_sha256": "326afc437ff55847032afb0fa6c951e75223e7fe9bf70c89cf06c0ac98c2cca7",
+    "audit_sha256": "46964a1ef6faae417b0f7181a256414c59ebe90b3e9d399f7a3f85d09c18b47a",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
-    "overrides_sha256": "452a6a5f5590177a70c76c592b7a8337bce5e5c981126b8fb37509db33d90da0",
-    "combo_adjudications_sha256": "f49141ea0c05ddacebcc208a7fb1d5c4e500521bcd59227b0d2c39f84afa3bf4"
+    "overrides_sha256": "467db3e7a368339bfa3446c79e5813eae9c00d80afcfc57ee0733eaf1bf98d58",
+    "combo_adjudications_sha256": "7f08a19138e90075103f44ff940fd63f786efba7be8086a2388ae3c2fcb99ee9"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",
@@ -5139,26 +5139,26 @@
       ]
     },
     "gandalf-party-guest": {
-      "deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
+      "deck_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 2,
         "card_advantage": 14,
-        "commander_engine": 3,
+        "combo_piece": 2,
+        "commander_engine": 8,
         "cost_reduction": 13,
         "countermagic": 1,
         "fast_mana": 1,
-        "graveyard_interaction": 1,
         "land": 34,
         "land_capable": 37,
         "modal": 8,
-        "protection": 2,
-        "ramp": 9,
-        "recursion": 1,
+        "protection": 3,
+        "ramp": 8,
+        "recursion": 3,
         "selection": 3,
         "spot_removal": 6,
         "tutor": 5,
-        "win_condition": 2
+        "win_condition": 3
       },
       "role_cards": {
         "board_wipe": [
@@ -5215,12 +5215,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Jori En, Ruin Diver",
+            "name": "Kitsa, Otterball Elite",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
-            "name": "Kitsa, Otterball Elite",
+            "name": "Krile Baldesion",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5245,9 +5245,46 @@
             "confidence": "heuristic"
           }
         ],
-        "commander_engine": [
+        "combo_piece": [
           {
             "name": "Savage Beating",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Surge to Victory",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          }
+        ],
+        "commander_engine": [
+          {
+            "name": "Krile Baldesion",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Linvala, Shield of Sea Gate",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mizzix of the Izmagnus",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Quistis Trepe",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Savage Beating",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Surge to Victory",
             "quantity": 1,
             "confidence": "override"
           },
@@ -5304,9 +5341,9 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Mnemonic Deluge",
+            "name": "Mizzix of the Izmagnus",
             "quantity": 1,
-            "confidence": "heuristic"
+            "confidence": "override"
           },
           {
             "name": "Ral, Monsoon Mage",
@@ -5314,7 +5351,7 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Recurring Insight",
+            "name": "Surge to Victory",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5341,13 +5378,6 @@
             "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
-          }
-        ],
-        "graveyard_interaction": [
-          {
-            "name": "Mnemonic Deluge",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "land": [
@@ -5708,6 +5738,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Linvala, Shield of Sea Gate",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Plaza of Heroes",
             "quantity": 1,
             "confidence": "heuristic"
@@ -5726,11 +5761,6 @@
           },
           {
             "name": "Inevitable Betrayal",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Mox Amber",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5765,6 +5795,16 @@
             "name": "Gale, Waterdeep Prodigy",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Krile Baldesion",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Quistis Trepe",
+            "quantity": 1,
+            "confidence": "override"
           }
         ],
         "selection": [
@@ -5791,11 +5831,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Mnemonic Deluge",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Otawara, Soaring City",
             "quantity": 1,
             "confidence": "heuristic"
@@ -5807,6 +5842,11 @@
           },
           {
             "name": "Sink into Stupor",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Surge to Victory",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5850,13 +5890,18 @@
             "confidence": "override"
           },
           {
+            "name": "Surge to Victory",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "World at War",
             "quantity": 1,
             "confidence": "override"
           }
         ]
       },
-      "nonland_role_coverage": 0.6818,
+      "nonland_role_coverage": 0.697,
       "unclassified_nonlands": [
         "Adeliz, the Cinder Wind",
         "An Offer You Can't Refuse",
@@ -5867,15 +5912,14 @@
         "Gandalf, Spark Starter",
         "Gandalf, Wandering Wizard",
         "Gogo, Master of Mimicry",
-        "Gogo, Mysterious Mime",
         "Harmonic Prodigy",
-        "Irma, Part-Time Mutant",
         "Kykar, Wind's Fury",
         "Raise the Palisade",
         "Roaming Throne",
         "Swan Song",
         "Taunt from the Rampart",
         "Time Spiral",
+        "Traverse Eternity",
         "Veyran, Voice of Duality",
         "Vivi Ornitier",
         "Wizard's Staff"
@@ -6162,11 +6206,6 @@
           "roles": {}
         },
         {
-          "name": "Gogo, Mysterious Mime",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Hallowed Fountain",
           "quantity": 1,
           "roles": {
@@ -6202,23 +6241,11 @@
           }
         },
         {
-          "name": "Irma, Part-Time Mutant",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Island",
           "quantity": 3,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Jori En, Ruin Diver",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
           }
         },
         {
@@ -6236,9 +6263,26 @@
           }
         },
         {
+          "name": "Krile Baldesion",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "recursion": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
           "name": "Kykar, Wind's Fury",
           "quantity": 1,
           "roles": {}
+        },
+        {
+          "name": "Linvala, Shield of Sea Gate",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "protection": "override"
+          }
         },
         {
           "name": "Mana Confluence",
@@ -6249,12 +6293,11 @@
           }
         },
         {
-          "name": "Mnemonic Deluge",
+          "name": "Mizzix of the Izmagnus",
           "quantity": 1,
           "roles": {
-            "cost_reduction": "heuristic",
-            "spot_removal": "heuristic",
-            "graveyard_interaction": "heuristic"
+            "cost_reduction": "override",
+            "commander_engine": "override"
           }
         },
         {
@@ -6263,13 +6306,6 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Mox Amber",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
           }
         },
         {
@@ -6314,6 +6350,14 @@
           }
         },
         {
+          "name": "Quistis Trepe",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "recursion": "override"
+          }
+        },
+        {
           "name": "Raff, Weatherlight Stalwart",
           "quantity": 1,
           "roles": {
@@ -6340,13 +6384,6 @@
             "land": "deterministic",
             "land_capable": "deterministic",
             "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Recurring Insight",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
           }
         },
         {
@@ -6384,7 +6421,8 @@
           "roles": {
             "modal": "heuristic",
             "commander_engine": "override",
-            "win_condition": "override"
+            "win_condition": "override",
+            "combo_piece": "confirmed-combo"
           }
         },
         {
@@ -6479,6 +6517,17 @@
           }
         },
         {
+          "name": "Surge to Victory",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "spot_removal": "heuristic",
+            "commander_engine": "override",
+            "win_condition": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
           "name": "Swan Song",
           "quantity": 1,
           "roles": {}
@@ -6507,6 +6556,11 @@
             "land": "deterministic",
             "land_capable": "deterministic"
           }
+        },
+        {
+          "name": "Traverse Eternity",
+          "quantity": 1,
+          "roles": {}
         },
         {
           "name": "Urza's Ruinous Blast",

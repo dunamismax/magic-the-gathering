@@ -45,13 +45,26 @@
     },
     {
       "deck": "gandalf-party-guest",
-      "deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
+      "deck_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35",
       "status": "reviewed",
       "reviewed_on": "2026-09-01",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
-      "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Gandalf can cast a free spell at the beginning of every combat, so World at War and Savage Beating create additional commander triggers and explosive finite chains. Manual review confirms that neither spell can recur itself, the list has no repeatable extra-combat recursion, and the Wizard trigger-copy package only multiplies bounded triggers.",
-      "lines": []
+      "spellbook_included_candidates": 1,
+      "summary": "The exact-list scan returned and manual review confirmed the conditional Surge to Victory plus Savage Beating unlimited-combat line. Surge must exile Savage Beating from the graveyard, and a creature must keep connecting; each hit casts a Savage Beating copy for another untap and combat. World at War and the remaining Wizard trigger-copy sequences are finite outside that line.",
+      "lines": [
+        {
+          "id": "771-1760",
+          "cards": [
+            "Surge to Victory",
+            "Savage Beating"
+          ],
+          "status": "confirmed-conditional",
+          "classification": "two-card-conditional-unlimited-combat-damage",
+          "reason": "Cast Surge to Victory with Savage Beating in the graveyard. When a creature connects, the Surge trigger casts Savage Beating's extra-combat mode; repeat while a creature can continue dealing combat damage to an opponent.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-prerequisite-review"
+        }
+      ]
     },
     {
       "deck": "henzie-toolbox-torre",

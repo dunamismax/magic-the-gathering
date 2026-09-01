@@ -4,7 +4,180 @@
   "previous": null,
   "results": {
     "identity": "URW",
-    "included": [],
+    "included": [
+      {
+        "id": "771-1760",
+        "of": [
+          {
+            "id": 10481
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 1760,
+              "name": "Surge to Victory",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "8ea414c1-88cf-46d4-9a54-6dee9847c537",
+              "typeLine": "Sorcery",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/5/b5345934-60eb-417c-9716-477882c4796d.png?1783903770",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 771,
+              "name": "Savage Beating",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "G"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "9.13",
+          "cardmarket": "4.63",
+          "cardkingdom": "9.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "R",
+        "includes": [
+          {
+            "id": 27045
+          },
+          {
+            "id": 10481
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 205,
+              "name": "Infinite combat damage",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 19,
+              "name": "Infinite combat phases",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 77,
+              "name": "Infinite magecraft triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 65,
+              "name": "Infinite mana creatures you control can produce",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 17,
+              "name": "Infinite storm count",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 57,
+              "name": "Infinite untap of creatures you control",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 3103,
+        "bracketTag": "S",
+        "description": "Cast Surge to Victory by paying {4}{R}{R}, exiling Savage Beating from your graveyard and giving creatures you control +5/+0 until end of turn.\nDeal combat damage to an opponent with any creature you control.\nSurge to Victory triggers, casting a copy of Savage Beating without paying its mana cost.\nResolve Savage Beating, untapping all creatures you control and giving you an additional combat phase after this one.\nRepeat from step 2.",
+        "manaNeeded": "{4}{R}{R}",
+        "variantCount": 1,
+        "manaValueNeeded": 6,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "An opponent is unable to block and kill creatures you control."
+      }
+    ],
     "includedByChangingCommanders": [],
     "almostIncluded": [
       {
@@ -160,163 +333,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
-      },
-      {
-        "id": "513-3682",
-        "of": [
-          {
-            "id": 33230
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 513,
-              "name": "Hullbreaker Horror",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "d4a84e78-d9b9-4c67-8a4b-4329e65f0f15",
-              "typeLine": "Creature — Kraken Horror",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.png?1783908162",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3682,
-              "name": "Mox Amber",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "7a43bd27-fdd8-41f0-9bc4-92568f3408f1",
-              "typeLine": "Legendary Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.png?1783934955",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "If the permanent can be cast by paying {0}, this combo nets infinite colored mana. The permanent must be a creature to get infinite ETB and LTB triggers.",
-        "prices": {
-          "tcgplayer": "91.43",
-          "cardmarket": "61.44",
-          "cardkingdom": "108.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 26311
-          },
-          {
-            "id": 31074
-          },
-          {
-            "id": 33230
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 4,
-              "name": "Infinite creature ETB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 3,
-              "name": "Infinite creature LTB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 5,
-              "name": "Infinite colored mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": true,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 63019,
-        "bracketTag": "S",
-        "description": "Activate Mox Amber by tapping it, adding {1}.\nCast the permanent by paying at most one colored mana.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Mox Amber by paying {0}\nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control a legendary creature that has a color that matches the mana symbol in the other permanent's mana cost."
       },
       {
         "id": "542-5034",
@@ -604,130 +620,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
-      },
-      {
-        "id": "542-3682",
-        "of": [
-          {
-            "id": 1895
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 542,
-              "name": "Tidespout Tyrant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "331b44e4-cf08-44f4-8afd-a7374e5dc5ed",
-              "typeLine": "Creature — Djinn",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.png?1783913330",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3682,
-              "name": "Mox Amber",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "7a43bd27-fdd8-41f0-9bc4-92568f3408f1",
-              "typeLine": "Legendary Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.png?1783934955",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "87.76",
-          "cardmarket": "58.66",
-          "cardkingdom": "102.28"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 1895
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 12677,
-        "bracketTag": "E",
-        "description": "Cast Mox Amber by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent from the battlefield to your hand.\nActivate Mox Amber by tapping it, adding one mana of any color among legendary creatures and planeswalkers you control.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Mox Amber from the battlefield to your hand.\nRepeat.",
-        "manaNeeded": "{1}",
-        "variantCount": 6,
-        "manaValueNeeded": 1,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control at least one colored legendary creature or planeswalker.\nYou control a nontoken permanent that can be cast using one mana that can be generated by Mox Amber."
       },
       {
         "id": "553-7164",
@@ -1652,32 +1544,63 @@
         "notablePrerequisites": "You have not cast an instant or sorcery spell this turn.\nYou have a sorcery card in hand."
       },
       {
-        "id": "771-1760",
+        "id": "2196-3075-3368",
         "of": [
           {
-            "id": 10481
+            "id": 4548
           }
         ],
         "uses": [
           {
             "card": {
-              "id": 1760,
-              "name": "Surge to Victory",
+              "id": 3075,
+              "name": "Mizzix of the Izmagnus",
               "faces": 1,
               "spoiler": false,
-              "oracleId": "8ea414c1-88cf-46d4-9a54-6dee9847c537",
-              "typeLine": "Sorcery",
+              "oracleId": "f787c6cf-a4ff-487b-a7b0-0f516e68510a",
+              "typeLine": "Legendary Creature — Goblin Wizard",
               "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/5/b5345934-60eb-417c-9716-477882c4796d.png?1783903770",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.png?1783915612",
               "imageUriBackLarge": null,
               "imageUriBackSmall": null,
               "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
               "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
               "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770"
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 2196,
+              "name": "Frantic Search",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.png?1783904806",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806"
             },
             "quantity": 1,
             "usedFace": null,
@@ -1692,28 +1615,28 @@
           },
           {
             "card": {
-              "id": 771,
-              "name": "Savage Beating",
+              "id": 3368,
+              "name": "Reiterate",
               "faces": 1,
               "spoiler": false,
-              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
+              "oracleId": "38394ee3-6726-4f91-bc25-36bce0c6aab9",
               "typeLine": "Instant",
               "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.png?1783927791",
               "imageUriBackLarge": null,
               "imageUriBackSmall": null,
               "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791",
               "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791",
               "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643"
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791"
             },
             "quantity": 1,
             "usedFace": null,
             "zoneLocations": [
-              "G"
+              "H"
             ],
             "exileCardState": "",
             "mustBeCommander": false,
@@ -1724,44 +1647,26 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "9.13",
-          "cardmarket": "4.63",
-          "cardkingdom": "9.48"
+          "tcgplayer": "20.52",
+          "cardmarket": "6.82",
+          "cardkingdom": "24.97"
         },
         "status": "OK",
         "spoiler": false,
-        "identity": "R",
+        "identity": "UR",
         "includes": [
           {
-            "id": 27045
+            "id": 26878
           },
           {
-            "id": 10481
+            "id": 4548
           }
         ],
         "produces": [
           {
             "feature": {
-              "id": 205,
-              "name": "Infinite combat damage",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
+              "id": 61,
+              "name": "Infinite draw triggers",
               "status": "H",
               "uncountable": true
             },
@@ -1769,17 +1674,17 @@
           },
           {
             "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "status": "S",
+              "id": 62,
+              "name": "Infinite looting",
+              "status": "C",
               "uncountable": true
             },
             "quantity": 1
           },
           {
             "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
+              "id": 36,
+              "name": "Infinite self-discard triggers",
               "status": "H",
               "uncountable": true
             },
@@ -1787,8 +1692,26 @@
           },
           {
             "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
+              "id": 110,
+              "name": "Near-infinite magecraft triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 98,
+              "name": "Near-infinite mana lands you control can produce",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 68,
+              "name": "Near-infinite storm count",
               "status": "H",
               "uncountable": true
             },
@@ -1799,7 +1722,7 @@
         "legalities": {
           "brawl": false,
           "predh": false,
-          "legacy": true,
+          "legacy": false,
           "modern": false,
           "pauper": false,
           "alchemy": false,
@@ -1814,14 +1737,14 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3103,
-        "bracketTag": "S",
-        "description": "Cast Surge to Victory by paying {4}{R}{R}, exiling Savage Beating from your graveyard and giving creatures you control +5/+0 until end of turn.\nDeal combat damage to an opponent with any creature you control.\nSurge to Victory triggers, casting a copy of Savage Beating without paying its mana cost.\nResolve Savage Beating, untapping all creatures you control and giving you an additional combat phase after this one.\nRepeat from step 2.",
-        "manaNeeded": "{4}{R}{R}",
+        "popularity": 2923,
+        "bracketTag": "E",
+        "description": "Cast Frantic Search by paying {U}.\nHolding priority, activate up to three lands by tapping them, adding at least {1}{R}{R}.\nCast Reiterate with buyback by paying {R}{R}, creating a copy of Frantic Search and returning Reiterate to your hand.\nResolve the Frantic Search copy, causing you to loot twice and untap up to three lands that can tap to produce at least {1}{R}{R}.\nRepeat from step 2.",
+        "manaNeeded": "{U}",
         "variantCount": 1,
-        "manaValueNeeded": 6,
+        "manaValueNeeded": 1,
         "easyPrerequisites": "",
-        "notablePrerequisites": "An opponent is unable to block and kill creatures you control."
+        "notablePrerequisites": "You have at least four experience counters.\nYou control up to three lands that can tap to produce at least {1}{R}{R}."
       },
       {
         "id": "2627-4067",
@@ -4692,284 +4615,6 @@
         "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
       },
       {
-        "id": "1432-6645",
-        "of": [
-          {
-            "id": 30383
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 6645,
-              "name": "Gogo, Mysterious Mime",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "6fdcb563-9279-4365-8a78-26e75fbfd917",
-              "typeLine": "Legendary Creature — Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/d/0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4.png?1783906356",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/d/0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4.jpg?1783906356",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/d/0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4.jpg?1783906356",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/d/0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4.jpg?1783906356",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/d/0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4.jpg?1783906356"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 1432,
-              "name": "Ioreth of the Healing House",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "af6e4c3e-0276-4f72-9a70-25868fe8bba5",
-              "typeLine": "Legendary Creature — Human Cleric",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/3/03ab74cd-978a-49eb-9d38-bc8b472b3cef.png?1783916317",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/3/03ab74cd-978a-49eb-9d38-bc8b472b3cef.jpg?1783916317",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/3/03ab74cd-978a-49eb-9d38-bc8b472b3cef.jpg?1783916317",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/3/03ab74cd-978a-49eb-9d38-bc8b472b3cef.jpg?1783916317",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/3/03ab74cd-978a-49eb-9d38-bc8b472b3cef.jpg?1783916317"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "1.83",
-          "cardmarket": "2.32",
-          "cardkingdom": "3.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "UR",
-        "includes": [
-          {
-            "id": 29725
-          },
-          {
-            "id": 30383
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 1417,
-              "name": "Infinite untap of legendary creatures you control",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1418,
-              "name": "Infinite mana legendary creatures you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 133,
-        "bracketTag": "S",
-        "description": "At the beginning of your combat phase, Gogo triggers, causing it to become a copy of Ioreth until end of turn, and giving Gogo and Ioreth haste until end of turn.\nActivate Gogo's second ability by tapping it, untapping Ioreth and another legendary creature.\nActivate Ioreth's second ability by tapping it, untapping Gogo and another legendary creature.\nRepeat from step 2.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "There is at least one other legendary creature on the battlefield."
-      },
-      {
-        "id": "4367-7346",
-        "of": [
-          {
-            "id": 32411
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 7346,
-              "name": "Irma, Part-Time Mutant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "deda54da-4fcc-4da3-9337-7768a2db3283",
-              "typeLine": "Legendary Creature — Human Mutant Shapeshifter",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.png?1783904172",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "without summoning sickness"
-          },
-          {
-            "card": {
-              "id": 4367,
-              "name": "Akki Battle Squad",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "5bd81d2f-46a1-4536-92e7-28c7e1892735",
-              "typeLine": "Creature — Goblin Samurai",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/a/ca624ce6-5b99-41af-8e26-b952f5a30916.png?1783923994",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/a/ca624ce6-5b99-41af-8e26-b952f5a30916.jpg?1783923994",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/a/ca624ce6-5b99-41af-8e26-b952f5a30916.jpg?1783923994",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/a/ca624ce6-5b99-41af-8e26-b952f5a30916.jpg?1783923994",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/a/ca624ce6-5b99-41af-8e26-b952f5a30916.jpg?1783923994"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "9.86",
-          "cardmarket": "7.95",
-          "cardkingdom": "15.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "UR",
-        "includes": [
-          {
-            "id": 32411
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2244,
-              "name": "Infinite +1/+1 counters on a creature",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1318,
-              "name": "Infinite untap of modified creatures you control",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 91,
-        "bracketTag": "S",
-        "description": "At the beginning of your combat phase, Irma triggers, causing it to become a copy of Akki Battle Squad and putting a +1/+1 counter on it.\nDeclare Irma as an attacker. Irma triggers, untapping all modified creatures you control and causing you to get an additional combat phase after this one.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "An opponent cannot block and kill Irma."
-      },
-      {
         "id": "1418-4280-5959",
         "of": [
           {
@@ -5778,130 +5423,6 @@
         "notablePrerequisites": "You have a way to put an activated and/or a triggered ability onto the stack.\nYou have not cast an instant spell this turn."
       },
       {
-        "id": "1965-7346",
-        "of": [
-          {
-            "id": 33754
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1965,
-              "name": "Omarthis, Ghostfire Initiate",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "50676eba-a55a-4749-bb07-74a30e015781",
-              "typeLine": "Legendary Creature — Spirit Snake",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/8/985e16ac-8e0f-4e2e-9b74-d6a77dddf274.png?1783915491",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/8/985e16ac-8e0f-4e2e-9b74-d6a77dddf274.jpg?1783915491",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/8/985e16ac-8e0f-4e2e-9b74-d6a77dddf274.jpg?1783915491",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/8/985e16ac-8e0f-4e2e-9b74-d6a77dddf274.jpg?1783915491",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/8/985e16ac-8e0f-4e2e-9b74-d6a77dddf274.jpg?1783915491"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 7346,
-              "name": "Irma, Part-Time Mutant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "deda54da-4fcc-4da3-9337-7768a2db3283",
-              "typeLine": "Legendary Creature — Human Mutant Shapeshifter",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.png?1783904172",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1783904172"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "6.71",
-          "cardmarket": "5.63",
-          "cardkingdom": "10.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 33754
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2287,
-              "name": "Infinite +1/+1 counters on certain creatures",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 34,
-        "bracketTag": "S",
-        "description": "At the beginning of your combat phase, Irma triggers, causing it to become a copy of Omarthis and put a +1/+1 counter on it.\nOmarthis triggers, putting a +1/+1 counter on itself.\nIrma triggers, putting a +1/+1 counter on itself.\nRepeat from step 2.",
-        "manaNeeded": "{3}{U}",
-        "variantCount": 1,
-        "manaValueNeeded": 4,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
-      },
-      {
         "id": "5107-5803",
         "of": [
           {
@@ -6631,224 +6152,6 @@
         "manaValueNeeded": 6,
         "easyPrerequisites": "",
         "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
-      },
-      {
-        "id": "3581-3682-4331",
-        "of": [
-          {
-            "id": 32551
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4331,
-              "name": "Drafna, Founder of Lat-Nam",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "ed2e8718-4b20-4310-96ce-05a29a24ef32",
-              "typeLine": "Legendary Creature — Human Artificer Advisor",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.png?1783920112",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3682,
-              "name": "Mox Amber",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "7a43bd27-fdd8-41f0-9bc4-92568f3408f1",
-              "typeLine": "Legendary Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.png?1783934955",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1783934955"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3581,
-              "name": "Kykar, Wind's Fury",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "71a80491-eea2-4661-9446-26a87efbf4a8",
-              "typeLine": "Legendary Creature — Bird Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/d/fdb034c8-bae0-4f66-98f1-1b3cdc072f17.png?1783915615",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/d/fdb034c8-bae0-4f66-98f1-1b3cdc072f17.jpg?1783915615",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/d/fdb034c8-bae0-4f66-98f1-1b3cdc072f17.jpg?1783915615",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/d/fdb034c8-bae0-4f66-98f1-1b3cdc072f17.jpg?1783915615",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/d/fdb034c8-bae0-4f66-98f1-1b3cdc072f17.jpg?1783915615"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "87.19",
-          "cardmarket": "58.12",
-          "cardkingdom": "101.47"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "URW",
-        "includes": [
-          {
-            "id": 30862
-          },
-          {
-            "id": 31074
-          },
-          {
-            "id": 32272
-          },
-          {
-            "id": 32551
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2408,
-              "name": "Infinite artifact ETB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2409,
-              "name": "Infinite artifact LTB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 4,
-              "name": "Infinite creature ETB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 3,
-              "name": "Infinite creature LTB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 7,
-              "name": "Infinite death triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 6,
-              "name": "Infinite creature sacrifice triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": true,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 6,
-        "bracketTag": "E",
-        "description": "Cast Mox Amber by paying {0}.\nKykar triggers, creating a 1/1 Spirit creature token.\nActivate Kykar by sacrificing the Spirit, adding {R}.\nActivate Mox Amber by tapping it, adding {U}.\nActivate Drafna's first ability by paying {1}{U}, returning Mox Amber from the battlefield to your hand.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "You control at least three artifacts.",
-        "notablePrerequisites": ""
       },
       {
         "id": "5534--28",
@@ -9017,161 +8320,6 @@
         "manaNeeded": "{1}",
         "variantCount": 1,
         "manaValueNeeded": 1,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
-      },
-      {
-        "id": "2743-6471-6570",
-        "of": [
-          {
-            "id": 30080
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 2743,
-              "name": "Biovisionary",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "e99fde0d-ca28-4a49-abe0-d01cf4e322b6",
-              "typeLine": "Creature — Human Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.png?1783940112",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 6570,
-              "name": "Mnemonic Deluge",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "56de4cdc-4db0-48ec-8a16-f66086507233",
-              "typeLine": "Sorcery",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.png?1783928856",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 6471,
-              "name": "Will of the Temur",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "ebe1448e-21c5-4b73-8296-03d3e5097c50",
-              "typeLine": "Sorcery",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.png?1783907179",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "G"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "10.69",
-          "cardmarket": "13.46",
-          "cardkingdom": "16.07"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GU",
-        "includes": [
-          {
-            "id": 30080
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2,
-              "name": "Win the game",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 2,
-        "bracketTag": "E",
-        "description": "Cast Mnemonic Deluge by paying {6}{U}{U}{U}, exiling Will of the Temur and casting three copies of it without paying their mana costs.\nResolve the three Will of the Temur copies, creating three token copies of Biovisionary.\nAt the beginning of your end step, each Biovisionary you control triggers.\nResolve the first trigger, causing you to win the game.",
-        "manaNeeded": "",
-        "variantCount": 25,
-        "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
       },

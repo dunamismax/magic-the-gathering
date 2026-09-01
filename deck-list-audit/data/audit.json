@@ -8,7 +8,7 @@
   },
   "inputs": {
     "collection_file": "collection.json",
-    "collection_sha256": "5100c4908422cdc9b6b3d44d21d65b51c9b9085e77311fe1ea5fc1b10cd2b549",
+    "collection_sha256": "b29670c1f78e0a79826d202b79bf54cd55593f6afa8ad45278ebb90bee984ffc",
     "oracle_file": "data/oracle-cards.jsonl.gz",
     "oracle_sha256": "f11ad49902e6df0d89e1ecc01f1f0021656f5fd999ca853e5716d7c787361cf4",
     "oracle_source_updated_at": "2026-08-30T09:01:56.964+00:00",
@@ -18542,8 +18542,8 @@
       "moxfield_id": "K90JyPq-kEW6CBX8RnNJ8w",
       "moxfield_url": "https://moxfield.com/decks/K90JyPq-kEW6CBX8RnNJ8w",
       "file": "decks/gandalf-party-guest.txt",
-      "deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
-      "spellbook_request_sha256": "cb1cde9e4dc2ed1ed08f6cabac2123790e6af3bff01bfb2ce92912c5b1fb1714",
+      "deck_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35",
+      "spellbook_request_sha256": "740c596d2cddeedc6b582d7406e9c326dd9a7099555c61e30f629d78da23c17a",
       "valid": true,
       "analysis_ready": true,
       "errors": [],
@@ -18594,7 +18594,7 @@
         "rule_zero_cards": [],
         "locked_cards": [],
         "budget": null,
-        "experience": "Jeskai Wizard spellslinger that chains spells into card advantage, interaction, and extra combat steps."
+        "experience": "Jeskai Wizard spellslinger that chains spells into card advantage, interaction, extra combat steps, and a disclosed conditional unlimited-combat finish."
       },
       "total_cards": 100,
       "resolved_cards": 100,
@@ -18611,18 +18611,18 @@
       ],
       "type_counts": {
         "Land": 37,
-        "Creature": 33,
+        "Creature": 34,
         "Instant": 14,
         "Sorcery": 15,
-        "Artifact": 6,
+        "Artifact": 5,
         "Planeswalker": 1
       },
       "overlapping_type_counts": {
         "Land": 37,
-        "Creature": 33,
+        "Creature": 34,
         "Instant": 14,
         "Sorcery": 15,
-        "Artifact": 6,
+        "Artifact": 5,
         "Planeswalker": 1
       },
       "printed_lands": 34,
@@ -20771,61 +20771,10 @@
           }
         },
         {
-          "listed_name": "Gogo, Mysterious Mime",
-          "canonical_name": "Gogo, Mysterious Mime",
-          "quantity": 1,
-          "line_number": 41,
-          "is_commander": false,
-          "card": {
-            "id": "0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4",
-            "oracle_id": "6fdcb563-9279-4365-8a78-26e75fbfd917",
-            "name": "Gogo, Mysterious Mime",
-            "released_at": "2025-06-13",
-            "mana_cost": "{3}{R}",
-            "cmc": 4.0,
-            "type_line": "Legendary Creature — Wizard",
-            "oracle_text": "At the beginning of combat on your turn, you may have Gogo become a copy of another target creature you control until end of turn, except its name is Gogo, Mysterious Mime. If you do, Gogo and that creature each get +2/+0 and gain haste until end of turn and attack this turn if able.",
-            "color_identity": [
-              "R"
-            ],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "not_legal",
-              "timeless": "not_legal",
-              "gladiator": "not_legal",
-              "pioneer": "not_legal",
-              "modern": "not_legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "not_legal",
-              "competitivebrawl": "not_legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": "triangle",
-            "set_type": "commander",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Hallowed Fountain",
           "canonical_name": "Hallowed Fountain",
           "quantity": 1,
-          "line_number": 42,
+          "line_number": 41,
           "is_commander": false,
           "card": {
             "id": "b7285986-7e08-4969-86ef-452dc5bfdd9f",
@@ -20877,7 +20826,7 @@
           "listed_name": "Harmonic Prodigy",
           "canonical_name": "Harmonic Prodigy",
           "quantity": 1,
-          "line_number": 43,
+          "line_number": 42,
           "is_commander": false,
           "card": {
             "id": "63a565e3-d7a8-469d-898f-49fef634c107",
@@ -20930,7 +20879,7 @@
           "listed_name": "Hermes, Overseer of Elpis",
           "canonical_name": "Hermes, Overseer of Elpis",
           "quantity": 1,
-          "line_number": 44,
+          "line_number": 43,
           "is_commander": false,
           "card": {
             "id": "e04a05e5-7bff-46a4-aae1-6713977e6e30",
@@ -20983,7 +20932,7 @@
           "listed_name": "Improvisation Capstone",
           "canonical_name": "Improvisation Capstone",
           "quantity": 1,
-          "line_number": 45,
+          "line_number": 44,
           "is_commander": false,
           "card": {
             "id": "d01fe6e9-49ee-4708-833e-75cd5a9f167c",
@@ -21036,7 +20985,7 @@
           "listed_name": "Inevitable Betrayal",
           "canonical_name": "Inevitable Betrayal",
           "quantity": 1,
-          "line_number": 46,
+          "line_number": 45,
           "is_commander": false,
           "card": {
             "id": "71725895-38cd-4017-bbf0-0b7dc9b5db60",
@@ -21086,61 +21035,10 @@
           }
         },
         {
-          "listed_name": "Irma, Part-Time Mutant",
-          "canonical_name": "Irma, Part-Time Mutant",
-          "quantity": 1,
-          "line_number": 47,
-          "is_commander": false,
-          "card": {
-            "id": "c3128529-4ccd-4809-8388-03f7faa0eabe",
-            "oracle_id": "deda54da-4fcc-4da3-9337-7768a2db3283",
-            "name": "Irma, Part-Time Mutant",
-            "released_at": "2026-03-06",
-            "mana_cost": "{2}{U}",
-            "cmc": 3.0,
-            "type_line": "Legendary Creature — Human Mutant Shapeshifter",
-            "oracle_text": "At the beginning of combat on your turn, Irma becomes a copy of up to one other target creature you control, except her name is Irma, Part-Time Mutant and she has this ability. Then put a +1/+1 counter on her.",
-            "color_identity": [
-              "U"
-            ],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "not_legal",
-              "modern": "not_legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "legal",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "eternal",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Island",
           "canonical_name": "Island",
           "quantity": 3,
-          "line_number": 48,
+          "line_number": 46,
           "is_commander": false,
           "card": {
             "id": "f3cc07cd-cc79-4745-b0b7-eade60175cc3",
@@ -21188,62 +21086,10 @@
           }
         },
         {
-          "listed_name": "Jori En, Ruin Diver",
-          "canonical_name": "Jori En, Ruin Diver",
-          "quantity": 1,
-          "line_number": 49,
-          "is_commander": false,
-          "card": {
-            "id": "40c020f2-5809-4aa6-a6f5-6030568058aa",
-            "oracle_id": "4cd9b48e-5774-4a1c-857f-9f4a92db9b41",
-            "name": "Jori En, Ruin Diver",
-            "released_at": "2017-03-31",
-            "mana_cost": "{1}{U}{R}",
-            "cmc": 3.0,
-            "type_line": "Legendary Creature — Merfolk Wizard",
-            "oracle_text": "Whenever you cast your second spell each turn, draw a card.",
-            "color_identity": [
-              "R",
-              "U"
-            ],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "not_legal",
-              "timeless": "not_legal",
-              "gladiator": "not_legal",
-              "pioneer": "legal",
-              "modern": "legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "not_legal",
-              "competitivebrawl": "not_legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "duel_deck",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Kaza, Roil Chaser",
           "canonical_name": "Kaza, Roil Chaser",
           "quantity": 1,
-          "line_number": 50,
+          "line_number": 47,
           "is_commander": false,
           "card": {
             "id": "080585c6-d946-4435-954a-0ada936dc3f1",
@@ -21298,7 +21144,7 @@
           "listed_name": "Kitsa, Otterball Elite",
           "canonical_name": "Kitsa, Otterball Elite",
           "quantity": 1,
-          "line_number": 51,
+          "line_number": 48,
           "is_commander": false,
           "card": {
             "id": "c8ff751a-ec64-41d5-b22c-2a483ad9a9b2",
@@ -21349,10 +21195,65 @@
           }
         },
         {
+          "listed_name": "Krile Baldesion",
+          "canonical_name": "Krile Baldesion",
+          "quantity": 1,
+          "line_number": 49,
+          "is_commander": false,
+          "card": {
+            "id": "125dd19b-98a0-49d9-a870-63214255e12a",
+            "oracle_id": "546a217a-ac24-4fc0-97a8-424cfe1aafc0",
+            "name": "Krile Baldesion",
+            "released_at": "2025-06-13",
+            "mana_cost": "{W}{U}",
+            "cmc": 2.0,
+            "type_line": "Legendary Creature — Dwarf Wizard",
+            "oracle_text": "Lifelink\nTrace Aether — Whenever you cast a noncreature spell, you may return target creature card with mana value equal to that spell's mana value from your graveyard to your hand. Do this only once each turn.",
+            "color_identity": [
+              "U",
+              "W"
+            ],
+            "keywords": [
+              "Lifelink",
+              "Trace Aether"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "not_legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "triangle",
+            "set_type": "commander",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Kykar, Wind's Fury",
           "canonical_name": "Kykar, Wind's Fury",
           "quantity": 1,
-          "line_number": 52,
+          "line_number": 50,
           "is_commander": false,
           "card": {
             "id": "fdb034c8-bae0-4f66-98f1-1b3cdc072f17",
@@ -21404,10 +21305,64 @@
           }
         },
         {
+          "listed_name": "Linvala, Shield of Sea Gate",
+          "canonical_name": "Linvala, Shield of Sea Gate",
+          "quantity": 1,
+          "line_number": 51,
+          "is_commander": false,
+          "card": {
+            "id": "49b66956-82e1-402f-9088-2201bdc0d4b8",
+            "oracle_id": "afd8ff3e-1d57-4fc5-91dc-1a8400c98787",
+            "name": "Linvala, Shield of Sea Gate",
+            "released_at": "2020-09-25",
+            "mana_cost": "{1}{W}{U}",
+            "cmc": 3.0,
+            "type_line": "Legendary Creature — Angel Wizard",
+            "oracle_text": "Flying\nAt the beginning of combat on your turn, if you have a full party, choose target nonland permanent an opponent controls. Until your next turn, it can't attack or block, and its activated abilities can't be activated.\nSacrifice Linvala: Choose hexproof or indestructible. Creatures you control gain that ability until end of turn.",
+            "color_identity": [
+              "U",
+              "W"
+            ],
+            "keywords": [
+              "Flying"
+            ],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "legal",
+              "timeless": "legal",
+              "gladiator": "legal",
+              "pioneer": "legal",
+              "modern": "legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "legal",
+              "competitivebrawl": "legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "oval",
+            "set_type": "expansion",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Mana Confluence",
           "canonical_name": "Mana Confluence",
           "quantity": 1,
-          "line_number": 53,
+          "line_number": 52,
           "is_commander": false,
           "card": {
             "id": "504a69eb-3c2d-4bb1-b117-252b15acf0c2",
@@ -21453,21 +21408,22 @@
           }
         },
         {
-          "listed_name": "Mnemonic Deluge",
-          "canonical_name": "Mnemonic Deluge",
+          "listed_name": "Mizzix of the Izmagnus",
+          "canonical_name": "Mizzix of the Izmagnus",
           "quantity": 1,
-          "line_number": 54,
+          "line_number": 53,
           "is_commander": false,
           "card": {
-            "id": "2d0e725b-2250-4189-9682-73461b5cfed2",
-            "oracle_id": "56de4cdc-4db0-48ec-8a16-f66086507233",
-            "name": "Mnemonic Deluge",
-            "released_at": "2020-11-20",
-            "mana_cost": "{6}{U}{U}{U}",
-            "cmc": 9.0,
-            "type_line": "Sorcery",
-            "oracle_text": "Exile target instant or sorcery card from a graveyard. Copy that card three times. You may cast the copies without paying their mana costs. Exile Mnemonic Deluge.",
+            "id": "82f949d0-41a0-4491-9057-bfb2bb20bdb3",
+            "oracle_id": "f787c6cf-a4ff-487b-a7b0-0f516e68510a",
+            "name": "Mizzix of the Izmagnus",
+            "released_at": "2023-08-04",
+            "mana_cost": "{2}{U}{R}",
+            "cmc": 4.0,
+            "type_line": "Legendary Creature — Goblin Wizard",
+            "oracle_text": "Whenever you cast an instant or sorcery spell with mana value greater than the number of experience counters you have, you get an experience counter.\nInstant and sorcery spells you cast cost {1} less to cast for each experience counter you have.",
             "color_identity": [
+              "R",
               "U"
             ],
             "keywords": [],
@@ -21499,7 +21455,7 @@
             "game_changer": false,
             "layout": "normal",
             "security_stamp": "oval",
-            "set_type": "draft_innovation",
+            "set_type": "masters",
             "card_faces": []
           }
         },
@@ -21507,7 +21463,7 @@
           "listed_name": "Mountain",
           "canonical_name": "Mountain",
           "quantity": 4,
-          "line_number": 55,
+          "line_number": 54,
           "is_commander": false,
           "card": {
             "id": "2a844b96-6616-4c39-8f4f-5d14a3b2bd55",
@@ -21555,59 +21511,10 @@
           }
         },
         {
-          "listed_name": "Mox Amber",
-          "canonical_name": "Mox Amber",
-          "quantity": 1,
-          "line_number": 56,
-          "is_commander": false,
-          "card": {
-            "id": "66024e69-ad60-4c9a-a0ca-da138d33ad80",
-            "oracle_id": "7a43bd27-fdd8-41f0-9bc4-92568f3408f1",
-            "name": "Mox Amber",
-            "released_at": "2018-04-27",
-            "mana_cost": "{0}",
-            "cmc": 0.0,
-            "type_line": "Legendary Artifact",
-            "oracle_text": "{T}: Add one mana of any color among legendary creatures and planeswalkers you control.",
-            "color_identity": [],
-            "keywords": [],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "legal",
-              "modern": "legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "not_legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "legal",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "banned",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "banned"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "expansion",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Muddle the Mixture",
           "canonical_name": "Muddle the Mixture",
           "quantity": 1,
-          "line_number": 57,
+          "line_number": 55,
           "is_commander": false,
           "card": {
             "id": "e69d760c-48fb-4e7f-8611-547b0c22928c",
@@ -21660,7 +21567,7 @@
           "listed_name": "Otawara, Soaring City",
           "canonical_name": "Otawara, Soaring City",
           "quantity": 1,
-          "line_number": 58,
+          "line_number": 56,
           "is_commander": false,
           "card": {
             "id": "486d7edc-d983-41f0-8b78-c99aecd72996",
@@ -21713,7 +21620,7 @@
           "listed_name": "Path to Exile",
           "canonical_name": "Path to Exile",
           "quantity": 1,
-          "line_number": 59,
+          "line_number": 57,
           "is_commander": false,
           "card": {
             "id": "95ca89ea-1200-4bb4-ae4b-af35d3ccd35b",
@@ -21764,7 +21671,7 @@
           "listed_name": "Plains",
           "canonical_name": "Plains",
           "quantity": 1,
-          "line_number": 60,
+          "line_number": 58,
           "is_commander": false,
           "card": {
             "id": "8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c",
@@ -21815,7 +21722,7 @@
           "listed_name": "Plaza of Heroes",
           "canonical_name": "Plaza of Heroes",
           "quantity": 1,
-          "line_number": 61,
+          "line_number": 59,
           "is_commander": false,
           "card": {
             "id": "96fe4b9b-d766-463b-a6df-345ebebfc17c",
@@ -21861,10 +21768,63 @@
           }
         },
         {
+          "listed_name": "Quistis Trepe",
+          "canonical_name": "Quistis Trepe",
+          "quantity": 1,
+          "line_number": 60,
+          "is_commander": false,
+          "card": {
+            "id": "61784cbd-92e9-43c7-a1a8-4004b1bf4dae",
+            "oracle_id": "821e8648-222c-4b33-a8bd-e8bfff7dcd9e",
+            "name": "Quistis Trepe",
+            "released_at": "2025-06-13",
+            "mana_cost": "{2}{U}",
+            "cmc": 3.0,
+            "type_line": "Legendary Creature — Human Wizard",
+            "oracle_text": "Blue Magic — When Quistis Trepe enters, you may cast target instant or sorcery card from a graveyard, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.",
+            "color_identity": [
+              "U"
+            ],
+            "keywords": [
+              "Blue Magic"
+            ],
+            "legalities": {
+              "standard": "legal",
+              "future": "legal",
+              "historic": "legal",
+              "timeless": "legal",
+              "gladiator": "legal",
+              "pioneer": "legal",
+              "modern": "legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "legal",
+              "brawl": "legal",
+              "competitivebrawl": "legal",
+              "alchemy": "legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "triangle",
+            "set_type": "expansion",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Raff, Weatherlight Stalwart",
           "canonical_name": "Raff, Weatherlight Stalwart",
           "quantity": 1,
-          "line_number": 62,
+          "line_number": 61,
           "is_commander": false,
           "card": {
             "id": "cc0cba4c-d9f0-421f-acf4-ab1adcd59c80",
@@ -21916,7 +21876,7 @@
           "listed_name": "Raise the Palisade",
           "canonical_name": "Raise the Palisade",
           "quantity": 1,
-          "line_number": 63,
+          "line_number": 62,
           "is_commander": false,
           "card": {
             "id": "7966eb7a-0ef7-470f-9769-0d5f45f0395b",
@@ -21967,7 +21927,7 @@
           "listed_name": "Ral, Monsoon Mage",
           "canonical_name": "Ral, Monsoon Mage",
           "quantity": 1,
-          "line_number": 64,
+          "line_number": 63,
           "is_commander": false,
           "card": {
             "id": "438d8a26-ddc9-4829-8aff-22d6af6575cf",
@@ -22041,7 +22001,7 @@
           "listed_name": "Raugrin Triome",
           "canonical_name": "Raugrin Triome",
           "quantity": 1,
-          "line_number": 65,
+          "line_number": 64,
           "is_commander": false,
           "card": {
             "id": "02138fbb-3962-4348-8d31-faaefba0b8b2",
@@ -22093,63 +22053,10 @@
           }
         },
         {
-          "listed_name": "Recurring Insight",
-          "canonical_name": "Recurring Insight",
-          "quantity": 1,
-          "line_number": 66,
-          "is_commander": false,
-          "card": {
-            "id": "a3b0c460-1a5f-4e22-a594-34905117169c",
-            "oracle_id": "c6815bbb-24a5-4c9f-bf30-6190bc766d05",
-            "name": "Recurring Insight",
-            "released_at": "2026-06-26",
-            "mana_cost": "{4}{U}{U}",
-            "cmc": 6.0,
-            "type_line": "Sorcery",
-            "oracle_text": "Draw cards equal to the number of cards in target opponent's hand.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
-            "color_identity": [
-              "U"
-            ],
-            "keywords": [
-              "Rebound"
-            ],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "not_legal",
-              "timeless": "not_legal",
-              "gladiator": "not_legal",
-              "pioneer": "not_legal",
-              "modern": "legal",
-              "legacy": "legal",
-              "pauper": "not_legal",
-              "vintage": "legal",
-              "penny": "legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "not_legal",
-              "competitivebrawl": "not_legal",
-              "alchemy": "not_legal",
-              "paupercommander": "not_legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": "oval",
-            "set_type": "commander",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Reliquary Tower",
           "canonical_name": "Reliquary Tower",
           "quantity": 1,
-          "line_number": 67,
+          "line_number": 65,
           "is_commander": false,
           "card": {
             "id": "e2a27742-08c1-4153-af7f-25a7a98f585e",
@@ -22198,7 +22105,7 @@
           "listed_name": "Riverpyre Verge",
           "canonical_name": "Riverpyre Verge",
           "quantity": 1,
-          "line_number": 68,
+          "line_number": 66,
           "is_commander": false,
           "card": {
             "id": "57a93a71-d77c-417f-85d0-cd420f573331",
@@ -22250,7 +22157,7 @@
           "listed_name": "Roaming Throne",
           "canonical_name": "Roaming Throne",
           "quantity": 1,
-          "line_number": 69,
+          "line_number": 67,
           "is_commander": false,
           "card": {
             "id": "32fd8b7c-baf3-4d3d-be6f-044a917b11a0",
@@ -22301,7 +22208,7 @@
           "listed_name": "Sacred Foundry",
           "canonical_name": "Sacred Foundry",
           "quantity": 1,
-          "line_number": 70,
+          "line_number": 68,
           "is_commander": false,
           "card": {
             "id": "a7758cc6-4e18-48a5-8720-5f42b5cd9d31",
@@ -22353,7 +22260,7 @@
           "listed_name": "Savage Beating",
           "canonical_name": "Savage Beating",
           "quantity": 1,
-          "line_number": 71,
+          "line_number": 69,
           "is_commander": false,
           "card": {
             "id": "3c979cab-3ae6-43b1-b067-1e5abfc2e2ed",
@@ -22406,7 +22313,7 @@
           "listed_name": "Scalding Tarn",
           "canonical_name": "Scalding Tarn",
           "quantity": 1,
-          "line_number": 72,
+          "line_number": 70,
           "is_commander": false,
           "card": {
             "id": "71e491c5-8c07-449b-b2f1-ffa052e6d311",
@@ -22455,7 +22362,7 @@
           "listed_name": "Sea Gate Restoration",
           "canonical_name": "Sea Gate Restoration",
           "quantity": 1,
-          "line_number": 73,
+          "line_number": 71,
           "is_commander": false,
           "card": {
             "id": "193071fe-180b-4d35-ba78-9c16675c29fc",
@@ -22523,7 +22430,7 @@
           "listed_name": "Sea of Clouds",
           "canonical_name": "Sea of Clouds",
           "quantity": 1,
-          "line_number": 74,
+          "line_number": 72,
           "is_commander": false,
           "card": {
             "id": "d4fb722f-40af-4bd1-b660-e8186b98f233",
@@ -22575,7 +22482,7 @@
           "listed_name": "Shivan Reef",
           "canonical_name": "Shivan Reef",
           "quantity": 1,
-          "line_number": 75,
+          "line_number": 73,
           "is_commander": false,
           "card": {
             "id": "e13d0982-2542-4770-8e93-637478a0f84a",
@@ -22627,7 +22534,7 @@
           "listed_name": "Sink into Stupor",
           "canonical_name": "Sink into Stupor",
           "quantity": 1,
-          "line_number": 76,
+          "line_number": 74,
           "is_commander": false,
           "card": {
             "id": "5358b87a-1a29-426d-b165-40c97da2c14d",
@@ -22695,7 +22602,7 @@
           "listed_name": "Sol Ring",
           "canonical_name": "Sol Ring",
           "quantity": 1,
-          "line_number": 77,
+          "line_number": 75,
           "is_commander": false,
           "card": {
             "id": "91fdb56b-54d5-4272-8319-505ff987fe9b",
@@ -22744,7 +22651,7 @@
           "listed_name": "Solve the Equation",
           "canonical_name": "Solve the Equation",
           "quantity": 1,
-          "line_number": 78,
+          "line_number": 76,
           "is_commander": false,
           "card": {
             "id": "66c04ee2-c1e0-45fb-aaf5-1b4459df80fc",
@@ -22795,7 +22702,7 @@
           "listed_name": "Spectator Seating",
           "canonical_name": "Spectator Seating",
           "quantity": 1,
-          "line_number": 79,
+          "line_number": 77,
           "is_commander": false,
           "card": {
             "id": "4c62dcfc-4bc8-4551-b3c7-9eec26be3362",
@@ -22847,7 +22754,7 @@
           "listed_name": "Steam Vents",
           "canonical_name": "Steam Vents",
           "quantity": 1,
-          "line_number": 80,
+          "line_number": 78,
           "is_commander": false,
           "card": {
             "id": "a83903c7-fd51-4526-aed2-359e946fea36",
@@ -22899,7 +22806,7 @@
           "listed_name": "Sulfur Falls",
           "canonical_name": "Sulfur Falls",
           "quantity": 1,
-          "line_number": 81,
+          "line_number": 79,
           "is_commander": false,
           "card": {
             "id": "c762f475-7e58-4477-839b-b3c55434b88f",
@@ -22951,7 +22858,7 @@
           "listed_name": "Sunbillow Verge",
           "canonical_name": "Sunbillow Verge",
           "quantity": 1,
-          "line_number": 82,
+          "line_number": 80,
           "is_commander": false,
           "card": {
             "id": "94ed132f-b818-4dbf-9b4a-e5acb067e0a4",
@@ -23000,10 +22907,61 @@
           }
         },
         {
+          "listed_name": "Surge to Victory",
+          "canonical_name": "Surge to Victory",
+          "quantity": 1,
+          "line_number": 81,
+          "is_commander": false,
+          "card": {
+            "id": "b5345934-60eb-417c-9716-477882c4796d",
+            "oracle_id": "8ea414c1-88cf-46d4-9a54-6dee9847c537",
+            "name": "Surge to Victory",
+            "released_at": "2026-04-24",
+            "mana_cost": "{4}{R}{R}",
+            "cmc": 6.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Exile target instant or sorcery card from your graveyard. Creatures you control get +X/+0 until end of turn, where X is that card's mana value. Whenever a creature you control deals combat damage to a player this turn, copy the exiled card. You may cast the copy without paying its mana cost.",
+            "color_identity": [
+              "R"
+            ],
+            "keywords": [],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "not_legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "not_legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "oval",
+            "set_type": "commander",
+            "card_faces": []
+          }
+        },
+        {
           "listed_name": "Swan Song",
           "canonical_name": "Swan Song",
           "quantity": 1,
-          "line_number": 83,
+          "line_number": 82,
           "is_commander": false,
           "card": {
             "id": "83d0b761-d694-4232-9f40-5bd8c82a05f1",
@@ -23054,7 +23012,7 @@
           "listed_name": "Swords to Plowshares",
           "canonical_name": "Swords to Plowshares",
           "quantity": 1,
-          "line_number": 84,
+          "line_number": 83,
           "is_commander": false,
           "card": {
             "id": "b4e9c870-23c0-413a-ae39-265f09da16d1",
@@ -23105,7 +23063,7 @@
           "listed_name": "Taunt from the Rampart",
           "canonical_name": "Taunt from the Rampart",
           "quantity": 1,
-          "line_number": 85,
+          "line_number": 84,
           "is_commander": false,
           "card": {
             "id": "ad79ee29-dd86-484f-bd70-8ecd9d90ef75",
@@ -23159,7 +23117,7 @@
           "listed_name": "Time Spiral",
           "canonical_name": "Time Spiral",
           "quantity": 1,
-          "line_number": 86,
+          "line_number": 85,
           "is_commander": false,
           "card": {
             "id": "f3d62dbd-63db-4ac9-950f-9852627f23f2",
@@ -23210,7 +23168,7 @@
           "listed_name": "Training Center",
           "canonical_name": "Training Center",
           "quantity": 1,
-          "line_number": 87,
+          "line_number": 86,
           "is_commander": false,
           "card": {
             "id": "78a39d22-5e3b-4ba0-b728-dbf16b61fc8f",
@@ -23255,6 +23213,57 @@
             "layout": "normal",
             "security_stamp": "oval",
             "set_type": "masters",
+            "card_faces": []
+          }
+        },
+        {
+          "listed_name": "Traverse Eternity",
+          "canonical_name": "Traverse Eternity",
+          "quantity": 1,
+          "line_number": 87,
+          "is_commander": false,
+          "card": {
+            "id": "f6570c23-f135-4e81-9a4c-934c298a51ad",
+            "oracle_id": "ac5c2975-6a56-42c7-97c5-6a0e75c000bb",
+            "name": "Traverse Eternity",
+            "released_at": "2023-10-13",
+            "mana_cost": "{2}{U}{U}",
+            "cmc": 4.0,
+            "type_line": "Sorcery",
+            "oracle_text": "Draw cards equal to the greatest mana value among historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)",
+            "color_identity": [
+              "U"
+            ],
+            "keywords": [],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "not_legal",
+              "timeless": "not_legal",
+              "gladiator": "not_legal",
+              "pioneer": "not_legal",
+              "modern": "not_legal",
+              "legacy": "legal",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "not_legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "not_legal",
+              "competitivebrawl": "not_legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "legal",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "not_legal"
+            },
+            "game_changer": false,
+            "layout": "normal",
+            "security_stamp": "triangle",
+            "set_type": "commander",
             "card_faces": []
           }
         },
@@ -23644,7 +23653,7 @@
           "listed_name": "Gandalf, Party Guest",
           "canonical_name": "Gandalf, Party Guest",
           "quantity": 1,
-          "line_number": 95,
+          "line_number": 96,
           "is_commander": true,
           "card": {
             "id": "f742a14a-0c84-4225-a314-04d5c32fef08",

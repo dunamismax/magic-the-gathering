@@ -7,8 +7,9 @@ deck edits so one layer cannot silently masquerade as another.
 
 ## Current snapshot
 
-- **10 public decks**, all downloaded from Moxfield on **2026-08-31** and
-  locally audited on **2026-09-01**
+- **10 public decks**: the full collection was downloaded from Moxfield on
+  **2026-08-31**, Gandalf was reconciled to the user's exact six-for-six
+  Moxfield change on **2026-09-01**, and all lists were locally audited that day
 - **9 Bracket 3 targets** and **1 Bracket 2 target** (Frodo & Sam)
 - All 10 currently resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, identity, legality, release-state, banned-card, and
@@ -16,8 +17,9 @@ deck edits so one layer cannot silently masquerade as another.
 - All 10 exact lists have hash-current Commander Spellbook evidence: six scans
   from **2026-08-30** and refreshed scans for Aragorn, Frodo & Sam, Gandalf, and
   revised Minn from **2026-09-01**, each paired with manual prerequisite review
-- Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
-  has one finite Spellbook line and one manually verified five-card loop;
+- Gandalf has one confirmed conditional two-card unlimited-combat line;
+  Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
+  has one finite Spellbook line and one manually verified five-card loop; and
   Henzie's returned persist template is incomplete
 - The current 10-deck social and bracket reviews are pinned to these exact
   hashes; superseded seven-deck reports remain dated historical evidence

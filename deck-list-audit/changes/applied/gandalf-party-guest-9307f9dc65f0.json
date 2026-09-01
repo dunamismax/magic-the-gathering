@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "status": "user-confirmed",
+  "deck": "gandalf-party-guest",
+  "baseline_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
+  "game_changer_policy": "no-increase",
+  "adds": [
+    {
+      "name": "Mizzix of the Izmagnus",
+      "quantity": 1,
+      "reason": "User-confirmed legendary Wizard and spell-cost engine."
+    },
+    {
+      "name": "Quistis Trepe",
+      "quantity": 1,
+      "reason": "User-confirmed legendary Wizard addition."
+    },
+    {
+      "name": "Traverse Eternity",
+      "quantity": 1,
+      "reason": "User-confirmed spell package addition."
+    },
+    {
+      "name": "Surge to Victory",
+      "quantity": 1,
+      "reason": "User-confirmed combat finisher; forms the disclosed repeatable-combat line with Savage Beating."
+    },
+    {
+      "name": "Krile Baldesion",
+      "quantity": 1,
+      "reason": "User-confirmed legendary Wizard addition."
+    },
+    {
+      "name": "Linvala, Shield of Sea Gate",
+      "quantity": 1,
+      "reason": "User-confirmed legendary Wizard and board-protection addition."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "Gogo, Mysterious Mime",
+      "quantity": 1,
+      "reason": "User-confirmed cut."
+    },
+    {
+      "name": "Irma, Part-Time Mutant",
+      "quantity": 1,
+      "reason": "User-confirmed cut."
+    },
+    {
+      "name": "Mnemonic Deluge",
+      "quantity": 1,
+      "reason": "User-confirmed cut."
+    },
+    {
+      "name": "Mox Amber",
+      "quantity": 1,
+      "reason": "User-confirmed cut."
+    },
+    {
+      "name": "Recurring Insight",
+      "quantity": 1,
+      "reason": "User-confirmed cut."
+    },
+    {
+      "name": "Jori En, Ruin Diver",
+      "quantity": 1,
+      "reason": "User-confirmed cut."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "Game Changer count does not increase",
+    "locked cards preserved",
+    "Surge to Victory plus Savage Beating repeatable-combat line disclosed"
+  ],
+  "notes": "Exact six-for-six package supplied and confirmed by the user on 2026-09-01.",
+  "application": {
+    "applied_at": "2026-09-01T04:37:54.268370+00:00",
+    "before_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
+    "after_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35",
+    "post_change_audit_valid": true,
+    "external_combo_evidence_stale_at_application": true,
+    "human_reports_stale_at_application": true
+  }
+}

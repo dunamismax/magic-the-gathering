@@ -161,10 +161,6 @@
       "quantity": 1
     },
     {
-      "card": "Gogo, Mysterious Mime",
-      "quantity": 1
-    },
-    {
       "card": "Hallowed Fountain",
       "quantity": 1
     },
@@ -185,16 +181,8 @@
       "quantity": 1
     },
     {
-      "card": "Irma, Part-Time Mutant",
-      "quantity": 1
-    },
-    {
       "card": "Island",
       "quantity": 3
-    },
-    {
-      "card": "Jori En, Ruin Diver",
-      "quantity": 1
     },
     {
       "card": "Kaza, Roil Chaser",
@@ -205,7 +193,15 @@
       "quantity": 1
     },
     {
+      "card": "Krile Baldesion",
+      "quantity": 1
+    },
+    {
       "card": "Kykar, Wind's Fury",
+      "quantity": 1
+    },
+    {
+      "card": "Linvala, Shield of Sea Gate",
       "quantity": 1
     },
     {
@@ -213,16 +209,12 @@
       "quantity": 1
     },
     {
-      "card": "Mnemonic Deluge",
+      "card": "Mizzix of the Izmagnus",
       "quantity": 1
     },
     {
       "card": "Mountain",
       "quantity": 4
-    },
-    {
-      "card": "Mox Amber",
-      "quantity": 1
     },
     {
       "card": "Muddle the Mixture",
@@ -245,6 +237,10 @@
       "quantity": 1
     },
     {
+      "card": "Quistis Trepe",
+      "quantity": 1
+    },
+    {
       "card": "Raff, Weatherlight Stalwart",
       "quantity": 1
     },
@@ -258,10 +254,6 @@
     },
     {
       "card": "Raugrin Triome",
-      "quantity": 1
-    },
-    {
-      "card": "Recurring Insight",
       "quantity": 1
     },
     {
@@ -329,6 +321,10 @@
       "quantity": 1
     },
     {
+      "card": "Surge to Victory",
+      "quantity": 1
+    },
+    {
       "card": "Swan Song",
       "quantity": 1
     },
@@ -346,6 +342,10 @@
     },
     {
       "card": "Training Center",
+      "quantity": 1
+    },
+    {
+      "card": "Traverse Eternity",
       "quantity": 1
     },
     {

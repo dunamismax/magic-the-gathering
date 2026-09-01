@@ -42,11 +42,11 @@
     "gandalf-party-guest": {
       "status": "exact-list-scan",
       "fetched_on": "2026-09-01",
-      "request_sha256": "cb1cde9e4dc2ed1ed08f6cabac2123790e6af3bff01bfb2ce92912c5b1fb1714",
+      "request_sha256": "740c596d2cddeedc6b582d7406e9c326dd9a7099555c61e30f629d78da23c17a",
       "estimate_file": "data/spellbook-results/gandalf-party-guest-estimate.json",
-      "estimate_sha256": "e014a18cbe1bfcd485a3f63544d040bcf55862fe94b394805e044a5fe391508f",
+      "estimate_sha256": "a1a8426c3f829be6d8147c60165749d05cb5d0837bbb39e03ae4b19adfc63232",
       "combos_file": "data/spellbook-results/gandalf-party-guest-combos.json",
-      "combos_sha256": "552b23ed7e58dae29786a894f7d679f891f0e7548de196b3e0d06dd95660847f"
+      "combos_sha256": "169776011a385abe13f5d1631e5a3d46c1572b6a5b219d71b0e5afbe60bebb18"
     },
     "henzie-toolbox-torre": {
       "status": "exact-list-scan",

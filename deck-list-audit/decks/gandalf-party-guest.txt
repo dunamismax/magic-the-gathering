@@ -38,32 +38,30 @@
 1 Gandalf, White Rider
 1 Glacial Fortress
 1 Gogo, Master of Mimicry
-1 Gogo, Mysterious Mime
 1 Hallowed Fountain
 1 Harmonic Prodigy
 1 Hermes, Overseer of Elpis
 1 Improvisation Capstone
 1 Inevitable Betrayal
-1 Irma, Part-Time Mutant
 3 Island
-1 Jori En, Ruin Diver
 1 Kaza, Roil Chaser
 1 Kitsa, Otterball Elite
+1 Krile Baldesion
 1 Kykar, Wind's Fury
+1 Linvala, Shield of Sea Gate
 1 Mana Confluence
-1 Mnemonic Deluge
+1 Mizzix of the Izmagnus
 4 Mountain
-1 Mox Amber
 1 Muddle the Mixture
 1 Otawara, Soaring City
 1 Path to Exile
 1 Plains
 1 Plaza of Heroes
+1 Quistis Trepe
 1 Raff, Weatherlight Stalwart
 1 Raise the Palisade
 1 Ral, Monsoon Mage
 1 Raugrin Triome
-1 Recurring Insight
 1 Reliquary Tower
 1 Riverpyre Verge
 1 Roaming Throne
@@ -80,11 +78,13 @@
 1 Steam Vents
 1 Sulfur Falls
 1 Sunbillow Verge
+1 Surge to Victory
 1 Swan Song
 1 Swords to Plowshares
 1 Taunt from the Rampart
 1 Time Spiral
 1 Training Center
+1 Traverse Eternity
 1 Urza's Ruinous Blast
 1 Valakut Awakening
 1 Veyran, Voice of Duality
@@ -92,4 +92,5 @@
 1 Will of the Temur
 1 Wizard's Staff
 1 World at War
+
 1 Gandalf, Party Guest

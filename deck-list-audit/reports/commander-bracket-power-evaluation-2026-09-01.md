@@ -7,16 +7,16 @@ Scope: the exact 10 public lists and hashes recorded in
 
 ## Verdict
 
-The collection now contains nine Bracket 3 decks and one Bracket 2 deck. Frodo
-and Sam are the intentional lower-power deck. Pantlaza is still the only
-knife-edge B3/B4 decision: normal Dinosaur combat intent fits the ceiling of
-Bracket 3, while routinely tutoring its conditional kill should be presented as
-Bracket 4.
+The collection now contains nine Bracket 3 targets and one Bracket 2 deck. Frodo
+and Sam are the intentional lower-power deck. Pantlaza and Gandalf are the two
+knife-edge B3/B4 decisions: normal combat-forward intent fits the ceiling of
+Bracket 3, while routinely assembling or tutoring their conditional unlimited
+finishes should be presented as Bracket 4.
 
 | Raw-power order | Deck | Appropriate bracket | Power estimate | Confidence | Practical label |
 |---:|---|---|---:|---|---|
 | 1 | Pantlaza, Sun-Favored | **B3 ceiling; B4 when combo-forward** | **8.0-8.5/10** | Medium-high | Upgraded Dinosaurs with a disclosed conditional kill |
-| 2 | Gandalf, Party Guest | **B3 upper** | **7.5-8.0/10** | Medium | Free-spell Wizards with finite extra-combat chains |
+| 2 | Gandalf, Party Guest | **B3 ceiling; B4 when combo-forward** | **8.0-8.5/10** | Medium-high | Free-spell Wizards with a disclosed two-card conditional combat loop |
 | 3 | Magda, Brazen Outlaw | **B3 upper** | **7.5-8.0/10** | High | Command-zone Dragon/artifact toolbox |
 | 4 | Henzie “Toolbox” Torre | **B3 mid-upper** | **7.0-7.5/10** | High | Blitz, ETB, and reanimation value |
 | 5 | Aragorn, the Uniter | **B3 mid-upper** | **7.0-7.5/10** | Medium-high | Four-color multicolor-spell go-wide |
@@ -32,7 +32,7 @@ so clock and consistency statements are list-based inferences.
 
 ## Why the three new decks fit
 
-### Gandalf, Party Guest — upper Bracket 3
+### Gandalf, Party Guest — Bracket 3 ceiling; Bracket 4 when combo-forward
 
 Gandalf turns a board of legendary Wizards into a free instant or sorcery at
 each combat. Extra-combat spells retrigger the commander, and the list backs
@@ -40,10 +40,19 @@ that ceiling with efficient interaction, spell tutors, strong trigger
 multipliers, and 37 effective land sources. It can create turns that feel much
 larger than an ordinary value deck.
 
-It remains Bracket 3 because the exact list has no deterministic extra-combat
-or spell-recursion loop, no dense fast-mana package, and no consistent
-turn-four optimized finish. The commander-specific chain is powerful enough to
-disclose, but it is bounded and interactable.
+The adopted `Surge to Victory` addition creates a confirmed two-card conditional
+unlimited-combat line with `Savage Beating`: put Savage Beating in the graveyard,
+exile it with Surge, connect with a creature, and use each free copy for another
+untap and combat. Its six-mana setup and combat dependency can remain a disclosed
+ceiling-Bracket-3 finish when the deck is not built to race or force it before
+turn six. A plan that actively tutors or prioritizes the line belongs in
+Bracket 4.
+
+It remains a Bracket 3 target rather than automatically becoming Bracket 4
+because the line starts with a six-mana sorcery, needs its other named card in
+the graveyard, depends on combat damage, and is not backed by a dense fast-mana
+or tutor package. It is nevertheless unbounded once established, interactable
+at several points, and mandatory to disclose.
 
 ### Aragorn, the Uniter — mid-upper Bracket 3
 
@@ -104,10 +113,11 @@ placement.
 - No list contains a mass-land-denial package. Minn can eventually ultimate
   Teferi for two extra turns, but no deck has a compact repeatable extra-turn
   loop.
-- Pantlaza has three confirmed conditional near-infinite lines. Queen Marchesa
+- Gandalf has one confirmed two-card conditional unlimited-combat line.
+  Pantlaza has three confirmed conditional near-infinite lines. Queen Marchesa
   has one finite kill and one five-card unbounded loop. Henzie's returned
-  persist template is incomplete. No complete current line was found in the
-  three new decks or revised Minn during manual exact-list review.
+  persist template is incomplete. No complete current line was found in
+  Aragorn, Frodo and Sam, or revised Minn during manual exact-list review.
 - Rule Zero is presently required for `Blor the Impervious`, `Ekthi,
   Contaminator Priest`, `The Theorist, Jace Beleren` in Minn, and `Maular,
   the Next Evolution` in Pantlaza because those cards have future release
@@ -118,8 +128,9 @@ placement.
 This evaluation uses the hashes in `data/moxfield-refresh.json`, the
 2026-08-30 Oracle snapshot, the 2026-08-29 official policy lock, hash-current
 Spellbook evidence for all ten lists, and the exact-list manual review in
-`knowledge/combo-adjudications.json`. The 2026-09-01 scans for Aragorn, Frodo and
-Sam, Gandalf, and revised Minn returned zero included candidates.
+`knowledge/combo-adjudications.json`. Gandalf's refreshed 2026-09-01 scan
+returned one included candidate, which manual review confirmed as conditional;
+the scans for Aragorn, Frodo and Sam, and revised Minn returned none.
 
 Power ranges are judgments, not measured win rates, and a database miss does not
 prove the absence of every possible interaction. Repeated pre-turn-seven wins

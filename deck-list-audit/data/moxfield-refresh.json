@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
   "profile_url": "https://moxfield.com/users/dunamismax",
-  "refreshed_on": "2026-08-31",
+  "refreshed_on": "2026-09-01",
   "method": "Moxfield public deck page, Download, Copy Plain Text",
+  "notes": "The full profile was exported on 2026-08-31. Gandalf was reconciled on 2026-09-01 from the user's exact six-for-six Moxfield change.",
   "deck_count": 10,
   "decks": {
     "aragorn-the-uniter": {
@@ -36,9 +37,10 @@
     "gandalf-party-guest": {
       "title": "Gandalf, Party Guest | You Shall Not Pay",
       "moxfield_id": "K90JyPq-kEW6CBX8RnNJ8w",
-      "source_updated_on": "2026-08-31",
-      "refreshed_on": "2026-08-31",
-      "deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf"
+      "source_updated_on": "2026-09-01",
+      "refreshed_on": "2026-09-01",
+      "method": "User-confirmed exact six-for-six Moxfield change",
+      "deck_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35"
     },
     "henzie-toolbox-torre": {
       "title": "Henzie “Toolbox” Torre | Jundyard Shift",

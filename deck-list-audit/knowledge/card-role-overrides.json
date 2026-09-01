@@ -83,7 +83,29 @@
       ],
       "Savage Beating": [
         "commander_engine",
-        "win_condition"
+        "win_condition",
+        "combo_piece"
+      ],
+      "Surge to Victory": [
+        "commander_engine",
+        "win_condition",
+        "combo_piece"
+      ],
+      "Mizzix of the Izmagnus": [
+        "commander_engine",
+        "cost_reduction"
+      ],
+      "Quistis Trepe": [
+        "commander_engine",
+        "recursion"
+      ],
+      "Krile Baldesion": [
+        "commander_engine",
+        "recursion"
+      ],
+      "Linvala, Shield of Sea Gate": [
+        "commander_engine",
+        "protection"
       ],
       "World at War": [
         "commander_engine",
