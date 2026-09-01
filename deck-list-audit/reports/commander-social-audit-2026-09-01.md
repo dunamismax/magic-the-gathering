@@ -5,11 +5,9 @@ Profile: <https://moxfield.com/users/dunamismax>
 Scope: the exact 10 public lists and hashes recorded in `data/moxfield-refresh.json`
 
 This report combines the deterministic Oracle audit, the 2026-08-29 official
-policy lock, exact-list Commander Spellbook evidence where it remains hash
-current, and manual Oracle/prerequisite review of all changed lists. Full-list
-Spellbook refreshes remain pending for Aragorn, Frodo and Sam, Gandalf, and the
-revised Minn list because no new list was uploaded without separate
-authorization.
+policy lock, hash-current exact-list Commander Spellbook evidence for all ten
+decks, and manual Oracle/prerequisite review. The 2026-09-01 scans for Aragorn,
+Frodo and Sam, Gandalf, and revised Minn returned zero included candidates.
 
 ## Lineup view
 
@@ -132,9 +130,8 @@ persist creature.
 
 ## Evidence boundaries
 
-Structured findings live in `knowledge/combo-adjudications.json`. The six
-unchanged lists retain hash-current 2026-08-30 Spellbook evidence. The three
-new lists and revised Minn have current manual exact-list review but explicit
-`needs-refresh` Spellbook records. Neither a database miss nor a manual screen
-proves absolute absence; rerun `just check-current` after the pending external
-evidence is refreshed or after any deck edit.
+Structured findings live in `knowledge/combo-adjudications.json`. Six unchanged
+lists retain hash-current 2026-08-30 Spellbook evidence; the three new lists and
+revised Minn have 2026-09-01 exact-list scans. All ten records also have manual
+prerequisite review. Neither a database miss nor a manual screen proves absolute
+absence; rerun `just check-current` after any deck edit or evidence expiry.

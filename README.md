@@ -47,8 +47,10 @@ current check, tests, and lint as the final repository gate.
   instead of editing them by hand.
 - Public Moxfield exports may be downloaded locally. The workflow never writes
   changes back to Moxfield unless the user separately asks for that action.
-- Complete private lists are not sent to third parties. Commander Spellbook
-  uploads are opt-in even for public lists.
+- The repository owner has granted standing authorization to send exact lists
+  configured as public to third-party analysis or research services, including
+  Commander Spellbook, when needed for collection work. Private or unlisted
+  lists, credentials, and personal data are not covered by that authorization.
 
 The project is licensed under [`LICENSE`](LICENSE). Card names and game data
 remain subject to their respective owners and data providers.

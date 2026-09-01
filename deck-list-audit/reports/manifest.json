@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "status": "reviewed-current-snapshot-with-pending-spellbook",
+  "status": "reviewed-current-snapshot",
   "audit_date": "2026-09-01",
   "report_file": "reports/commander-social-audit-2026-09-01.md",
-  "report_sha256": "c25e434aa755c71ce68d2bf5eef08224b094783e4ff55536905d52b936762628",
+  "report_sha256": "42135542f911b14f2d983fa58dff0fbb0cb6691feec14c6488085afaf986b9dd",
   "deck_sha256": {
     "aragorn-the-uniter": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
     "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
@@ -16,5 +16,5 @@
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
     "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94"
   },
-  "notes": "Current 10-deck social-power report based on exact 2026-08-31 Moxfield exports, the 2026-09-01 deterministic audit, retained hash-current Spellbook evidence for six unchanged decks, and manual exact-list review for the three new decks and revised Minn. Their full-list Spellbook refreshes remain pending."
+  "notes": "Current 10-deck social-power report based on exact 2026-08-31 Moxfield exports, the 2026-09-01 deterministic audit, hash-current full-list Commander Spellbook evidence for all ten decks, and manual exact-list prerequisite review."
 }

@@ -5,7 +5,7 @@
     "audit_sha256": "326afc437ff55847032afb0fa6c951e75223e7fe9bf70c89cf06c0ac98c2cca7",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
     "overrides_sha256": "452a6a5f5590177a70c76c592b7a8337bce5e5c981126b8fb37509db33d90da0",
-    "combo_adjudications_sha256": "128efc158bf39a9a3813518b0a6c05411d1014e8854dadfe745469aa1cc5b431"
+    "combo_adjudications_sha256": "f49141ea0c05ddacebcc208a7fb1d5c4e500521bcd59227b0d2c39f84afa3bf4"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",

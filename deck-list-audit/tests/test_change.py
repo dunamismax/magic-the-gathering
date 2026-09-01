@@ -36,31 +36,19 @@ class ChangeTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "sufficient quantity"):
             apply_items(entries, [], [{"name": "Only Copy", "quantity": 2}])
 
-    def test_spellbook_manifest_preserves_current_and_pending_states(self) -> None:
+    def test_spellbook_manifest_is_current_for_all_decks(self) -> None:
         audit, _ = build_audit(audit_date=date(2026, 9, 1))
         errors, warnings = validate_spellbook(
             audit, require_current=False, today=date(2026, 9, 1)
         )
         self.assertEqual(errors, [])
-        self.assertEqual(
-            warnings,
-            [
-                "exact-list Spellbook refresh needed: aragorn-the-uniter, "
-                "frodo-sam, gandalf-party-guest, minn-wily-illusionist"
-            ],
-        )
+        self.assertEqual(warnings, [])
 
-        current_errors, _ = validate_spellbook(
+        current_errors, current_warnings = validate_spellbook(
             audit, require_current=True, today=date(2026, 9, 1)
         )
-        self.assertEqual(
-            current_errors,
-            [
-                "current Spellbook evidence is unavailable for: "
-                "aragorn-the-uniter, frodo-sam, gandalf-party-guest, "
-                "minn-wily-illusionist"
-            ],
-        )
+        self.assertEqual(current_errors, [])
+        self.assertEqual(current_warnings, [])
 
 
 if __name__ == "__main__":

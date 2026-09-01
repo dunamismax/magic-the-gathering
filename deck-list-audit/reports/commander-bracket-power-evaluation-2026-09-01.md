@@ -116,13 +116,14 @@ placement.
 ## Evidence and limits
 
 This evaluation uses the hashes in `data/moxfield-refresh.json`, the
-2026-08-30 Oracle snapshot, the 2026-08-29 official policy lock, retained
-hash-current Spellbook evidence for the six unchanged lists, and the exact-list
-manual review in `knowledge/combo-adjudications.json`.
+2026-08-30 Oracle snapshot, the 2026-08-29 official policy lock, hash-current
+Spellbook evidence for all ten lists, and the exact-list manual review in
+`knowledge/combo-adjudications.json`. The 2026-09-01 scans for Aragorn, Frodo and
+Sam, Gandalf, and revised Minn returned zero included candidates.
 
-Full-list Spellbook refreshes are intentionally still marked pending for
-Aragorn, Frodo and Sam, Gandalf, and revised Minn. Power ranges are judgments,
-not measured win rates. Repeated pre-turn-seven wins are evidence to move a
-proposed B3 label upward regardless of whether the win is combat or combo.
+Power ranges are judgments, not measured win rates, and a database miss does not
+prove the absence of every possible interaction. Repeated pre-turn-seven wins
+are evidence to move a proposed B3 label upward regardless of whether the win is
+combat or combo.
 
 Run `just check-current` before applying these judgments after any deck edit.

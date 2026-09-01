@@ -1,0 +1,3919 @@
+{
+  "count": null,
+  "next": null,
+  "previous": null,
+  "results": {
+    "identity": "WBG",
+    "included": [],
+    "includedByChangingCommanders": [],
+    "almostIncluded": [
+      {
+        "id": "3875-5702--143",
+        "of": [
+          {
+            "id": 31771
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 5702,
+              "name": "Springheart Nantuko",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "8a3ad2ef-8bcb-40c0-85de-f03328c2b644",
+              "typeLine": "Enchantment Creature — Insect Monk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.png?1783911255",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3875,
+              "name": "Tireless Provisioner",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "ab8d5f5c-1976-4f77-8ed2-8d28ee666741",
+              "typeLine": "Creature — Elf Scout",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.png?1783917135",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "7.31",
+          "cardmarket": "5.78",
+          "cardkingdom": "12.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "G",
+        "includes": [
+          {
+            "id": 31771
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 119,
+              "name": "Infinite landfall triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 719,
+              "name": "Infinite tapped land tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [
+          {
+            "quantity": 1,
+            "template": {
+              "id": 143,
+              "name": "Card that Earthbends",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28kw%3Aearthbend%29+legal%3Acommander",
+              "scryfallQuery": "kw:earthbend"
+            },
+            "zoneLocations": [
+              "H",
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 90667,
+        "bracketTag": "E",
+        "description": "Earthbend a land, thus animating it.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko and Tireless Provisioner trigger.\nResolve the Tireless Provisioner trigger, creating a Treasure token.\nHolding priority, activate the Treasure by tapping and sacrificing it, adding {G}.\nResolve the Springheart Nantuko trigger, causing you to pay {1}{G} to create a token copy of the land it is attached to.\nWhen the land token enters the battlefield, Tireless Provisioner and Springheart Nantuko trigger.\nHolding priority, activate the land token by tapping it, adding at least {1}.\nRepeat from step 5.",
+        "manaNeeded": "{2}{G} plus enough mana to animate the land",
+        "variantCount": 4,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "You have a land card in hand.\nYou are able to play a land this turn.",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "3875-5702--131",
+        "of": [
+          {
+            "id": 28859
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 5702,
+              "name": "Springheart Nantuko",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "8a3ad2ef-8bcb-40c0-85de-f03328c2b644",
+              "typeLine": "Enchantment Creature — Insect Monk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.png?1783911255",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/4/54a3ea87-005e-4985-b2a5-21711d0b71c0.jpg?1783911255"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3875,
+              "name": "Tireless Provisioner",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "ab8d5f5c-1976-4f77-8ed2-8d28ee666741",
+              "typeLine": "Creature — Elf Scout",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.png?1783917135",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/1/a1e048e0-19d2-4076-892d-f8b3104dee37.jpg?1783917135"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "7.31",
+          "cardmarket": "5.78",
+          "cardkingdom": "12.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "G",
+        "includes": [
+          {
+            "id": 28859
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 119,
+              "name": "Infinite landfall triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 719,
+              "name": "Infinite tapped land tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [
+          {
+            "quantity": 1,
+            "template": {
+              "id": 131,
+              "name": "Man-Land that Enters Untapped",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28otag%3Aman-land+o%3A%2F%5E%7BT%7D%3A+Add%2F+-o%3A%22~+enters+tapped%22%29+legal%3Acommander",
+              "scryfallQuery": "otag:man-land o:/^{T}: Add/ -o:\"~ enters tapped\""
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 90667,
+        "bracketTag": "E",
+        "description": "Animate the land.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko and Tireless Provisioner trigger.\nResolve the Tireless Provisioner trigger, creating a Treasure token.\nActivate the Treasure by tapping and sacrificing it, adding {G}.\nResolve the Springheart Nantuko trigger, causing you to pay {1}{G} to create a token copy of the land it is attached to.\nWhen the land token enters the battlefield, Tireless Provisioner and Springheart Nantuko trigger.\nHolding priority, activate the land token by tapping it, adding at least {1}.\nRepeat from step 5.",
+        "manaNeeded": "{2}{G} plus enough mana to animate the land",
+        "variantCount": 4,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "You have a land card in hand.\nYou are able to play a land this turn.",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "1575-4321",
+        "of": [
+          {
+            "id": 25819
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4321,
+              "name": "Peregrin Took",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "188da0ad-8524-4fb2-915e-1876dc9df89f",
+              "typeLine": "Legendary Creature — Halfling Citizen",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.png?1783916263",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1575,
+              "name": "Nuka-Cola Vending Machine",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "6cfb03e5-aca6-4fe2-a3f1-93e1f0cbf9e1",
+              "typeLine": "Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/d/bd5cc052-7175-4bb8-a52c-f1fb80cb731a.png?1783904267",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/d/bd5cc052-7175-4bb8-a52c-f1fb80cb731a.jpg?1783904267",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/d/bd5cc052-7175-4bb8-a52c-f1fb80cb731a.jpg?1783904267",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/d/bd5cc052-7175-4bb8-a52c-f1fb80cb731a.jpg?1783904267",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/d/bd5cc052-7175-4bb8-a52c-f1fb80cb731a.jpg?1783904267"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "22.82",
+          "cardmarket": "23.98",
+          "cardkingdom": "31.28"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "G",
+        "includes": [
+          {
+            "id": 26876
+          },
+          {
+            "id": 25819
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 24,
+              "name": "Infinite card draw",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 61,
+              "name": "Infinite draw triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 574,
+              "name": "Near-infinite tapped Treasure tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 58446,
+        "bracketTag": "S",
+        "description": "Activate Peregrin Took by sacrificing three Foods.\nNuka-Cola Vending Machine triggers three times, creating three tapped Treasure and three tapped Food tokens.\nResolve the Peregrin Took ability, causing you to draw a card.\nRepeat.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control at least three Foods."
+      },
+      {
+        "id": "2590-4321",
+        "of": [
+          {
+            "id": 21573
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4321,
+              "name": "Peregrin Took",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "188da0ad-8524-4fb2-915e-1876dc9df89f",
+              "typeLine": "Legendary Creature — Halfling Citizen",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.png?1783916263",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 2590,
+              "name": "Experimental Confectioner",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "87f82d15-5b6b-400f-8a15-d45a2a735f7d",
+              "typeLine": "Creature — Human Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/9/49aaf5db-9418-4b97-97da-736c674905d4.png?1783915040",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/9/49aaf5db-9418-4b97-97da-736c674905d4.jpg?1783915040",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/9/49aaf5db-9418-4b97-97da-736c674905d4.jpg?1783915040",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/9/49aaf5db-9418-4b97-97da-736c674905d4.jpg?1783915040",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/9/49aaf5db-9418-4b97-97da-736c674905d4.jpg?1783915040"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "8.33",
+          "cardmarket": "5.14",
+          "cardkingdom": "12.28"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "BG",
+        "includes": [
+          {
+            "id": 26876
+          },
+          {
+            "id": 21573
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 24,
+              "name": "Infinite card draw",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 61,
+              "name": "Infinite draw triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 207,
+              "name": "Near-infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 60,
+              "name": "Near-infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 33807,
+        "bracketTag": "S",
+        "description": "Activate Peregrin Took by sacrificing three Foods.\nExperimental Confectioner's second ability triggers three times, creating three 1/1 Rat creature tokens and three Food artifact tokens.\nResolve the Peregrin Took ability, causing you to draw a card.\nRepeat.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control at least three Foods."
+      },
+      {
+        "id": "2433-5641",
+        "of": [
+          {
+            "id": 17587
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2433,
+              "name": "Rosie Cotton of South Lane",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "168d5711-4459-440f-8de4-aabffd47c44d",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.png?1783916328",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 5641,
+              "name": "Basking Broodscale",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "a7c69802-99c4-4778-934e-cc09ba58c267",
+              "typeLine": "Creature — Eldrazi Lizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.png?1783911263",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.jpg?1783911263",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.jpg?1783911263",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.jpg?1783911263",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/f/5feba5d6-99a6-4e9b-8a7d-90d955868fc3.jpg?1783911263"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "0.53",
+          "cardmarket": "0.36",
+          "cardkingdom": "0.94"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GW",
+        "includes": [
+          {
+            "id": 26301
+          },
+          {
+            "id": 27481
+          },
+          {
+            "id": 17587
+          },
+          {
+            "id": 27475
+          },
+          {
+            "id": 30288
+          },
+          {
+            "id": 30877
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 11,
+              "name": "Infinite colorless mana",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 21,
+              "name": "Infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 7,
+              "name": "Infinite death triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 3,
+              "name": "Infinite creature LTB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 6,
+              "name": "Infinite creature sacrifice triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 22979,
+        "bracketTag": "R",
+        "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Basking Broodscale.\nBasking Broodscale triggers, creating a creature token.\nRepeat from step 3.",
+        "manaNeeded": "{2}{W}",
+        "variantCount": 4,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "553-1891",
+        "of": [
+          {
+            "id": 7915
+          },
+          {
+            "id": 15664
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 553,
+              "name": "Approach of the Second Sun",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "e4125377-34c0-4b54-bdf8-4e88f5d24565",
+              "typeLine": "Sorcery",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.png?1783936543",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1891,
+              "name": "Reprieve",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "f0449cbd-855c-4c20-a1f5-f76a395d8d39",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.png?1783916330",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1783916330",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1783916330",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1783916330",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1783916330"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "8.70",
+          "cardmarket": "3.55",
+          "cardkingdom": "8.98"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "W",
+        "includes": [
+          {
+            "id": 7915
+          },
+          {
+            "id": 15664
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2,
+              "name": "Win the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 19468,
+        "bracketTag": "C",
+        "description": "Cast Approach of the Second Sun by paying {6}{W}.\nHolding priority, cast Reprieve by paying {1}{W}, returning Approach of the Second Sun to your hand and causing you to draw a card.\nCast Approach of the Second Sun by paying {6}{W}, causing you to win the game.",
+        "manaNeeded": "{13}{W}{W}{W}",
+        "variantCount": 7,
+        "manaValueNeeded": 16,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "2433-4186",
+        "of": [
+          {
+            "id": 17587
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2433,
+              "name": "Rosie Cotton of South Lane",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "168d5711-4459-440f-8de4-aabffd47c44d",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.png?1783916328",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4186,
+              "name": "Scurry Oak",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "eee6c02b-7d6a-4445-ad27-8b03176147d4",
+              "typeLine": "Creature — Treefolk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.png?1783926825",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "2.79",
+          "cardmarket": "0.87",
+          "cardkingdom": "3.58"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GW",
+        "includes": [
+          {
+            "id": 27481
+          },
+          {
+            "id": 17587
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 21,
+              "name": "Infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 18627,
+        "bracketTag": "R",
+        "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Scurry Oak.\nScurry Oak triggers, creating a creature token.\nRepeat from step 3.",
+        "manaNeeded": "{2}{W}",
+        "variantCount": 4,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "2523-3213",
+        "of": [
+          {
+            "id": 17551
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2523,
+              "name": "Ratadrabik of Urborg",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "b3ab43f2-4f2b-4439-9254-0110ce443fdb",
+              "typeLine": "Legendary Creature — Zombie Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.png?1783921278",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.jpg?1783921278",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.jpg?1783921278",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.jpg?1783921278",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/3/9315812d-03e8-4eb4-a693-e7adf281f7fb.jpg?1783921278"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3213,
+              "name": "Boromir, Warden of the Tower",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d72b57e5-1c6e-4f02-968f-7e2dd24f0d3c",
+              "typeLine": "Legendary Creature — Human Soldier",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.png?1783916338",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "6.89",
+          "cardmarket": "6.48",
+          "cardkingdom": "9.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "WB",
+        "includes": [
+          {
+            "id": 17551
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 7,
+              "name": "Infinite death triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 3,
+              "name": "Infinite creature LTB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 6,
+              "name": "Infinite creature sacrifice triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 16144,
+        "bracketTag": "E",
+        "description": "Activate Boromir by sacrificing it.\nWhen Boromir dies, Ratadrabik triggers, creating a  nonlegendary token copy of Boromir that is a 2/2 Zombie in addition to its other types.\nResolve the Boromir ability from step 1, causing the Ring to tempt you, and for the Boromir token to become your Ring-bearer, thus making it legendary.\nRepeat.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "3779-6323",
+        "of": [
+          {
+            "id": 29339
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3779,
+              "name": "Swords to Plowshares",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.png?1783903243",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 6323,
+              "name": "Jumbo Cactuar",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "e0bdfbb4-3060-4492-bd9b-0c47e719400a",
+              "typeLine": "Creature — Plant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.png?1783906585",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "4.96",
+          "cardmarket": "2.99",
+          "cardkingdom": "8.28"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GW",
+        "includes": [
+          {
+            "id": 29339
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 46,
+              "name": "Near-infinite lifegain",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 10643,
+        "bracketTag": "R",
+        "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nCast Swords to Plowshares by paying {W}, exiling Jumbo Cactuar and causing you to gain 10,000 life.",
+        "manaNeeded": "{W}",
+        "variantCount": 1,
+        "manaValueNeeded": 1,
+        "easyPrerequisites": "Jumbo Cactuar does not have summoning sickness.",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "2433-3197",
+        "of": [
+          {
+            "id": 17587
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2433,
+              "name": "Rosie Cotton of South Lane",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "168d5711-4459-440f-8de4-aabffd47c44d",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.png?1783916328",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3197,
+              "name": "Herd Baloth",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "03873314-6e64-43ab-95c0-3d8692a57a03",
+              "typeLine": "Creature — Beast",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.png?1783926829",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "0.65",
+          "cardmarket": "0.32",
+          "cardkingdom": "1.58"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GW",
+        "includes": [
+          {
+            "id": 27481
+          },
+          {
+            "id": 17587
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 21,
+              "name": "Infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 8642,
+        "bracketTag": "R",
+        "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Herd Baloth.\nHerd Baloth triggers, creating a 4/4 Beast creature token.\nRepeat from step 3.",
+        "manaNeeded": "{2}{W}",
+        "variantCount": 4,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "2612-5035",
+        "of": [
+          {
+            "id": 18185
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2612,
+              "name": "Mirkwood Bats",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "0636b6c3-0662-420a-b30d-f0a14e7c512d",
+              "typeLine": "Creature — Bat",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.png?1783916303",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 5035,
+              "name": "Plague of Vermin",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "efc12acf-ffef-40a6-b2ce-fe93e89ad840",
+              "typeLine": "Sorcery",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/3/231613d6-d3b8-4b41-bc93-4d5da3fec5d0.png?1783942753",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/3/231613d6-d3b8-4b41-bc93-4d5da3fec5d0.jpg?1783942753",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/3/231613d6-d3b8-4b41-bc93-4d5da3fec5d0.jpg?1783942753",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/3/231613d6-d3b8-4b41-bc93-4d5da3fec5d0.jpg?1783942753",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/3/231613d6-d3b8-4b41-bc93-4d5da3fec5d0.jpg?1783942753"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "2.94",
+          "cardmarket": "2.00",
+          "cardkingdom": "3.78"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "B",
+        "includes": [
+          {
+            "id": 18185
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 50,
+              "name": "Each opponent loses the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 207,
+              "name": "Near-infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 60,
+              "name": "Near-infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 49,
+              "name": "Near-infinite lifeloss",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 5703,
+        "bracketTag": "O",
+        "description": "Cast Plague of Vermin by paying {6}{B}, causing you to pay life equal to the highest life total your opponents have and create that many 1/1 Rat creature tokens.\nMirkwood Bats triggers for each token created this way, causing each opponent to lose that much life.\nEach opponent loses the game due to having zero or less life.",
+        "manaNeeded": "{6}{B}",
+        "variantCount": 1,
+        "manaValueNeeded": 7,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You have the highest life total."
+      },
+      {
+        "id": "342-2916-5856",
+        "of": [
+          {
+            "id": 27725
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 342,
+              "name": "Sam, Loyal Attendant",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "2837be10-23ad-49d2-943e-b1e00edbbbd9",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.png?1783916039",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 2916,
+              "name": "Pippin, Warden of Isengard",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "421ec8a8-2b20-4296-b8f7-010acc3f8097",
+              "typeLine": "Legendary Creature — Halfling Advisor",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/0/a0a7a648-125a-4cf4-bf8b-e1773d8723ff.png?1783916017",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/0/a0a7a648-125a-4cf4-bf8b-e1773d8723ff.jpg?1783916017",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/0/a0a7a648-125a-4cf4-bf8b-e1773d8723ff.jpg?1783916017",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/0/a0a7a648-125a-4cf4-bf8b-e1773d8723ff.jpg?1783916017",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/0/a0a7a648-125a-4cf4-bf8b-e1773d8723ff.jpg?1783916017"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "E"
+            ],
+            "exileCardState": "exiled by Hazel's Brewmaster",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 5856,
+              "name": "Hazel's Brewmaster",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "e8180024-1979-4677-9a0d-e08d4b7c825a",
+              "typeLine": "Creature — Squirrel Warlock",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.png?1783910733",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "4.75",
+          "cardmarket": "3.84",
+          "cardkingdom": "6.97"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "WBG",
+        "includes": [
+          {
+            "id": 27725
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 74,
+              "name": "Infinite tapped Food tokens",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 3575,
+        "bracketTag": "E",
+        "description": "Activate a Food using Pippin's first ability by tapping it, creating a Food token.\nRepeat step 1.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control at least one Food."
+      },
+      {
+        "id": "4186-4384-4716",
+        "of": [
+          {
+            "id": 21039
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4384,
+              "name": "Treebeard, Gracious Host",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "83860749-1603-46e9-9065-e98001244193",
+              "typeLine": "Legendary Creature — Treefolk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.png?1783916014",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4186,
+              "name": "Scurry Oak",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "eee6c02b-7d6a-4445-ad27-8b03176147d4",
+              "typeLine": "Creature — Treefolk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.png?1783926825",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4716,
+              "name": "Prosperous Innkeeper",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "da785227-cf8a-4d44-9e7c-fc909ea868f2",
+              "typeLine": "Creature — Halfling Citizen",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.png?1783926456",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1783926456",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1783926456",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1783926456",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.jpg?1783926456"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "4.45",
+          "cardmarket": "4.09",
+          "cardkingdom": "7.33"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GW",
+        "includes": [
+          {
+            "id": 27481
+          },
+          {
+            "id": 21039
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 21,
+              "name": "Infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 15,
+              "name": "Infinite lifegain",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 14,
+              "name": "Infinite lifegain triggers",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 2286,
+        "bracketTag": "E",
+        "description": "Gain life.\nTreebeard's second ability triggers, putting that many +1/+1 counters on Scurry Oak.\nScurry Oak triggers, creating a 1/1 Squirrel creature token.\nWhen the Squirrel enters the battlefield, Prosperous Innkeeper triggers, causing you to gain life.\nRepeat from step 2.",
+        "manaNeeded": "",
+        "variantCount": 25,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You have a way to gain life."
+      },
+      {
+        "id": "342-1185-4186-4321-4384",
+        "of": [
+          {
+            "id": 26933
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4321,
+              "name": "Peregrin Took",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "188da0ad-8524-4fb2-915e-1876dc9df89f",
+              "typeLine": "Legendary Creature — Halfling Citizen",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.png?1783916263",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4384,
+              "name": "Treebeard, Gracious Host",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "83860749-1603-46e9-9065-e98001244193",
+              "typeLine": "Legendary Creature — Treefolk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.png?1783916014",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/f/cf6be41a-1acd-4668-8f13-ccd495fbc7bd.jpg?1783916014"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4186,
+              "name": "Scurry Oak",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "eee6c02b-7d6a-4445-ad27-8b03176147d4",
+              "typeLine": "Creature — Treefolk",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.png?1783926825",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1783926825"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1185,
+              "name": "Prize Pig",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "14f55fc9-ec19-4b4a-b3de-d75898c19edf",
+              "typeLine": "Creature — Boar",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/0/a0b202d8-3c25-467e-86ed-6bea19bb869f.png?1783916025",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/0/a0b202d8-3c25-467e-86ed-6bea19bb869f.jpg?1783916025",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/0/a0b202d8-3c25-467e-86ed-6bea19bb869f.jpg?1783916025",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/0/a0b202d8-3c25-467e-86ed-6bea19bb869f.jpg?1783916025",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/0/a0b202d8-3c25-467e-86ed-6bea19bb869f.jpg?1783916025"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 342,
+              "name": "Sam, Loyal Attendant",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "2837be10-23ad-49d2-943e-b1e00edbbbd9",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.png?1783916039",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/8/687a2b76-3f05-4732-bd9b-513d06d16300.jpg?1783916039"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "5.39",
+          "cardmarket": "4.97",
+          "cardkingdom": "9.95"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GW",
+        "includes": [
+          {
+            "id": 27481
+          },
+          {
+            "id": 26876
+          },
+          {
+            "id": 28012
+          },
+          {
+            "id": 26933
+          },
+          {
+            "id": 30826
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 21,
+              "name": "Infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 15,
+              "name": "Infinite lifegain",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 14,
+              "name": "Infinite lifegain triggers",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 24,
+              "name": "Infinite card draw",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 61,
+              "name": "Infinite draw triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 688,
+              "name": "Infinite Food tokens",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 1687,
+        "bracketTag": "E",
+        "description": "Activate Prize Pig by tapping it, adding {1}.\nActivate a Food you control by paying {1}, tapping and sacrificing it, causing you to gain 3 life.\nTreebeard's second ability and Prize Pig trigger.\nResolve the Prize Pig trigger, putting three ribbon counters on it, then removing all ribbon counters from it and untapping it.\nResolve the Treebeard trigger, putting three +1/+1 counters on Scurry Oak.\nScurry Oak triggers, creating a 1/1 Squirrel creature token and a Food artifact token.\nRepeat.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control at least one Food.\nPrize Pig does not have summoning sickness."
+      },
+      {
+        "id": "3213-3903",
+        "of": [
+          {
+            "id": 32578
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3213,
+              "name": "Boromir, Warden of the Tower",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d72b57e5-1c6e-4f02-968f-7e2dd24f0d3c",
+              "typeLine": "Legendary Creature — Human Soldier",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.png?1783916338",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3903,
+              "name": "Knowledge Pool",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "cb53bd72-dee8-46fa-b0f9-1eee3a99379a",
+              "typeLine": "Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/9/393454c2-b256-4a6e-9bc2-56a47cab5073.png?1783941368",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/9/393454c2-b256-4a6e-9bc2-56a47cab5073.jpg?1783941368",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/9/393454c2-b256-4a6e-9bc2-56a47cab5073.jpg?1783941368",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/9/393454c2-b256-4a6e-9bc2-56a47cab5073.jpg?1783941368",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/9/393454c2-b256-4a6e-9bc2-56a47cab5073.jpg?1783941368"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "7.18",
+          "cardmarket": "6.32",
+          "cardkingdom": "10.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "W",
+        "includes": [
+          {
+            "id": 32088
+          },
+          {
+            "id": 32578
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 749,
+              "name": "Counter all spells players cast from their hands",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 1638,
+        "bracketTag": "S",
+        "description": "Whenever a player casts a spell from their hand, Knowledge Pool triggers, exiling the spell and allowing the player to cast another card exiled by Knowledge Pool without paying its mana cost.\nIf the player chooses to cast a spell, Boromir triggers, countering that spell since no mana was spent to cast it.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "3764-4321",
+        "of": [
+          {
+            "id": 18333
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4321,
+              "name": "Peregrin Took",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "188da0ad-8524-4fb2-915e-1876dc9df89f",
+              "typeLine": "Legendary Creature — Halfling Citizen",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.png?1783916263",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/5/f5baee8d-88e7-4468-94a9-66ca8e2caf15.jpg?1783916263"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3764,
+              "name": "Summoning Station",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "01bba3b8-6372-437e-ab34-ae2c8105cd28",
+              "typeLine": "Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/8/c8072944-268a-41e0-a1d8-9fe33e964bff.png?1783944372",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/8/c8072944-268a-41e0-a1d8-9fe33e964bff.jpg?1783944372",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/8/c8072944-268a-41e0-a1d8-9fe33e964bff.jpg?1783944372",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/8/c8072944-268a-41e0-a1d8-9fe33e964bff.jpg?1783944372",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/8/c8072944-268a-41e0-a1d8-9fe33e964bff.jpg?1783944372"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "7.95",
+          "cardmarket": "1.66",
+          "cardkingdom": "7.78"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "G",
+        "includes": [
+          {
+            "id": 26876
+          },
+          {
+            "id": 18333
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 24,
+              "name": "Infinite card draw",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 61,
+              "name": "Infinite draw triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 207,
+              "name": "Near-infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 60,
+              "name": "Near-infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 1592,
+        "bracketTag": "S",
+        "description": "Activate Peregrin Took by sacrificing three Foods.\nSummoning Station triggers three times.\nResolve the first trigger, untapping it.\nActivate Summoning Station by tapping it, creating a 2/2 Pincher creature token and a Food artifact token.\nRepeat from step 3 two additional times.\nResolve the Peregrin Took ability from step 1, causing you to draw a card.\nRepeat.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control at least three Foods."
+      },
+      {
+        "id": "2433-7690--165",
+        "of": [
+          {
+            "id": 17587
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2433,
+              "name": "Rosie Cotton of South Lane",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "168d5711-4459-440f-8de4-aabffd47c44d",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.png?1783916328",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 7690,
+              "name": "Invisible Woman, Sue Storm",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "e9d20b6d-fa4f-473b-9866-230fd92a1319",
+              "typeLine": "Legendary Creature — Human Hero",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/f/2f80394b-2f7e-40a7-8203-720bcf39d71b.png?1783902974",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/f/2f80394b-2f7e-40a7-8203-720bcf39d71b.jpg?1783902974",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/f/2f80394b-2f7e-40a7-8203-720bcf39d71b.jpg?1783902974",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/f/2f80394b-2f7e-40a7-8203-720bcf39d71b.jpg?1783902974",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/f/2f80394b-2f7e-40a7-8203-720bcf39d71b.jpg?1783902974"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "0.61",
+          "cardmarket": "0.26",
+          "cardkingdom": "0.94"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "W",
+        "includes": [
+          {
+            "id": 27481
+          },
+          {
+            "id": 17587
+          },
+          {
+            "id": 31074
+          },
+          {
+            "id": 33138
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 21,
+              "name": "Infinite creature tokens",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [
+          {
+            "quantity": 1,
+            "template": {
+              "id": 165,
+              "name": "Hero Creature",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28kw%3Achangeling+or+t%3Ahero+or+o%3A%22This+creature+is+the+chosen+type%22%29+t%3Acreature%29+legal%3Acommander",
+              "scryfallQuery": "(kw:changeling or t:hero or o:\"This creature is the chosen type\") t:creature"
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 103,
+        "bracketTag": "S",
+        "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on the other Hero\nInvisible Woman triggers, creating a creature token.\nRepeat from step 3.",
+        "manaNeeded": "{2}{W}",
+        "variantCount": 4,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      }
+    ],
+    "almostIncludedByAddingColors": [
+      {
+        "id": "513-5034--46",
+        "of": [
+          {
+            "id": 26516
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 513,
+              "name": "Hullbreaker Horror",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d4a84e78-d9b9-4c67-8a4b-4329e65f0f15",
+              "typeLine": "Creature — Kraken Horror",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.png?1783908162",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/3/137acb70-a1fd-4ea9-a5d9-f4b438eb5e82.jpg?1783908162"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 5034,
+              "name": "Sol Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "6ad8011d-3471-4369-9d68-b264cc027487",
+              "typeLine": "Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.png?1783903215",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "6.52",
+          "cardmarket": "4.82",
+          "cardkingdom": "11.78"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 26301
+          },
+          {
+            "id": 26516
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 11,
+              "name": "Infinite colorless mana",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 17,
+              "name": "Infinite storm count",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [
+          {
+            "quantity": 1,
+            "template": {
+              "id": 46,
+              "name": "Permanent Castable for {C}",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28mv%3C%3D1+%28mana%3D%7B0%7D+or+mana%3D%7B1%7D+or+mana%3D%7BC%7D%29+is%3Apermanent%29+legal%3Acommander",
+              "scryfallQuery": "mv<=1 (mana={0} or mana={1} or mana={C}) is:permanent"
+            },
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": false,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": false,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 344165,
+        "bracketTag": "E",
+        "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "542-5034",
+        "of": [
+          {
+            "id": 1895
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 542,
+              "name": "Tidespout Tyrant",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "331b44e4-cf08-44f4-8afd-a7374e5dc5ed",
+              "typeLine": "Creature — Djinn",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.png?1783913330",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1783913330"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 5034,
+              "name": "Sol Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "6ad8011d-3471-4369-9d68-b264cc027487",
+              "typeLine": "Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.png?1783903215",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "2.85",
+          "cardmarket": "2.04",
+          "cardkingdom": "5.08"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 26301
+          },
+          {
+            "id": 29370
+          },
+          {
+            "id": 1895
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 11,
+              "name": "Infinite colorless mana",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 17,
+              "name": "Infinite storm count",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": true,
+          "legacy": false,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": false,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 36571,
+        "bracketTag": "S",
+        "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
+        "manaNeeded": "{1}",
+        "variantCount": 6,
+        "manaValueNeeded": 1,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control a nontoken permanent that can be cast using {C}."
+      },
+      {
+        "id": "2433-5365",
+        "of": [
+          {
+            "id": 26007
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 5365,
+              "name": "Lonis, Genetics Expert",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "52d8e492-b7b7-4ad4-8f1f-5c50993e55e0",
+              "typeLine": "Legendary Creature — Snake Elf Detective",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/9/59813845-48c9-4af2-8beb-91d58aac09ee.png?1783912573",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/9/59813845-48c9-4af2-8beb-91d58aac09ee.jpg?1783912573"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 2433,
+              "name": "Rosie Cotton of South Lane",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "168d5711-4459-440f-8de4-aabffd47c44d",
+              "typeLine": "Legendary Creature — Halfling Peasant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.png?1783916328",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1783916328"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "Once you would like to break the combo, you may use Rosie's trigger to put a +1/+1 counter on any creature you control except Lonis, or you may remove Lonis and/or Rosie instead. A failure to break the combo will force the game to end in a draw due to a mandatory infinite loop.",
+        "prices": {
+          "tcgplayer": "6.05",
+          "cardmarket": "3.52",
+          "cardkingdom": "7.58"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GWU",
+        "includes": [
+          {
+            "id": 27923
+          },
+          {
+            "id": 26007
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 587,
+              "name": "Infinite artifact tokens",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 22,
+              "name": "Draw the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2244,
+              "name": "Infinite +1/+1 counters on a creature",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 645,
+              "name": "Infinite Clue tokens",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 927,
+        "bracketTag": "S",
+        "description": "Cast Rosie by paying {2}{W}.\nWhen Rosie enters the battlefield, its first ability triggers, creating a Food artifact token.\nRosie's second ability triggers, putting a +1/+1 counter on Lonis.\nLonis' second ability triggers, creating a Clue artifact token.\nRepeat from step 3.",
+        "manaNeeded": "{2}{W}",
+        "variantCount": 1,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control at least one additional creature, or have a way to remove Lonis and/or Rosie from the battlefield."
+      },
+      {
+        "id": "507-3213",
+        "of": [
+          {
+            "id": 32561
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3213,
+              "name": "Boromir, Warden of the Tower",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d72b57e5-1c6e-4f02-968f-7e2dd24f0d3c",
+              "typeLine": "Legendary Creature — Human Soldier",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.png?1783916338",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 507,
+              "name": "Possibility Storm",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "8586169f-cb8c-4424-ba64-a7c1cc00680e",
+              "typeLine": "Enchantment",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/5/858aa831-b491-4f1e-bb56-33eeca14771d.png?1783940037",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/5/858aa831-b491-4f1e-bb56-33eeca14771d.jpg?1783940037",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/5/858aa831-b491-4f1e-bb56-33eeca14771d.jpg?1783940037",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/5/858aa831-b491-4f1e-bb56-33eeca14771d.jpg?1783940037",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/5/858aa831-b491-4f1e-bb56-33eeca14771d.jpg?1783940037"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "9.27",
+          "cardmarket": "7.49",
+          "cardkingdom": "10.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "RW",
+        "includes": [
+          {
+            "id": 32088
+          },
+          {
+            "id": 32561
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 749,
+              "name": "Counter all spells players cast from their hands",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 570,
+        "bracketTag": "S",
+        "description": "Whenever a player casts a spell from their hand, Possibility Storm triggers, exiling the spell and allowing the player to reveal cards from the top of their library until they reveal a spell that shares a type with the exiled spell, and cast it without paying its mana cost.\nIf the player chooses to cast the spell, Boromir triggers, countering that spell since no mana was spent to cast it.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "147-3306",
+        "of": [
+          {
+            "id": 13000
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 147,
+              "name": "Dualcaster Mage",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "8eb7c0a5-6190-40de-b473-2d1daa3bbe28",
+              "typeLine": "Creature — Human Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/e/defcc4a3-40e0-4f5d-b23c-6cd6a614abc1.png?1783927545",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/e/defcc4a3-40e0-4f5d-b23c-6cd6a614abc1.jpg?1783927545",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/e/defcc4a3-40e0-4f5d-b23c-6cd6a614abc1.jpg?1783927545",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/e/defcc4a3-40e0-4f5d-b23c-6cd6a614abc1.jpg?1783927545",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/e/defcc4a3-40e0-4f5d-b23c-6cd6a614abc1.jpg?1783927545"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3306,
+              "name": "Slip On the Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "a6b28298-9624-49d7-ad73-fcd1fd3556d2",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.png?1783916325",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "3.91",
+          "cardmarket": "3.19",
+          "cardkingdom": "4.34"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "RW",
+        "includes": [
+          {
+            "id": 13000
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 3,
+              "name": "Infinite creature LTB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 77,
+              "name": "Infinite magecraft triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 414,
+        "bracketTag": "E",
+        "description": "Cast Slip On the Ring by paying its mana cost.\nHolding priority, cast Dualcaster Mage by paying its mana cost.\nWhen Dualcaster Mage enters, it triggers, copying Slip On the Ring, with the copy targeting Dualcaster Mage.\nResolve the copy of Slip On the Ring, blinking Dualcaster Mage.\nRepeat from step 3.",
+        "manaNeeded": "{2}{R}{R}{W}",
+        "variantCount": 48,
+        "manaValueNeeded": 5,
+        "easyPrerequisites": "There are legal target(s) for Slip On the Ring.",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "141-3306",
+        "of": [
+          {
+            "id": 13000
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 141,
+              "name": "Naru Meha, Master Wizard",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "562c9c68-e5a7-45ab-b098-5b649d165ff5",
+              "typeLine": "Legendary Creature — Human Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/f/cf44910a-4e24-4e36-a58e-ae7f463db368.png?1783927563",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/f/cf44910a-4e24-4e36-a58e-ae7f463db368.jpg?1783927563",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/f/cf44910a-4e24-4e36-a58e-ae7f463db368.jpg?1783927563",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/f/cf44910a-4e24-4e36-a58e-ae7f463db368.jpg?1783927563",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/f/cf44910a-4e24-4e36-a58e-ae7f463db368.jpg?1783927563"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3306,
+              "name": "Slip On the Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "a6b28298-9624-49d7-ad73-fcd1fd3556d2",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.png?1783916325",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/e/2e20c2b8-ffe3-4d14-8588-f89719358e3d.jpg?1783916325"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "1.19",
+          "cardmarket": "0.77",
+          "cardkingdom": "2.34"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "WU",
+        "includes": [
+          {
+            "id": 13000
+          },
+          {
+            "id": 31074
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 3,
+              "name": "Infinite creature LTB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 77,
+              "name": "Infinite magecraft triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 149,
+        "bracketTag": "E",
+        "description": "Cast Slip On the Ring by paying its mana cost.\nHolding priority, cast Naru Meha by paying its mana cost.\nWhen Naru Meha enters, it triggers, copying Slip On the Ring, with the copy targeting Naru Meha.\nResolve the copy of Slip On the Ring, blinking Naru Meha.\nRepeat from step 3.",
+        "manaNeeded": "{3}{W}{U}{U}",
+        "variantCount": 48,
+        "manaValueNeeded": 6,
+        "easyPrerequisites": "There are legal target(s) for Slip On the Ring.",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "5534--28",
+        "of": [
+          {
+            "id": 26607
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 5534,
+              "name": "Stella Lee, Wild Card",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "8d0da2f9-0e05-4a94-8d42-fd57d06b09ba",
+              "typeLine": "Legendary Creature — Human Rogue",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/a/2a8a7696-b5d9-4378-9d5c-2c9007e4df63.png?1783911971",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/a/2a8a7696-b5d9-4378-9d5c-2c9007e4df63.jpg?1783911971",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/a/2a8a7696-b5d9-4378-9d5c-2c9007e4df63.jpg?1783911971",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/a/2a8a7696-b5d9-4378-9d5c-2c9007e4df63.jpg?1783911971",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/a/2a8a7696-b5d9-4378-9d5c-2c9007e4df63.jpg?1783911971"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "5.28",
+          "cardmarket": "4.30",
+          "cardkingdom": "5.99"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "UR",
+        "includes": [
+          {
+            "id": 26607
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 1898,
+              "name": "Infinite copies of one instant or sorcery",
+              "status": "S",
+              "uncountable": false
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 77,
+              "name": "Infinite magecraft triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [
+          {
+            "quantity": 1,
+            "template": {
+              "id": 28,
+              "name": "Instant or Sorcery that untaps a Creature",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+o%3A%22untap+%22+%28o%3Acreature+-o%3A%22nonlegendary+creature%22+or+o%3Apermanent+-o%3A%22noncreature+permanent%22%29+-o%3Adestroy%29+legal%3Acommander",
+              "scryfallQuery": "(t:instant or t:sorcery) o:\"untap \" (o:creature -o:\"nonlegendary creature\" or o:permanent -o:\"noncreature permanent\") -o:destroy"
+            },
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 0,
+        "bracketTag": "S",
+        "description": "Cast the instant or sorcery by paying its mana cost.\nHolding priority, activate Stella Lee by tapping it, copying the instant or sorcery.\nResolve the copy of the instant or sorcery, untapping Stella Lee.\nRepeat from step 2.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You have cast at least two spells this turn.\nStella Lee does not have summoning sickness.\nYou have enough mana to cast the instant or sorcery card.\nYou have additional legal target(s) for the instant or sorcery card, if applicable."
+      },
+      {
+        "id": "3388--5--80",
+        "of": [
+          {
+            "id": 32385
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3388,
+              "name": "Moritte of the Frost",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "78699161-fc14-4a44-8a15-0f7c08be0343",
+              "typeLine": "Legendary Snow Creature — Shapeshifter",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22fdbe71-abca-4e48-99b2-1cb6b35d930b.png?1783928193",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22fdbe71-abca-4e48-99b2-1cb6b35d930b.jpg?1783928193",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22fdbe71-abca-4e48-99b2-1cb6b35d930b.jpg?1783928193",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22fdbe71-abca-4e48-99b2-1cb6b35d930b.jpg?1783928193",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22fdbe71-abca-4e48-99b2-1cb6b35d930b.jpg?1783928193"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H",
+              "C"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "Moritte can only be your commander if the sources from both templates fit within its commander identity.",
+        "prices": {
+          "tcgplayer": "0.21",
+          "cardmarket": "0.08",
+          "cardkingdom": "0.35"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GU",
+        "includes": [
+          {
+            "id": 31074
+          },
+          {
+            "id": 32385
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 4,
+              "name": "Infinite creature ETB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 3,
+              "name": "Infinite creature LTB",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 7,
+              "name": "Infinite death triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [
+          {
+            "quantity": 1,
+            "template": {
+              "id": 80,
+              "name": "Card with \"The Ring tempts you\"",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28o%3A%22the+Ring+tempts+you%22%29+legal%3Acommander",
+              "scryfallQuery": "o:\"the Ring tempts you\""
+            },
+            "zoneLocations": [
+              "H",
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "quantity": 1,
+            "template": {
+              "id": 5,
+              "name": "Persist Creature",
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28keyword%3Apersist+t%3Acreature%29+legal%3Acommander",
+              "scryfallQuery": "keyword:persist t:creature"
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": true,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": true,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 0,
+        "bracketTag": "E",
+        "description": "Cast Moritte either from your hand or from the command zone by paying {2}{G}{U}{U} plus commander tax if applicable. Choose to have it enter as a copy of the persist creature that is still legendary.\nPut Moritte into your graveyard due to the legend rule. When it dies, its persist ability triggers, returning it from your graveyard to the battlefield with a +1/+1 counter on it due to its ability. Choose to have it enter as a copy of the persist creature that is still legendary.\nRepeat step 2.",
+        "manaNeeded": "{2}{G}{U}{U} plus commander tax if applicable",
+        "variantCount": 1,
+        "manaValueNeeded": 5,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "The persist creature is your Ring-bearer."
+      }
+    ],
+    "almostIncludedByChangingCommanders": [],
+    "almostIncludedByAddingColorsAndChangingCommanders": []
+  }
+}

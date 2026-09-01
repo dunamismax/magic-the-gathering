@@ -15,9 +15,9 @@ update themselves when Moxfield lists change.
 bracket/power companion records the same snapshot through
 `data/moxfield-refresh.json`. The structured adjudications in
 `../knowledge/combo-adjudications.json` pin the underlying combo findings
-separately. Full-list Spellbook refreshes remain explicitly pending for the
-three new decks and revised Minn; the current reports identify that evidence
-boundary rather than treating a missing scan as proof of absence.
+separately. All 10 lists have hash-current full-list Spellbook evidence and
+manual prerequisite review. The current reports still treat a database miss as
+evidence rather than proof that no possible interaction exists.
 
 ## Superseded
 

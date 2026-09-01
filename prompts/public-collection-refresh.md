@@ -20,12 +20,14 @@ Refresh this repository from the public Moxfield profile recorded in
    a stale claim.
 6. Preserve superseded external results as dated evidence. Mark Spellbook,
    combo, and social conclusions stale unless the exact current hashes have
-   actually been reviewed. Do not upload a complete list to another service or
-   write anything back to Moxfield without a separate explicit request.
-7. If the user has explicitly authorized full-list Commander Spellbook uploads,
-   refresh all changed public lists, inspect every included result and abstract
-   requirement against the exact 100, and update the structured adjudications.
-   If authorization is absent, leave an explicit `needs-refresh` marker.
+   actually been reviewed. Do not write anything back to Moxfield without a
+   separate explicit request.
+7. Follow the standing public-list upload authorization in
+   `deck-list-audit/AGENTS.md`: refresh all changed public lists through
+   Commander Spellbook or another needed analysis service, inspect every
+   included result and abstract requirement against the exact 100, and update
+   the structured adjudications. This authorization does not cover private or
+   unlisted lists, credentials, or personal data.
 8. Replace or archive dated social reports so the current report manifest pins
    only conclusions reviewed against the current hashes.
 9. Run tests, `just check-current` when every evidence layer is current, and

@@ -13,9 +13,9 @@ deck edits so one layer cannot silently masquerade as another.
 - All 10 currently resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, identity, legality, release-state, banned-card, and
   configured Game Changer checks
-- Six unchanged lists retain hash-current Commander Spellbook evidence from
-  **2026-08-30**; Aragorn, Frodo & Sam, Gandalf, and revised Minn have current
-  manual combo review and explicit pending Spellbook refresh markers
+- All 10 exact lists have hash-current Commander Spellbook evidence: six scans
+  from **2026-08-30** and refreshed scans for Aragorn, Frodo & Sam, Gandalf, and
+  revised Minn from **2026-09-01**, each paired with manual prerequisite review
 - Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
   has one finite Spellbook line and one manually verified five-card loop;
   Henzie's returned persist template is incomplete
@@ -109,7 +109,9 @@ Refresh the local Oracle corpus:
 just refresh-oracle
 ```
 
-Refresh Commander Spellbook only when a full-list upload is intended:
+The repository owner has granted standing authorization for full-list uploads
+of decks configured as public when they are needed for collection review or
+maintenance. Refresh Commander Spellbook with:
 
 ```text
 python3 scripts/refresh_sources.py spellbook \
@@ -117,9 +119,10 @@ python3 scripts/refresh_sources.py spellbook \
   --allow-deck-upload
 ```
 
-That command sends the complete list to a third party. It refuses private decks
-and requires the explicit flag. After a refresh, manually adjudicate included
-results and abstract template requirements in
+That command sends the complete public list to a third party. It refuses private
+decks and requires the explicit flag as a technical safeguard; no additional
+per-run confirmation is needed for configured public decks. After a refresh,
+manually adjudicate included results and abstract template requirements in
 `knowledge/combo-adjudications.json`. A `needs-refresh` manifest entry preserves
 old result files as dated evidence without claiming they describe the current
 100.
