@@ -1,0 +1,366 @@
+{
+  "main": [
+    {
+      "card": "Access Tunnel",
+      "quantity": 1
+    },
+    {
+      "card": "Anguished Unmaking",
+      "quantity": 1
+    },
+    {
+      "card": "Aragorn, Company Leader",
+      "quantity": 1
+    },
+    {
+      "card": "Arcane Signet",
+      "quantity": 1
+    },
+    {
+      "card": "Arwen, Mortal Queen",
+      "quantity": 1
+    },
+    {
+      "card": "Ash Barrens",
+      "quantity": 1
+    },
+    {
+      "card": "Horizon Canopy",
+      "quantity": 1
+    },
+    {
+      "card": "Banquet Guests",
+      "quantity": 1
+    },
+    {
+      "card": "Bojuka Bog",
+      "quantity": 1
+    },
+    {
+      "card": "Belladonna Took",
+      "quantity": 1
+    },
+    {
+      "card": "Bilbo, Fellow Conspirator",
+      "quantity": 1
+    },
+    {
+      "card": "Bilbo's Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Bill the Pony",
+      "quantity": 1
+    },
+    {
+      "card": "Birds of Paradise",
+      "quantity": 1
+    },
+    {
+      "card": "Bofur, Reliable Guardian",
+      "quantity": 1
+    },
+    {
+      "card": "Bombadil's Song",
+      "quantity": 1
+    },
+    {
+      "card": "Boromir, Warden of the Tower",
+      "quantity": 1
+    },
+    {
+      "card": "Brushland",
+      "quantity": 1
+    },
+    {
+      "card": "Call of the Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Canopy Vista",
+      "quantity": 1
+    },
+    {
+      "card": "Command Tower",
+      "quantity": 1
+    },
+    {
+      "card": "Cultivate",
+      "quantity": 1
+    },
+    {
+      "card": "Delighted Halfling",
+      "quantity": 1
+    },
+    {
+      "card": "Dusk // Dawn",
+      "quantity": 1
+    },
+    {
+      "card": "Elanor Gardner",
+      "quantity": 1
+    },
+    {
+      "card": "Evolving Wilds",
+      "quantity": 1
+    },
+    {
+      "card": "Exotic Orchard",
+      "quantity": 1
+    },
+    {
+      "card": "Farmer Cotton",
+      "quantity": 1
+    },
+    {
+      "card": "Farseek",
+      "quantity": 1
+    },
+    {
+      "card": "Field-Tested Frying Pan",
+      "quantity": 1
+    },
+    {
+      "card": "Forest",
+      "quantity": 3
+    },
+    {
+      "card": "Fortified Village",
+      "quantity": 1
+    },
+    {
+      "card": "Galadriel, Gift-Giver",
+      "quantity": 1
+    },
+    {
+      "card": "Giant's Boulder",
+      "quantity": 1
+    },
+    {
+      "card": "Gilded Goose",
+      "quantity": 1
+    },
+    {
+      "card": "Gwaihir, Greatest of the Eagles",
+      "quantity": 1
+    },
+    {
+      "card": "Reflecting Pool",
+      "quantity": 1
+    },
+    {
+      "card": "Hobbit's Sting",
+      "quantity": 1
+    },
+    {
+      "card": "Horn of the Mark",
+      "quantity": 1
+    },
+    {
+      "card": "Isolated Chapel",
+      "quantity": 1
+    },
+    {
+      "card": "Lembas",
+      "quantity": 1
+    },
+    {
+      "card": "Many Partings",
+      "quantity": 1
+    },
+    {
+      "card": "Meriadoc Brandybuck",
+      "quantity": 1
+    },
+    {
+      "card": "Merry, Warden of Isengard",
+      "quantity": 1
+    },
+    {
+      "card": "Minas Tirith",
+      "quantity": 1
+    },
+    {
+      "card": "Mirkwood Bats",
+      "quantity": 1
+    },
+    {
+      "card": "Mithril Coat",
+      "quantity": 1
+    },
+    {
+      "card": "Murmuring Bosk",
+      "quantity": 1
+    },
+    {
+      "card": "My Precious",
+      "quantity": 1
+    },
+    {
+      "card": "Necroblossom Snarl",
+      "quantity": 1
+    },
+    {
+      "card": "Of Herbs and Stewed Rabbit",
+      "quantity": 1
+    },
+    {
+      "card": "Path of Ancestry",
+      "quantity": 1
+    },
+    {
+      "card": "Path to Exile",
+      "quantity": 1
+    },
+    {
+      "card": "Peregrin Took",
+      "quantity": 1
+    },
+    {
+      "card": "Pippin, Warden of Isengard",
+      "quantity": 1
+    },
+    {
+      "card": "Plains",
+      "quantity": 5
+    },
+    {
+      "card": "Prize Pig",
+      "quantity": 1
+    },
+    {
+      "card": "Prosperous Innkeeper",
+      "quantity": 1
+    },
+    {
+      "card": "Rampant Growth",
+      "quantity": 1
+    },
+    {
+      "card": "Rapacious Guest",
+      "quantity": 1
+    },
+    {
+      "card": "Reprieve",
+      "quantity": 1
+    },
+    {
+      "card": "Revive the Shire",
+      "quantity": 1
+    },
+    {
+      "card": "Sword of the Animist",
+      "quantity": 1
+    },
+    {
+      "card": "Rosie Cotton of South Lane",
+      "quantity": 1
+    },
+    {
+      "card": "Sam's Desperate Rescue",
+      "quantity": 1
+    },
+    {
+      "card": "Samwise Gamgee",
+      "quantity": 1
+    },
+    {
+      "card": "Samwise the Stouthearted",
+      "quantity": 1
+    },
+    {
+      "card": "Sandsteppe Citadel",
+      "quantity": 1
+    },
+    {
+      "card": "Savvy Hunter",
+      "quantity": 1
+    },
+    {
+      "card": "Shineshadow Snarl",
+      "quantity": 1
+    },
+    {
+      "card": "Shire Shirriff",
+      "quantity": 1
+    },
+    {
+      "card": "Shire Terrace",
+      "quantity": 1
+    },
+    {
+      "card": "Slip On the Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Sol Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Stir Up Trouble",
+      "quantity": 1
+    },
+    {
+      "card": "Stone by Sunlight",
+      "quantity": 1
+    },
+    {
+      "card": "Sunpetal Grove",
+      "quantity": 1
+    },
+    {
+      "card": "Swamp",
+      "quantity": 5
+    },
+    {
+      "card": "Swords to Plowshares",
+      "quantity": 1
+    },
+    {
+      "card": "Terramorphic Expanse",
+      "quantity": 1
+    },
+    {
+      "card": "The Battle of Bywater",
+      "quantity": 1
+    },
+    {
+      "card": "The Black Gate",
+      "quantity": 1
+    },
+    {
+      "card": "The Gaffer",
+      "quantity": 1
+    },
+    {
+      "card": "The Shire",
+      "quantity": 1
+    },
+    {
+      "card": "Tireless Provisioner",
+      "quantity": 1
+    },
+    {
+      "card": "Treebeard, Gracious Host",
+      "quantity": 1
+    },
+    {
+      "card": "Wood Elves",
+      "quantity": 1
+    },
+    {
+      "card": "Woodland Cemetery",
+      "quantity": 1
+    }
+  ],
+  "commanders": [
+    {
+      "card": "Frodo, Adventurous Hobbit",
+      "quantity": 1
+    },
+    {
+      "card": "Sam, Loyal Attendant",
+      "quantity": 1
+    }
+  ]
+}

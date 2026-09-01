@@ -5,17 +5,26 @@ update themselves when Moxfield lists change.
 
 ## Current
 
-- [`commander-social-audit-2026-08-30.md`](commander-social-audit-2026-08-30.md)
-  — social-power and combo review of the current 7-deck lineup
-- [`commander-bracket-power-evaluation-2026-08-30.md`](commander-bracket-power-evaluation-2026-08-30.md)
-  — decisive bracket assignments and relative 1-10 power ranges for the same
-  exact 7-deck snapshot
+- [`commander-social-audit-2026-09-01.md`](commander-social-audit-2026-09-01.md)
+  — social-power, combo, and disclosure review of the current 10-deck lineup
+- [`commander-bracket-power-evaluation-2026-09-01.md`](commander-bracket-power-evaluation-2026-09-01.md)
+  — bracket assignments and relative 1-10 power ranges for the same exact
+  10-deck snapshot
 
-`manifest.json` pins the social-power report to all 7 exact deck hashes. The
+`manifest.json` pins the social-power report to all 10 exact deck hashes. The
 bracket/power companion records the same snapshot through
 `data/moxfield-refresh.json`. The structured adjudications in
 `../knowledge/combo-adjudications.json` pin the underlying combo findings
-separately.
+separately. Full-list Spellbook refreshes remain explicitly pending for the
+three new decks and revised Minn; the current reports identify that evidence
+boundary rather than treating a missing scan as proof of absence.
+
+## Superseded
+
+- [`commander-social-audit-2026-08-30.md`](commander-social-audit-2026-08-30.md)
+  — exact seven-deck social review before the three Middle-earth additions
+- [`commander-bracket-power-evaluation-2026-08-30.md`](commander-bracket-power-evaluation-2026-08-30.md)
+  — exact seven-deck bracket and power companion
 
 ## Archive
 

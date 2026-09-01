@@ -5,8 +5,9 @@ lineup. It stores exact public Moxfield snapshots, deterministic construction
 audits, dated external evidence, safe change tooling, and reusable review
 prompts.
 
-The current collection contains **7 decks**. Every public list was downloaded
-and verified on **2026-08-30**.
+The current collection contains **10 decks**: nine Bracket 3 targets and one
+Bracket 2 target. Every public list was downloaded on **2026-08-31** and the
+full deterministic collection audit was regenerated on **2026-09-01**.
 
 ## Start here
 

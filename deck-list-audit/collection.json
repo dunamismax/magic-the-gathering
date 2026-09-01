@@ -19,14 +19,40 @@
     "moxfield_profile": "https://moxfield.com/users/dunamismax"
   },
   "aliases": {
+    "Bag End": "Horizon Canopy",
+    "Barrow-Downs": "Bojuka Bog",
     "Giantcraft Helm": "Doc Ock's Tentacles",
     "Egrix the Bile Bulwark": "Gwenom, Remorseless",
     "Escape Containment": "Incarnation Technique",
+    "Henneth Annûn": "Reflecting Pool",
+    "Ring of Barahir": "Sword of the Animist",
     "Vazin, Two-Faced Trickster": "Chameleon, Master of Disguise",
     "The Terminus of Return": "The Soul Stone",
-    "Dazzling Theater/Prop Room": "Dazzling Theater // Prop Room"
+    "Dazzling Theater/Prop Room": "Dazzling Theater // Prop Room",
+    "Dusk/Dawn": "Dusk // Dawn",
+    "Supply/Demand": "Supply // Demand",
+    "Wear/Tear": "Wear // Tear"
   },
   "decks": {
+    "aragorn-the-uniter": {
+      "commanders": [
+        "Aragorn, the Uniter"
+      ],
+      "title": "Aragorn, the Uniter | United Colors of Middle-earth",
+      "moxfield_id": "tlvcePZQCUeaEkzNEHXA4Q",
+      "source_updated_on": "2026-08-31",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Four-color multicolor-spell value and creature pressure built around Aragorn's four triggered abilities."
+      },
+      "source_refreshed_on": "2026-08-31"
+    },
     "blor-the-impervious": {
       "commanders": [
         "Blor the Impervious"
@@ -46,7 +72,7 @@
         "budget": null,
         "experience": "Resilient mono-green Voltron with visible combat wins."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
     },
     "ekthi-contaminator-priest": {
       "commanders": [
@@ -67,7 +93,46 @@
         "budget": null,
         "experience": "Living-weapon and Equipment combat with finite, interactable wins."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
+    },
+    "frodo-sam": {
+      "commanders": [
+        "Frodo, Adventurous Hobbit",
+        "Sam, Loyal Attendant"
+      ],
+      "title": "Frodo & Sam | There and Snack Again",
+      "moxfield_id": "g9oUYlV4TU27CtQyGMgF2Q",
+      "source_updated_on": "2026-08-31",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 2,
+        "game_changer_max": 0,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Abzan Hobbit, Food, Ring, and fellowship value with creature-based combat wins."
+      },
+      "source_refreshed_on": "2026-08-31"
+    },
+    "gandalf-party-guest": {
+      "commanders": [
+        "Gandalf, Party Guest"
+      ],
+      "title": "Gandalf, Party Guest | You Shall Not Pay",
+      "moxfield_id": "K90JyPq-kEW6CBX8RnNJ8w",
+      "source_updated_on": "2026-08-31",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 3,
+        "game_changer_max": 3,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Jeskai Wizard spellslinger that chains spells into card advantage, interaction, and extra combat steps."
+      },
+      "source_refreshed_on": "2026-08-31"
     },
     "henzie-toolbox-torre": {
       "commanders": [
@@ -86,7 +151,7 @@
         "budget": null,
         "experience": "Replayable Jund blitz, creature-toolbox, and reanimation gameplay."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
     },
     "magda-brazen-outlaw": {
       "commanders": [
@@ -105,7 +170,7 @@
         "budget": null,
         "experience": "Dwarf, Dragon, and Treasure toolbox without a mandatory compact combo."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
     },
     "minn-wily-illusionist": {
       "commanders": [
@@ -113,7 +178,7 @@
       ],
       "title": "Minn, Wily Illusionist | Now You See Minn",
       "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
-      "source_updated_on": "2026-08-30",
+      "source_updated_on": "2026-08-31",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -129,7 +194,7 @@
         "budget": null,
         "experience": "Illusion and second-draw engine with strong protection and replayable value."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
     },
     "pantlaza-sun-favored": {
       "commanders": [
@@ -150,7 +215,7 @@
         "budget": null,
         "experience": "Dinosaur discover and combat deck with commander-specific value."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
     },
     "queen-marchesa": {
       "commanders": [
@@ -169,7 +234,7 @@
         "budget": null,
         "experience": "Political monarch, goad, gifting, and damage-redirection gameplay."
       },
-      "source_refreshed_on": "2026-08-30"
+      "source_refreshed_on": "2026-08-31"
     }
   }
 }

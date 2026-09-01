@@ -1,57 +1,78 @@
 {
   "schema_version": 1,
   "profile_url": "https://moxfield.com/users/dunamismax",
-  "refreshed_on": "2026-08-30",
+  "refreshed_on": "2026-08-31",
   "method": "Moxfield public deck page, Download, Copy Plain Text",
-  "deck_count": 7,
+  "deck_count": 10,
   "decks": {
+    "aragorn-the-uniter": {
+      "title": "Aragorn, the Uniter | United Colors of Middle-earth",
+      "moxfield_id": "tlvcePZQCUeaEkzNEHXA4Q",
+      "source_updated_on": "2026-08-31",
+      "refreshed_on": "2026-08-31",
+      "deck_sha256": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8"
+    },
     "blor-the-impervious": {
       "title": "Blor the Impervious | Built Frog Tough",
       "moxfield_id": "jfWEvfYBHkGi7P1oqzAQww",
       "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
+      "refreshed_on": "2026-08-31",
       "deck_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f"
     },
     "ekthi-contaminator-priest": {
       "title": "Ekthi, Contaminator Priest | Armed and Contagious",
       "moxfield_id": "-7GF8IrCdkWIVS667RgA9w",
       "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
+      "refreshed_on": "2026-08-31",
       "deck_sha256": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500"
+    },
+    "frodo-sam": {
+      "title": "Frodo & Sam | There and Snack Again",
+      "moxfield_id": "g9oUYlV4TU27CtQyGMgF2Q",
+      "source_updated_on": "2026-08-31",
+      "refreshed_on": "2026-08-31",
+      "deck_sha256": "88a5e0b4d8c143bcddec7c2bf502ddcbf558e6fa0d68e45e631f2d37f5155584"
+    },
+    "gandalf-party-guest": {
+      "title": "Gandalf, Party Guest | You Shall Not Pay",
+      "moxfield_id": "K90JyPq-kEW6CBX8RnNJ8w",
+      "source_updated_on": "2026-08-31",
+      "refreshed_on": "2026-08-31",
+      "deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf"
     },
     "henzie-toolbox-torre": {
       "title": "Henzie “Toolbox” Torre | Jundyard Shift",
       "moxfield_id": "hmDd37TPIEaienBhw05Udw",
       "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
+      "refreshed_on": "2026-08-31",
       "deck_sha256": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb"
     },
     "magda-brazen-outlaw": {
       "title": "Magda, Brazen Outlaw | Dragon Delivery Service",
       "moxfield_id": "sfMB4JriEkaOXwGSCqoZlw",
       "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
+      "refreshed_on": "2026-08-31",
       "deck_sha256": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0"
     },
     "minn-wily-illusionist": {
       "title": "Minn, Wily Illusionist | Now You See Minn",
       "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
-      "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
-      "deck_sha256": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1"
+      "source_updated_on": "2026-08-31",
+      "refreshed_on": "2026-08-31",
+      "deck_sha256": "4b89875e5eef23299ba9d0c0521ae552cfdef65ca0591272f7e2bba7c07f9aa3"
     },
     "pantlaza-sun-favored": {
       "title": "Pantlaza, Sun-Favored | The Land Before Value",
       "moxfield_id": "zqJp4nSGKEqfbE0Jx1iJJA",
       "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
+      "refreshed_on": "2026-08-31",
       "deck_sha256": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e"
     },
     "queen-marchesa": {
       "title": "Queen Marchesa | Mardu Your Business",
       "moxfield_id": "CXl1HrG9uE21A_07vqY3lA",
       "source_updated_on": "2026-08-30",
-      "refreshed_on": "2026-08-30",
+      "refreshed_on": "2026-08-31",
       "deck_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94"
     }
   }

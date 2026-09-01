@@ -1,31 +1,25 @@
 1 Academy Ruins
 1 Agna Qel'a
-1 Alandra, Sky Dreamer
-1 Arcanis the Omnipotent
 1 Ashnod's Altar
 1 Bilbo, Luckwearer
 1 Blasting Station
 1 Brainstorm
 1 Cephalid Coliseum
-1 Chasm Skulker
-1 Curiosity Crafter
-1 Defiler of Dreams
 1 Drowned Rusalka
 1 Faerie Mastermind
 1 Fountainport
+1 Frantic Search
 1 Fresh Start
-1 Ghostly Pilferer
 1 Glasspool Mimic
 1 Harmonized Trio
 1 High Market
-1 Homunculus Horde
 1 Horizon of Progress
 1 Hydroelectric Specimen
 23 Island
-1 Jace, Vryn's Prodigy
 1 Kindred Discovery
-1 Kitsa, Otterball Elite
 1 Krang, the All-Powerful
+1 Krovikan Mist
+1 Lat-Nam's Legacy
 1 Ledger Shredder
 1 Leyline of Transformation
 1 Malcolm, Alluring Scoundrel
@@ -42,6 +36,10 @@
 1 Oneirophage
 1 Otawara, Soaring City
 1 Perilous Research
+1 Phantasmal Abomination
+1 Phantasmal Bear
+1 Phantasmal Dreadmaw
+1 Phantasmal Form
 1 Phantasmal Image
 1 Phyrexian Altar
 1 Phyrexian Metamorph
@@ -59,20 +57,22 @@
 1 Skullclamp
 1 Sol Ring
 1 Spark Double
+1 Teferi, Master of Time
 1 Teferi's Ageless Insight
 1 Tetsuko Umezawa, Fugitive
 1 The Theorist, Jace Beleren
 1 The Unagi of Kyoshi Island
+1 Thought Reflection
 1 Thought Vessel
 1 Titan of Littjara
 1 Toothy, Imaginary Friend
-1 Treachery
 1 Trophy Mage
 1 Urza's Saga
 1 Utter Insignificance
 1 Vanishing
 1 Venser's Journal
-1 Wan Shi Tong, Librarian
+1 Waterbending Scroll
+1 Wizard Class
 1 Wizard's Staff
 1 Wonder
 1 Minn, Wily Illusionist

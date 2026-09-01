@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-08-30",
-  "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. Absence is unclassified, not proof that a card lacks a role.",
+  "reviewed_on": "2026-09-01",
+  "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. The three new commanders and their direct multipliers are explicitly routed; absence remains unclassified, not proof that a card lacks a role.",
   "global": {
     "Ancient Tomb": [
       "land",
@@ -19,6 +19,18 @@
     ]
   },
   "decks": {
+    "aragorn-the-uniter": {
+      "Aragorn, the Uniter": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Annie Joins Up": [
+        "commander_engine"
+      ],
+      "Roaming Throne": [
+        "commander_engine"
+      ]
+    },
     "blor-the-impervious": {
       "Blor the Impervious": [
         "commander_engine",
@@ -47,25 +59,35 @@
         "cost_reduction"
       ]
     },
-    "pantlaza-sun-favored": {
-      "Pantlaza, Sun-Favored": [
+    "frodo-sam": {
+      "Frodo, Adventurous Hobbit": [
         "commander_engine",
-        "card_advantage",
+        "card_advantage"
+      ],
+      "Sam, Loyal Attendant": [
+        "commander_engine",
         "cost_reduction"
       ],
-      "Savage Order": [
-        "tutor",
-        "protection",
-        "combo_piece"
+      "Mirkwood Bats": [
+        "win_condition"
       ],
-      "Wrathful Raptors": [
-        "win_condition",
-        "combo_piece"
+      "Peregrin Took": [
+        "commander_engine",
+        "card_advantage"
+      ]
+    },
+    "gandalf-party-guest": {
+      "Gandalf, Party Guest": [
+        "commander_engine",
+        "cost_reduction"
       ],
-      "Apex Altisaur": [
-        "spot_removal",
-        "board_wipe",
-        "combo_piece"
+      "Savage Beating": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "World at War": [
+        "commander_engine",
+        "win_condition"
       ]
     },
     "henzie-toolbox-torre": {
@@ -78,6 +100,21 @@
       "Henzie “Toolbox” Torre": [
         "commander_engine",
         "cost_reduction",
+        "card_advantage"
+      ]
+    },
+    "magda-brazen-outlaw": {
+      "Magda, Brazen Outlaw": [
+        "commander_engine",
+        "ramp",
+        "tutor"
+      ],
+      "Fíli and Kíli, Joyous": [
+        "commander_engine",
+        "ramp"
+      ],
+      "Idol of Oblivion": [
+        "commander_engine",
         "card_advantage"
       ]
     },
@@ -118,19 +155,25 @@
         ]
       }
     },
-    "magda-brazen-outlaw": {
-      "Magda, Brazen Outlaw": [
+    "pantlaza-sun-favored": {
+      "Pantlaza, Sun-Favored": [
         "commander_engine",
-        "ramp",
-        "tutor"
+        "card_advantage",
+        "cost_reduction"
       ],
-      "Fíli and Kíli, Joyous": [
-        "commander_engine",
-        "ramp"
+      "Savage Order": [
+        "tutor",
+        "protection",
+        "combo_piece"
       ],
-      "Idol of Oblivion": [
-        "commander_engine",
-        "card_advantage"
+      "Wrathful Raptors": [
+        "win_condition",
+        "combo_piece"
+      ],
+      "Apex Altisaur": [
+        "spot_removal",
+        "board_wipe",
+        "combo_piece"
       ]
     },
     "queen-marchesa": {

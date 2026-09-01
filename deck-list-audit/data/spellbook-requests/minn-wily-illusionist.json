@@ -9,14 +9,6 @@
       "quantity": 1
     },
     {
-      "card": "Alandra, Sky Dreamer",
-      "quantity": 1
-    },
-    {
-      "card": "Arcanis the Omnipotent",
-      "quantity": 1
-    },
-    {
       "card": "Ashnod's Altar",
       "quantity": 1
     },
@@ -37,18 +29,6 @@
       "quantity": 1
     },
     {
-      "card": "Chasm Skulker",
-      "quantity": 1
-    },
-    {
-      "card": "Curiosity Crafter",
-      "quantity": 1
-    },
-    {
-      "card": "Defiler of Dreams",
-      "quantity": 1
-    },
-    {
       "card": "Drowned Rusalka",
       "quantity": 1
     },
@@ -61,11 +41,11 @@
       "quantity": 1
     },
     {
-      "card": "Fresh Start",
+      "card": "Frantic Search",
       "quantity": 1
     },
     {
-      "card": "Ghostly Pilferer",
+      "card": "Fresh Start",
       "quantity": 1
     },
     {
@@ -81,10 +61,6 @@
       "quantity": 1
     },
     {
-      "card": "Homunculus Horde",
-      "quantity": 1
-    },
-    {
       "card": "Horizon of Progress",
       "quantity": 1
     },
@@ -97,19 +73,19 @@
       "quantity": 23
     },
     {
-      "card": "Jace, Vryn's Prodigy",
-      "quantity": 1
-    },
-    {
       "card": "Kindred Discovery",
       "quantity": 1
     },
     {
-      "card": "Kitsa, Otterball Elite",
+      "card": "Krang, the All-Powerful",
       "quantity": 1
     },
     {
-      "card": "Krang, the All-Powerful",
+      "card": "Krovikan Mist",
+      "quantity": 1
+    },
+    {
+      "card": "Lat-Nam's Legacy",
       "quantity": 1
     },
     {
@@ -174,6 +150,22 @@
     },
     {
       "card": "Perilous Research",
+      "quantity": 1
+    },
+    {
+      "card": "Phantasmal Abomination",
+      "quantity": 1
+    },
+    {
+      "card": "Phantasmal Bear",
+      "quantity": 1
+    },
+    {
+      "card": "Phantasmal Dreadmaw",
+      "quantity": 1
+    },
+    {
+      "card": "Phantasmal Form",
       "quantity": 1
     },
     {
@@ -245,6 +237,10 @@
       "quantity": 1
     },
     {
+      "card": "Teferi, Master of Time",
+      "quantity": 1
+    },
+    {
       "card": "Teferi's Ageless Insight",
       "quantity": 1
     },
@@ -261,6 +257,10 @@
       "quantity": 1
     },
     {
+      "card": "Thought Reflection",
+      "quantity": 1
+    },
+    {
       "card": "Thought Vessel",
       "quantity": 1
     },
@@ -270,10 +270,6 @@
     },
     {
       "card": "Toothy, Imaginary Friend",
-      "quantity": 1
-    },
-    {
-      "card": "Treachery",
       "quantity": 1
     },
     {
@@ -297,7 +293,11 @@
       "quantity": 1
     },
     {
-      "card": "Wan Shi Tong, Librarian",
+      "card": "Waterbending Scroll",
+      "quantity": 1
+    },
+    {
+      "card": "Wizard Class",
       "quantity": 1
     },
     {

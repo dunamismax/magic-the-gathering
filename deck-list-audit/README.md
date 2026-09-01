@@ -7,19 +7,20 @@ deck edits so one layer cannot silently masquerade as another.
 
 ## Current snapshot
 
-- **7 public decks**, all downloaded from Moxfield and locally verified on
-  **2026-08-30**
-- **7 Bracket 3 targets**
-- All 7 currently resolve to exactly 100 cards and pass deterministic count,
+- **10 public decks**, all downloaded from Moxfield on **2026-08-31** and
+  locally audited on **2026-09-01**
+- **9 Bracket 3 targets** and **1 Bracket 2 target** (Frodo & Sam)
+- All 10 currently resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, identity, legality, release-state, banned-card, and
   configured Game Changer checks
-- All 7 exact lists were refreshed through Commander Spellbook and manually
-  adjudicated on **2026-08-30**
+- Six unchanged lists retain hash-current Commander Spellbook evidence from
+  **2026-08-30**; Aragorn, Frodo & Sam, Gandalf, and revised Minn have current
+  manual combo review and explicit pending Spellbook refresh markers
 - Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
   has one finite Spellbook line and one manually verified five-card loop;
   Henzie's returned persist template is incomplete
-- The current 7-deck social review is pinned to these exact hashes; the retained
-  seven-deck subset of the prior review remains archived
+- The current 10-deck social and bracket reviews are pinned to these exact
+  hashes; superseded seven-deck reports remain dated historical evidence
 
 Browse titles, source dates, Moxfield links, and hashes in
 [`decks/README.md`](decks/README.md). Deterministic totals are in

@@ -3,6 +3,13 @@
   "api_base": "https://backend.commanderspellbook.com",
   "api_version": "6.2.6",
   "decks": {
+    "aragorn-the-uniter": {
+      "status": "needs-refresh",
+      "invalidated_on": "2026-09-01",
+      "current_request_sha256": "9330c135d627210db97ee21f96f7fece77798498904f55d064d473b7d8cf2f74",
+      "current_deck_sha256": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
+      "reason": "New public deck; no full-list Commander Spellbook upload was performed without separate authorization."
+    },
     "blor-the-impervious": {
       "status": "exact-list-scan",
       "fetched_on": "2026-08-30",
@@ -20,6 +27,20 @@
       "estimate_sha256": "8d33a70076ae32fb6f1ea871cf953077c36a6843ebe7cf4c72de6735e55270f1",
       "combos_file": "data/spellbook-results/ekthi-contaminator-priest-combos.json",
       "combos_sha256": "1027b7b2c5cd19e99368b4ecb9ad95324cabb559db02ec1ca8dec902b9098c67"
+    },
+    "frodo-sam": {
+      "status": "needs-refresh",
+      "invalidated_on": "2026-09-01",
+      "current_request_sha256": "97c58de93dd73928ff0c3aa95d5395cdc18a92b18ad781322a8aeb808b35aae8",
+      "current_deck_sha256": "88a5e0b4d8c143bcddec7c2bf502ddcbf558e6fa0d68e45e631f2d37f5155584",
+      "reason": "New public deck; no full-list Commander Spellbook upload was performed without separate authorization."
+    },
+    "gandalf-party-guest": {
+      "status": "needs-refresh",
+      "invalidated_on": "2026-09-01",
+      "current_request_sha256": "cb1cde9e4dc2ed1ed08f6cabac2123790e6af3bff01bfb2ce92912c5b1fb1714",
+      "current_deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
+      "reason": "New public deck; no full-list Commander Spellbook upload was performed without separate authorization."
     },
     "henzie-toolbox-torre": {
       "status": "exact-list-scan",
@@ -40,13 +61,17 @@
       "combos_sha256": "54c4d5865ea7d36644892322f6e8c31e73e87057e7503323e0fb4ce0c5a2fe96"
     },
     "minn-wily-illusionist": {
-      "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "f2d5bf35bb4e94752bde7dde8c5e2991b58f9d09e2ec5bf9d119e608fe0fc607",
+      "status": "needs-refresh",
+      "invalidated_on": "2026-09-01",
+      "current_request_sha256": "a3cc59b3b0f0ef4d62a4f1012b98005df8a546449607718d14a5957ecc9eb73c",
+      "current_deck_sha256": "4b89875e5eef23299ba9d0c0521ae552cfdef65ca0591272f7e2bba7c07f9aa3",
+      "prior_fetched_on": "2026-08-30",
+      "prior_request_sha256": "f2d5bf35bb4e94752bde7dde8c5e2991b58f9d09e2ec5bf9d119e608fe0fc607",
       "estimate_file": "data/spellbook-results/minn-wily-illusionist-estimate.json",
       "estimate_sha256": "645429c37e2f79f4b9bc6fb05783c29755b730b5942a54a93c2d38c36fc5ca5c",
       "combos_file": "data/spellbook-results/minn-wily-illusionist-combos.json",
-      "combos_sha256": "0d38df6c1ef568726f6a5c4cc474c77c861c29cace0704e1533b97bc37754188"
+      "combos_sha256": "0d38df6c1ef568726f6a5c4cc474c77c861c29cace0704e1533b97bc37754188",
+      "reason": "The public Moxfield list changed; the 2026-08-30 results are retained as prior evidence and no revised full list was uploaded without separate authorization."
     },
     "pantlaza-sun-favored": {
       "status": "exact-list-scan",

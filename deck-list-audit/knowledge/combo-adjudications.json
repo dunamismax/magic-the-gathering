@@ -1,10 +1,19 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-08-30",
+  "reviewed_on": "2026-09-01",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
   "archive": "reports/archive/combo-adjudications-2026-08-29.json",
-  "notes": "Every record below is tied to the exact current deck hash, a 2026-08-30 full-list Commander Spellbook scan, and a manual prerequisite review of the returned candidates and newer cards.",
+  "notes": "The six unchanged records retain 2026-08-30 full-list Commander Spellbook scans plus manual prerequisite review. Aragorn, Frodo and Sam, Gandalf, and the changed Minn list were manually reviewed against the exact 2026-09-01 audit; their full-list Spellbook records remain explicitly marked needs-refresh because no revised list was uploaded without separate authorization.",
   "decks": [
+    {
+      "deck": "aragorn-the-uniter",
+      "deck_sha256": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
+      "status": "reviewed",
+      "reviewed_on": "2026-09-01",
+      "review_basis": "manual exact-list Oracle and prerequisite review; Commander Spellbook full-list refresh remains pending",
+      "summary": "Annie Joins Up and Roaming Throne can multiply Aragorn triggers, and Jeskai Ascendancy repeatedly untaps Bloom Tender, Faeburrow Elder, and the other mana creatures. The exact list has no repeatable spell, buyback engine, or creature recast loop to turn those engines into a deterministic cycle; all current multicolor-spell and token sequences are finite.",
+      "lines": []
+    },
     {
       "deck": "blor-the-impervious",
       "deck_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
@@ -21,6 +30,24 @@
       "reviewed_on": "2026-08-30",
       "spellbook_included_candidates": 0,
       "summary": "The exact-list scan returned no included combo. Free Equipment movement, token doubling, and Bloodforged Battle-Axe scaling are strong but finite in the current 100.",
+      "lines": []
+    },
+    {
+      "deck": "frodo-sam",
+      "deck_sha256": "88a5e0b4d8c143bcddec7c2bf502ddcbf558e6fa0d68e45e631f2d37f5155584",
+      "status": "reviewed",
+      "reviewed_on": "2026-09-01",
+      "review_basis": "manual exact-list Oracle and prerequisite review; Commander Spellbook full-list refresh remains pending",
+      "summary": "Peregrin Took, Rosie Cotton, Samwise Gamgee, Mirkwood Bats, and the Food engines scale together, but the exact list lacks a repeatable token-conversion or zero-cost historic recursion engine. Prize Pig can untap after life gain, yet Food activations still consume mana and tokens, so no current deterministic loop was found.",
+      "lines": []
+    },
+    {
+      "deck": "gandalf-party-guest",
+      "deck_sha256": "20cb8068d89cb44bbd7abf1c5488a7c973e18142d513787c56a3e20880f1adbf",
+      "status": "reviewed",
+      "reviewed_on": "2026-09-01",
+      "review_basis": "manual exact-list Oracle and prerequisite review; Commander Spellbook full-list refresh remains pending",
+      "summary": "Gandalf can cast a free spell at the beginning of every combat, so World at War and Savage Beating create additional commander triggers and explosive finite chains. Neither spell can recur itself, the list has no repeatable extra-combat recursion, and the Wizard trigger-copy package only multiplies bounded triggers; no current deterministic loop was found.",
       "lines": []
     },
     {
@@ -57,11 +84,11 @@
     },
     {
       "deck": "minn-wily-illusionist",
-      "deck_sha256": "426315088393ac55905a62ae4a9f856042b45027f6cfe9cf863946c3251012b1",
+      "deck_sha256": "4b89875e5eef23299ba9d0c0521ae552cfdef65ca0591272f7e2bba7c07f9aa3",
       "status": "reviewed",
-      "reviewed_on": "2026-08-30",
-      "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Ashnod's Altar, Phyrexian Altar, and Blasting Station convert Illusions into finite value; Homunculus Horde and Krang multiply second-draw triggers but do not retrigger the same draw event or recur a sacrificed token.",
+      "reviewed_on": "2026-09-01",
+      "review_basis": "manual exact-list Oracle and prerequisite review; Commander Spellbook full-list refresh remains pending",
+      "summary": "The refreshed list still has Ashnod's Altar, Phyrexian Altar, and Blasting Station, but no effect that returns a sacrificed Illusion or recreates a token from the sacrifice itself. Draw doublers increase Minn triggers while Teferi's ultimate is a distant two-extra-turn finisher; the current 100 has no complete sacrifice, draw, or extra-turn loop.",
       "lines": []
     },
     {
