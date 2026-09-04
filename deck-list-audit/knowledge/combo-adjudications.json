@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-09-01",
+  "reviewed_on": "2026-09-04",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
   "archive": "reports/archive/combo-adjudications-2026-08-29.json",
-  "notes": "All ten exact current lists have full-list Commander Spellbook scans plus manual prerequisite review. Six unchanged lists retain their hash-current 2026-08-30 scans; Aragorn, Frodo and Sam, Gandalf, and the changed Minn list were scanned and reviewed on 2026-09-01.",
+  "notes": "All ten exact current main decks have full-list Commander Spellbook scans plus manual prerequisite review. Six unchanged hashes retain their earlier current scans; Frodo and Sam, Gandalf, Minn, and The Notary Hobbits were scanned and reviewed on 2026-09-04. Gandalf's separate nine-card sideboard configuration was manually preserved and reviewed.",
   "decks": [
     {
       "deck": "aragorn-the-uniter",
@@ -25,32 +25,23 @@
       "lines": []
     },
     {
-      "deck": "ekthi-contaminator-priest",
-      "deck_sha256": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
-      "status": "reviewed",
-      "reviewed_on": "2026-08-30",
-      "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Free Equipment movement, token doubling, and Bloodforged Battle-Axe scaling are strong but finite in the current 100.",
-      "lines": []
-    },
-    {
       "deck": "frodo-sam",
-      "deck_sha256": "88a5e0b4d8c143bcddec7c2bf502ddcbf558e6fa0d68e45e631f2d37f5155584",
+      "deck_sha256": "a217307fb8789b57a818675bd33227f459feb739bc43c82b5eb8c037a9e19567",
       "status": "reviewed",
-      "reviewed_on": "2026-09-01",
+      "reviewed_on": "2026-09-04",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Peregrin Took, Rosie Cotton, Samwise Gamgee, Mirkwood Bats, and the Food engines scale together, but manual review found no repeatable token-conversion or zero-cost historic recursion engine. Prize Pig can untap after life gain, yet Food activations still consume mana and tokens, so no current deterministic loop was found.",
+      "summary": "The refreshed exact-list scan returned no included combo. The One Ring replaces Shire Terrace and adds protection plus escalating card draw, but it does not recur spent Food, generate the activation mana, or create a repeatable historic-card loop. Prize Pig and the Food/Hobbit engines remain finite.",
       "lines": []
     },
     {
       "deck": "gandalf-party-guest",
-      "deck_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35",
+      "deck_sha256": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
       "status": "reviewed",
-      "reviewed_on": "2026-09-01",
+      "reviewed_on": "2026-09-04",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
-      "spellbook_included_candidates": 1,
-      "summary": "The exact-list scan returned and manual review confirmed the conditional Surge to Victory plus Savage Beating unlimited-combat line. Surge must exile Savage Beating from the graveyard, and a creature must keep connecting; each hit casts a Savage Beating copy for another untap and combat. World at War and the remaining Wizard trigger-copy sequences are finite outside that line.",
+      "spellbook_included_candidates": 0,
+      "summary": "The posted maximum-flavor main deck returned no included combo and contains neither Surge to Victory nor Savage Beating. Its exact nine-card sideboard switch adds both cards plus Solve the Equation, restoring the previously confirmed conditional unlimited-combat line only in the alternate maximum-power configuration.",
       "lines": [
         {
           "id": "771-1760",
@@ -58,13 +49,14 @@
             "Surge to Victory",
             "Savage Beating"
           ],
-          "status": "confirmed-conditional",
+          "status": "alternate-configuration-only",
           "classification": "two-card-conditional-unlimited-combat-damage",
-          "reason": "Cast Surge to Victory with Savage Beating in the graveyard. When a creature connects, the Surge trigger casts Savage Beating's extra-combat mode; repeat while a creature can continue dealing combat damage to an opponent.",
+          "reason": "The line is absent from the posted main deck. In the exact sideboard configuration, cast Surge to Victory with Savage Beating in the graveyard; each successful combat-damage trigger can cast another untap-and-additional-combat copy.",
           "disclosure_required": true,
-          "source": "commander-spellbook-and-manual-prerequisite-review"
+          "source": "commander-spellbook-prior-confirmation-current-sideboard-and-manual-prerequisite-review"
         }
-      ]
+      ],
+      "alternate_configuration_sideboard_sha256": "87ecbaa4ccdea01507e255dbdf206bcc826adb5c1ced7ef86f7ad6debd037c4c"
     },
     {
       "deck": "henzie-toolbox-torre",
@@ -100,12 +92,12 @@
     },
     {
       "deck": "minn-wily-illusionist",
-      "deck_sha256": "4b89875e5eef23299ba9d0c0521ae552cfdef65ca0591272f7e2bba7c07f9aa3",
+      "deck_sha256": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
       "status": "reviewed",
-      "reviewed_on": "2026-09-01",
+      "reviewed_on": "2026-09-04",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. The refreshed list still has Ashnod's Altar, Phyrexian Altar, and Blasting Station, but manual review found no effect that returns a sacrificed Illusion or recreates a token from the sacrifice itself. Draw doublers increase Minn triggers while Teferi's ultimate is a distant two-extra-turn finisher; the current 100 has no complete sacrifice, draw, or extra-turn loop.",
+      "summary": "The refreshed exact-list scan returned no included combo. Living Lies of Loki, Lyla, Holographic Assistant, and Monument to Endurance add Illusion, draw, counter, and discard value, but none returns a sacrificed Illusion or creates an unrestricted draw/sacrifice cycle with Minn's once-per-turn second-draw trigger.",
       "lines": []
     },
     {
@@ -189,6 +181,16 @@
           "source": "manual-oracle-and-rules-prerequisite-review"
         }
       ]
+    },
+    {
+      "deck": "the-notary-hobbits",
+      "deck_sha256": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de",
+      "status": "reviewed",
+      "reviewed_on": "2026-09-04",
+      "review_basis": "commander-spellbook-and-manual-prerequisite-review",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Haste can turn the original Notary and its two token copies into nine mana, while Parallel Lives, Panharmonicon, Strionic Resonator, Maskwood Nexus, and changelings scale that output. The list has only finite untaps and token multipliers, so manual review found no deterministic loop.",
+      "lines": []
     }
   ]
 }

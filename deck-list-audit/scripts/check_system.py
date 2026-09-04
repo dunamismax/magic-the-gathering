@@ -7,7 +7,9 @@ import argparse
 import gzip
 import shutil
 import sys
+import tempfile
 from datetime import date, datetime
+from pathlib import Path
 from typing import Any
 
 from audit_decks import (
@@ -17,6 +19,7 @@ from audit_decks import (
     json_bytes,
     json_load,
     normalize_name,
+    read_deck,
     sha256_bytes,
     sha256_file,
 )
@@ -305,6 +308,9 @@ def validate_moxfield_refresh(audit: dict[str, Any]) -> list[str]:
     refresh = json_load(ROOT / "data/moxfield-refresh.json")
     records = refresh.get("decks") or {}
     expected_slugs = set(collection["decks"])
+    actual_slugs = {path.stem for path in (ROOT / "decks").glob("*.txt")}
+    if actual_slugs != expected_slugs:
+        errors.append("deck source file set does not match collection.json")
     if set(records) != expected_slugs:
         errors.append("Moxfield refresh manifest deck set does not match collection.json")
     if refresh.get("deck_count") != len(expected_slugs):
@@ -320,6 +326,183 @@ def validate_moxfield_refresh(audit: dict[str, Any]) -> list[str]:
             errors.append(f"Moxfield refresh date mismatch for {slug}")
         if record.get("deck_sha256") != audit["decks"][slug]["deck_sha256"]:
             errors.append(f"Moxfield refresh hash mismatch for {slug}")
+        export_file = record.get("export_file")
+        export_sha256 = record.get("export_sha256")
+        if not export_file or not export_sha256:
+            errors.append(f"missing raw Moxfield export evidence for {slug}")
+        else:
+            export_path = ROOT / str(export_file)
+            if not export_path.exists():
+                errors.append(f"missing raw Moxfield export file for {slug}")
+            elif sha256_file(export_path) != export_sha256:
+                errors.append(f"raw Moxfield export hash mismatch for {slug}")
+            else:
+                try:
+                    export_text = export_path.read_text(encoding="utf-8")
+                    raw_main_path = export_path
+                    if "\nSIDEBOARD:\n" in export_text:
+                        main_text, remainder = export_text.split("\nSIDEBOARD:\n", 1)
+                        if "\n\n" not in remainder:
+                            raise ValueError("sideboard export has no final commander block")
+                        raw_sideboard_text, commander_text = remainder.rsplit("\n\n", 1)
+                        with tempfile.TemporaryDirectory(
+                            prefix="moxfield-export-check-"
+                        ) as directory:
+                            raw_main_path = Path(directory) / "main.txt"
+                            raw_main_path.write_text(
+                                main_text.rstrip()
+                                + "\n\n"
+                                + commander_text.strip()
+                                + "\n",
+                                encoding="utf-8",
+                            )
+                            raw_sideboard_path = Path(directory) / "sideboard.txt"
+                            raw_sideboard_path.write_text(
+                                raw_sideboard_text.strip() + "\n", encoding="utf-8"
+                            )
+                            raw_main = read_deck(raw_main_path)
+                            raw_sideboard = read_deck(raw_sideboard_path)
+                    else:
+                        raw_main = read_deck(raw_main_path)
+                        raw_sideboard = []
+
+                    def quantities(entries: list[dict[str, Any]]) -> dict[str, int]:
+                        result: dict[str, int] = {}
+                        for entry in entries:
+                            name = normalize_name(str(entry["name"]))
+                            result[name] = result.get(name, 0) + int(entry["quantity"])
+                        return result
+
+                    local_main = read_deck(ROOT / f"decks/{slug}.txt")
+                    if quantities(raw_main) != quantities(local_main):
+                        errors.append(
+                            f"raw Moxfield export does not match normalized deck for {slug}"
+                        )
+                    configured_sideboard = metadata.get("sideboard") or {}
+                    if configured_sideboard:
+                        local_sideboard_path = ROOT / str(configured_sideboard["file"])
+                        local_sideboard = (
+                            read_deck(local_sideboard_path)
+                            if local_sideboard_path.exists()
+                            else []
+                        )
+                        if quantities(raw_sideboard) != quantities(local_sideboard):
+                            errors.append(
+                                f"raw Moxfield sideboard does not match normalized sideboard for {slug}"
+                            )
+                    elif raw_sideboard:
+                        errors.append(
+                            f"raw Moxfield export has an unconfigured sideboard for {slug}"
+                        )
+                except (OSError, ValueError) as exc:
+                    errors.append(f"cannot validate raw Moxfield export for {slug}: {exc}")
+        sideboard = metadata.get("sideboard") or {}
+        if sideboard:
+            sideboard_file = sideboard.get("file")
+            sideboard_path = ROOT / str(sideboard_file or "")
+            if not sideboard_file or not sideboard_path.exists():
+                errors.append(f"missing configured sideboard file for {slug}")
+            elif record.get("sideboard_sha256") != sha256_file(sideboard_path):
+                errors.append(f"Moxfield sideboard hash mismatch for {slug}")
+    return errors
+
+
+def validate_sideboard_configurations() -> list[str]:
+    errors: list[str] = []
+    collection = json_load(ROOT / "collection.json")
+    configured = {
+        slug: metadata
+        for slug, metadata in collection["decks"].items()
+        if metadata.get("sideboard")
+    }
+    if not configured:
+        return errors
+    with tempfile.TemporaryDirectory(prefix="sideboard-check-") as directory:
+        temporary = Path(directory)
+        decks_dir = temporary / "decks"
+        decks_dir.mkdir()
+        for source in (ROOT / "decks").glob("*.txt"):
+            shutil.copy2(source, decks_dir / source.name)
+        alternate_collection = json_load(ROOT / "collection.json")
+        for slug, metadata in configured.items():
+            sideboard = metadata["sideboard"]
+            sideboard_path = ROOT / str(sideboard.get("file", ""))
+            if not sideboard_path.exists():
+                continue
+            try:
+                main_entries = read_deck(ROOT / f"decks/{slug}.txt")
+                sideboard_entries = read_deck(sideboard_path)
+            except (OSError, ValueError) as exc:
+                errors.append(f"invalid sideboard configuration for {slug}: {exc}")
+                continue
+            by_name = {
+                normalize_name(str(entry["name"])): entry for entry in main_entries
+            }
+            missing = [
+                name
+                for name in sideboard.get("swap_out") or []
+                if normalize_name(str(name)) not in by_name
+            ]
+            if missing:
+                errors.append(
+                    f"sideboard swap-out cards are absent from {slug}: "
+                    + ", ".join(missing)
+                )
+                continue
+            swap_quantity = sum(
+                int(by_name[normalize_name(str(name))]["quantity"])
+                for name in sideboard.get("swap_out") or []
+            )
+            sideboard_quantity = sum(
+                int(entry["quantity"]) for entry in sideboard_entries
+            )
+            if swap_quantity != sideboard_quantity:
+                errors.append(
+                    f"sideboard switch for {slug} removes {swap_quantity} cards "
+                    f"but adds {sideboard_quantity}"
+                )
+                continue
+            cuts = {
+                normalize_name(str(name)) for name in sideboard.get("swap_out") or []
+            }
+            alternate_entries = [
+                entry
+                for entry in main_entries
+                if normalize_name(str(entry["name"])) not in cuts
+            ] + sideboard_entries
+            (decks_dir / f"{slug}.txt").write_text(
+                "\n".join(
+                    f"{entry['quantity']} {entry['name']}" for entry in alternate_entries
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+            alternate_metadata = alternate_collection["decks"][slug]
+            alternate_metadata.pop("sideboard", None)
+            constraints = alternate_metadata["constraints"]
+            constraints["target_bracket"] = sideboard["target_bracket"]
+            constraints["game_changer_max"] = sideboard.get(
+                "game_changer_max", constraints.get("game_changer_max")
+            )
+            constraints["combo_policy"] = sideboard.get(
+                "combo_policy", constraints.get("combo_policy")
+            )
+            constraints["rule_zero_cards"] = sideboard.get("rule_zero_cards", [])
+            constraints["bracket_exception_cards"] = sideboard.get(
+                "bracket_exception_cards", []
+            )
+        collection_path = temporary / "collection.json"
+        collection_path.write_bytes(json_bytes(alternate_collection))
+        alternate_audit, _ = build_audit(
+            collection_path=collection_path,
+            decks_dir=decks_dir,
+            audit_date=date.today(),
+        )
+        for slug in configured:
+            result = alternate_audit["decks"][slug]
+            if not result["valid"]:
+                messages = "; ".join(error["message"] for error in result["errors"])
+                errors.append(f"invalid alternate sideboard configuration for {slug}: {messages}")
     return errors
 
 
@@ -351,6 +534,7 @@ def main() -> int:
             warnings.extend(report_warnings)
             errors.extend(validate_request_hash_formula(audit))
             errors.extend(validate_moxfield_refresh(audit))
+            errors.extend(validate_sideboard_configurations())
             if args.require_current:
                 errors.extend(validate_current_sources(date.today()))
 

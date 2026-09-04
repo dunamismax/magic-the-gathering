@@ -1,0 +1,101 @@
+1 Akroma's Will
+1 Annie Joins Up
+1 Aragorn, King of Gondor
+1 Arcane Signet
+1 Arid Mesa
+1 Bant Charm
+1 Bard Class
+1 Birds of Paradise
+1 Bloom Tender
+1 Boros Charm
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Breeding Pool
+1 Brokers Charm
+1 Chulane, Teller of Tales
+1 City of Brass
+1 Clever Concealment
+1 Coiling Oracle
+1 Cold-Eyed Selkie
+1 Command Tower
+1 Decisive Denial
+1 Delighted Halfling
+1 Dovin's Veto
+1 Éowyn, Fearless Knight
+1 Éowyn, Shieldmaiden
+1 Exotic Orchard
+1 Expressive Iteration
+1 Faeburrow Elder
+1 Fallaji Wayfarer
+1 Farseek
+1 Flooded Strand
+1 Floodfarm Verge
+1 Flowering of the White Tree
+1 Forest
+1 Forth Eorlingas!
+1 Frostcliff Siege
+1 Galadriel, Light of Valinor
+1 General Ferrous Rokiric
+1 Gold-Forged Thopteryx
+1 Growth Spiral
+1 Guided Passage
+1 Hallowed Fountain
+1 Hero of Precinct One
+1 Hushwood Verge
+1 Island
+1 Jeskai Ascendancy
+1 Jetmir, Nexus of Revels
+1 Jetmir's Garden
+1 Jhoira, Weatherlight Captain
+1 Katilda, Dawnhart Prime
+1 Ketria Triome
+1 Kutzil, Malamet Exemplar
+1 Kykar, Wind's Fury
+1 Legion Leadership
+1 Mana Confluence
+1 Manamorphose
+1 Marsh Flats
+1 Minas Tirith
+1 Misty Rainforest
+1 Nature's Lore
+1 Naya Charm
+1 Noble Hierarch
+1 Omnath, Locus of Creation
+1 Otawara, Soaring City
+1 Permission Denied
+1 Pippin, Guard of the Citadel
+1 Polluted Delta
+1 Prismari Command
+1 Raugrin Triome
+1 Rejuvenating Springs
+1 Roaming Throne
+1 Sacred Foundry
+1 Safewright Quest
+1 Scalding Tarn
+1 Sea of Clouds
+1 Simic Charm
+1 Skullclamp
+1 Spara's Headquarters
+1 Spectator Seating
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Sunbillow Verge
+1 Supply/Demand
+1 Supreme Verdict
+1 Swords to Plowshares
+1 Temple Garden
+1 Temur Ascendancy
+1 Third Path Iconoclast
+1 Three Visits
+1 Time Wipe
+1 Titanic Ultimatum
+1 Trace of Abundance
+1 Training Center
+1 Warleader's Call
+1 Wear/Tear
+1 Whirlwind of Thought
+1 Windswept Heath
+1 Wooded Foothills
+
+1 Aragorn, the Uniter

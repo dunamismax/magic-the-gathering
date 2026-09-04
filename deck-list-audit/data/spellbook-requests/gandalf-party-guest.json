@@ -17,14 +17,6 @@
       "quantity": 1
     },
     {
-      "card": "Alisaie Leveilleur",
-      "quantity": 1
-    },
-    {
-      "card": "Alphinaud Leveilleur",
-      "quantity": 1
-    },
-    {
       "card": "An Offer You Can't Refuse",
       "quantity": 1
     },
@@ -45,10 +37,6 @@
       "quantity": 1
     },
     {
-      "card": "Azami, Lady of Scrolls",
-      "quantity": 1
-    },
-    {
       "card": "Balmor, Battlemage Captain",
       "quantity": 1
     },
@@ -61,15 +49,15 @@
       "quantity": 1
     },
     {
+      "card": "Brainsurge",
+      "quantity": 1
+    },
+    {
       "card": "Call Forth the Tempest",
       "quantity": 1
     },
     {
       "card": "City of Brass",
-      "quantity": 1
-    },
-    {
-      "card": "Clifftop Retreat",
       "quantity": 1
     },
     {
@@ -102,10 +90,6 @@
     },
     {
       "card": "Floodfarm Verge",
-      "quantity": 1
-    },
-    {
-      "card": "Frantic Search",
       "quantity": 1
     },
     {
@@ -149,7 +133,15 @@
       "quantity": 1
     },
     {
+      "card": "Gandalf, Westward Voyager",
+      "quantity": 1
+    },
+    {
       "card": "Gandalf, White Rider",
+      "quantity": 1
+    },
+    {
+      "card": "Gandalf's Sanction",
       "quantity": 1
     },
     {
@@ -169,10 +161,6 @@
       "quantity": 1
     },
     {
-      "card": "Hermes, Overseer of Elpis",
-      "quantity": 1
-    },
-    {
       "card": "Improvisation Capstone",
       "quantity": 1
     },
@@ -182,7 +170,15 @@
     },
     {
       "card": "Island",
-      "quantity": 3
+      "quantity": 2
+    },
+    {
+      "card": "Jadzi, Steward of Fate",
+      "quantity": 1
+    },
+    {
+      "card": "Jori En, Ruin Diver",
+      "quantity": 1
     },
     {
       "card": "Kaza, Roil Chaser",
@@ -209,12 +205,20 @@
       "quantity": 1
     },
     {
-      "card": "Mizzix of the Izmagnus",
+      "card": "Mistrise Village",
+      "quantity": 1
+    },
+    {
+      "card": "Misty Rainforest",
+      "quantity": 1
+    },
+    {
+      "card": "Mnemonic Deluge",
       "quantity": 1
     },
     {
       "card": "Mountain",
-      "quantity": 4
+      "quantity": 2
     },
     {
       "card": "Muddle the Mixture",
@@ -234,6 +238,10 @@
     },
     {
       "card": "Plaza of Heroes",
+      "quantity": 1
+    },
+    {
+      "card": "Polluted Delta",
       "quantity": 1
     },
     {
@@ -257,7 +265,15 @@
       "quantity": 1
     },
     {
-      "card": "Reliquary Tower",
+      "card": "Recurring Insight",
+      "quantity": 1
+    },
+    {
+      "card": "Reflecting Pool",
+      "quantity": 1
+    },
+    {
+      "card": "Rivendell",
       "quantity": 1
     },
     {
@@ -265,15 +281,7 @@
       "quantity": 1
     },
     {
-      "card": "Roaming Throne",
-      "quantity": 1
-    },
-    {
       "card": "Sacred Foundry",
-      "quantity": 1
-    },
-    {
-      "card": "Savage Beating",
       "quantity": 1
     },
     {
@@ -301,15 +309,15 @@
       "quantity": 1
     },
     {
-      "card": "Solve the Equation",
-      "quantity": 1
-    },
-    {
       "card": "Spectator Seating",
       "quantity": 1
     },
     {
       "card": "Steam Vents",
+      "quantity": 1
+    },
+    {
+      "card": "Stock Up",
       "quantity": 1
     },
     {
@@ -321,15 +329,15 @@
       "quantity": 1
     },
     {
-      "card": "Surge to Victory",
-      "quantity": 1
-    },
-    {
       "card": "Swan Song",
       "quantity": 1
     },
     {
       "card": "Swords to Plowshares",
+      "quantity": 1
+    },
+    {
+      "card": "Talisman of Creativity",
       "quantity": 1
     },
     {
@@ -357,6 +365,10 @@
       "quantity": 1
     },
     {
+      "card": "Venat, Heart of Hydaelyn",
+      "quantity": 1
+    },
+    {
       "card": "Veyran, Voice of Duality",
       "quantity": 1
     },
@@ -365,11 +377,11 @@
       "quantity": 1
     },
     {
-      "card": "Will of the Temur",
+      "card": "Wear // Tear",
       "quantity": 1
     },
     {
-      "card": "Wizard's Staff",
+      "card": "Will of the Temur",
       "quantity": 1
     },
     {

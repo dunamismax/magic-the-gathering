@@ -263,6 +263,32 @@
     },
     {
       "card": {
+        "id": 6822,
+        "name": "Lyla, Holographic Assistant",
+        "oracleId": "b7fb0141-4fbd-4269-a2e9-92f75ec95271",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Artifact Creature — Illusion Advisor",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/6/26ea86d7-34f8-4358-8fdf-a18e53397755.png?1783905375",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/6/26ea86d7-34f8-4358-8fdf-a18e53397755.jpg?1783905375",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/6/26ea86d7-34f8-4358-8fdf-a18e53397755.jpg?1783905375",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/6/26ea86d7-34f8-4358-8fdf-a18e53397755.jpg?1783905375",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/6/26ea86d7-34f8-4358-8fdf-a18e53397755.jpg?1783905375",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
         "id": 643,
         "name": "Maskwood Nexus",
         "oracleId": "9b2cdbed-c733-409b-b0e4-2c8960c25111",
@@ -419,32 +445,6 @@
     },
     {
       "card": {
-        "id": 5240,
-        "name": "Oneirophage",
-        "oracleId": "48c97aeb-6591-4175-a24b-d3488bf3ab0b",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Creature — Squid Illusion",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/1/61921b05-ee83-4768-a405-4d3355c0ad6e.png?1783930450",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/1/61921b05-ee83-4768-a405-4d3355c0ad6e.jpg?1783930450",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/1/61921b05-ee83-4768-a405-4d3355c0ad6e.jpg?1783930450",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/1/61921b05-ee83-4768-a405-4d3355c0ad6e.jpg?1783930450",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/1/61921b05-ee83-4768-a405-4d3355c0ad6e.jpg?1783930450",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 2880,
         "name": "Phantasmal Dreadmaw",
         "oracleId": "cbde4b9d-1549-4892-b8ca-38256a6ac1ba",
@@ -534,32 +534,6 @@
         "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/5/a564c2e8-f49f-4ed7-850f-7c8bc92e4926.jpg?1783906041",
         "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/5/a564c2e8-f49f-4ed7-850f-7c8bc92e4926.jpg?1783906041",
         "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/5/a564c2e8-f49f-4ed7-850f-7c8bc92e4926.jpg?1783906041",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
-        "id": 2384,
-        "name": "Psychosis Crawler",
-        "oracleId": "2876e74f-a242-4995-9702-0b737a1ab67a",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Artifact Creature — Phyrexian Horror",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/0/d0f42a19-c180-45b1-9f4c-787cf3a4a649.png?1783912973",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/0/d0f42a19-c180-45b1-9f4c-787cf3a4a649.jpg?1783912973",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/0/d0f42a19-c180-45b1-9f4c-787cf3a4a649.jpg?1783912973",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/0/d0f42a19-c180-45b1-9f4c-787cf3a4a649.jpg?1783912973",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/0/d0f42a19-c180-45b1-9f4c-787cf3a4a649.jpg?1783912973",
         "layoutRotationFront": null,
         "imageUriBackPng": null,
         "imageUriBackLarge": null,

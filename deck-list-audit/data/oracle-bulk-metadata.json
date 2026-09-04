@@ -2,12 +2,12 @@
   "object": "bulk_data",
   "id": "27bf3214-1271-490b-bdfe-c0be6c23d02e",
   "type": "oracle_cards",
-  "updated_at": "2026-08-30T09:01:56.964+00:00",
+  "updated_at": "2026-09-04T09:01:54.392+00:00",
   "uri": "https://api.scryfall.com/bulk-data/27bf3214-1271-490b-bdfe-c0be6c23d02e",
   "name": "Oracle Cards",
   "description": "A JSON file containing one Scryfall card object for each Oracle ID on Scryfall. The chosen sets for the cards are an attempt to return the most up-to-date recognizable version of the card.",
-  "jsonl_download_uri": "https://data.scryfall.io/oracle-cards/oracle-cards-20260830090156.jsonl.gz",
-  "compressed_size": 24531992,
-  "local_sha256": "f11ad49902e6df0d89e1ecc01f1f0021656f5fd999ca853e5716d7c787361cf4",
-  "cached_at": "2026-08-30T18:24:02.559085+00:00"
+  "jsonl_download_uri": "https://data.scryfall.io/oracle-cards/oracle-cards-20260904090154.jsonl.gz",
+  "compressed_size": 24534081,
+  "local_sha256": "712d6dbf7a4e8c5d5bb39d943a1b9663ef85581f998eb4983bb233822761e31e",
+  "cached_at": "2026-09-04T11:36:09.397023+00:00"
 }

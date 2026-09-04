@@ -4,180 +4,7 @@
   "previous": null,
   "results": {
     "identity": "URW",
-    "included": [
-      {
-        "id": "771-1760",
-        "of": [
-          {
-            "id": 10481
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1760,
-              "name": "Surge to Victory",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "8ea414c1-88cf-46d4-9a54-6dee9847c537",
-              "typeLine": "Sorcery",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/5/b5345934-60eb-417c-9716-477882c4796d.png?1783903770",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 771,
-              "name": "Savage Beating",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "G"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "9.13",
-          "cardmarket": "4.63",
-          "cardkingdom": "9.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "R",
-        "includes": [
-          {
-            "id": 27045
-          },
-          {
-            "id": 10481
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 205,
-              "name": "Infinite combat damage",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 3103,
-        "bracketTag": "S",
-        "description": "Cast Surge to Victory by paying {4}{R}{R}, exiling Savage Beating from your graveyard and giving creatures you control +5/+0 until end of turn.\nDeal combat damage to an opponent with any creature you control.\nSurge to Victory triggers, casting a copy of Savage Beating without paying its mana cost.\nResolve Savage Beating, untapping all creatures you control and giving you an additional combat phase after this one.\nRepeat from step 2.",
-        "manaNeeded": "{4}{R}{R}",
-        "variantCount": 1,
-        "manaValueNeeded": 6,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "An opponent is unable to block and kill creatures you control."
-      }
-    ],
+    "included": [],
     "includedByChangingCommanders": [],
     "almostIncluded": [
       {
@@ -253,17 +80,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.52",
-          "cardmarket": "4.82",
-          "cardkingdom": "11.78"
+          "tcgplayer": "6.50",
+          "cardmarket": "4.87",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 26516
           }
@@ -325,7 +149,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 344165,
+        "popularity": 344892,
         "bracketTag": "E",
         "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
         "manaNeeded": "",
@@ -407,17 +231,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.85",
-          "cardmarket": "2.04",
-          "cardkingdom": "5.08"
+          "tcgplayer": "2.82",
+          "cardmarket": "2.02",
+          "cardkingdom": "5.28"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 29370
           },
@@ -464,7 +285,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 36571,
+        "popularity": 36594,
         "bracketTag": "S",
         "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{1}",
@@ -546,20 +367,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "55.20",
-          "cardmarket": "38.02",
+          "tcgplayer": "55.52",
+          "cardmarket": "38.08",
           "cardkingdom": "68.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "UR",
         "includes": [
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
           {
             "id": 30144
           }
@@ -612,136 +427,12 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 15338,
+        "popularity": 15412,
         "bracketTag": "R",
         "description": "Activate Quicksilver Elemental by paying {U}, causing it to gain Vivi's activated abilities until end of turn.\nActivate Quicksilver Elemental using Vivi's ability by paying {0}, adding {U}{U/R}{U/R}.\nRepeat.",
         "manaNeeded": "{U}",
         "variantCount": 1,
         "manaValueNeeded": 1,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
-      },
-      {
-        "id": "553-7164",
-        "of": [
-          {
-            "id": 31890
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 553,
-              "name": "Approach of the Second Sun",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "e4125377-34c0-4b54-bdf8-4e88f5d24565",
-              "typeLine": "Sorcery",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.png?1783936543",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1783936543"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 7164,
-              "name": "Solve the Equation",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "f02682f0-26c0-4032-9df3-273b6a45d0a8",
-              "typeLine": "Sorcery",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.png?1783927375",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "11.45",
-          "cardmarket": "5.24",
-          "cardkingdom": "11.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WU",
-        "includes": [
-          {
-            "id": 31890
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2,
-              "name": "Win the game",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": true,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 10376,
-        "bracketTag": "C",
-        "description": "Cast Approach of the Second Sun by paying {6}{W}, causing you to gain 7 life and put Approach of the Second Sun into your library seventh from the top.\nCast Solve the Equation by paying {U}, searching your library for Approach of the Second Sun and putting it into your hand.\nCast Approach of the Second Sun by paying {6}{W}, causing you to win the game.",
-        "manaNeeded": "{14}{W}{W}{U}",
-        "variantCount": 1,
-        "manaValueNeeded": 17,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
       },
@@ -818,8 +509,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.48",
-          "cardmarket": "4.78",
+          "tcgplayer": "4.47",
+          "cardmarket": "4.71",
           "cardkingdom": "9.78"
         },
         "status": "OK",
@@ -881,7 +572,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 8257,
+        "popularity": 8255,
         "bracketTag": "S",
         "description": "Cast Dramatic Reversal by paying {1}{U}.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of nonland permanents by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Dramatic Reversal.\nResolve the copy of Dramatic Reversal, untapping all nonland permanents you control.\nRepeat from step 3.",
         "manaNeeded": "{1}{U}",
@@ -963,9 +654,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.81",
-          "cardmarket": "0.42",
-          "cardkingdom": "1.58"
+          "tcgplayer": "0.86",
+          "cardmarket": "0.44",
+          "cardkingdom": "1.88"
         },
         "status": "OK",
         "spoiler": false,
@@ -1005,7 +696,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 6266,
+        "popularity": 6288,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Return the Favor by paying {1}{R}{R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Return the Favor, with the copy targeting the original Return the Favor.\nResolve the copy of Return the Favor, copying the original Return the Favor, with the copy targeting the original Return the Favor.\nRepeat step 5.",
         "manaNeeded": "{1}{R}{R} plus enough mana to cast the additional sorcery",
@@ -1087,9 +778,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.42",
-          "cardmarket": "4.95",
-          "cardkingdom": "9.28"
+          "tcgplayer": "5.47",
+          "cardmarket": "5.49",
+          "cardkingdom": "9.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -1141,7 +832,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 4289,
+        "popularity": 4290,
         "bracketTag": "S",
         "description": "Cast your additional instant or sorcery spell, or wait for an opponent to cast one.\nArchmage Emeritus triggers, drawing you a card.\nCast Fury Storm targeting the instant or sorcery spell.\nArchmage Emeritus triggers, drawing you a card.\nFury Storm triggers, copying itself for each time you have cast your commander from your command zone this game and choosing the original copy of Fury Storm as the target.\nArchmage Emeritus triggers for each copy, drawing you a card each time.\nResolve a Fury Storm copy, copying Fury Storm and choosing the original Fury Storm as the target.\nArchmage Emeritus triggers, drawing you a card.\nRepeat from step 7.",
         "manaNeeded": "{2}{R}{R}",
@@ -1223,8 +914,8 @@
         ],
         "notes": "If nonland permanents you control can tap to produce at least {3}, this combo nets infinite mana, and you can activate Gogo for larger amounts of mana to copy any other abilities as desired.",
         "prices": {
-          "tcgplayer": "6.09",
-          "cardmarket": "4.64",
+          "tcgplayer": "6.59",
+          "cardmarket": "4.50",
           "cardkingdom": "9.98"
         },
         "status": "OK",
@@ -1286,7 +977,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 3951,
+        "popularity": 3959,
         "bracketTag": "S",
         "description": "At the beginning of your end step, Unstoppable Plan triggers.\nHolding priority, activate any number of nonland permanents by tapping them, adding at least {2}.\nActivate Gogo by paying {2} and tapping it, copying Unstoppable Plan's trigger.\nResolve the copy of Unstoppable Plan's ability, untapping all nonland permanents you control.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -1369,7 +1060,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.51",
-          "cardmarket": "0.28",
+          "cardmarket": "0.29",
           "cardkingdom": "1.08"
         },
         "status": "OK",
@@ -1410,7 +1101,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 3949,
+        "popularity": 3944,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Expansion by paying {U/R}{U/R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Expansion, with the copy targeting the original Expansion.\nResolve the copy of Expansion, copying the original Expansion, with the copy targeting the original Expansion.\nRepeat step 5.",
         "manaNeeded": "{U/R}{U/R} plus enough mana to cast the additional sorcery",
@@ -1492,8 +1183,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "3.26",
-          "cardmarket": "2.06",
+          "tcgplayer": "3.25",
+          "cardmarket": "1.97",
           "cardkingdom": "5.08"
         },
         "status": "OK",
@@ -1534,7 +1225,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3470,
+        "popularity": 3463,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Reverberate by paying {R}{R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Reverberate, with the copy targeting the original Reverberate.\nResolve the copy of Reverberate, copying the original Reverberate, with the copy targeting the original Reverberate.\nRepeat step 5.",
         "manaNeeded": "{R}{R} plus enough mana to cast the additional sorcery",
@@ -1542,354 +1233,6 @@
         "manaValueNeeded": 2,
         "easyPrerequisites": "",
         "notablePrerequisites": "You have not cast an instant or sorcery spell this turn.\nYou have a sorcery card in hand."
-      },
-      {
-        "id": "2196-3075-3368",
-        "of": [
-          {
-            "id": 4548
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 3075,
-              "name": "Mizzix of the Izmagnus",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "f787c6cf-a4ff-487b-a7b0-0f516e68510a",
-              "typeLine": "Legendary Creature — Goblin Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.png?1783915612",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2196,
-              "name": "Frantic Search",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.png?1783904806",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3368,
-              "name": "Reiterate",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "38394ee3-6726-4f91-bc25-36bce0c6aab9",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.png?1783927791",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/9/99302c41-434f-41ff-a61a-2c3681a0c135.jpg?1783927791"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "20.52",
-          "cardmarket": "6.82",
-          "cardkingdom": "24.97"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "UR",
-        "includes": [
-          {
-            "id": 26878
-          },
-          {
-            "id": 4548
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 61,
-              "name": "Infinite draw triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 62,
-              "name": "Infinite looting",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 36,
-              "name": "Infinite self-discard triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 110,
-              "name": "Near-infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 98,
-              "name": "Near-infinite mana lands you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 68,
-              "name": "Near-infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": false,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 2923,
-        "bracketTag": "E",
-        "description": "Cast Frantic Search by paying {U}.\nHolding priority, activate up to three lands by tapping them, adding at least {1}{R}{R}.\nCast Reiterate with buyback by paying {R}{R}, creating a copy of Frantic Search and returning Reiterate to your hand.\nResolve the Frantic Search copy, causing you to loot twice and untap up to three lands that can tap to produce at least {1}{R}{R}.\nRepeat from step 2.",
-        "manaNeeded": "{U}",
-        "variantCount": 1,
-        "manaValueNeeded": 1,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You have at least four experience counters.\nYou control up to three lands that can tap to produce at least {1}{R}{R}."
-      },
-      {
-        "id": "2627-4067",
-        "of": [
-          {
-            "id": 60
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4067,
-              "name": "Mind Over Matter",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "656afde2-cdf3-4907-a0fc-7ac93f5d3e03",
-              "typeLine": "Enchantment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.png?1783946523",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2627,
-              "name": "Azami, Lady of Scrolls",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "0f8b97fe-3e5e-47c2-9a9d-7f77482aa159",
-              "typeLine": "Legendary Creature — Human Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.png?1783915706",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "47.43",
-          "cardmarket": "29.31",
-          "cardkingdom": "51.28"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 60
-          },
-          {
-            "id": 26878
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 61,
-              "name": "Infinite draw triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 62,
-              "name": "Infinite looting",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 36,
-              "name": "Infinite self-discard triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": true,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 2639,
-        "bracketTag": "S",
-        "description": "Activate Azami by tapping it, causing you to draw a card.\nActivate Mind Over Matter by discarding a card, untapping Azami.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 20,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
       },
       {
         "id": "4285-5959",
@@ -1965,7 +1308,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "1.14",
-          "cardmarket": "1.33",
+          "cardmarket": "1.47",
           "cardkingdom": "2.58"
         },
         "status": "OK",
@@ -2006,7 +1349,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 2617,
+        "popularity": 2616,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Increasing Vengeance by paying {R}{R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Increasing Vengeance, with the copy targeting the original Increasing Vengeance.\nResolve the copy of Increasing Vengeance, copying the original Increasing Vengeance, with the copy targeting the original Increasing Vengeance.\nRepeat step 5.",
         "manaNeeded": "{R}{R} plus enough mana to cast the additional sorcery",
@@ -2088,8 +1431,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "8.76",
-          "cardmarket": "6.86",
+          "tcgplayer": "8.79",
+          "cardmarket": "6.79",
           "cardkingdom": "15.98"
         },
         "status": "OK",
@@ -2172,7 +1515,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 2604,
+        "popularity": 2607,
         "bracketTag": "S",
         "description": "Cast Great Train Heist by paying at least {2}{R}{R}, choosing its first mode and optionally its second and/or third modes.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of creatures by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Great Train Heist.\nResolve the copy of Great Train Heist, untapping all creatures you control and causing you to get an additional combat phase after this one if it is your combat phase, along with any other mode(s) that were chosen.\nRepeat from step 3.",
         "manaNeeded": "{2}{R}{R} at least",
@@ -2254,8 +1597,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.00",
-          "cardmarket": "1.24",
+          "tcgplayer": "2.24",
+          "cardmarket": "1.33",
           "cardkingdom": "3.58"
         },
         "status": "OK",
@@ -2296,7 +1639,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 2603,
+        "popularity": 2593,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Flare of Duplication by paying {1}{R}{R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Flare of Duplication, with the copy targeting the original Flare of Duplication.\nResolve the copy of Flare of Duplication, copying the original Flare of Duplication, with the copy targeting the original Flare of Duplication.\nRepeat step 5.",
         "manaNeeded": "{1}{R}{R} plus enough mana to cast the additional sorcery",
@@ -2378,9 +1721,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "19.37",
-          "cardmarket": "6.47",
-          "cardkingdom": "22.58"
+          "tcgplayer": "19.66",
+          "cardmarket": "7.88",
+          "cardkingdom": "23.58"
         },
         "status": "OK",
         "spoiler": false,
@@ -2420,7 +1763,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1911,
+        "popularity": 1913,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Reiterate by paying {1}{R}{R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Reiterate, with the copy targeting the original Reiterate.\nResolve the copy of Reiterate, copying the original Reiterate, with the copy targeting the original Reiterate.\nRepeat step 5.",
         "manaNeeded": "{1}{R}{R} plus enough mana to cast the additional sorcery",
@@ -2503,7 +1846,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "6.80",
-          "cardmarket": "1.94",
+          "cardmarket": "2.27",
           "cardkingdom": "10.08"
         },
         "status": "OK",
@@ -2544,7 +1887,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1481,
+        "popularity": 1483,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Twincast by paying {U}{U}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Twincast, with the copy targeting the original Twincast.\nResolve the copy of Twincast, copying the original Twincast, with the copy targeting the original Twincast.\nRepeat step 5.",
         "manaNeeded": "{U}{U} plus enough mana to cast the additional sorcery",
@@ -2626,20 +1969,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "36.92",
-          "cardmarket": "31.63",
-          "cardkingdom": "48.48"
+          "tcgplayer": "37.45",
+          "cardmarket": "32.18",
+          "cardkingdom": "47.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "UR",
         "includes": [
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
           {
             "id": 27630
           },
@@ -2647,13 +1984,7 @@
             "id": 30110
           },
           {
-            "id": 31074
-          },
-          {
             "id": 32862
-          },
-          {
-            "id": 33285
           }
         ],
         "produces": [
@@ -2722,7 +2053,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1469,
+        "popularity": 1473,
         "bracketTag": "S",
         "description": "Activate Vivi by paying {0}, adding at least {U}{U}.\nActivate Vivi by paying {1}{U}, blinking it.\nWhen Vivi enters the battlefield, Deadeye Navigator's soulbond ability triggers, repairing it and Vivi.\nRepeat.",
         "manaNeeded": "",
@@ -2804,8 +2135,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "12.62",
-          "cardmarket": "10.32",
+          "tcgplayer": "12.68",
+          "cardmarket": "10.25",
           "cardkingdom": "22.98"
         },
         "status": "OK",
@@ -2867,7 +2198,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1338,
+        "popularity": 1374,
         "bracketTag": "O",
         "description": "Cast Insurrection by paying {5}{R}{R}{R}.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of creatures by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Insurrection.\nResolve the copy of Insurrection, untapping all creatures you control.\nRepeat from step 3.",
         "manaNeeded": "{5}{R}{R}{R}",
@@ -2875,157 +2206,6 @@
         "manaValueNeeded": 8,
         "easyPrerequisites": "",
         "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
-      },
-      {
-        "id": "771-1328",
-        "of": [
-          {
-            "id": 1705
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1328,
-              "name": "Spellbinder",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "da50989e-4fd4-4353-afd5-9c1354330ec2",
-              "typeLine": "Artifact — Equipment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/d/4d193d4f-1beb-4938-b3fb-b2e96d0c9ec4.png?1783944418",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/d/4d193d4f-1beb-4938-b3fb-b2e96d0c9ec4.jpg?1783944418",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/d/4d193d4f-1beb-4938-b3fb-b2e96d0c9ec4.jpg?1783944418",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/d/4d193d4f-1beb-4938-b3fb-b2e96d0c9ec4.jpg?1783944418",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/d/4d193d4f-1beb-4938-b3fb-b2e96d0c9ec4.jpg?1783944418"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 771,
-              "name": "Savage Beating",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "E"
-            ],
-            "exileCardState": "exiled by Spellbinder",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "15.14",
-          "cardmarket": "5.13",
-          "cardkingdom": "14.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "R",
-        "includes": [
-          {
-            "id": 1705
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 13,
-              "name": "Infinite damage",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": true,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 989,
-        "bracketTag": "S",
-        "description": "Declare the creature with Spellbinder equipped as an attacker, attacking an opponent unable to block it.\nDeal combat damage with the creature, triggering Spellbinder, casting a copy of Savage Beating without paying its mana cost.\nResolve Savage Beating, untapping all creatures you control and getting an additional combat phase after this one.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Spellbinder attached to a creature that can attack this turn and that cannot be blocked by an opponent."
       },
       {
         "id": "5941-5959",
@@ -3101,7 +2281,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.51",
-          "cardmarket": "0.36",
+          "cardmarket": "0.32",
           "cardkingdom": "1.18"
         },
         "status": "OK",
@@ -3224,8 +2404,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.65",
-          "cardmarket": "4.42",
+          "tcgplayer": "5.26",
+          "cardmarket": "4.29",
           "cardkingdom": "6.68"
         },
         "status": "OK",
@@ -3278,7 +2458,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 843,
+        "popularity": 847,
         "bracketTag": "R",
         "description": "Activate Magosi's third ability by tapping it, removing an eon counter from it and returning it from the battlefield to your hand.\nHolding priority, activate Gogo by paying {4} and tapping it, copying Magosi's ability twice.\nResolve all Magosi abilities, causing you to take three extra turns after this one.\nPlay Magosi from your hand.\nMove to your first extra turn.\nActivate Magosi's second ability by paying {U} and tapping it, putting an eon counter on it and causing you to skip your next turn.\nMove to your third extra turn, as your second extra turn will be skipped due to Magosi's ability.\nRepeat.",
         "manaNeeded": "{3}{U} each turn at most",
@@ -3360,8 +2540,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.74",
-          "cardmarket": "6.45",
+          "tcgplayer": "7.30",
+          "cardmarket": "6.66",
           "cardkingdom": "9.98"
         },
         "status": "OK",
@@ -3414,7 +2594,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 818,
+        "popularity": 821,
         "bracketTag": "R",
         "description": "Activate Magistrate Scepter's second ability by tapping it and removing three charge counters from it.\nHolding priority, activate Gogo by paying {6} and tapping it, copying Magistrate Scepter's ability three times.\nResolve all Magistrate Scepter abilities, causing you to take four extra turns after this one.\nMove to your first extra turn.\nActivate Magistrate Scepter's first ability by paying {4} and tapping it, putting a charge counter on it.\nRepeat steps 4 and 5 during your second and third extra turns.\nRepeat from step 1 during your fourth extra turn.",
         "manaNeeded": "{6} at most each turn",
@@ -3496,8 +2676,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.24",
-          "cardmarket": "4.35",
+          "tcgplayer": "4.28",
+          "cardmarket": "4.26",
           "cardkingdom": "9.48"
         },
         "status": "OK",
@@ -3559,7 +2739,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 623,
+        "popularity": 632,
         "bracketTag": "S",
         "description": "Cast Flying Crane Technique by paying {3}{U}{R}{W}.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of creatures by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Flying Crane Technique.\nResolve the copy of Flying Crane Technique, untapping all creatures you control.\nRepeat from step 3.",
         "manaNeeded": "{3}{U}{R}{W}",
@@ -3641,8 +2821,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.85",
-          "cardmarket": "0.50",
+          "tcgplayer": "0.86",
+          "cardmarket": "0.61",
           "cardkingdom": "1.28"
         },
         "status": "OK",
@@ -3683,7 +2863,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 467,
+        "popularity": 466,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Insidious Will by paying {2}{U}{U}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Insidious Will, with the copy targeting the original Insidious Will.\nResolve the copy of Insidious Will, copying the original Insidious Will, with the copy targeting the original Insidious Will.\nRepeat step 5.",
         "manaNeeded": "{2}{U}{U} plus enough mana to cast the additional sorcery",
@@ -3765,9 +2945,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "33.56",
-          "cardmarket": "13.38",
-          "cardkingdom": "28.58"
+          "tcgplayer": "33.55",
+          "cardmarket": "13.05",
+          "cardkingdom": "30.58"
         },
         "status": "OK",
         "spoiler": false,
@@ -3890,7 +3070,7 @@
         "notes": "You can choose both modes if you control a commander as you cast Will of the Temur to get infinite card draw for any number of players.",
         "prices": {
           "tcgplayer": "5.65",
-          "cardmarket": "4.21",
+          "cardmarket": "3.93",
           "cardkingdom": "6.48"
         },
         "status": "OK",
@@ -3905,9 +3085,6 @@
           },
           {
             "id": 29632
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -3976,7 +3153,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 389,
+        "popularity": 388,
         "bracketTag": "S",
         "description": "Cast Will of the Temur by paying its mana cost, targeting a creature you control.\nHolding priority, cast Dualcaster Mage by paying {1}{R}{R}.\nWhen Dualcaster Mage enters the battlefield, it triggers, copying Will of the Temur, targeting Dualcaster Mage.\nResolve the copy of Will of the Temur, creating a token copy of Dualcaster Mage.\nRepeat from step 3.",
         "manaNeeded": "{1}{R}{R}",
@@ -4059,7 +3236,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.46",
-          "cardmarket": "0.29",
+          "cardmarket": "0.30",
           "cardkingdom": "1.08"
         },
         "status": "OK",
@@ -4100,7 +3277,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 367,
+        "popularity": 366,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Cooperate from your graveyard by paying {2}{U}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Cooperate, with the copy targeting the original Cooperate.\nResolve the copy of Cooperate, copying the original Cooperate, with the copy targeting the original Cooperate.\nRepeat step 5.",
         "manaNeeded": "{2}{U} plus enough mana to cast the additional sorcery",
@@ -4108,6 +3285,148 @@
         "manaValueNeeded": 3,
         "easyPrerequisites": "",
         "notablePrerequisites": "You have not cast an instant or sorcery spell this turn.\nYou have a sorcery card in hand."
+      },
+      {
+        "id": "6078-6657",
+        "of": [
+          {
+            "id": 31512
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 6078,
+              "name": "The Fifth Doctor",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "992ddd9f-e0db-4383-909c-6dacca41d188",
+              "typeLine": "Legendary Creature — Time Lord Doctor",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.png?1783914636",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 6657,
+              "name": "Gogo, Master of Mimicry",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "61586052-7d69-489c-84c4-0359228d131b",
+              "typeLine": "Legendary Creature — Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.png?1783906636",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": "without summoning sickness"
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "4.50",
+          "cardmarket": "3.65",
+          "cardkingdom": "6.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "WU",
+        "includes": [
+          {
+            "id": 31512
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2287,
+              "name": "Infinite +1/+1 counters on certain creatures",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2127,
+              "name": "Infinite mana creatures you control can produce except ones that attacked or entered the battlefield this turn",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2128,
+              "name": "Infinite untap of creatures you control except ones that attacked or entered the battlefield this turn",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 193,
+        "bracketTag": "S",
+        "description": "At the beginning of your end step, The Fifth Doctor triggers.\nHolding priority, activate any number of creatures you control by tapping them, adding at least {2}.\nActivate Gogo by paying {2} and tapping it, copying The Fifth Doctor's trigger.\nResolve the copy of The Fifth Doctor's trigger, untapping all creatures you control that didn't enter or attack this turn and putting a +1/+1 counter on them.\nRepeat from step 2.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control creatures that together can tap for at least {2} and didn't attack or enter this turn.\nGogo didn't enter this turn."
       },
       {
         "id": "141-6471",
@@ -4184,7 +3503,7 @@
         "notes": "You can choose both modes if you control a commander as you cast Will of the Temur to get infinite card draw for any number of players.",
         "prices": {
           "tcgplayer": "2.93",
-          "cardmarket": "1.79",
+          "cardmarket": "1.94",
           "cardkingdom": "4.48"
         },
         "status": "OK",
@@ -4196,9 +3515,6 @@
           },
           {
             "id": 29632
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -4276,7 +3592,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 188,
+        "popularity": 191,
         "bracketTag": "S",
         "description": "Cast Will of the Temur by paying its mana cost, targeting a creature you control.\nHolding priority, cast Naru Meha either from your hand or from the command zone by paying {2}{U}{U} plus commander tax, if applicable.\nWhen Naru Meha enters the battlefield, it triggers, copying Will of the Temur, targeting Naru Meha.\nResolve the copy of Will of the Temur, creating a token copy of Naru Meha.\nPut either Naru Meha into your graveyard due to the legend rule.\nRepeat from step 3.",
         "manaNeeded": "{2}{U}{U} plus enough mana to pay for commander tax, if applicable",
@@ -4284,148 +3600,6 @@
         "manaValueNeeded": 4,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control at least one creature.\nYou have enough mana to cast Will of the Temur"
-      },
-      {
-        "id": "6078-6657",
-        "of": [
-          {
-            "id": 31512
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 6078,
-              "name": "The Fifth Doctor",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "992ddd9f-e0db-4383-909c-6dacca41d188",
-              "typeLine": "Legendary Creature — Time Lord Doctor",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.png?1783914636",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/f/2f548f4b-77b9-47bb-b262-a851fdf0124f.jpg?1783914636"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 6657,
-              "name": "Gogo, Master of Mimicry",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "61586052-7d69-489c-84c4-0359228d131b",
-              "typeLine": "Legendary Creature — Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.png?1783906636",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/c/cce4eb99-d960-4ab7-911a-bb4ea74d1775.jpg?1783906636"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "without summoning sickness"
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "3.90",
-          "cardmarket": "3.82",
-          "cardkingdom": "6.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WU",
-        "includes": [
-          {
-            "id": 31512
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2287,
-              "name": "Infinite +1/+1 counters on certain creatures",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2127,
-              "name": "Infinite mana creatures you control can produce except ones that attacked or entered the battlefield this turn",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2128,
-              "name": "Infinite untap of creatures you control except ones that attacked or entered the battlefield this turn",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 188,
-        "bracketTag": "S",
-        "description": "At the beginning of your end step, The Fifth Doctor triggers.\nHolding priority, activate any number of creatures you control by tapping them, adding at least {2}.\nActivate Gogo by paying {2} and tapping it, copying The Fifth Doctor's trigger.\nResolve the copy of The Fifth Doctor's trigger, untapping all creatures you control that didn't enter or attack this turn and putting a +1/+1 counter on them.\nRepeat from step 2.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control creatures that together can tap for at least {2} and didn't attack or enter this turn.\nGogo didn't enter this turn."
       },
       {
         "id": "151-5803",
@@ -4500,8 +3674,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.12",
-          "cardmarket": "4.45",
+          "tcgplayer": "4.18",
+          "cardmarket": "4.35",
           "cardkingdom": "9.48"
         },
         "status": "OK",
@@ -4530,10 +3704,10 @@
             "id": 29280
           },
           {
-            "id": 29279
+            "id": 27870
           },
           {
-            "id": 27870
+            "id": 29279
           },
           {
             "id": 29748
@@ -4718,8 +3892,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.81",
-          "cardmarket": "7.21",
+          "tcgplayer": "7.14",
+          "cardmarket": "7.20",
           "cardkingdom": "10.37"
         },
         "status": "OK",
@@ -4787,7 +3961,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 84,
+        "popularity": 83,
         "bracketTag": "E",
         "description": "Put any triggered and/or activated ability onto the stack.\nHolding priority, cast Vantress Visions by paying {1}{U}, targeting the activated or triggered ability.\nAlania and Veyran trigger twice.\nResolve both Veyran triggers, giving it +2/+2 until end of turn.\nResolve the first Alania trigger, choosing to have an opponent draw a card and copying Vantress Visions, with the copy targeting Alania's remaining trigger.\nVeyran triggers twice, giving it +2/+2 until end of turn.\nResolve the copy of Vantress Visions, copying Alania's trigger.\nRepeat from step 5.",
         "manaNeeded": "{1}{U}",
@@ -4795,169 +3969,6 @@
         "manaValueNeeded": 2,
         "easyPrerequisites": "",
         "notablePrerequisites": "You have a way to put an activated and/or a triggered ability onto the stack.\nYou have not cast an instant spell this turn."
-      },
-      {
-        "id": "249-771",
-        "of": [
-          {
-            "id": 7445
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 249,
-              "name": "Zethi, Arcane Blademaster",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "ac136d46-32b7-4222-a840-b8be011c1872",
-              "typeLine": "Legendary Creature — Human Soldier",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/7/87b56584-8a61-40bc-99b5-7434a681fcdc.png?1783917773",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/7/87b56584-8a61-40bc-99b5-7434a681fcdc.jpg?1783917773",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/7/87b56584-8a61-40bc-99b5-7434a681fcdc.jpg?1783917773",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/7/87b56584-8a61-40bc-99b5-7434a681fcdc.jpg?1783917773",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/7/87b56584-8a61-40bc-99b5-7434a681fcdc.jpg?1783917773"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 771,
-              "name": "Savage Beating",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "E"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "11.59",
-          "cardmarket": "5.49",
-          "cardkingdom": "13.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "URW",
-        "includes": [
-          {
-            "id": 27045
-          },
-          {
-            "id": 7445
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 65,
-        "bracketTag": "S",
-        "description": "Declare Zethi as an attacker, attacking an opponent unable to block and kill it.\nZethi triggers.\nHolding priority, activate all mana-producing creatures you control by tapping them, adding at least {3}{R}{R}.\nResolve the Zethi trigger, causing you to pay {3}{R}{R} to cast a copy of Savage Beating.\nResolve the Savage Beating copy, untapping all creatures you control and causing you to get an additional combat phase after this one.\nRepeat each combat phase.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Savage Beating exiled with a kick counter on it.\nZethi does not have summoning sickness.\nAn opponent is unable to block and kill Zethi.\nCreatures you control can tap to produce at least {3}{R}{R}."
       },
       {
         "id": "5803-5892",
@@ -5032,8 +4043,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.14",
-          "cardmarket": "4.47",
+          "tcgplayer": "4.19",
+          "cardmarket": "4.37",
           "cardkingdom": "9.38"
         },
         "status": "OK",
@@ -5177,8 +4188,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.32",
-          "cardmarket": "4.79",
+          "tcgplayer": "4.38",
+          "cardmarket": "4.72",
           "cardkingdom": "9.58"
         },
         "status": "OK",
@@ -5248,179 +4259,6 @@
         "manaValueNeeded": 2,
         "easyPrerequisites": "",
         "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
-      },
-      {
-        "id": "1418-5334-5959",
-        "of": [
-          {
-            "id": 28477
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 5959,
-              "name": "Alania, Divergent Storm",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "63d50d5e-56de-44c4-b906-b2a21a56e3f3",
-              "typeLine": "Legendary Creature — Otter Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/3/436d6a84-4cea-4ca7-94aa-9d08280652af.png?1783910801",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/3/436d6a84-4cea-4ca7-94aa-9d08280652af.jpg?1783910801",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/3/436d6a84-4cea-4ca7-94aa-9d08280652af.jpg?1783910801",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/3/436d6a84-4cea-4ca7-94aa-9d08280652af.jpg?1783910801",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/3/436d6a84-4cea-4ca7-94aa-9d08280652af.jpg?1783910801"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 1418,
-              "name": "Virtue of Knowledge // Vantress Visions",
-              "faces": 2,
-              "spoiler": false,
-              "oracleId": "f0bbcabf-29e7-4c7e-893f-86b64d3620a9",
-              "typeLine": "Enchantment // Instant — Adventure",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/f/df606cf5-67dc-46f4-8c79-1d2f1d054391.png?1783915112",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/f/df606cf5-67dc-46f4-8c79-1d2f1d054391.jpg?1783915112",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/f/df606cf5-67dc-46f4-8c79-1d2f1d054391.jpg?1783915112",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/f/df606cf5-67dc-46f4-8c79-1d2f1d054391.jpg?1783915112",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/f/df606cf5-67dc-46f4-8c79-1d2f1d054391.jpg?1783915112"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 5334,
-              "name": "Roaming Throne",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "3640c29b-1534-4952-b297-619ade948431",
-              "typeLine": "Artifact Creature — Golem",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.png?1783913723",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "50.77",
-          "cardmarket": "38.29",
-          "cardkingdom": "67.57"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "UR",
-        "includes": [
-          {
-            "id": 28477
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1000,
-              "name": "Infinite draw triggers for any number of opponents",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1001,
-              "name": "Infinite card draw for any number of opponents",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": true,
-          "vintage": true,
-          "standard": true,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": true,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 43,
-        "bracketTag": "E",
-        "description": "Put any triggered and/or activated ability onto the stack.\nHolding priority, cast Vantress Visions by paying {1}{U}, targeting the activated or triggered ability, triggering Alania twice.\nResolve the first Alania trigger, choosing to have an opponent draw a card and copying Vantress Visions, with the copy targeting Alania's remaining trigger.\nResolve the copy of Vantress Visions, copying Alania's trigger.\nRepeat from step 3.",
-        "manaNeeded": "{1}{U}",
-        "variantCount": 1,
-        "manaValueNeeded": 2,
-        "easyPrerequisites": "\"Otter\" or \"Wizard\" chosen with Roaming Throne.",
-        "notablePrerequisites": "You have a way to put an activated and/or a triggered ability onto the stack.\nYou have not cast an instant spell this turn."
       },
       {
         "id": "5107-5803",
@@ -5495,8 +4333,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.14",
-          "cardmarket": "4.49",
+          "tcgplayer": "4.21",
+          "cardmarket": "4.40",
           "cardkingdom": "9.34"
         },
         "status": "OK",
@@ -5580,151 +4418,6 @@
         "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
       },
       {
-        "id": "822-5803",
-        "of": [
-          {
-            "id": 27658
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 5803,
-              "name": "Kitsa, Otterball Elite",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "16414460-11ce-481d-ab54-6f0e0ea7d83d",
-              "typeLine": "Legendary Creature — Otter Wizard",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.png?1783910847",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 822,
-              "name": "Roar of the Kha",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "9dddb69a-00a3-448b-8f8b-8e50cdd70d57",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.png?1783944560",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "4.14",
-          "cardmarket": "4.49",
-          "cardkingdom": "9.34"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WU",
-        "includes": [
-          {
-            "id": 27045
-          },
-          {
-            "id": 27658
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 18,
-        "bracketTag": "S",
-        "description": "Cast Roar of the Kha by paying {1}{W}.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of creatures by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Roar of the Kha.\nResolve the copy of Roar of the Kha, untapping all creatures you control.\nRepeat from step 3.",
-        "manaNeeded": "{1}{W}",
-        "variantCount": 15,
-        "manaValueNeeded": 2,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
-      },
-      {
         "id": "2084-6471",
         "of": [
           {
@@ -5797,8 +4490,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.66",
-          "cardmarket": "1.62",
+          "tcgplayer": "2.60",
+          "cardmarket": "1.64",
           "cardkingdom": "3.48"
         },
         "status": "OK",
@@ -5807,9 +4500,6 @@
         "includes": [
           {
             "id": 23883
-          },
-          {
-            "id": 30965
           }
         ],
         "produces": [
@@ -5842,7 +4532,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 17,
+        "popularity": 18,
         "bracketTag": "R",
         "description": "Cast Will of the Temur by paying its mana cost, creating a token copy of Mirror-Mad Phantasm.\nActivate the Mirror-Mad Phantasm token by paying {1}{U}, shuffling the token into your library and milling your entire library due to it not having a card named Mirror-Mad Phantasm in it.",
         "manaNeeded": "{1}{U} plus enough mana to cast the copy spell",
@@ -5850,6 +4540,151 @@
         "manaValueNeeded": 2,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
+      },
+      {
+        "id": "822-5803",
+        "of": [
+          {
+            "id": 27658
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 5803,
+              "name": "Kitsa, Otterball Elite",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "16414460-11ce-481d-ab54-6f0e0ea7d83d",
+              "typeLine": "Legendary Creature — Otter Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.png?1783910847",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1783910847"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 822,
+              "name": "Roar of the Kha",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "9dddb69a-00a3-448b-8f8b-8e50cdd70d57",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.png?1783944560",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/c/dc697a4c-f219-46fd-90f2-63c638cd5ef7.jpg?1783944560"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "4.20",
+          "cardmarket": "4.37",
+          "cardkingdom": "9.34"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "WU",
+        "includes": [
+          {
+            "id": 27045
+          },
+          {
+            "id": 27658
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 57,
+              "name": "Infinite untap of creatures you control",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 65,
+              "name": "Infinite mana creatures you control can produce",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 77,
+              "name": "Infinite magecraft triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 18,
+        "bracketTag": "S",
+        "description": "Cast Roar of the Kha by paying {1}{W}.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of creatures by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Roar of the Kha.\nResolve the copy of Roar of the Kha, untapping all creatures you control.\nRepeat from step 3.",
+        "manaNeeded": "{1}{W}",
+        "variantCount": 15,
+        "manaValueNeeded": 2,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Kitsa does not have summoning sickness.\nKitsa has power 2 or greater.\nCreatures you control can tap to produce at least {2}."
       },
       {
         "id": "1436-5803",
@@ -5924,8 +4759,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.15",
-          "cardmarket": "4.62",
+          "tcgplayer": "4.23",
+          "cardmarket": "4.50",
           "cardkingdom": "9.34"
         },
         "status": "OK",
@@ -6081,8 +4916,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.19",
-          "cardmarket": "4.36",
+          "tcgplayer": "4.26",
+          "cardmarket": "4.29",
           "cardkingdom": "9.34"
         },
         "status": "OK",
@@ -6196,7 +5031,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.28",
-          "cardmarket": "4.30",
+          "cardmarket": "4.41",
           "cardkingdom": "5.99"
         },
         "status": "OK",
@@ -6233,8 +5068,8 @@
             "template": {
               "id": 28,
               "name": "Instant or Sorcery that untaps a Creature",
-              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+o%3A%22untap+%22+%28o%3Acreature+-o%3A%22nonlegendary+creature%22+or+o%3Apermanent+-o%3A%22noncreature+permanent%22%29+-o%3Adestroy%29+legal%3Acommander",
-              "scryfallQuery": "(t:instant or t:sorcery) o:\"untap \" (o:creature -o:\"nonlegendary creature\" or o:permanent -o:\"noncreature permanent\") -o:destroy"
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+otag%3Auntapper-creature%29+legal%3Acommander",
+              "scryfallQuery": "(t:instant or t:sorcery) otag:untapper-creature"
             },
             "zoneLocations": [
               "H"
@@ -6348,8 +5183,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.96",
-          "cardmarket": "2.99",
+          "tcgplayer": "5.62",
+          "cardmarket": "3.50",
           "cardkingdom": "8.28"
         },
         "status": "OK",
@@ -6390,7 +5225,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 10643,
+        "popularity": 10692,
         "bracketTag": "R",
         "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nCast Swords to Plowshares by paying {W}, exiling Jumbo Cactuar and causing you to gain 10,000 life.",
         "manaNeeded": "{W}",
@@ -6398,178 +5233,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "Jumbo Cactuar does not have summoning sickness.",
         "notablePrerequisites": ""
-      },
-      {
-        "id": "771-3976",
-        "of": [
-          {
-            "id": 10967
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 3976,
-              "name": "Magar of the Magic Strings",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "f6fee76b-5c34-4e95-962d-d2b38fcef540",
-              "typeLine": "Legendary Creature — Minotaur Performer",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/6/a6f2ba13-cd72-4f7a-8443-8e3962f2ac46.png?1783920539",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/6/a6f2ba13-cd72-4f7a-8443-8e3962f2ac46.jpg?1783920539",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/6/a6f2ba13-cd72-4f7a-8443-8e3962f2ac46.jpg?1783920539",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/6/a6f2ba13-cd72-4f7a-8443-8e3962f2ac46.jpg?1783920539",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/6/a6f2ba13-cd72-4f7a-8443-8e3962f2ac46.jpg?1783920539"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 771,
-              "name": "Savage Beating",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "G"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "9.40",
-          "cardmarket": "5.24",
-          "cardkingdom": "10.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "BR",
-        "includes": [
-          {
-            "id": 27045
-          },
-          {
-            "id": 10967
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 205,
-              "name": "Infinite combat damage",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 3156,
-        "bracketTag": "S",
-        "description": "Activate Magar by paying {1}{B}{R}, noting Savage Beating and putting it face down as a 3/3 creature.\nOn any other turn, deal combat damage to an opponent with the face down creature.\nThe face down creature triggers, causing you to cast a copy of Savage Beating without paying its mana cost.\nResolve the copy of Savage Beating, causing you to untap all creatures you control and to get an additional combat phase after this one.\nRepeat from step 2.",
-        "manaNeeded": "{1}{B}{R}",
-        "variantCount": 1,
-        "manaValueNeeded": 3,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "An opponent is unable to block creatures you control."
       },
       {
         "id": "326-610",
@@ -6644,8 +5307,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.92",
-          "cardmarket": "5.70",
+          "tcgplayer": "7.07",
+          "cardmarket": "5.97",
           "cardkingdom": "8.78"
         },
         "status": "OK",
@@ -6786,9 +5449,9 @@
         ],
         "notes": "If the opponent already has cards exiled with hit counters, you can reduce Gogo's cost or eliminate Gogo entirely.",
         "prices": {
-          "tcgplayer": "4.29",
-          "cardmarket": "4.35",
-          "cardkingdom": "7.48"
+          "tcgplayer": "4.88",
+          "cardmarket": "4.25",
+          "cardkingdom": "7.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -6828,7 +5491,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 683,
+        "popularity": 686,
         "bracketTag": "S",
         "description": "Deal combat damage to an opponent using Etrata, triggering its ability.\nHolding priority, activate Gogo by paying {4} and tapping it, copying Etrata's trigger twice.\nResolve all Etrata triggers, exiling three creatures an opponent controls and putting hit counters on them, and then causing that opponent to lose the game.",
         "manaNeeded": "{4}",
@@ -6910,8 +5573,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "7.69",
-          "cardmarket": "7.11",
+          "tcgplayer": "7.96",
+          "cardmarket": "7.28",
           "cardkingdom": "10.28"
         },
         "status": "OK",
@@ -7043,8 +5706,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.04",
-          "cardmarket": "5.18",
+          "tcgplayer": "4.63",
+          "cardmarket": "5.04",
           "cardkingdom": "6.98"
         },
         "status": "OK",
@@ -7094,7 +5757,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 311,
+        "popularity": 315,
         "bracketTag": "O",
         "description": "At the beginning of your end step, The Thirteenth Doctor triggers.\nHolding priority, activate any number of creatures you control that have counters on them by tapping them, adding at least {2}.\nActivate Gogo by paying {2} and tapping it, copying The Thirteenth Doctor's trigger.\nResolve the copy of The Thirteenth Doctor's trigger, untapping all creatures you control that have a counter on them.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -7176,9 +5839,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "38.32",
-          "cardmarket": "38.55",
-          "cardkingdom": "47.98"
+          "tcgplayer": "36.40",
+          "cardmarket": "38.07",
+          "cardkingdom": "49.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -7284,7 +5947,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 250,
+        "popularity": 266,
         "bracketTag": "C",
         "description": "Cast Gandalf by paying {5}{U}{U}.\nWhen Gandalf enters, its first ability triggers, as well as its second ability since it's a land due to Ashaya.\nResolve the second trigger, drawing a card and putting a +1/+1 counter on Gandalf.\nResolve the first trigger, blinking Gandalf and up to two other lands you control.\nWhen Gandalf and the lands enter, Gandalf's first ability triggers once and Gandalf's second abilities trigger that many times.\nResolve all triggers from the second ability, drawing that many cards and putting that many +1/+1 counters on Gandalf.\nRepeat from step 4.",
         "manaNeeded": "{5}{U}{U}",
@@ -7366,8 +6029,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.24",
-          "cardmarket": "5.14",
+          "tcgplayer": "5.34",
+          "cardmarket": "5.24",
           "cardkingdom": "10.98"
         },
         "status": "OK",
@@ -7511,8 +6174,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.84",
-          "cardmarket": "1.35",
+          "tcgplayer": "0.88",
+          "cardmarket": "1.47",
           "cardkingdom": "1.64"
         },
         "status": "OK",
@@ -7656,8 +6319,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "47.49",
-          "cardmarket": "39.18",
+          "tcgplayer": "48.03",
+          "cardmarket": "39.82",
           "cardkingdom": "57.98"
         },
         "status": "OK",
@@ -7677,13 +6340,7 @@
             "id": 30111
           },
           {
-            "id": 31074
-          },
-          {
             "id": 32860
-          },
-          {
-            "id": 33285
           }
         ],
         "produces": [
@@ -7752,7 +6409,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 129,
+        "popularity": 128,
         "bracketTag": "S",
         "description": "Activate Vivi by paying {0}, adding at least {U/R}{U/R}{U/R}.\nActivate Emiel by paying {3}, blinking Vivi.\nRepeat.",
         "manaNeeded": "",
@@ -7834,8 +6491,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.61",
-          "cardmarket": "5.95",
+          "tcgplayer": "5.68",
+          "cardmarket": "5.88",
           "cardkingdom": "11.78"
         },
         "status": "OK",
@@ -7979,8 +6636,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.61",
-          "cardmarket": "2.76",
+          "tcgplayer": "1.77",
+          "cardmarket": "2.78",
           "cardkingdom": "3.14"
         },
         "status": "OK",
@@ -8112,8 +6769,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.19",
-          "cardmarket": "4.67",
+          "tcgplayer": "4.24",
+          "cardmarket": "4.55",
           "cardkingdom": "9.48"
         },
         "status": "OK",
@@ -8175,7 +6832,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 8,
+        "popularity": 7,
         "bracketTag": "S",
         "description": "Cast Ready by paying {1}{G}{W}.\nKitsa's prowess ability triggers, giving it +1/+1 until end of turn.\nHolding priority, activate any number of creatures by tapping them, adding at least {2}.\nActivate Kitsa's second ability by paying {2} and tapping it, copying Ready.\nResolve the copy of Ready, untapping all creatures you control.\nRepeat from step 3.",
         "manaNeeded": "{1}{G}{W}",
@@ -8257,20 +6914,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "35.84",
-          "cardmarket": "30.73",
+          "tcgplayer": "36.38",
+          "cardmarket": "31.28",
           "cardkingdom": "45.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "UBRG",
         "includes": [
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
           {
             "id": 32281
           }
@@ -8320,6 +6971,161 @@
         "manaNeeded": "{1}",
         "variantCount": 1,
         "manaValueNeeded": 1,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "2743-6471-6570",
+        "of": [
+          {
+            "id": 30080
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 2743,
+              "name": "Biovisionary",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "e99fde0d-ca28-4a49-abe0-d01cf4e322b6",
+              "typeLine": "Creature — Human Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.png?1783940112",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/0/2000b4e8-7887-454e-9d52-211516613dd0.jpg?1783940112"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 6570,
+              "name": "Mnemonic Deluge",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "56de4cdc-4db0-48ec-8a16-f66086507233",
+              "typeLine": "Sorcery",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.png?1783928856",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 6471,
+              "name": "Will of the Temur",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "ebe1448e-21c5-4b73-8296-03d3e5097c50",
+              "typeLine": "Sorcery",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.png?1783907179",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/2/d236aa15-f60c-4368-b796-4d41e0bc3358.jpg?1783907179"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "G"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "10.64",
+          "cardmarket": "13.32",
+          "cardkingdom": "16.07"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GU",
+        "includes": [
+          {
+            "id": 30080
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2,
+              "name": "Win the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 2,
+        "bracketTag": "E",
+        "description": "Cast Mnemonic Deluge by paying {6}{U}{U}{U}, exiling Will of the Temur and casting three copies of it without paying their mana costs.\nResolve the three Will of the Temur copies, creating three token copies of Biovisionary.\nAt the beginning of your end step, each Biovisionary you control triggers.\nResolve the first trigger, causing you to win the game.",
+        "manaNeeded": "",
+        "variantCount": 25,
+        "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
       },
@@ -8396,8 +7202,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.12",
-          "cardmarket": "4.37",
+          "tcgplayer": "4.18",
+          "cardmarket": "4.30",
           "cardkingdom": "9.34"
         },
         "status": "OK",
@@ -8511,17 +7317,14 @@
         ],
         "notes": "Moritte can only be your commander if the sources from both templates fit within its commander identity.",
         "prices": {
-          "tcgplayer": "0.21",
-          "cardmarket": "0.08",
+          "tcgplayer": "0.22",
+          "cardmarket": "0.07",
           "cardkingdom": "0.35"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GU",
         "includes": [
-          {
-            "id": 31074
-          },
           {
             "id": 32385
           }

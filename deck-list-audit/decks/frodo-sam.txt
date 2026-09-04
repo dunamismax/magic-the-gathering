@@ -69,7 +69,6 @@
 1 Savvy Hunter
 1 Shineshadow Snarl
 1 Shire Shirriff
-1 Shire Terrace
 1 Slip On the Ring
 1 Sol Ring
 1 Stir Up Trouble
@@ -81,6 +80,7 @@
 1 The Battle of Bywater
 1 The Black Gate
 1 The Gaffer
+1 The One Ring
 1 The Shire
 1 Tireless Provisioner
 1 Treebeard, Gracious Host

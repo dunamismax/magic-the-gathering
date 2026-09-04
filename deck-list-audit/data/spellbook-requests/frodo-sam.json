@@ -285,10 +285,6 @@
       "quantity": 1
     },
     {
-      "card": "Shire Terrace",
-      "quantity": 1
-    },
-    {
       "card": "Slip On the Ring",
       "quantity": 1
     },
@@ -330,6 +326,10 @@
     },
     {
       "card": "The Gaffer",
+      "quantity": 1
+    },
+    {
+      "card": "The One Ring",
       "quantity": 1
     },
     {

@@ -8,6 +8,22 @@
     "profile_url": {"type": "string", "format": "uri"},
     "refreshed_on": {"type": "string", "format": "date"},
     "deck_count": {"type": "integer", "minimum": 1},
-    "decks": {"type": "object"}
+    "decks": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["title", "moxfield_id", "source_updated_on", "refreshed_on", "deck_sha256", "export_file", "export_sha256"],
+        "properties": {
+          "title": {"type": "string", "minLength": 1},
+          "moxfield_id": {"type": "string", "minLength": 1},
+          "source_updated_on": {"type": "string", "format": "date"},
+          "refreshed_on": {"type": "string", "format": "date"},
+          "deck_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "export_file": {"type": "string", "minLength": 1},
+          "export_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "sideboard_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+        }
+      }
+    }
   }
 }

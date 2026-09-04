@@ -200,6 +200,58 @@ class AuditTests(unittest.TestCase):
         self.assertFalse(result["valid"])
         self.assertIn("color_identity_violation", {error["code"] for error in result["errors"]})
 
+    def test_rule_zero_off_identity_card_is_explicit_and_valid(self) -> None:
+        blue = card(
+            "Blue Card",
+            oracle_id="blue",
+            type_line="Instant",
+            identity=["U"],
+        )
+        metadata = {
+            "title": "Test",
+            "commanders": ["Test Commander"],
+            "constraints": {
+                "game_changer_max": 3,
+                "rule_zero_cards": ["Blue Card"],
+                "locked_cards": [],
+            },
+        }
+        result = self.audit_text(
+            "98 Swamp\n1 Blue Card\n1 Test Commander\n",
+            extra_cards=[blue],
+            metadata=metadata,
+        )
+        self.assertTrue(result["valid"], result["errors"])
+        self.assertEqual(result["rule_zero_cards"], ["Blue Card"])
+        self.assertEqual(result["identity_violations"][0]["name"], "Blue Card")
+
+    def test_configured_game_changer_bracket_exception_is_explicit_and_valid(self) -> None:
+        ring = card(
+            "Bracket Exception",
+            oracle_id="bracket-exception",
+            type_line="Artifact",
+            identity=["B"],
+            game_changer=True,
+        )
+        metadata = {
+            "title": "Test",
+            "commanders": ["Test Commander"],
+            "constraints": {
+                "game_changer_max": 0,
+                "bracket_exception_cards": ["Bracket Exception"],
+                "rule_zero_cards": [],
+                "locked_cards": [],
+            },
+        }
+        result = self.audit_text(
+            "98 Swamp\n1 Bracket Exception\n1 Test Commander\n",
+            extra_cards=[ring],
+            metadata=metadata,
+        )
+        self.assertTrue(result["valid"], result["errors"])
+        self.assertEqual(result["game_changer_count"], 1)
+        self.assertEqual(result["bracket_exception_cards"], ["Bracket Exception"])
+
     def test_background_pair_is_supported(self) -> None:
         leader = card(
             "Background Leader",
@@ -308,7 +360,7 @@ class CollectionIntegrationTests(unittest.TestCase):
             actual,
             {
                 "Blor the Impervious",
-                "Ekthi, Contaminator Priest",
+                "Darksteel Angel",
                 "Maular, the Next Evolution",
                 "The Theorist, Jace Beleren",
             },

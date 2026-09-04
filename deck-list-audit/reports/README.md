@@ -5,9 +5,9 @@ update themselves when Moxfield lists change.
 
 ## Current
 
-- [`commander-social-audit-2026-09-01.md`](commander-social-audit-2026-09-01.md)
+- [`commander-social-audit-2026-09-04.md`](commander-social-audit-2026-09-04.md)
   — social-power, combo, and disclosure review of the current 10-deck lineup
-- [`commander-bracket-power-evaluation-2026-09-01.md`](commander-bracket-power-evaluation-2026-09-01.md)
+- [`commander-bracket-power-evaluation-2026-09-04.md`](commander-bracket-power-evaluation-2026-09-04.md)
   — bracket assignments and relative 1-10 power ranges for the same exact
   10-deck snapshot
 
@@ -20,6 +20,11 @@ manual prerequisite review. The current reports still treat a database miss as
 evidence rather than proof that no possible interaction exists.
 
 ## Superseded
+
+- [`commander-social-audit-2026-09-01.md`](commander-social-audit-2026-09-01.md)
+  and [`commander-bracket-power-evaluation-2026-09-01.md`](commander-bracket-power-evaluation-2026-09-01.md)
+  — previous 10-deck lineup before Ekthi retired, Notary joined, and three
+  retained decks changed
 
 - [`commander-social-audit-2026-08-30.md`](commander-social-audit-2026-08-30.md)
   — exact seven-deck social review before the three Middle-earth additions

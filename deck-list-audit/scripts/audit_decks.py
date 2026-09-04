@@ -496,6 +496,10 @@ def audit_deck(
     rule_zero_allowed = {
         normalize_name(str(name)) for name in constraints.get("rule_zero_cards") or []
     }
+    bracket_exception_allowed = {
+        normalize_name(str(name))
+        for name in constraints.get("bracket_exception_cards") or []
+    }
     present_names = {
         normalize_name(str(card.get("name", ""))) for _, _, card in resolved_entries
     } | {normalize_name(str(entry["name"])) for entry, _, _ in resolved_entries}
@@ -517,6 +521,7 @@ def audit_deck(
     printed_lands = 0
     modal_land_backs = 0
     game_changers: list[str] = []
+    bracket_exception_cards: list[str] = []
     legality_issues: list[dict[str, Any]] = []
     banned_cards: list[str] = []
     rule_zero_cards: list[str] = []
@@ -535,6 +540,13 @@ def audit_deck(
             modal_land_backs += quantity
         if card.get("game_changer"):
             game_changers.extend([listed_name] * quantity)
+            normalized_card_names = {
+                normalize_name(listed_name),
+                normalize_name(canonical_name),
+                normalize_name(str(card.get("name", ""))),
+            }
+            if normalized_card_names & bracket_exception_allowed:
+                bracket_exception_cards.extend([listed_name] * quantity)
 
         commander_status = (card.get("legalities") or {}).get("commander", "not_legal")
         normalized_card_names = {
@@ -553,7 +565,8 @@ def audit_deck(
             if commander_status == "banned":
                 banned_cards.extend([listed_name] * quantity)
             if approved_rule_zero:
-                rule_zero_cards.extend([listed_name] * quantity)
+                if listed_name not in rule_zero_cards:
+                    rule_zero_cards.extend([listed_name] * quantity)
             else:
                 errors.append(
                     issue(
@@ -576,13 +589,17 @@ def audit_deck(
         if commander_cards and not identity.issubset(commander_identity):
             violation = {"name": listed_name, "identity": sorted(identity)}
             identity_violations.append(violation)
-            errors.append(
-                issue(
-                    "color_identity_violation",
-                    f"{listed_name} is outside the commander's color identity",
-                    **violation,
+            if approved_rule_zero:
+                if listed_name not in rule_zero_cards:
+                    rule_zero_cards.extend([listed_name] * quantity)
+            else:
+                errors.append(
+                    issue(
+                        "color_identity_violation",
+                        f"{listed_name} is outside the commander's color identity",
+                        **violation,
+                    )
                 )
-            )
 
         card_details.append(
             {
@@ -597,14 +614,37 @@ def audit_deck(
         )
 
     game_changer_max = constraints.get("game_changer_max")
-    if game_changer_max is not None and len(game_changers) > int(game_changer_max):
+    uncovered_game_changers = list(game_changers)
+    for exception in bracket_exception_cards:
+        uncovered_game_changers.remove(exception)
+    if game_changer_max is not None and len(uncovered_game_changers) > int(
+        game_changer_max
+    ):
         errors.append(
             issue(
                 "game_changer_limit_exceeded",
-                f"deck has {len(game_changers)} Game Changers; maximum is {game_changer_max}",
-                cards=game_changers,
-                actual=len(game_changers),
+                f"deck has {len(uncovered_game_changers)} unexcepted Game Changers; "
+                f"maximum is {game_changer_max}",
+                cards=uncovered_game_changers,
+                actual=len(uncovered_game_changers),
                 maximum=int(game_changer_max),
+            )
+        )
+
+    present_bracket_exceptions = {
+        normalize_name(name) for name in bracket_exception_cards
+    }
+    missing_bracket_exceptions = sorted(
+        str(name)
+        for name in constraints.get("bracket_exception_cards") or []
+        if normalize_name(str(name)) not in present_bracket_exceptions
+    )
+    if missing_bracket_exceptions:
+        errors.append(
+            issue(
+                "bracket_exception_card_missing",
+                "one or more configured bracket exception cards are absent or are not Game Changers",
+                cards=missing_bracket_exceptions,
             )
         )
 
@@ -622,6 +662,14 @@ def audit_deck(
                 "approved_rule_zero_cards",
                 "deck relies on explicitly approved Rule Zero cards",
                 cards=rule_zero_cards,
+            )
+        )
+    if bracket_exception_cards:
+        warnings.append(
+            issue(
+                "configured_bracket_exceptions",
+                "deck exceeds its ordinary Game Changer ceiling only through explicitly configured cards",
+                cards=bracket_exception_cards,
             )
         )
 
@@ -663,6 +711,7 @@ def audit_deck(
         "effective_land_faces": printed_lands + modal_land_backs,
         "game_changer_count": len(game_changers),
         "game_changers": game_changers,
+        "bracket_exception_cards": bracket_exception_cards,
         "not_commander_legal": [record["name"] for record in legality_issues],
         "legality_issues": legality_issues,
         "banned_cards": banned_cards,

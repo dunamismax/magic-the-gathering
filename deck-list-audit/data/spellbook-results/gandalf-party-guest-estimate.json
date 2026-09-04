@@ -1,5 +1,5 @@
 {
-  "bracketTag": "S",
+  "bracketTag": "E",
   "cards": [
     {
       "card": {
@@ -133,32 +133,6 @@
     },
     {
       "card": {
-        "id": 2627,
-        "name": "Azami, Lady of Scrolls",
-        "oracleId": "0f8b97fe-3e5e-47c2-9a9d-7f77482aa159",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Legendary Creature — Human Wizard",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.png?1783915706",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/a/fa727656-fb33-485b-9378-18b80cad42b9.jpg?1783915706",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 134,
         "name": "Baral, Chief of Compliance",
         "oracleId": "baf80db7-2ca8-4bfc-b5b6-25ed51878dd7",
@@ -196,32 +170,6 @@
         "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
         "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
         "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
-        "id": 2196,
-        "name": "Frantic Search",
-        "oracleId": "16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Instant",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.png?1783904806",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/8/d8c5e52d-57ae-464b-8860-7dd39ebfef64.jpg?1783904806",
         "layoutRotationFront": null,
         "imageUriBackPng": null,
         "imageUriBackLarge": null,
@@ -393,32 +341,6 @@
     },
     {
       "card": {
-        "id": 6596,
-        "name": "Hermes, Overseer of Elpis",
-        "oracleId": "63e2cba7-ec1a-44bf-b915-d2ae75851430",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Legendary Creature — Elder Wizard",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/0/e04a05e5-7bff-46a4-aae1-6713977e6e30.png?1783906363",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/0/e04a05e5-7bff-46a4-aae1-6713977e6e30.jpg?1783906363",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/0/e04a05e5-7bff-46a4-aae1-6713977e6e30.jpg?1783906363",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/0/e04a05e5-7bff-46a4-aae1-6713977e6e30.jpg?1783906363",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/0/e04a05e5-7bff-46a4-aae1-6713977e6e30.jpg?1783906363",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 920,
         "name": "Kaza, Roil Chaser",
         "oracleId": "0b8517c0-0441-4fd9-99ec-2274e57c3cb6",
@@ -549,17 +471,43 @@
     },
     {
       "card": {
-        "id": 3075,
-        "name": "Mizzix of the Izmagnus",
-        "oracleId": "f787c6cf-a4ff-487b-a7b0-0f516e68510a",
+        "id": 8104,
+        "name": "Misty Rainforest",
+        "oracleId": "09dd85aa-47bc-4713-a9b9-8b52ff2285ed",
         "spoiler": false,
         "faces": 1,
-        "typeLine": "Legendary Creature — Goblin Wizard",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.png?1783915612",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/2/82f949d0-41a0-4491-9057-bfb2bb20bdb3.jpg?1783915612",
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.png?1783926795",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1783926795",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1783926795",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1783926795",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/8/88231c0d-0cc8-44ec-bf95-81d1710ac141.jpg?1783926795",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6570,
+        "name": "Mnemonic Deluge",
+        "oracleId": "56de4cdc-4db0-48ec-8a16-f66086507233",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.png?1783928856",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/d/2d0e725b-2250-4189-9682-73461b5cfed2.jpg?1783928856",
         "layoutRotationFront": null,
         "imageUriBackPng": null,
         "imageUriBackLarge": null,
@@ -601,58 +549,6 @@
     },
     {
       "card": {
-        "id": 5334,
-        "name": "Roaming Throne",
-        "oracleId": "3640c29b-1534-4952-b297-619ade948431",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Artifact Creature — Golem",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.png?1783913723",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
-        "id": 771,
-        "name": "Savage Beating",
-        "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Instant",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 5034,
         "name": "Sol Ring",
         "oracleId": "6ad8011d-3471-4369-9d68-b264cc027487",
@@ -664,58 +560,6 @@
         "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
         "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
         "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
-        "id": 7164,
-        "name": "Solve the Equation",
-        "oracleId": "f02682f0-26c0-4032-9df3-273b6a45d0a8",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Sorcery",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.png?1783927375",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1783927375",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
-        "id": 1760,
-        "name": "Surge to Victory",
-        "oracleId": "8ea414c1-88cf-46d4-9a54-6dee9847c537",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Sorcery",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/5/b5345934-60eb-417c-9716-477882c4796d.png?1783903770",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
         "layoutRotationFront": null,
         "imageUriBackPng": null,
         "imageUriBackLarge": null,
@@ -847,191 +691,5 @@
       "extraTurn": false
     }
   ],
-  "combos": [
-    {
-      "combo": {
-        "id": "771-1760",
-        "status": "OK",
-        "uses": [
-          {
-            "card": {
-              "id": 1760,
-              "name": "Surge to Victory",
-              "oracleId": "8ea414c1-88cf-46d4-9a54-6dee9847c537",
-              "spoiler": false,
-              "faces": 1,
-              "typeLine": "Sorcery",
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/5/b5345934-60eb-417c-9716-477882c4796d.png?1783903770",
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/5/b5345934-60eb-417c-9716-477882c4796d.jpg?1783903770",
-              "layoutRotationFront": null,
-              "imageUriBackPng": null,
-              "imageUriBackLarge": null,
-              "imageUriBackNormal": null,
-              "imageUriBackSmall": null,
-              "imageUriBackArtCrop": null
-            },
-            "zoneLocations": [
-              "H"
-            ],
-            "battlefieldCardState": "",
-            "exileCardState": "",
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "mustBeCommander": false,
-            "quantity": 1,
-            "usedFace": null
-          },
-          {
-            "card": {
-              "id": 771,
-              "name": "Savage Beating",
-              "oracleId": "89d1cd45-8148-4396-a9b8-e0f495e94b5b",
-              "spoiler": false,
-              "faces": 1,
-              "typeLine": "Instant",
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.png?1783915643",
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/c/3c979cab-3ae6-43b1-b067-1e5abfc2e2ed.jpg?1783915643",
-              "layoutRotationFront": null,
-              "imageUriBackPng": null,
-              "imageUriBackLarge": null,
-              "imageUriBackNormal": null,
-              "imageUriBackSmall": null,
-              "imageUriBackArtCrop": null
-            },
-            "zoneLocations": [
-              "G"
-            ],
-            "battlefieldCardState": "",
-            "exileCardState": "",
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "mustBeCommander": false,
-            "quantity": 1,
-            "usedFace": null
-          }
-        ],
-        "requires": [],
-        "produces": [
-          {
-            "feature": {
-              "id": 205,
-              "name": "Infinite combat damage",
-              "uncountable": true,
-              "status": "S"
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 19,
-              "name": "Infinite combat phases",
-              "uncountable": true,
-              "status": "S"
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 77,
-              "name": "Infinite magecraft triggers",
-              "uncountable": true,
-              "status": "H"
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "uncountable": true,
-              "status": "S"
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 17,
-              "name": "Infinite storm count",
-              "uncountable": true,
-              "status": "H"
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
-              "uncountable": true,
-              "status": "H"
-            },
-            "quantity": 1
-          }
-        ],
-        "of": [
-          {
-            "id": 10481
-          }
-        ],
-        "includes": [
-          {
-            "id": 27045
-          },
-          {
-            "id": 10481
-          }
-        ],
-        "identity": "R",
-        "manaNeeded": "{4}{R}{R}",
-        "manaValueNeeded": 6,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "An opponent is unable to block and kill creatures you control.",
-        "description": "Cast Surge to Victory by paying {4}{R}{R}, exiling Savage Beating from your graveyard and giving creatures you control +5/+0 until end of turn.\nDeal combat damage to an opponent with any creature you control.\nSurge to Victory triggers, casting a copy of Savage Beating without paying its mana cost.\nResolve Savage Beating, untapping all creatures you control and giving you an additional combat phase after this one.\nRepeat from step 2.",
-        "notes": "",
-        "popularity": 3103,
-        "spoiler": false,
-        "bracketTag": "S",
-        "legalities": {
-          "commander": true,
-          "pauperCommanderMain": false,
-          "pauperCommander": false,
-          "oathbreaker": true,
-          "predh": false,
-          "standardBrawl": false,
-          "brawl": false,
-          "competitiveBrawl": false,
-          "alchemy": false,
-          "vintage": true,
-          "legacy": true,
-          "premodern": false,
-          "modern": false,
-          "pioneer": false,
-          "standard": false,
-          "pauper": false
-        },
-        "prices": {
-          "tcgplayer": "9.13",
-          "cardkingdom": "9.48",
-          "cardmarket": "4.63"
-        },
-        "variantCount": 1
-      },
-      "relevant": true,
-      "borderlineRelevant": true,
-      "arguablyTwoCard": true,
-      "definitelyTwoCard": false,
-      "speed": 4,
-      "massLandDenial": false,
-      "extraTurn": false,
-      "lock": false,
-      "skipTurns": false,
-      "controlAllOpponents": false,
-      "controlSomeOpponents": false
-    }
-  ]
+  "combos": []
 }

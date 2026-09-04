@@ -80,8 +80,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "7.31",
-          "cardmarket": "5.78",
+          "tcgplayer": "7.24",
+          "cardmarket": "6.02",
           "cardkingdom": "12.48"
         },
         "status": "OK",
@@ -150,7 +150,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 90667,
+        "popularity": 90725,
         "bracketTag": "E",
         "description": "Earthbend a land, thus animating it.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko and Tireless Provisioner trigger.\nResolve the Tireless Provisioner trigger, creating a Treasure token.\nHolding priority, activate the Treasure by tapping and sacrificing it, adding {G}.\nResolve the Springheart Nantuko trigger, causing you to pay {1}{G} to create a token copy of the land it is attached to.\nWhen the land token enters the battlefield, Tireless Provisioner and Springheart Nantuko trigger.\nHolding priority, activate the land token by tapping it, adding at least {1}.\nRepeat from step 5.",
         "manaNeeded": "{2}{G} plus enough mana to animate the land",
@@ -232,8 +232,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "7.31",
-          "cardmarket": "5.78",
+          "tcgplayer": "7.24",
+          "cardmarket": "6.02",
           "cardkingdom": "12.48"
         },
         "status": "OK",
@@ -301,7 +301,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 90667,
+        "popularity": 90725,
         "bracketTag": "E",
         "description": "Animate the land.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko and Tireless Provisioner trigger.\nResolve the Tireless Provisioner trigger, creating a Treasure token.\nActivate the Treasure by tapping and sacrificing it, adding {G}.\nResolve the Springheart Nantuko trigger, causing you to pay {1}{G} to create a token copy of the land it is attached to.\nWhen the land token enters the battlefield, Tireless Provisioner and Springheart Nantuko trigger.\nHolding priority, activate the land token by tapping it, adding at least {1}.\nRepeat from step 5.",
         "manaNeeded": "{2}{G} plus enough mana to animate the land",
@@ -383,8 +383,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "22.82",
-          "cardmarket": "23.98",
+          "tcgplayer": "21.53",
+          "cardmarket": "23.93",
           "cardkingdom": "31.28"
         },
         "status": "OK",
@@ -446,7 +446,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 58446,
+        "popularity": 58547,
         "bracketTag": "S",
         "description": "Activate Peregrin Took by sacrificing three Foods.\nNuka-Cola Vending Machine triggers three times, creating three tapped Treasure and three tapped Food tokens.\nResolve the Peregrin Took ability, causing you to draw a card.\nRepeat.",
         "manaNeeded": "",
@@ -528,8 +528,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "8.33",
-          "cardmarket": "5.14",
+          "tcgplayer": "8.41",
+          "cardmarket": "4.90",
           "cardkingdom": "12.28"
         },
         "status": "OK",
@@ -600,7 +600,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 33807,
+        "popularity": 33783,
         "bracketTag": "S",
         "description": "Activate Peregrin Took by sacrificing three Foods.\nExperimental Confectioner's second ability triggers three times, creating three 1/1 Rat creature tokens and three Food artifact tokens.\nResolve the Peregrin Took ability, causing you to draw a card.\nRepeat.",
         "manaNeeded": "",
@@ -682,17 +682,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.53",
-          "cardmarket": "0.36",
-          "cardkingdom": "0.94"
+          "tcgplayer": "0.58",
+          "cardmarket": "0.34",
+          "cardkingdom": "0.88"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GW",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 27481
           },
@@ -707,9 +704,6 @@
           },
           {
             "id": 30877
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -796,7 +790,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 22979,
+        "popularity": 23039,
         "bracketTag": "R",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Basking Broodscale.\nBasking Broodscale triggers, creating a creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -881,8 +875,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "8.70",
-          "cardmarket": "3.55",
+          "tcgplayer": "8.14",
+          "cardmarket": "3.62",
           "cardkingdom": "8.98"
         },
         "status": "OK",
@@ -926,7 +920,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 19468,
+        "popularity": 19569,
         "bracketTag": "C",
         "description": "Cast Approach of the Second Sun by paying {6}{W}.\nHolding priority, cast Reprieve by paying {1}{W}, returning Approach of the Second Sun to your hand and causing you to draw a card.\nCast Approach of the Second Sun by paying {6}{W}, causing you to win the game.",
         "manaNeeded": "{13}{W}{W}{W}",
@@ -1008,9 +1002,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.79",
-          "cardmarket": "0.87",
-          "cardkingdom": "3.58"
+          "tcgplayer": "2.65",
+          "cardmarket": "0.81",
+          "cardkingdom": "3.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -1021,9 +1015,6 @@
           },
           {
             "id": 17587
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -1074,7 +1065,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 18627,
+        "popularity": 18647,
         "bracketTag": "R",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Scurry Oak.\nScurry Oak triggers, creating a creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -1156,8 +1147,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.89",
-          "cardmarket": "6.48",
+          "tcgplayer": "7.40",
+          "cardmarket": "6.65",
           "cardkingdom": "9.48"
         },
         "status": "OK",
@@ -1166,9 +1157,6 @@
         "includes": [
           {
             "id": 17551
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -1228,7 +1216,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 16144,
+        "popularity": 16149,
         "bracketTag": "E",
         "description": "Activate Boromir by sacrificing it.\nWhen Boromir dies, Ratadrabik triggers, creating a  nonlegendary token copy of Boromir that is a 2/2 Zombie in addition to its other types.\nResolve the Boromir ability from step 1, causing the Ring to tempt you, and for the Boromir token to become your Ring-bearer, thus making it legendary.\nRepeat.",
         "manaNeeded": "",
@@ -1310,8 +1298,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.96",
-          "cardmarket": "2.99",
+          "tcgplayer": "5.62",
+          "cardmarket": "3.50",
           "cardkingdom": "8.28"
         },
         "status": "OK",
@@ -1352,7 +1340,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 10643,
+        "popularity": 10692,
         "bracketTag": "R",
         "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nCast Swords to Plowshares by paying {W}, exiling Jumbo Cactuar and causing you to gain 10,000 life.",
         "manaNeeded": "{W}",
@@ -1434,9 +1422,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.65",
-          "cardmarket": "0.32",
-          "cardkingdom": "1.58"
+          "tcgplayer": "0.61",
+          "cardmarket": "0.34",
+          "cardkingdom": "1.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -1447,9 +1435,6 @@
           },
           {
             "id": 17587
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -1500,7 +1485,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 8642,
+        "popularity": 8645,
         "bracketTag": "R",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Herd Baloth.\nHerd Baloth triggers, creating a 4/4 Beast creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -1582,8 +1567,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.94",
-          "cardmarket": "2.00",
+          "tcgplayer": "2.85",
+          "cardmarket": "1.84",
           "cardkingdom": "3.78"
         },
         "status": "OK",
@@ -1651,7 +1636,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 5703,
+        "popularity": 5710,
         "bracketTag": "O",
         "description": "Cast Plague of Vermin by paying {6}{B}, causing you to pay life equal to the highest life total your opponents have and create that many 1/1 Rat creature tokens.\nMirkwood Bats triggers for each token created this way, causing each opponent to lose that much life.\nEach opponent loses the game due to having zero or less life.",
         "manaNeeded": "{6}{B}",
@@ -1764,9 +1749,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.75",
-          "cardmarket": "3.84",
-          "cardkingdom": "6.97"
+          "tcgplayer": "4.72",
+          "cardmarket": "4.38",
+          "cardkingdom": "7.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -1806,7 +1791,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3575,
+        "popularity": 3571,
         "bracketTag": "E",
         "description": "Activate a Food using Pippin's first ability by tapping it, creating a Food token.\nRepeat step 1.",
         "manaNeeded": "",
@@ -1919,9 +1904,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.45",
-          "cardmarket": "4.09",
-          "cardkingdom": "7.33"
+          "tcgplayer": "4.39",
+          "cardmarket": "4.39",
+          "cardkingdom": "7.83"
         },
         "status": "OK",
         "spoiler": false,
@@ -1932,9 +1917,6 @@
           },
           {
             "id": 21039
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -2003,7 +1985,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2286,
+        "popularity": 2292,
         "bracketTag": "E",
         "description": "Gain life.\nTreebeard's second ability triggers, putting that many +1/+1 counters on Scurry Oak.\nScurry Oak triggers, creating a 1/1 Squirrel creature token.\nWhen the Squirrel enters the battlefield, Prosperous Innkeeper triggers, causing you to gain life.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -2178,19 +2160,19 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.39",
-          "cardmarket": "4.97",
-          "cardkingdom": "9.95"
+          "tcgplayer": "5.30",
+          "cardmarket": "5.36",
+          "cardkingdom": "10.45"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GW",
         "includes": [
           {
-            "id": 27481
+            "id": 26876
           },
           {
-            "id": 26876
+            "id": 27481
           },
           {
             "id": 28012
@@ -2200,9 +2182,6 @@
           },
           {
             "id": 30826
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -2298,7 +2277,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1687,
+        "popularity": 1688,
         "bracketTag": "E",
         "description": "Activate Prize Pig by tapping it, adding {1}.\nActivate a Food you control by paying {1}, tapping and sacrificing it, causing you to gain 3 life.\nTreebeard's second ability and Prize Pig trigger.\nResolve the Prize Pig trigger, putting three ribbon counters on it, then removing all ribbon counters from it and untapping it.\nResolve the Treebeard trigger, putting three +1/+1 counters on Scurry Oak.\nScurry Oak triggers, creating a 1/1 Squirrel creature token and a Food artifact token.\nRepeat.",
         "manaNeeded": "",
@@ -2380,9 +2359,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "7.18",
-          "cardmarket": "6.32",
-          "cardkingdom": "10.48"
+          "tcgplayer": "7.75",
+          "cardmarket": "6.53",
+          "cardkingdom": "10.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -2434,7 +2413,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1638,
+        "popularity": 1635,
         "bracketTag": "S",
         "description": "Whenever a player casts a spell from their hand, Knowledge Pool triggers, exiling the spell and allowing the player to cast another card exiled by Knowledge Pool without paying its mana cost.\nIf the player chooses to cast a spell, Boromir triggers, countering that spell since no mana was spent to cast it.",
         "manaNeeded": "",
@@ -2517,7 +2496,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "7.95",
-          "cardmarket": "1.66",
+          "cardmarket": "1.64",
           "cardkingdom": "7.78"
         },
         "status": "OK",
@@ -2588,7 +2567,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1592,
+        "popularity": 1586,
         "bracketTag": "S",
         "description": "Activate Peregrin Took by sacrificing three Foods.\nSummoning Station triggers three times.\nResolve the first trigger, untapping it.\nActivate Summoning Station by tapping it, creating a 2/2 Pincher creature token and a Food artifact token.\nRepeat from step 3 two additional times.\nResolve the Peregrin Took ability from step 1, causing you to draw a card.\nRepeat.",
         "manaNeeded": "",
@@ -2596,6 +2575,154 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control at least three Foods."
+      },
+      {
+        "id": "1350-3363",
+        "of": [
+          {
+            "id": 16664
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1350,
+              "name": "Meticulous Excavation",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "6dff1d15-604f-4eea-9b7a-0c0ba6afbbac",
+              "typeLine": "Enchantment",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/8/e811461a-6a90-416f-940c-c9579659ae0c.png?1783920127",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/8/e811461a-6a90-416f-940c-c9579659ae0c.jpg?1783920127",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/8/e811461a-6a90-416f-940c-c9579659ae0c.jpg?1783920127",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/8/e811461a-6a90-416f-940c-c9579659ae0c.jpg?1783920127",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/8/e811461a-6a90-416f-940c-c9579659ae0c.jpg?1783920127"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.36",
+          "cardmarket": "83.32",
+          "cardkingdom": "120.34"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "W",
+        "includes": [
+          {
+            "id": 16664
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 1064,
+        "bracketTag": "S",
+        "description": "Activate Meticulous Excavation by paying {2}{W}, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{6}{W} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 7,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
       },
       {
         "id": "2433-7690--165",
@@ -2670,9 +2797,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.61",
-          "cardmarket": "0.26",
-          "cardkingdom": "0.94"
+          "tcgplayer": "0.62",
+          "cardmarket": "0.24",
+          "cardkingdom": "0.84"
         },
         "status": "OK",
         "spoiler": false,
@@ -2683,9 +2810,6 @@
           },
           {
             "id": 17587
-          },
-          {
-            "id": 31074
           },
           {
             "id": 33138
@@ -2757,7 +2881,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 103,
+        "popularity": 104,
         "bracketTag": "S",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on the other Hero\nInvisible Woman triggers, creating a creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -2841,17 +2965,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.52",
-          "cardmarket": "4.82",
-          "cardkingdom": "11.78"
+          "tcgplayer": "6.50",
+          "cardmarket": "4.87",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 26516
           }
@@ -2913,7 +3034,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 344165,
+        "popularity": 344892,
         "bracketTag": "E",
         "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
         "manaNeeded": "",
@@ -2995,17 +3116,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.85",
-          "cardmarket": "2.04",
-          "cardkingdom": "5.08"
+          "tcgplayer": "2.82",
+          "cardmarket": "2.02",
+          "cardkingdom": "5.28"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 29370
           },
@@ -3052,7 +3170,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 36571,
+        "popularity": 36594,
         "bracketTag": "S",
         "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{1}",
@@ -3060,6 +3178,335 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control a nontoken permanent that can be cast using {C}."
+      },
+      {
+        "id": "3363-4067",
+        "of": [
+          {
+            "id": 60
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4067,
+              "name": "Mind Over Matter",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "656afde2-cdf3-4907-a0fc-7ac93f5d3e03",
+              "typeLine": "Enchantment",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.png?1783946523",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "147.25",
+          "cardmarket": "111.18",
+          "cardkingdom": "167.98"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 60
+          },
+          {
+            "id": 26878
+          },
+          {
+            "id": 28463
+          },
+          {
+            "id": 27036
+          },
+          {
+            "id": 30711
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 292,
+              "name": "Near-infinite card draw",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 36,
+              "name": "Infinite self-discard triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 61,
+              "name": "Infinite draw triggers",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 62,
+              "name": "Infinite looting",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 996,
+              "name": "Near-infinite untap of permanents you control",
+              "status": "C",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 1032,
+              "name": "Near-infinite mana permanents you control can produce",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 6770,
+        "bracketTag": "R",
+        "description": "Activate The One Ring by tapping it, putting a burden counter on it and then causing you to draw a card for each burden counter on it.\nActivate Mind Over Matter by discarding a card, untapping The One Ring.\nRepeat.",
+        "manaNeeded": "",
+        "variantCount": 20,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "3363-4331",
+        "of": [
+          {
+            "id": 16663
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4331,
+              "name": "Drafna, Founder of Lat-Nam",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "ed2e8718-4b20-4310-96ce-05a29a24ef32",
+              "typeLine": "Legendary Creature — Human Artificer Advisor",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.png?1783920112",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.jpg?1783920112"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.56",
+          "cardmarket": "83.53",
+          "cardkingdom": "120.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16663
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 3247,
+        "bracketTag": "S",
+        "description": "Activate Drafna's first ability by paying {1}{U}, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{5}{U} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 6,
+        "easyPrerequisites": "",
+        "notablePrerequisites": ""
       },
       {
         "id": "2433-5365",
@@ -3134,9 +3581,9 @@
         ],
         "notes": "Once you would like to break the combo, you may use Rosie's trigger to put a +1/+1 counter on any creature you control except Lonis, or you may remove Lonis and/or Rosie instead. A failure to break the combo will force the game to end in a draw due to a mandatory infinite loop.",
         "prices": {
-          "tcgplayer": "6.05",
-          "cardmarket": "3.52",
-          "cardkingdom": "7.58"
+          "tcgplayer": "5.81",
+          "cardmarket": "3.55",
+          "cardkingdom": "7.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -3206,7 +3653,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 927,
+        "popularity": 926,
         "bracketTag": "S",
         "description": "Cast Rosie by paying {2}{W}.\nWhen Rosie enters the battlefield, its first ability triggers, creating a Food artifact token.\nRosie's second ability triggers, putting a +1/+1 counter on Lonis.\nLonis' second ability triggers, creating a Clue artifact token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -3288,8 +3735,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "9.27",
-          "cardmarket": "7.49",
+          "tcgplayer": "10.51",
+          "cardmarket": "7.63",
           "cardkingdom": "10.48"
         },
         "status": "OK",
@@ -3342,7 +3789,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 570,
+        "popularity": 571,
         "bracketTag": "S",
         "description": "Whenever a player casts a spell from their hand, Possibility Storm triggers, exiling the spell and allowing the player to reveal cards from the top of their library until they reveal a spell that shares a type with the exiled spell, and cast it without paying its mana cost.\nIf the player chooses to cast the spell, Boromir triggers, countering that spell since no mana was spent to cast it.",
         "manaNeeded": "",
@@ -3424,8 +3871,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "3.91",
-          "cardmarket": "3.19",
+          "tcgplayer": "3.99",
+          "cardmarket": "2.88",
           "cardkingdom": "4.34"
         },
         "status": "OK",
@@ -3434,9 +3881,6 @@
         "includes": [
           {
             "id": 13000
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -3487,7 +3931,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 414,
+        "popularity": 413,
         "bracketTag": "E",
         "description": "Cast Slip On the Ring by paying its mana cost.\nHolding priority, cast Dualcaster Mage by paying its mana cost.\nWhen Dualcaster Mage enters, it triggers, copying Slip On the Ring, with the copy targeting Dualcaster Mage.\nResolve the copy of Slip On the Ring, blinking Dualcaster Mage.\nRepeat from step 3.",
         "manaNeeded": "{2}{R}{R}{W}",
@@ -3495,6 +3939,302 @@
         "manaValueNeeded": 5,
         "easyPrerequisites": "There are legal target(s) for Slip On the Ring.",
         "notablePrerequisites": ""
+      },
+      {
+        "id": "2529-3363",
+        "of": [
+          {
+            "id": 16662
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 2529,
+              "name": "Vedalken Mastermind",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "1ba85537-6dc2-459e-8850-619b41c0a881",
+              "typeLine": "Creature — Vedalken Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/a/ea34a540-486b-42dc-993c-93698988d024.png?1783943044",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/a/ea34a540-486b-42dc-993c-93698988d024.jpg?1783943044",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/a/ea34a540-486b-42dc-993c-93698988d024.jpg?1783943044",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/a/ea34a540-486b-42dc-993c-93698988d024.jpg?1783943044",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/a/ea34a540-486b-42dc-993c-93698988d024.jpg?1783943044"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.46",
+          "cardmarket": "83.35",
+          "cardkingdom": "120.34"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16662
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 324,
+        "bracketTag": "S",
+        "description": "Activate Vedalken Mastermind by paying {U} and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{4}{U} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 5,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Vedalken Mastermind does not have summoning sickness."
+      },
+      {
+        "id": "3363-5302",
+        "of": [
+          {
+            "id": 16670
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 5302,
+              "name": "Keeper of the Nine Gales",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "39c4357b-6093-486b-8131-041a3f89af75",
+              "typeLine": "Creature — Bird Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/7/f75eef50-b474-44bb-8222-3e473928304a.png?1783944921",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/7/f75eef50-b474-44bb-8222-3e473928304a.jpg?1783944921",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/7/f75eef50-b474-44bb-8222-3e473928304a.jpg?1783944921",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/7/f75eef50-b474-44bb-8222-3e473928304a.jpg?1783944921",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/7/f75eef50-b474-44bb-8222-3e473928304a.jpg?1783944921"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "108.27",
+          "cardmarket": "86.06",
+          "cardkingdom": "126.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16670
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 301,
+        "bracketTag": "S",
+        "description": "Activate Keeper of the Nine Gales by tapping it and two other untapped Birds you control, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{4} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 4,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Keeper of the Nine Gales does not have summoning sickness.\nYou control at least two other untapped Birds."
       },
       {
         "id": "141-3306",
@@ -3569,8 +4309,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.19",
-          "cardmarket": "0.77",
+          "tcgplayer": "1.27",
+          "cardmarket": "0.89",
           "cardkingdom": "2.34"
         },
         "status": "OK",
@@ -3579,9 +4319,6 @@
         "includes": [
           {
             "id": 13000
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -3632,7 +4369,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 149,
+        "popularity": 148,
         "bracketTag": "E",
         "description": "Cast Slip On the Ring by paying its mana cost.\nHolding priority, cast Naru Meha by paying its mana cost.\nWhen Naru Meha enters, it triggers, copying Slip On the Ring, with the copy targeting Naru Meha.\nResolve the copy of Slip On the Ring, blinking Naru Meha.\nRepeat from step 3.",
         "manaNeeded": "{3}{W}{U}{U}",
@@ -3640,6 +4377,746 @@
         "manaValueNeeded": 6,
         "easyPrerequisites": "There are legal target(s) for Slip On the Ring.",
         "notablePrerequisites": ""
+      },
+      {
+        "id": "3363-4782",
+        "of": [
+          {
+            "id": 16665
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4782,
+              "name": "Heidar, Rimewind Master",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "58ac4cce-506e-4d6e-a19c-0e875fbfcd81",
+              "typeLine": "Legendary Creature — Human Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.png?1783943359",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1783943359",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1783943359",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1783943359",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/9/39916d65-60a6-4da6-8675-8a8ef9505772.jpg?1783943359"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.64",
+          "cardmarket": "83.51",
+          "cardkingdom": "120.68"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16665
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 113,
+        "bracketTag": "S",
+        "description": "Activate Heidar by paying {2} and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{6} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 6,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Heidar does not have summoning sickness.\nYou control at least four snow permanents."
+      },
+      {
+        "id": "1363-3363",
+        "of": [
+          {
+            "id": 16669
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1363,
+              "name": "Tradewind Rider",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d0314da0-da24-4f6e-b1f6-0d50617bcaaa",
+              "typeLine": "Creature — Spirit",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/f/df626c4c-75f4-4250-9057-c8c383a5a93d.png?1783938489",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/f/df626c4c-75f4-4250-9057-c8c383a5a93d.jpg?1783938489",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/f/df626c4c-75f4-4250-9057-c8c383a5a93d.jpg?1783938489",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/f/df626c4c-75f4-4250-9057-c8c383a5a93d.jpg?1783938489",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/f/df626c4c-75f4-4250-9057-c8c383a5a93d.jpg?1783938489"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.83",
+          "cardmarket": "83.66",
+          "cardkingdom": "121.78"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16669
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 97,
+        "bracketTag": "S",
+        "description": "Activate Tradewind Rider by tapping it and two other untapped creatures you control, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{4} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 4,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Tradewind Rider does not have summoning sickness.\nYou control at least two other untapped creatures."
+      },
+      {
+        "id": "1111-3363",
+        "of": [
+          {
+            "id": 16666
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1111,
+              "name": "Temporal Adept",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "fd9b5462-6578-4bf6-8026-23eaf5af3eee",
+              "typeLine": "Creature — Human Wizard",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/f/0ff2dfe6-dbc0-46c3-9d5c-9f0ba6f511ec.png?1783944026",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/f/0ff2dfe6-dbc0-46c3-9d5c-9f0ba6f511ec.jpg?1783944026",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/f/0ff2dfe6-dbc0-46c3-9d5c-9f0ba6f511ec.jpg?1783944026",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/f/0ff2dfe6-dbc0-46c3-9d5c-9f0ba6f511ec.jpg?1783944026",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/f/0ff2dfe6-dbc0-46c3-9d5c-9f0ba6f511ec.jpg?1783944026"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.42",
+          "cardmarket": "83.58",
+          "cardkingdom": "120.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16666
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 85,
+        "bracketTag": "S",
+        "description": "Activate Temporal Adept by paying {U}{U}{U} and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{4}{U}{U}{U} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 7,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Temporal Adept does not have summoning sickness."
+      },
+      {
+        "id": "3363-4780",
+        "of": [
+          {
+            "id": 16668
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4780,
+              "name": "Tolarian Sentinel",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "bef15918-c0e7-4f6d-a589-f91f3fa11ef1",
+              "typeLine": "Creature — Human Spellshaper",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.png?1783927833",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1783927833",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1783927833",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1783927833",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/a/da4d6572-4748-4242-98d2-62e668a59a48.jpg?1783927833"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.24",
+          "cardmarket": "83.23",
+          "cardkingdom": "120.34"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16668
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 37,
+        "bracketTag": "S",
+        "description": "Activate Tolarian Sentinel by paying {U}, discarding a card and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{4}{U} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 5,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Tolarian Sentinel does not have summoning sickness.\nYou have at least one card in hand."
+      },
+      {
+        "id": "3363-3823",
+        "of": [
+          {
+            "id": 16667
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 3363,
+              "name": "The One Ring",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+              "typeLine": "Legendary Artifact",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3823,
+              "name": "Time Elemental",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d89075a3-4413-4796-a055-eef51fddb7f3",
+              "typeLine": "Creature — Elemental",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/2/720672dc-d75a-44c3-a48d-d2fe3993fbbf.png?1783942955",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/2/720672dc-d75a-44c3-a48d-d2fe3993fbbf.jpg?1783942955",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/2/720672dc-d75a-44c3-a48d-d2fe3993fbbf.jpg?1783942955",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/2/720672dc-d75a-44c3-a48d-d2fe3993fbbf.jpg?1783942955",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/2/720672dc-d75a-44c3-a48d-d2fe3993fbbf.jpg?1783942955"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "100.60",
+          "cardmarket": "83.58",
+          "cardkingdom": "120.48"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 16667
+          },
+          {
+            "id": 31988
+          },
+          {
+            "id": 32032
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 249,
+              "name": "Prevent all damage that would be dealt to you",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 172,
+              "name": "You have protection from everything",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 30,
+        "bracketTag": "S",
+        "description": "Activate Time Elemental by paying {2}{U}{U} and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
+        "manaNeeded": "{6}{U}{U} each turn",
+        "variantCount": 1,
+        "manaValueNeeded": 8,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Time Elemental does not have summoning sickness.\nThe One Ring does not have an Aura attached."
       },
       {
         "id": "5534--28",
@@ -3684,7 +5161,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.28",
-          "cardmarket": "4.30",
+          "cardmarket": "4.41",
           "cardkingdom": "5.99"
         },
         "status": "OK",
@@ -3721,8 +5198,8 @@
             "template": {
               "id": 28,
               "name": "Instant or Sorcery that untaps a Creature",
-              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+o%3A%22untap+%22+%28o%3Acreature+-o%3A%22nonlegendary+creature%22+or+o%3Apermanent+-o%3A%22noncreature+permanent%22%29+-o%3Adestroy%29+legal%3Acommander",
-              "scryfallQuery": "(t:instant or t:sorcery) o:\"untap \" (o:creature -o:\"nonlegendary creature\" or o:permanent -o:\"noncreature permanent\") -o:destroy"
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+otag%3Auntapper-creature%29+legal%3Acommander",
+              "scryfallQuery": "(t:instant or t:sorcery) otag:untapper-creature"
             },
             "zoneLocations": [
               "H"
@@ -3804,17 +5281,14 @@
         ],
         "notes": "Moritte can only be your commander if the sources from both templates fit within its commander identity.",
         "prices": {
-          "tcgplayer": "0.21",
-          "cardmarket": "0.08",
+          "tcgplayer": "0.22",
+          "cardmarket": "0.07",
           "cardkingdom": "0.35"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GU",
         "includes": [
-          {
-            "id": 31074
-          },
           {
             "id": 32385
           }

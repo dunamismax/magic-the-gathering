@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-09-01",
-  "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. The three new commanders and their direct multipliers are explicitly routed; absence remains unclassified, not proof that a card lacks a role.",
+  "reviewed_on": "2026-09-04",
+  "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. Current commanders and direct engine pieces are explicitly routed; absence remains unclassified, not proof that a card lacks a role.",
   "global": {
     "Ancient Tomb": [
       "land",
@@ -52,13 +52,6 @@
         "card_advantage"
       ]
     },
-    "ekthi-contaminator-priest": {
-      "Ekthi, Contaminator Priest": [
-        "commander_engine",
-        "card_advantage",
-        "cost_reduction"
-      ]
-    },
     "frodo-sam": {
       "Frodo, Adventurous Hobbit": [
         "commander_engine",
@@ -81,19 +74,9 @@
         "commander_engine",
         "cost_reduction"
       ],
-      "Savage Beating": [
+      "Gandalf, Westward Voyager": [
         "commander_engine",
-        "win_condition",
-        "combo_piece"
-      ],
-      "Surge to Victory": [
-        "commander_engine",
-        "win_condition",
-        "combo_piece"
-      ],
-      "Mizzix of the Izmagnus": [
-        "commander_engine",
-        "cost_reduction"
+        "card_advantage"
       ],
       "Quistis Trepe": [
         "commander_engine",
@@ -167,15 +150,18 @@
         "card_advantage",
         "commander_engine"
       ],
-      "Oneirophage": {
-        "include": [
-          "commander_engine",
-          "win_condition"
-        ],
-        "exclude": [
-          "card_advantage"
-        ]
-      }
+      "Living Lies of Loki": [
+        "commander_engine",
+        "card_advantage"
+      ],
+      "Lyla, Holographic Assistant": [
+        "commander_engine"
+      ],
+      "Monument to Endurance": [
+        "commander_engine",
+        "card_advantage",
+        "selection"
+      ]
     },
     "pantlaza-sun-favored": {
       "Pantlaza, Sun-Favored": [
@@ -213,6 +199,28 @@
       "Brash Taunter": [
         "win_condition",
         "combo_piece"
+      ]
+    },
+    "the-notary-hobbits": {
+      "The Notary Hobbits": [
+        "commander_engine",
+        "ramp"
+      ],
+      "Parallel Lives": [
+        "commander_engine"
+      ],
+      "Panharmonicon": [
+        "commander_engine"
+      ],
+      "Strionic Resonator": [
+        "commander_engine"
+      ],
+      "Maskwood Nexus": [
+        "commander_engine"
+      ],
+      "Finale of Devastation": [
+        "tutor",
+        "win_condition"
       ]
     }
   }

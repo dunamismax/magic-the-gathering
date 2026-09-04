@@ -21,32 +21,23 @@
       "combos_file": "data/spellbook-results/blor-the-impervious-combos.json",
       "combos_sha256": "3f68b46eea641005ee0b45dd3f34393332f7c716d91adf9367bae118178a3856"
     },
-    "ekthi-contaminator-priest": {
-      "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "fa02ac29a744966bd58720d4193acdcd9ae0bf8fc4fccbb9cb3c28d0592e2cfe",
-      "estimate_file": "data/spellbook-results/ekthi-contaminator-priest-estimate.json",
-      "estimate_sha256": "8d33a70076ae32fb6f1ea871cf953077c36a6843ebe7cf4c72de6735e55270f1",
-      "combos_file": "data/spellbook-results/ekthi-contaminator-priest-combos.json",
-      "combos_sha256": "1027b7b2c5cd19e99368b4ecb9ad95324cabb559db02ec1ca8dec902b9098c67"
-    },
     "frodo-sam": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-09-01",
-      "request_sha256": "97c58de93dd73928ff0c3aa95d5395cdc18a92b18ad781322a8aeb808b35aae8",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "890518358cf2fa387e21c9a1a07da2d190821488abe01c6a78eb8e592fe982b9",
       "estimate_file": "data/spellbook-results/frodo-sam-estimate.json",
-      "estimate_sha256": "dea9449f719ad4fee5ccd00f0dbf54b3afbd69ee9ff864ac42a9e4502358692f",
+      "estimate_sha256": "b0d6d9b05c19ee45dce570b90260593c2351ac1f46c08cd78a81152df61f6129",
       "combos_file": "data/spellbook-results/frodo-sam-combos.json",
-      "combos_sha256": "8f3685f259168986eafe59d57837f504f8eb345466508d43b6a751f90ded9009"
+      "combos_sha256": "9c918a8d5960c7ec41e4be04e44a5bc24896103d5e436496b239ecbfd2c5abee"
     },
     "gandalf-party-guest": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-09-01",
-      "request_sha256": "740c596d2cddeedc6b582d7406e9c326dd9a7099555c61e30f629d78da23c17a",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "4d8efbcbf68dc01320687c8157675266f63f26d1424c8e1dbe30085a74e68a35",
       "estimate_file": "data/spellbook-results/gandalf-party-guest-estimate.json",
-      "estimate_sha256": "a1a8426c3f829be6d8147c60165749d05cb5d0837bbb39e03ae4b19adfc63232",
+      "estimate_sha256": "0b1f8238a7fb465606166c60545535c378d3f2dd129f8f1805776b4a3f0c9b46",
       "combos_file": "data/spellbook-results/gandalf-party-guest-combos.json",
-      "combos_sha256": "169776011a385abe13f5d1631e5a3d46c1572b6a5b219d71b0e5afbe60bebb18"
+      "combos_sha256": "919ae16dfd60082d7c2bf521b993444abd95a9ea5425be25b9c052607050fe77"
     },
     "henzie-toolbox-torre": {
       "status": "exact-list-scan",
@@ -68,12 +59,12 @@
     },
     "minn-wily-illusionist": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-09-01",
-      "request_sha256": "a3cc59b3b0f0ef4d62a4f1012b98005df8a546449607718d14a5957ecc9eb73c",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "1cdbaa39edece93d105ed76c2ff4fc5f8c8c871160ec320760e518b03288a6df",
       "estimate_file": "data/spellbook-results/minn-wily-illusionist-estimate.json",
-      "estimate_sha256": "c138e89f3811287d7cda283fb80f5a817f761f85ca8085707d688eab855dbdd2",
+      "estimate_sha256": "fbbb9902764f5116bdfe79751fac49476e861a46cedc31c3c2efe2b7af527daa",
       "combos_file": "data/spellbook-results/minn-wily-illusionist-combos.json",
-      "combos_sha256": "08e0c6d481eed8664bd171f7757ad07fe0275c70927509a6541c631c4f5af907"
+      "combos_sha256": "eaee98c64d0f5940a24248c2c764cf7b47b3f52435ac6ca8ce126a80d7570973"
     },
     "pantlaza-sun-favored": {
       "status": "exact-list-scan",
@@ -92,6 +83,15 @@
       "estimate_sha256": "30ed4cd68b7748f402007512d438072bea2193d1f7a374be82f0c1f47f3432b0",
       "combos_file": "data/spellbook-results/queen-marchesa-combos.json",
       "combos_sha256": "f0b1310168b6a7f2678214fcc4207928b041dadf7bc1e6b4f95e65a9a3a69728"
+    },
+    "the-notary-hobbits": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "566c8f1faa3a6604a79f8a25afd9ba9cfcb79009bc8fd2522cd95d75c36a5ceb",
+      "estimate_file": "data/spellbook-results/the-notary-hobbits-estimate.json",
+      "estimate_sha256": "e14f53ca154dd44d47c7a7323195b121b51f715595e74b51bf3c63ebbfd709fe",
+      "combos_file": "data/spellbook-results/the-notary-hobbits-combos.json",
+      "combos_sha256": "f4760bbdbd0c1b290351755d1c77df8b0ab267c1d245998be61eb4450f006b84"
     }
   }
 }

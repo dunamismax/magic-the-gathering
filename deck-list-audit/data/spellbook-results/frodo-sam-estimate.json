@@ -1,5 +1,5 @@
 {
-  "bracketTag": "E",
+  "bracketTag": "P",
   "cards": [
     {
       "card": {
@@ -40,6 +40,32 @@
         "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/4/547f92d4-cd1d-4ca7-a6e2-6473b4d3c832.jpg?1783916259",
         "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/4/547f92d4-cd1d-4ca7-a6e2-6473b4d3c832.jpg?1783916259",
         "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/4/547f92d4-cd1d-4ca7-a6e2-6473b4d3c832.jpg?1783916259",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 8142,
+        "name": "Bilbo's Ring",
+        "oracleId": "a7cc0f6b-6b17-4e76-b2a6-6a6ee2519b61",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Artifact — Equipment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/1/91dbeac4-1c39-4a4f-84e7-1b71f7468c8f.png?1783916214",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/1/91dbeac4-1c39-4a4f-84e7-1b71f7468c8f.jpg?1783916214",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/1/91dbeac4-1c39-4a4f-84e7-1b71f7468c8f.jpg?1783916214",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/1/91dbeac4-1c39-4a4f-84e7-1b71f7468c8f.jpg?1783916214",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/1/91dbeac4-1c39-4a4f-84e7-1b71f7468c8f.jpg?1783916214",
         "layoutRotationFront": null,
         "imageUriBackPng": null,
         "imageUriBackLarge": null,
@@ -804,6 +830,32 @@
       "quantity": 1,
       "banned": false,
       "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 3363,
+        "name": "The One Ring",
+        "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
       "massLandDenial": false,
       "extraTurn": false
     },

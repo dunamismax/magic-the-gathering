@@ -7,20 +7,19 @@ deck edits so one layer cannot silently masquerade as another.
 
 ## Current snapshot
 
-- **10 public decks**: the full collection was downloaded from Moxfield on
-  **2026-08-31**, Gandalf was reconciled to the user's exact six-for-six
-  Moxfield change on **2026-09-01**, and all lists were locally audited that day
-- **9 Bracket 3 targets** and **1 Bracket 2 target** (Frodo & Sam)
-- All 10 currently resolve to exactly 100 cards and pass deterministic count,
-  commander, singleton, identity, legality, release-state, banned-card, and
-  configured Game Changer checks
-- All 10 exact lists have hash-current Commander Spellbook evidence: six scans
-  from **2026-08-30** and refreshed scans for Aragorn, Frodo & Sam, Gandalf, and
-  revised Minn from **2026-09-01**, each paired with manual prerequisite review
-- Gandalf has one confirmed conditional two-card unlimited-combat line;
-  Pantlaza has three confirmed conditional near-infinite lines; Queen Marchesa
-  has one finite Spellbook line and one manually verified five-card loop; and
-  Henzie's returned persist template is incomplete
+- **10 public decks**: the full collection was downloaded from Moxfield and
+  locally audited on **2026-09-04**
+- **8 Bracket 3 targets** and **2 posted Bracket 2 configurations**: Gandalf's
+  flavor main and Frodo & Sam's B2* Game Changer exception
+- All 10 main decks resolve to exactly 100 cards and pass deterministic count,
+  commander, singleton, banned-card, and configured exception checks
+- All 10 exact lists have hash-current Commander Spellbook evidence and manual
+  prerequisite review; the four changed or new lists were scanned on
+  **2026-09-04**
+- Gandalf's active flavor main has no complete combo; its nine-card B3 switch
+  restores one conditional unlimited-combat line. Pantlaza has three
+  conditional near-infinite lines, Queen Marchesa has one finite line and one
+  five-card loop, and Henzie's returned persist template is incomplete
 - The current 10-deck social and bracket reviews are pinned to these exact
   hashes; superseded seven-deck reports remain dated historical evidence
 
@@ -33,7 +32,7 @@ Browse titles, source dates, Moxfield links, and hashes in
 | Area | Purpose | Editing rule |
 |---|---|---|
 | `collection.json` | Deck registry, source metadata, and hard constraints | Human-owned |
-| `decks/*.txt` | Exact local deck sources | Human-owned; import or guarded change only |
+| `decks/*.txt`, `decks/sideboards/*.txt` | Exact local deck and configuration sources | Human-owned; import or guarded change only |
 | `policy/` | Dated official Commander policy lock | Human-verified |
 | `knowledge/` | Role overrides and current combo-review state | Human-reviewed |
 | `rubrics/` | Routed evaluation and tuning instructions | Human-owned |
@@ -94,8 +93,8 @@ python3 scripts/refresh_sources.py import-moxfield \
 
 Then update `source_updated_on` and `source_refreshed_on` in `collection.json`,
 register any new deck, update `data/moxfield-refresh.json`, and run `just audit`.
-The refresh manifest pins the exact public deck set, IDs, dates, and local
-SHA-256 values. Every import is baseline-guarded,
+The refresh manifest pins the exact public deck set, IDs, dates, normalized
+list hashes, raw exports, and any separate sideboard hash. Every import is baseline-guarded,
 normalized, tested against all configured decks, and written atomically.
 
 A deck addition also requires a `collection.json` record with commander names,
@@ -155,7 +154,8 @@ Deck files use normalized Moxfield/MTGO text:
 1 Commander Name
 ```
 
-Blank lines are cosmetic. Commander identity comes from `collection.json`.
+Blank lines are cosmetic. Optional Moxfield sideboards that define a documented
+configuration switch live under `decks/sideboards/`. Commander identity comes from `collection.json`.
 Names resolve to Oracle IDs before duplicate and color-identity checks, so flavor
 names cannot evade validation. Reports always separate printed lands from
 spell/land MDFCs.

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "audit_date": "2026-09-01",
+  "audit_date": "2026-09-04",
   "inputs": {
-    "audit_sha256": "46964a1ef6faae417b0f7181a256414c59ebe90b3e9d399f7a3f85d09c18b47a",
+    "audit_sha256": "3fa345128d9dcbdb04dea0dadf2a585c3eeca1593719ae840f79e7a661c2fd6d",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
-    "overrides_sha256": "467db3e7a368339bfa3446c79e5813eae9c00d80afcfc57ee0733eaf1bf98d58",
-    "combo_adjudications_sha256": "7f08a19138e90075103f44ff940fd63f786efba7be8086a2388ae3c2fcb99ee9"
+    "overrides_sha256": "774cdd6484283ab85e5b22f670af6a8200ad9b3ea09ea51e72a4aeeaa0aeebbf",
+    "combo_adjudications_sha256": "3f3460bbb113e861f3ef5f64fac7b3aebefe4000df06a1286ad5baa9bffefccb"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",
@@ -2666,1141 +2666,19 @@
         }
       ]
     },
-    "ekthi-contaminator-priest": {
-      "deck_sha256": "d5463f6b6a4ff27e27ebcba2f26b5bf8c7384eb4957239da1a3628644cd98500",
-      "counts_overlap": true,
-      "role_counts": {
-        "board_wipe": 2,
-        "card_advantage": 16,
-        "commander_engine": 1,
-        "cost_reduction": 5,
-        "fast_mana": 1,
-        "land": 34,
-        "land_capable": 35,
-        "modal": 5,
-        "protection": 4,
-        "ramp": 11,
-        "recursion": 9,
-        "selection": 2,
-        "spot_removal": 7,
-        "tutor": 5,
-        "win_condition": 3
-      },
-      "role_cards": {
-        "board_wipe": [
-          {
-            "name": "Austere Command",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sunfall",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "card_advantage": [
-          {
-            "name": "Armed with Proof",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Buried Ruin",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Buster Sword",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Caretaker's Talent",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Cid, Freeflier Pilot",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Glimmer Lens",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Idol of Oblivion",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Kíli the Resourceful",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Minas Tirith",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Puresteel Paladin",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Reprieve",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Skullclamp",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sram, Senior Edificer",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sword of Fire and Ice",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Swordsman's Steel",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Ekthi, Contaminator Priest",
-            "quantity": 1,
-            "confidence": "override"
-          }
-        ],
-        "commander_engine": [
-          {
-            "name": "Ekthi, Contaminator Priest",
-            "quantity": 1,
-            "confidence": "override"
-          }
-        ],
-        "cost_reduction": [
-          {
-            "name": "Buster Sword",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Cid, Freeflier Pilot",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Forge Anew",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Kíli the Resourceful",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Ekthi, Contaminator Priest",
-            "quantity": 1,
-            "confidence": "override"
-          }
-        ],
-        "fast_mana": [
-          {
-            "name": "Sol Ring",
-            "quantity": 1,
-            "confidence": "override"
-          }
-        ],
-        "land": [
-          {
-            "name": "Ancient Den",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Buried Ruin",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Castle Ardenvale",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Eiganjo, Seat of the Empire",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Emeria, the Sky Ruin",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Inventors' Fair",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Minas Tirith",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Mirrex",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Monumental Henge",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Nykthos, Shrine to Nyx",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Plains",
-            "quantity": 22,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Strip Mine",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Urza's Saga",
-            "quantity": 1,
-            "confidence": "deterministic"
-          }
-        ],
-        "land_capable": [
-          {
-            "name": "Ancient Den",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Buried Ruin",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Castle Ardenvale",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Eiganjo, Seat of the Empire",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Emeria, the Sky Ruin",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Inventors' Fair",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Minas Tirith",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Mirrex",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Monumental Henge",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Nykthos, Shrine to Nyx",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Plains",
-            "quantity": 22,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Strip Mine",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Urza's Saga",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Witch Enchanter",
-            "quantity": 1,
-            "confidence": "deterministic"
-          }
-        ],
-        "modal": [
-          {
-            "name": "Akroma's Will",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Austere Command",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Heliod's Intervention",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Umezawa's Jitte",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Witch Enchanter",
-            "quantity": 1,
-            "confidence": "deterministic"
-          }
-        ],
-        "protection": [
-          {
-            "name": "Akroma's Will",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Clever Concealment",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Commander's Plate",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sword of Fire and Ice",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "ramp": [
-          {
-            "name": "Arcane Signet",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Bitterthorn, Nissa's Animus",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Codsworth, Handy Helper",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Fabrication Foundry",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Land Tax",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Orcrist, Goblin-cleaver",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Paradise Mantle",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Patchwork Banner",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sol Ring",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Sword of the Animist",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Witch Enchanter",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "recursion": [
-          {
-            "name": "Brilliant Restoration",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Buried Ruin",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Cid, Freeflier Pilot",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Emeria, the Sky Ruin",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Fabrication Foundry",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Forge Anew",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Pre-War Formalwear",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Sevinne's Reclamation",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Vulpine Harvester",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "selection": [
-          {
-            "name": "Adaptive Omnitool",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Monumental Henge",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "spot_removal": [
-          {
-            "name": "Eiganjo, Seat of the Empire",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Generous Gift",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Reprieve",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Strip Mine",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Swords to Plowshares",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Umezawa's Jitte",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Witch Enchanter",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "tutor": [
-          {
-            "name": "Cloud, Midgar Mercenary",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Inventors' Fair",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Steelshaper's Gift",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Stoneforge Mystic",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Urza's Saga",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ],
-        "win_condition": [
-          {
-            "name": "Infested Fleshcutter",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Mirrex",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Skrelv, Defector Mite",
-            "quantity": 1,
-            "confidence": "heuristic"
-          }
-        ]
-      },
-      "nonland_role_coverage": 0.6818,
-      "unclassified_nonlands": [
-        "Aettir and Priwen",
-        "Blackblade Reforged",
-        "Bloodforged Battle-Axe",
-        "Colossus Hammer",
-        "Dispatch",
-        "Doc Ock's Tentacles",
-        "Genji Glove",
-        "Halvar, God of Battle",
-        "Hammer of Nazahn",
-        "Hulkbuster Armor",
-        "Inquisitorial Rosette",
-        "Kaldra Compleat",
-        "Long-Lost Lances",
-        "Mandibular Kite",
-        "Masterwork of Ingenuity",
-        "Mithril Coat",
-        "Mondrak, Glory Dominus",
-        "Nettlecyst",
-        "Shadowspear",
-        "Sigarda's Aid",
-        "Wrecking Ball Arm"
-      ],
-      "combo_adjudication_current": true,
-      "combo_adjudication_status": "reviewed",
-      "cards": [
-        {
-          "name": "Adaptive Omnitool",
-          "quantity": 1,
-          "roles": {
-            "selection": "heuristic"
-          }
-        },
-        {
-          "name": "Aettir and Priwen",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Akroma's Will",
-          "quantity": 1,
-          "roles": {
-            "protection": "heuristic",
-            "modal": "heuristic"
-          }
-        },
-        {
-          "name": "Ancient Den",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Arcane Signet",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Armed with Proof",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Austere Command",
-          "quantity": 1,
-          "roles": {
-            "board_wipe": "heuristic",
-            "modal": "heuristic"
-          }
-        },
-        {
-          "name": "Bitterthorn, Nissa's Animus",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Blackblade Reforged",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Bloodforged Battle-Axe",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Brilliant Restoration",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Buried Ruin",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "card_advantage": "heuristic",
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Buster Sword",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Caretaker's Talent",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Castle Ardenvale",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Cid, Freeflier Pilot",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "card_advantage": "heuristic",
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Clever Concealment",
-          "quantity": 1,
-          "roles": {
-            "protection": "heuristic"
-          }
-        },
-        {
-          "name": "Cloud, Midgar Mercenary",
-          "quantity": 1,
-          "roles": {
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Codsworth, Handy Helper",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Colossus Hammer",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Commander's Plate",
-          "quantity": 1,
-          "roles": {
-            "protection": "heuristic"
-          }
-        },
-        {
-          "name": "Dispatch",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Doc Ock's Tentacles",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Eiganjo, Seat of the Empire",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Emeria, the Sky Ruin",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Fabrication Foundry",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic",
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Forge Anew",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Generous Gift",
-          "quantity": 1,
-          "roles": {
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Genji Glove",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Glimmer Lens",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Halvar, God of Battle",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Hammer of Nazahn",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Heliod's Intervention",
-          "quantity": 1,
-          "roles": {
-            "modal": "heuristic"
-          }
-        },
-        {
-          "name": "Hulkbuster Armor",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Idol of Oblivion",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Infested Fleshcutter",
-          "quantity": 1,
-          "roles": {
-            "win_condition": "heuristic"
-          }
-        },
-        {
-          "name": "Inquisitorial Rosette",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Inventors' Fair",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Kaldra Compleat",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Kíli the Resourceful",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Land Tax",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Long-Lost Lances",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Mandibular Kite",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Masterwork of Ingenuity",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Minas Tirith",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Mirrex",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "win_condition": "heuristic"
-          }
-        },
-        {
-          "name": "Mithril Coat",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Mondrak, Glory Dominus",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Monumental Henge",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "selection": "heuristic"
-          }
-        },
-        {
-          "name": "Nettlecyst",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Nykthos, Shrine to Nyx",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Orcrist, Goblin-cleaver",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Paradise Mantle",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Patchwork Banner",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Plains",
-          "quantity": 22,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Pre-War Formalwear",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Puresteel Paladin",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Reprieve",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Sevinne's Reclamation",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Shadowspear",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Sigarda's Aid",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Skrelv, Defector Mite",
-          "quantity": 1,
-          "roles": {
-            "win_condition": "heuristic"
-          }
-        },
-        {
-          "name": "Skullclamp",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Sol Ring",
-          "quantity": 1,
-          "roles": {
-            "ramp": "override",
-            "fast_mana": "override"
-          }
-        },
-        {
-          "name": "Sram, Senior Edificer",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Steelshaper's Gift",
-          "quantity": 1,
-          "roles": {
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Stoneforge Mystic",
-          "quantity": 1,
-          "roles": {
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Strip Mine",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Sunfall",
-          "quantity": 1,
-          "roles": {
-            "board_wipe": "heuristic"
-          }
-        },
-        {
-          "name": "Sword of Fire and Ice",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic",
-            "protection": "heuristic"
-          }
-        },
-        {
-          "name": "Sword of the Animist",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic"
-          }
-        },
-        {
-          "name": "Swords to Plowshares",
-          "quantity": 1,
-          "roles": {
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Swordsman's Steel",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Umezawa's Jitte",
-          "quantity": 1,
-          "roles": {
-            "spot_removal": "heuristic",
-            "modal": "heuristic"
-          }
-        },
-        {
-          "name": "Urza's Saga",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic",
-            "tutor": "heuristic"
-          }
-        },
-        {
-          "name": "Vulpine Harvester",
-          "quantity": 1,
-          "roles": {
-            "recursion": "heuristic"
-          }
-        },
-        {
-          "name": "Witch Enchanter",
-          "quantity": 1,
-          "roles": {
-            "land_capable": "deterministic",
-            "modal": "deterministic",
-            "ramp": "heuristic",
-            "spot_removal": "heuristic"
-          }
-        },
-        {
-          "name": "Wrecking Ball Arm",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
-          "name": "Ekthi, Contaminator Priest",
-          "quantity": 1,
-          "roles": {
-            "commander_engine": "override",
-            "card_advantage": "override",
-            "cost_reduction": "override"
-          }
-        }
-      ]
-    },
     "frodo-sam": {
-      "deck_sha256": "88a5e0b4d8c143bcddec7c2bf502ddcbf558e6fa0d68e45e631f2d37f5155584",
+      "deck_sha256": "a217307fb8789b57a818675bd33227f459feb739bc43c82b5eb8c037a9e19567",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 2,
-        "card_advantage": 17,
+        "card_advantage": 18,
         "commander_engine": 3,
         "cost_reduction": 2,
         "fast_mana": 1,
-        "land": 37,
-        "land_capable": 37,
+        "land": 36,
+        "land_capable": 36,
         "modal": 2,
-        "protection": 6,
+        "protection": 7,
         "ramp": 16,
         "recursion": 4,
         "selection": 4,
@@ -3903,6 +2781,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "The One Ring",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Frodo, Adventurous Hobbit",
             "quantity": 1,
             "confidence": "override"
@@ -4046,11 +2929,6 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Shire Terrace",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Sunpetal Grove",
             "quantity": 1,
             "confidence": "deterministic"
@@ -4183,11 +3061,6 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Shire Terrace",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Sunpetal Grove",
             "quantity": 1,
             "confidence": "deterministic"
@@ -4258,6 +3131,11 @@
           },
           {
             "name": "Stone by Sunlight",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The One Ring",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -4465,7 +3343,7 @@
           }
         ]
       },
-      "nonland_role_coverage": 0.746,
+      "nonland_role_coverage": 0.75,
       "unclassified_nonlands": [
         "Aragorn, Company Leader",
         "Bilbo, Fellow Conspirator",
@@ -4995,14 +3873,6 @@
           }
         },
         {
-          "name": "Shire Terrace",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
           "name": "Slip On the Ring",
           "quantity": 1,
           "roles": {
@@ -5087,6 +3957,14 @@
           }
         },
         {
+          "name": "The One Ring",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "protection": "heuristic"
+          }
+        },
+        {
           "name": "The Shire",
           "quantity": 1,
           "roles": {
@@ -5139,26 +4017,26 @@
       ]
     },
     "gandalf-party-guest": {
-      "deck_sha256": "9307f9dc65f0931b810438640d3fc966de2afa3ddc3187af6c618e2833792f35",
+      "deck_sha256": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 2,
-        "card_advantage": 14,
-        "combo_piece": 2,
-        "commander_engine": 8,
-        "cost_reduction": 13,
+        "card_advantage": 15,
+        "commander_engine": 6,
+        "cost_reduction": 12,
         "countermagic": 1,
         "fast_mana": 1,
+        "graveyard_interaction": 1,
         "land": 34,
         "land_capable": 37,
-        "modal": 8,
-        "protection": 3,
-        "ramp": 8,
+        "modal": 7,
+        "protection": 4,
+        "ramp": 9,
         "recursion": 3,
-        "selection": 3,
-        "spot_removal": 6,
-        "tutor": 5,
-        "win_condition": 3
+        "selection": 4,
+        "spot_removal": 9,
+        "tutor": 6,
+        "win_condition": 1
       },
       "role_cards": {
         "board_wipe": [
@@ -5180,27 +4058,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Alphinaud Leveilleur",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Archmage Emeritus",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
-            "name": "Azami, Lady of Scrolls",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Baral, Chief of Compliance",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Frantic Search",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5211,6 +4074,21 @@
           },
           {
             "name": "Gandalf, Shadow's Foe",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Gandalf, Westward Voyager",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Jadzi, Steward of Fate",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Jori En, Ruin Diver",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5243,21 +4121,19 @@
             "name": "Valakut Awakening",
             "quantity": 1,
             "confidence": "heuristic"
-          }
-        ],
-        "combo_piece": [
-          {
-            "name": "Savage Beating",
-            "quantity": 1,
-            "confidence": "confirmed-combo"
           },
           {
-            "name": "Surge to Victory",
+            "name": "Venat, Heart of Hydaelyn",
             "quantity": 1,
-            "confidence": "confirmed-combo"
+            "confidence": "heuristic"
           }
         ],
         "commander_engine": [
+          {
+            "name": "Gandalf, Westward Voyager",
+            "quantity": 1,
+            "confidence": "override"
+          },
           {
             "name": "Krile Baldesion",
             "quantity": 1,
@@ -5269,22 +4145,7 @@
             "confidence": "override"
           },
           {
-            "name": "Mizzix of the Izmagnus",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Quistis Trepe",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Savage Beating",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Surge to Victory",
             "quantity": 1,
             "confidence": "override"
           },
@@ -5300,11 +4161,6 @@
           }
         ],
         "cost_reduction": [
-          {
-            "name": "Alisaie Leveilleur",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
           {
             "name": "Ancestral Vision",
             "quantity": 1,
@@ -5341,9 +4197,9 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Mizzix of the Izmagnus",
+            "name": "Mnemonic Deluge",
             "quantity": 1,
-            "confidence": "override"
+            "confidence": "heuristic"
           },
           {
             "name": "Ral, Monsoon Mage",
@@ -5351,7 +4207,7 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Surge to Victory",
+            "name": "Recurring Insight",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5380,6 +4236,13 @@
             "confidence": "override"
           }
         ],
+        "graveyard_interaction": [
+          {
+            "name": "Mnemonic Deluge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
         "land": [
           {
             "name": "Adarkar Wastes",
@@ -5398,11 +4261,6 @@
           },
           {
             "name": "City of Brass",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
-            "name": "Clifftop Retreat",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -5438,7 +4296,7 @@
           },
           {
             "name": "Island",
-            "quantity": 3,
+            "quantity": 2,
             "confidence": "deterministic"
           },
           {
@@ -5447,8 +4305,18 @@
             "confidence": "deterministic"
           },
           {
+            "name": "Mistrise Village",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Misty Rainforest",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
             "name": "Mountain",
-            "quantity": 4,
+            "quantity": 2,
             "confidence": "deterministic"
           },
           {
@@ -5467,12 +4335,22 @@
             "confidence": "deterministic"
           },
           {
+            "name": "Polluted Delta",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
             "name": "Raugrin Triome",
             "quantity": 1,
             "confidence": "deterministic"
           },
           {
-            "name": "Reliquary Tower",
+            "name": "Reflecting Pool",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Rivendell",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -5549,11 +4427,6 @@
             "confidence": "deterministic"
           },
           {
-            "name": "Clifftop Retreat",
-            "quantity": 1,
-            "confidence": "deterministic"
-          },
-          {
             "name": "Command Tower",
             "quantity": 1,
             "confidence": "deterministic"
@@ -5585,7 +4458,7 @@
           },
           {
             "name": "Island",
-            "quantity": 3,
+            "quantity": 2,
             "confidence": "deterministic"
           },
           {
@@ -5594,8 +4467,18 @@
             "confidence": "deterministic"
           },
           {
+            "name": "Mistrise Village",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Misty Rainforest",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
             "name": "Mountain",
-            "quantity": 4,
+            "quantity": 2,
             "confidence": "deterministic"
           },
           {
@@ -5614,12 +4497,22 @@
             "confidence": "deterministic"
           },
           {
+            "name": "Polluted Delta",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
             "name": "Raugrin Triome",
             "quantity": 1,
             "confidence": "deterministic"
           },
           {
-            "name": "Reliquary Tower",
+            "name": "Reflecting Pool",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Rivendell",
             "quantity": 1,
             "confidence": "deterministic"
           },
@@ -5706,11 +4599,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Savage Beating",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Sea Gate Restoration",
             "quantity": 1,
             "confidence": "deterministic"
@@ -5744,6 +4632,11 @@
           },
           {
             "name": "Plaza of Heroes",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Venat, Heart of Hydaelyn",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -5785,6 +4678,11 @@
             "confidence": "override"
           },
           {
+            "name": "Talisman of Creativity",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Valakut Awakening",
             "quantity": 1,
             "confidence": "heuristic"
@@ -5819,7 +4717,12 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Hermes, Overseer of Elpis",
+            "name": "Rivendell",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Stock Up",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -5827,6 +4730,16 @@
         "spot_removal": [
           {
             "name": "Flame of Anor",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Gandalf's Sanction",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mnemonic Deluge",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5846,12 +4759,17 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Surge to Victory",
+            "name": "Swords to Plowshares",
             "quantity": 1,
             "confidence": "heuristic"
           },
           {
-            "name": "Swords to Plowshares",
+            "name": "Venat, Heart of Hydaelyn",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Wear/Tear",
             "quantity": 1,
             "confidence": "heuristic"
           }
@@ -5868,7 +4786,17 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Misty Rainforest",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Muddle the Mixture",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Polluted Delta",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -5876,24 +4804,9 @@
             "name": "Scalding Tarn",
             "quantity": 1,
             "confidence": "heuristic"
-          },
-          {
-            "name": "Solve the Equation",
-            "quantity": 1,
-            "confidence": "heuristic"
           }
         ],
         "win_condition": [
-          {
-            "name": "Savage Beating",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
-            "name": "Surge to Victory",
-            "quantity": 1,
-            "confidence": "override"
-          },
           {
             "name": "World at War",
             "quantity": 1,
@@ -5901,11 +4814,12 @@
           }
         ]
       },
-      "nonland_role_coverage": 0.697,
+      "nonland_role_coverage": 0.7121,
       "unclassified_nonlands": [
         "Adeliz, the Cinder Wind",
         "An Offer You Can't Refuse",
         "Balmor, Battlemage Captain",
+        "Brainsurge",
         "Dovin's Veto",
         "Galadriel's Dismissal",
         "Gandalf the White",
@@ -5915,14 +4829,12 @@
         "Harmonic Prodigy",
         "Kykar, Wind's Fury",
         "Raise the Palisade",
-        "Roaming Throne",
         "Swan Song",
         "Taunt from the Rampart",
         "Time Spiral",
         "Traverse Eternity",
         "Veyran, Voice of Duality",
-        "Vivi Ornitier",
-        "Wizard's Staff"
+        "Vivi Ornitier"
       ],
       "combo_adjudication_current": true,
       "combo_adjudication_status": "reviewed",
@@ -5950,20 +4862,6 @@
         },
         {
           "name": "Alania, Divergent Storm",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Alisaie Leveilleur",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic"
-          }
-        },
-        {
-          "name": "Alphinaud Leveilleur",
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
@@ -6005,13 +4903,6 @@
           }
         },
         {
-          "name": "Azami, Lady of Scrolls",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
           "name": "Balmor, Battlemage Captain",
           "quantity": 1,
           "roles": {}
@@ -6033,6 +4924,11 @@
           }
         },
         {
+          "name": "Brainsurge",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
           "name": "Call Forth the Tempest",
           "quantity": 1,
           "roles": {
@@ -6042,14 +4938,6 @@
         },
         {
           "name": "City of Brass",
-          "quantity": 1,
-          "roles": {
-            "land": "deterministic",
-            "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Clifftop Retreat",
           "quantity": 1,
           "roles": {
             "land": "deterministic",
@@ -6117,13 +5005,6 @@
           }
         },
         {
-          "name": "Frantic Search",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
           "name": "Galadriel's Dismissal",
           "quantity": 1,
           "roles": {}
@@ -6186,10 +5067,25 @@
           "roles": {}
         },
         {
+          "name": "Gandalf, Westward Voyager",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
           "name": "Gandalf, White Rider",
           "quantity": 1,
           "roles": {
             "selection": "heuristic"
+          }
+        },
+        {
+          "name": "Gandalf's Sanction",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
           }
         },
         {
@@ -6219,13 +5115,6 @@
           "roles": {}
         },
         {
-          "name": "Hermes, Overseer of Elpis",
-          "quantity": 1,
-          "roles": {
-            "selection": "heuristic"
-          }
-        },
-        {
           "name": "Improvisation Capstone",
           "quantity": 1,
           "roles": {
@@ -6242,10 +5131,24 @@
         },
         {
           "name": "Island",
-          "quantity": 3,
+          "quantity": 2,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Jadzi, Steward of Fate",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Jori En, Ruin Diver",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
           }
         },
         {
@@ -6293,16 +5196,34 @@
           }
         },
         {
-          "name": "Mizzix of the Izmagnus",
+          "name": "Mistrise Village",
           "quantity": 1,
           "roles": {
-            "cost_reduction": "override",
-            "commander_engine": "override"
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Misty Rainforest",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Mnemonic Deluge",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "spot_removal": "heuristic",
+            "graveyard_interaction": "heuristic"
           }
         },
         {
           "name": "Mountain",
-          "quantity": 4,
+          "quantity": 2,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
@@ -6350,6 +5271,15 @@
           }
         },
         {
+          "name": "Polluted Delta",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
           "name": "Quistis Trepe",
           "quantity": 1,
           "roles": {
@@ -6387,11 +5317,27 @@
           }
         },
         {
-          "name": "Reliquary Tower",
+          "name": "Recurring Insight",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
+          "name": "Reflecting Pool",
           "quantity": 1,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Rivendell",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "selection": "heuristic"
           }
         },
         {
@@ -6403,26 +5349,11 @@
           }
         },
         {
-          "name": "Roaming Throne",
-          "quantity": 1,
-          "roles": {}
-        },
-        {
           "name": "Sacred Foundry",
           "quantity": 1,
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Savage Beating",
-          "quantity": 1,
-          "roles": {
-            "modal": "heuristic",
-            "commander_engine": "override",
-            "win_condition": "override",
-            "combo_piece": "confirmed-combo"
           }
         },
         {
@@ -6478,13 +5409,6 @@
           }
         },
         {
-          "name": "Solve the Equation",
-          "quantity": 1,
-          "roles": {
-            "tutor": "heuristic"
-          }
-        },
-        {
           "name": "Spectator Seating",
           "quantity": 1,
           "roles": {
@@ -6498,6 +5422,13 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Stock Up",
+          "quantity": 1,
+          "roles": {
+            "selection": "heuristic"
           }
         },
         {
@@ -6517,17 +5448,6 @@
           }
         },
         {
-          "name": "Surge to Victory",
-          "quantity": 1,
-          "roles": {
-            "cost_reduction": "heuristic",
-            "spot_removal": "heuristic",
-            "commander_engine": "override",
-            "win_condition": "override",
-            "combo_piece": "confirmed-combo"
-          }
-        },
-        {
           "name": "Swan Song",
           "quantity": 1,
           "roles": {}
@@ -6537,6 +5457,13 @@
           "quantity": 1,
           "roles": {
             "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Talisman of Creativity",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
           }
         },
         {
@@ -6580,6 +5507,15 @@
           }
         },
         {
+          "name": "Venat, Heart of Hydaelyn",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "spot_removal": "heuristic",
+            "protection": "heuristic"
+          }
+        },
+        {
           "name": "Veyran, Voice of Duality",
           "quantity": 1,
           "roles": {}
@@ -6590,16 +5526,18 @@
           "roles": {}
         },
         {
+          "name": "Wear/Tear",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
           "name": "Will of the Temur",
           "quantity": 1,
           "roles": {
             "modal": "heuristic"
           }
-        },
-        {
-          "name": "Wizard's Staff",
-          "quantity": 1,
-          "roles": {}
         },
         {
           "name": "World at War",
@@ -9099,22 +8037,22 @@
       ]
     },
     "minn-wily-illusionist": {
-      "deck_sha256": "4b89875e5eef23299ba9d0c0521ae552cfdef65ca0591272f7e2bba7c07f9aa3",
+      "deck_sha256": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
       "counts_overlap": true,
       "role_counts": {
-        "card_advantage": 33,
-        "commander_engine": 6,
+        "card_advantage": 35,
+        "commander_engine": 8,
         "cost_reduction": 2,
         "extra_turn": 1,
         "fast_mana": 1,
         "land": 35,
         "land_capable": 37,
-        "modal": 2,
-        "ramp": 6,
-        "selection": 1,
+        "modal": 3,
+        "ramp": 7,
+        "selection": 2,
         "spot_removal": 2,
         "tutor": 2,
-        "win_condition": 3
+        "win_condition": 2
       },
       "role_cards": {
         "card_advantage": [
@@ -9179,6 +8117,16 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Living Lies of Loki",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Lyla, Holographic Assistant",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Malcolm, Alluring Scoundrel",
             "quantity": 1,
             "confidence": "heuristic"
@@ -9192,6 +8140,11 @@
             "name": "Mind Stone",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Monument to Endurance",
+            "quantity": 1,
+            "confidence": "override"
           },
           {
             "name": "Mystic Remora",
@@ -9220,11 +8173,6 @@
           },
           {
             "name": "Proft's Eidetic Memory",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
-            "name": "Psychosis Crawler",
             "quantity": 1,
             "confidence": "heuristic"
           },
@@ -9296,12 +8244,22 @@
             "confidence": "override"
           },
           {
+            "name": "Living Lies of Loki",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Lyla, Holographic Assistant",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
             "name": "Mask of Memory",
             "quantity": 1,
             "confidence": "override"
           },
           {
-            "name": "Oneirophage",
+            "name": "Monument to Endurance",
             "quantity": 1,
             "confidence": "override"
           },
@@ -9496,6 +8454,11 @@
             "name": "Hydroelectric Specimen",
             "quantity": 1,
             "confidence": "deterministic"
+          },
+          {
+            "name": "Monument to Endurance",
+            "quantity": 1,
+            "confidence": "heuristic"
           }
         ],
         "ramp": [
@@ -9520,6 +8483,11 @@
             "confidence": "heuristic"
           },
           {
+            "name": "Monument to Endurance",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
             "name": "Sol Ring",
             "quantity": 1,
             "confidence": "override"
@@ -9531,6 +8499,11 @@
           }
         ],
         "selection": [
+          {
+            "name": "Monument to Endurance",
+            "quantity": 1,
+            "confidence": "override"
+          },
           {
             "name": "Read the Runes",
             "quantity": 1,
@@ -9568,25 +8541,19 @@
             "confidence": "override"
           },
           {
-            "name": "Oneirophage",
-            "quantity": 1,
-            "confidence": "override"
-          },
-          {
             "name": "Minn, Wily Illusionist",
             "quantity": 1,
             "confidence": "override"
           }
         ]
       },
-      "nonland_role_coverage": 0.6308,
+      "nonland_role_coverage": 0.6462,
       "unclassified_nonlands": [
         "Fresh Start",
         "Krang, the All-Powerful",
         "Krovikan Mist",
         "Leyline of Transformation",
         "Maskwood Nexus",
-        "Molecule Man",
         "Omni-Changeling",
         "Phantasmal Abomination",
         "Phantasmal Bear",
@@ -9786,6 +8753,22 @@
           "roles": {}
         },
         {
+          "name": "Living Lies of Loki",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Lyla, Holographic Assistant",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "commander_engine": "override"
+          }
+        },
+        {
           "name": "Malcolm, Alluring Scoundrel",
           "quantity": 1,
           "roles": {
@@ -9823,9 +8806,15 @@
           }
         },
         {
-          "name": "Molecule Man",
+          "name": "Monument to Endurance",
           "quantity": 1,
-          "roles": {}
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "override",
+            "modal": "heuristic",
+            "commander_engine": "override",
+            "selection": "override"
+          }
         },
         {
           "name": "Mutavault",
@@ -9861,14 +8850,6 @@
           "name": "Omni-Changeling",
           "quantity": 1,
           "roles": {}
-        },
-        {
-          "name": "Oneirophage",
-          "quantity": 1,
-          "roles": {
-            "commander_engine": "override",
-            "win_condition": "override"
-          }
         },
         {
           "name": "Otawara, Soaring City",
@@ -9932,13 +8913,6 @@
         },
         {
           "name": "Proft's Eidetic Memory",
-          "quantity": 1,
-          "roles": {
-            "card_advantage": "heuristic"
-          }
-        },
-        {
-          "name": "Psychosis Crawler",
           "quantity": 1,
           "roles": {
             "card_advantage": "heuristic"
@@ -13054,6 +12028,1200 @@
           "roles": {
             "commander_engine": "override",
             "card_advantage": "override"
+          }
+        }
+      ]
+    },
+    "the-notary-hobbits": {
+      "deck_sha256": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de",
+      "counts_overlap": true,
+      "role_counts": {
+        "board_wipe": 1,
+        "card_advantage": 10,
+        "commander_engine": 5,
+        "cost_reduction": 9,
+        "countermagic": 1,
+        "extra_turn": 2,
+        "fast_mana": 1,
+        "land": 37,
+        "land_capable": 40,
+        "modal": 4,
+        "protection": 4,
+        "ramp": 25,
+        "recursion": 3,
+        "selection": 1,
+        "spot_removal": 4,
+        "tutor": 8,
+        "win_condition": 2
+      },
+      "role_cards": {
+        "board_wipe": [
+          {
+            "name": "Scavenger Grounds",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "card_advantage": [
+          {
+            "name": "Bala Ged Recovery",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Beast Whisperer",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Disciple of Freyalise",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Kozilek, the Broken Reality",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Selvala, Heart of the Wilds",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Summon: Bahamut",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Great Henge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Ugin, Eye of the Storms",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Up the Beanstalk",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "World Breaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "commander_engine": [
+          {
+            "name": "Maskwood Nexus",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Panharmonicon",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Parallel Lives",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Strionic Resonator",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "The Notary Hobbits",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "cost_reduction": [
+          {
+            "name": "Conduit of Ruin",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Emrakul, the Promised End",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Eye of Ugin",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mosswort Bridge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Radagast of Rhosgobel",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Rishkar's Expertise",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Great Henge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Ugin, Eye of the Storms",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Zhulodok, Void Gorger",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "countermagic": [
+          {
+            "name": "Kozilek, the Great Distortion",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "extra_turn": [
+          {
+            "name": "Emrakul, the Promised End",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Rise of the Eldrazi",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "fast_mana": [
+          {
+            "name": "Sol Ring",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "land": [
+          {
+            "name": "Boseiju, Who Endures",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Castle Garenbrig",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Cavern of Souls",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Eldrazi Temple",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Eye of Ugin",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Forest",
+            "quantity": 24,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hobbit Hole",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mosswort Bridge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sanctum of Ugin",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Scavenger Grounds",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "The Shire",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Ugin's Labyrinth",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Yavimaya Hollow",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Yavimaya, Cradle of Growth",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "land_capable": [
+          {
+            "name": "Bala Ged Recovery",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Boseiju, Who Endures",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Bridgeworks Battle",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Castle Garenbrig",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Cavern of Souls",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Disciple of Freyalise",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Eldrazi Temple",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Eye of Ugin",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Forest",
+            "quantity": 24,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Hobbit Hole",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mosswort Bridge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sanctum of Ugin",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Scavenger Grounds",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "The Shire",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Ugin's Labyrinth",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Yavimaya Hollow",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Yavimaya, Cradle of Growth",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "modal": [
+          {
+            "name": "Bala Ged Recovery",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Bridgeworks Battle",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Disciple of Freyalise",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Return of the Wildspeaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "protection": [
+          {
+            "name": "Emrakul, the Promised End",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Emrakul, the World Anew",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Heroic Intervention",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Yavimaya Hollow",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "ramp": [
+          {
+            "name": "Bala Ged Recovery",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Birds of Paradise",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Bridgeworks Battle",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Cultivate",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Delighted Halfling",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Disciple of Freyalise",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Elvish Mystic",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Finale of Devastation",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Firdoch Core",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Fyndhorn Elves",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "It That Betrays",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Joraga Treespeaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Kodama's Reach",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Kozilek, the Broken Reality",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Llanowar Elves",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mutable Explorer",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Nature's Lore",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Rampant Growth",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Selvala, Heart of the Wilds",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Shang-Chi, Master of Kung Fu",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Sol Ring",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Springleaf Parade",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Great Henge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Three Visits",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Notary Hobbits",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "recursion": [
+          {
+            "name": "Artisan of Kozilek",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Bala Ged Recovery",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "World Breaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "selection": [
+          {
+            "name": "Mosswort Bridge",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "spot_removal": [
+          {
+            "name": "Boseiju, Who Endures",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Rise of the Eldrazi",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Ulamog, the Infinite Gyre",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "World Breaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "tutor": [
+          {
+            "name": "Conduit of Ruin",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Eye of Ugin",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Finale of Devastation",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Nature's Lore",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Sanctum of Ugin",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Skyshroud Claim",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Three Visits",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Ugin, Eye of the Storms",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "win_condition": [
+          {
+            "name": "Darksteel Angel",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Finale of Devastation",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ]
+      },
+      "nonland_role_coverage": 0.7619,
+      "unclassified_nonlands": [
+        "All Is Dust",
+        "Badgermole Cub",
+        "Chomping Changeling",
+        "Concordant Crossroads",
+        "Echoes of Eternity",
+        "Flayer of Loyalties",
+        "Greater Good",
+        "Kozilek, Butcher of Truth",
+        "Lightning Greaves",
+        "Pathrazer of Ulamog",
+        "Sire of Seven Deaths",
+        "The Ten Rings",
+        "Thousand-Year Elixir",
+        "Ulamog, the Ceaseless Hunger",
+        "Ulamog, the Defiler"
+      ],
+      "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
+      "cards": [
+        {
+          "name": "All Is Dust",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Artisan of Kozilek",
+          "quantity": 1,
+          "roles": {
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Badgermole Cub",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Bala Ged Recovery",
+          "quantity": 1,
+          "roles": {
+            "land_capable": "deterministic",
+            "modal": "deterministic",
+            "ramp": "heuristic",
+            "card_advantage": "heuristic",
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Beast Whisperer",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Birds of Paradise",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Boseiju, Who Endures",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Bridgeworks Battle",
+          "quantity": 1,
+          "roles": {
+            "land_capable": "deterministic",
+            "modal": "deterministic",
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Castle Garenbrig",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Chomping Changeling",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Concordant Crossroads",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Conduit of Ruin",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Cultivate",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Darksteel Angel",
+          "quantity": 1,
+          "roles": {
+            "win_condition": "heuristic"
+          }
+        },
+        {
+          "name": "Delighted Halfling",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Disciple of Freyalise",
+          "quantity": 1,
+          "roles": {
+            "land_capable": "deterministic",
+            "modal": "deterministic",
+            "ramp": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Echoes of Eternity",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Eldrazi Temple",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Elvish Mystic",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Emrakul, the Promised End",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "protection": "heuristic",
+            "extra_turn": "heuristic"
+          }
+        },
+        {
+          "name": "Emrakul, the World Anew",
+          "quantity": 1,
+          "roles": {
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Eye of Ugin",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "cost_reduction": "heuristic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Finale of Devastation",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "tutor": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Firdoch Core",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Flayer of Loyalties",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Forest",
+          "quantity": 24,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Fyndhorn Elves",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Greater Good",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Heroic Intervention",
+          "quantity": 1,
+          "roles": {
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Hobbit Hole",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "It That Betrays",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Joraga Treespeaker",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Kodama's Reach",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Kozilek, Butcher of Truth",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Kozilek, the Broken Reality",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Kozilek, the Great Distortion",
+          "quantity": 1,
+          "roles": {
+            "countermagic": "heuristic"
+          }
+        },
+        {
+          "name": "Lightning Greaves",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Llanowar Elves",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Maskwood Nexus",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Mosswort Bridge",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "cost_reduction": "heuristic",
+            "selection": "heuristic"
+          }
+        },
+        {
+          "name": "Mutable Explorer",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Nature's Lore",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Panharmonicon",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Parallel Lives",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Pathrazer of Ulamog",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Radagast of Rhosgobel",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
+          "name": "Rampant Growth",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Return of the Wildspeaker",
+          "quantity": 1,
+          "roles": {
+            "modal": "heuristic"
+          }
+        },
+        {
+          "name": "Rise of the Eldrazi",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic",
+            "extra_turn": "heuristic"
+          }
+        },
+        {
+          "name": "Rishkar's Expertise",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
+          "name": "Sanctum of Ugin",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Scavenger Grounds",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "board_wipe": "heuristic"
+          }
+        },
+        {
+          "name": "Selvala, Heart of the Wilds",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Shang-Chi, Master of Kung Fu",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Sire of Seven Deaths",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Skyshroud Claim",
+          "quantity": 1,
+          "roles": {
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Sol Ring",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Springleaf Parade",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Strionic Resonator",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Summon: Bahamut",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "The Great Henge",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "cost_reduction": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "The Shire",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "The Ten Rings",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Thousand-Year Elixir",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Three Visits",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Ugin, Eye of the Storms",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "card_advantage": "heuristic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Ugin's Labyrinth",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Ulamog, the Ceaseless Hunger",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Ulamog, the Defiler",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Ulamog, the Infinite Gyre",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Up the Beanstalk",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "World Breaker",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "recursion": "heuristic",
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Yavimaya Hollow",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "Yavimaya, Cradle of Growth",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Zhulodok, Void Gorger",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
+          "name": "The Notary Hobbits",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "commander_engine": "override"
           }
         }
       ]

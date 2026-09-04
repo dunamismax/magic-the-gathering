@@ -19,17 +19,23 @@ def deck_readme(collection: dict[str, Any], audit: dict[str, Any]) -> str:
         f"Current local source files were audited on {audit_date}. Every listed deck",
         "is linked to its exact SHA-256 and public Moxfield reference.",
         "",
-        "| Deck | Target | Moxfield updated | Refreshed locally | Local list | SHA-256 |",
-        "|---|---:|---:|---:|---|---|",
+        "| Deck | Target | Moxfield updated | Refreshed locally | Local list | Options | SHA-256 |",
+        "|---|---:|---:|---:|---|---|---|",
     ]
     for slug, metadata in collection["decks"].items():
         deck = audit["decks"][slug]
         title = str(metadata["title"]).replace("|", "\\|")
         moxfield = f"https://moxfield.com/decks/{metadata['moxfield_id']}"
+        sideboard = metadata.get("sideboard") or {}
+        options = (
+            f"[sideboard]({str(sideboard['file']).removeprefix('decks/')})"
+            if sideboard.get("file")
+            else "None"
+        )
         lines.append(
             f"| [{title}]({moxfield}) | B{metadata['constraints']['target_bracket']} | "
             f"{metadata['source_updated_on']} | {metadata['source_refreshed_on']} | "
-            f"[list]({slug}.txt) | `{deck['deck_sha256']}` |"
+            f"[list]({slug}.txt) | {options} | `{deck['deck_sha256']}` |"
         )
     aliases = collection.get("aliases") or {}
     lines.extend(
@@ -65,16 +71,18 @@ def collection_summary(collection: dict[str, Any], audit: dict[str, Any]) -> str
         "This file contains deterministic construction results. Bracket and social",
         "conclusions require the relevant rubric and dated human/AI judgment.",
         "",
-        "| Deck | Valid | Cards | Printed lands | MDFC lands | Game Changers | Rule Zero | SHA-256 |",
-        "|---|---:|---:|---:|---:|---:|---|---|",
+        "| Deck | Valid | Cards | Printed lands | MDFC lands | Game Changers | Rule Zero | Bracket exceptions | SHA-256 |",
+        "|---|---:|---:|---:|---:|---:|---|---|---|",
     ]
     for slug in collection["decks"]:
         deck = audit["decks"][slug]
         rule_zero = ", ".join(deck["rule_zero_cards"]) or "None"
+        bracket_exceptions = ", ".join(deck["bracket_exception_cards"]) or "None"
         lines.append(
             f"| {deck['title'].replace('|', '/')} | {'yes' if deck['valid'] else 'no'} | "
             f"{deck['total_cards']} | {deck['printed_lands']} | {deck['mdfc_lands']} | "
-            f"{deck['game_changer_count']} | {rule_zero} | `{deck['deck_sha256'][:12]}` |"
+            f"{deck['game_changer_count']} | {rule_zero} | {bracket_exceptions} | "
+            f"`{deck['deck_sha256'][:12]}` |"
         )
     lines.extend(
         [

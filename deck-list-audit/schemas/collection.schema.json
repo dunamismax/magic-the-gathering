@@ -17,9 +17,22 @@
           "source_updated_on": {"type": "string", "format": "date"},
           "source_refreshed_on": {"type": "string", "format": "date"},
           "visibility": {"enum": ["public", "private"]},
+          "sideboard": {
+            "type": "object",
+            "required": ["file", "purpose", "swap_out", "target_bracket"],
+            "properties": {
+              "file": {"type": "string", "minLength": 1},
+              "purpose": {"type": "string", "minLength": 1},
+              "swap_out": {"type": "array", "items": {"type": "string"}},
+              "target_bracket": {"type": "integer", "minimum": 1, "maximum": 5}
+            }
+          },
           "constraints": {
             "type": "object",
-            "required": ["target_bracket", "game_changer_max", "combo_policy", "rule_zero_cards", "locked_cards"]
+            "required": ["target_bracket", "game_changer_max", "combo_policy", "rule_zero_cards", "locked_cards"],
+            "properties": {
+              "bracket_exception_cards": {"type": "array", "items": {"type": "string"}}
+            }
           }
         }
       }

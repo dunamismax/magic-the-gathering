@@ -1,0 +1,314 @@
+{
+  "main": [
+    {
+      "card": "All Is Dust",
+      "quantity": 1
+    },
+    {
+      "card": "Artisan of Kozilek",
+      "quantity": 1
+    },
+    {
+      "card": "Badgermole Cub",
+      "quantity": 1
+    },
+    {
+      "card": "Bala Ged Recovery",
+      "quantity": 1
+    },
+    {
+      "card": "Beast Whisperer",
+      "quantity": 1
+    },
+    {
+      "card": "Birds of Paradise",
+      "quantity": 1
+    },
+    {
+      "card": "Boseiju, Who Endures",
+      "quantity": 1
+    },
+    {
+      "card": "Bridgeworks Battle",
+      "quantity": 1
+    },
+    {
+      "card": "Castle Garenbrig",
+      "quantity": 1
+    },
+    {
+      "card": "Cavern of Souls",
+      "quantity": 1
+    },
+    {
+      "card": "Chomping Changeling",
+      "quantity": 1
+    },
+    {
+      "card": "Concordant Crossroads",
+      "quantity": 1
+    },
+    {
+      "card": "Conduit of Ruin",
+      "quantity": 1
+    },
+    {
+      "card": "Cultivate",
+      "quantity": 1
+    },
+    {
+      "card": "Darksteel Angel",
+      "quantity": 1
+    },
+    {
+      "card": "Delighted Halfling",
+      "quantity": 1
+    },
+    {
+      "card": "Disciple of Freyalise",
+      "quantity": 1
+    },
+    {
+      "card": "Echoes of Eternity",
+      "quantity": 1
+    },
+    {
+      "card": "Eldrazi Temple",
+      "quantity": 1
+    },
+    {
+      "card": "Elvish Mystic",
+      "quantity": 1
+    },
+    {
+      "card": "Emrakul, the Promised End",
+      "quantity": 1
+    },
+    {
+      "card": "Emrakul, the World Anew",
+      "quantity": 1
+    },
+    {
+      "card": "Eye of Ugin",
+      "quantity": 1
+    },
+    {
+      "card": "Finale of Devastation",
+      "quantity": 1
+    },
+    {
+      "card": "Firdoch Core",
+      "quantity": 1
+    },
+    {
+      "card": "Flayer of Loyalties",
+      "quantity": 1
+    },
+    {
+      "card": "Forest",
+      "quantity": 24
+    },
+    {
+      "card": "Fyndhorn Elves",
+      "quantity": 1
+    },
+    {
+      "card": "Greater Good",
+      "quantity": 1
+    },
+    {
+      "card": "Heroic Intervention",
+      "quantity": 1
+    },
+    {
+      "card": "Hobbit Hole",
+      "quantity": 1
+    },
+    {
+      "card": "It That Betrays",
+      "quantity": 1
+    },
+    {
+      "card": "Joraga Treespeaker",
+      "quantity": 1
+    },
+    {
+      "card": "Kodama's Reach",
+      "quantity": 1
+    },
+    {
+      "card": "Kozilek, Butcher of Truth",
+      "quantity": 1
+    },
+    {
+      "card": "Kozilek, the Broken Reality",
+      "quantity": 1
+    },
+    {
+      "card": "Kozilek, the Great Distortion",
+      "quantity": 1
+    },
+    {
+      "card": "Lightning Greaves",
+      "quantity": 1
+    },
+    {
+      "card": "Llanowar Elves",
+      "quantity": 1
+    },
+    {
+      "card": "Maskwood Nexus",
+      "quantity": 1
+    },
+    {
+      "card": "Mosswort Bridge",
+      "quantity": 1
+    },
+    {
+      "card": "Mutable Explorer",
+      "quantity": 1
+    },
+    {
+      "card": "Nature's Lore",
+      "quantity": 1
+    },
+    {
+      "card": "Panharmonicon",
+      "quantity": 1
+    },
+    {
+      "card": "Parallel Lives",
+      "quantity": 1
+    },
+    {
+      "card": "Pathrazer of Ulamog",
+      "quantity": 1
+    },
+    {
+      "card": "Radagast of Rhosgobel",
+      "quantity": 1
+    },
+    {
+      "card": "Rampant Growth",
+      "quantity": 1
+    },
+    {
+      "card": "Return of the Wildspeaker",
+      "quantity": 1
+    },
+    {
+      "card": "Rise of the Eldrazi",
+      "quantity": 1
+    },
+    {
+      "card": "Rishkar's Expertise",
+      "quantity": 1
+    },
+    {
+      "card": "Sanctum of Ugin",
+      "quantity": 1
+    },
+    {
+      "card": "Scavenger Grounds",
+      "quantity": 1
+    },
+    {
+      "card": "Selvala, Heart of the Wilds",
+      "quantity": 1
+    },
+    {
+      "card": "Shang-Chi, Master of Kung Fu",
+      "quantity": 1
+    },
+    {
+      "card": "Sire of Seven Deaths",
+      "quantity": 1
+    },
+    {
+      "card": "Skyshroud Claim",
+      "quantity": 1
+    },
+    {
+      "card": "Sol Ring",
+      "quantity": 1
+    },
+    {
+      "card": "Springleaf Parade",
+      "quantity": 1
+    },
+    {
+      "card": "Strionic Resonator",
+      "quantity": 1
+    },
+    {
+      "card": "Summon: Bahamut",
+      "quantity": 1
+    },
+    {
+      "card": "The Great Henge",
+      "quantity": 1
+    },
+    {
+      "card": "The Shire",
+      "quantity": 1
+    },
+    {
+      "card": "The Ten Rings",
+      "quantity": 1
+    },
+    {
+      "card": "Thousand-Year Elixir",
+      "quantity": 1
+    },
+    {
+      "card": "Three Visits",
+      "quantity": 1
+    },
+    {
+      "card": "Ugin, Eye of the Storms",
+      "quantity": 1
+    },
+    {
+      "card": "Ugin's Labyrinth",
+      "quantity": 1
+    },
+    {
+      "card": "Ulamog, the Ceaseless Hunger",
+      "quantity": 1
+    },
+    {
+      "card": "Ulamog, the Defiler",
+      "quantity": 1
+    },
+    {
+      "card": "Ulamog, the Infinite Gyre",
+      "quantity": 1
+    },
+    {
+      "card": "Up the Beanstalk",
+      "quantity": 1
+    },
+    {
+      "card": "World Breaker",
+      "quantity": 1
+    },
+    {
+      "card": "Yavimaya Hollow",
+      "quantity": 1
+    },
+    {
+      "card": "Yavimaya, Cradle of Growth",
+      "quantity": 1
+    },
+    {
+      "card": "Zhulodok, Void Gorger",
+      "quantity": 1
+    }
+  ],
+  "commanders": [
+    {
+      "card": "The Notary Hobbits",
+      "quantity": 1
+    }
+  ]
+}
