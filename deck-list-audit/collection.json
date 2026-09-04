@@ -81,7 +81,7 @@
       ],
       "title": "Frodo & Sam | There and Snack Again",
       "moxfield_id": "g9oUYlV4TU27CtQyGMgF2Q",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-04",
       "visibility": "public",
       "constraints": {
         "target_bracket": 2,
@@ -106,7 +106,7 @@
       "source_updated_on": "2026-09-02",
       "visibility": "public",
       "constraints": {
-        "target_bracket": 2,
+        "target_bracket": 3,
         "game_changer_max": 0,
         "combo_policy": "disclose",
         "rule_zero_cards": [
@@ -142,7 +142,7 @@
       ],
       "title": "Henzie “Toolbox” Torre | Jundyard Shift",
       "moxfield_id": "hmDd37TPIEaienBhw05Udw",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-04",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -155,13 +155,13 @@
       },
       "source_refreshed_on": "2026-09-04"
     },
-    "magda-brazen-outlaw": {
+    "thorin-king-of-durins-folk": {
       "commanders": [
-        "Magda, Brazen Outlaw"
+        "Thorin, King of Durin's Folk"
       ],
-      "title": "Magda, Brazen Outlaw | Dragon Delivery Service",
-      "moxfield_id": "sfMB4JriEkaOXwGSCqoZlw",
-      "source_updated_on": "2026-09-02",
+      "title": "Thorin, King of Durin’s Folk | Long Live the Short Kings",
+      "moxfield_id": "ajEk9aexw0KTAXG7aL9ysg",
+      "source_updated_on": "2026-09-04",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -170,7 +170,7 @@
         "rule_zero_cards": [],
         "locked_cards": [],
         "budget": null,
-        "experience": "Dwarf, Dragon, and Treasure toolbox without a mandatory compact combo."
+        "experience": "Boros all-Dwarf kindred with creature-triggered Treasure, legendary-copy and token multipliers, Equipment, and combat wins."
       },
       "source_refreshed_on": "2026-09-04"
     },

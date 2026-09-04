@@ -149,6 +149,10 @@
       "quantity": 1
     },
     {
+      "card": "Hobbit Hole",
+      "quantity": 1
+    },
+    {
       "card": "Hobbit's Sting",
       "quantity": 1
     },
@@ -310,10 +314,6 @@
     },
     {
       "card": "Swords to Plowshares",
-      "quantity": 1
-    },
-    {
-      "card": "Terramorphic Expanse",
       "quantity": 1
     },
     {

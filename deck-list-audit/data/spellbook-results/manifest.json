@@ -24,11 +24,11 @@
     "frodo-sam": {
       "status": "exact-list-scan",
       "fetched_on": "2026-09-04",
-      "request_sha256": "890518358cf2fa387e21c9a1a07da2d190821488abe01c6a78eb8e592fe982b9",
+      "request_sha256": "52180db0bcb8812487b36d99915350b6bf198964f3c647ed0e6c0e9878b70285",
       "estimate_file": "data/spellbook-results/frodo-sam-estimate.json",
-      "estimate_sha256": "b0d6d9b05c19ee45dce570b90260593c2351ac1f46c08cd78a81152df61f6129",
+      "estimate_sha256": "32c6f5ba348962b6a17cc641cd1771b9af7fc1b5a6d123dd19c15bed14fb6139",
       "combos_file": "data/spellbook-results/frodo-sam-combos.json",
-      "combos_sha256": "9c918a8d5960c7ec41e4be04e44a5bc24896103d5e436496b239ecbfd2c5abee"
+      "combos_sha256": "c865d1697e5b4b9e58385ad23f3ed7375b51b9eea5db01846b571f485614c250"
     },
     "gandalf-party-guest": {
       "status": "exact-list-scan",
@@ -41,21 +41,12 @@
     },
     "henzie-toolbox-torre": {
       "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "e4b9d5025e5da3913a4506c9a921172c588865e1c55b2a7d9836984b6c7b7fb8",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "71a38772af7d98f0fe668b5ad2454c56ef4fd3e0562884fcace3b58463902162",
       "estimate_file": "data/spellbook-results/henzie-toolbox-torre-estimate.json",
-      "estimate_sha256": "1ae04337d33cc9feafd53a7c1cc6d0242727c091b76e7f1ae702757ac67ca693",
+      "estimate_sha256": "a8d5f6fb1e3341bd89d1d441611675bfad7e1238eb2b99645ac06057da5f4dd2",
       "combos_file": "data/spellbook-results/henzie-toolbox-torre-combos.json",
-      "combos_sha256": "1dc2eb0a3ee8e65962b8de5cf3d9a4ad35cd2b9a4b21bbc7c2ddbea41caaf38b"
-    },
-    "magda-brazen-outlaw": {
-      "status": "exact-list-scan",
-      "fetched_on": "2026-08-30",
-      "request_sha256": "90fd396c8339fc4123b4718d5fa77b4a83953c05b6f99d694ead813032838c9d",
-      "estimate_file": "data/spellbook-results/magda-brazen-outlaw-estimate.json",
-      "estimate_sha256": "f68f77ea7da823362ca2e96042aa1b7c1bf403ecb55469b7958f830facc3418d",
-      "combos_file": "data/spellbook-results/magda-brazen-outlaw-combos.json",
-      "combos_sha256": "54c4d5865ea7d36644892322f6e8c31e73e87057e7503323e0fb4ce0c5a2fe96"
+      "combos_sha256": "f91debab06eaed6b4c0f726a5792daa6153883cbe3ae01b481c26f744944d01e"
     },
     "minn-wily-illusionist": {
       "status": "exact-list-scan",
@@ -92,6 +83,15 @@
       "estimate_sha256": "e14f53ca154dd44d47c7a7323195b121b51f715595e74b51bf3c63ebbfd709fe",
       "combos_file": "data/spellbook-results/the-notary-hobbits-combos.json",
       "combos_sha256": "f4760bbdbd0c1b290351755d1c77df8b0ab267c1d245998be61eb4450f006b84"
+    },
+    "thorin-king-of-durins-folk": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "1359db7390385aaacd73819b8c161ca907bd48f74051c082a3d6ed57aa092cf4",
+      "estimate_file": "data/spellbook-results/thorin-king-of-durins-folk-estimate.json",
+      "estimate_sha256": "fe2f748f9c1053920ca995ae048b4b7154787efd3287a4f188411811afe330b1",
+      "combos_file": "data/spellbook-results/thorin-king-of-durins-folk-combos.json",
+      "combos_sha256": "902f2a91aedf9e9e500eea630907baa808b6ebf105212902c075755da1c0887f"
     }
   }
 }

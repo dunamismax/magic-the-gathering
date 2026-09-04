@@ -3,18 +3,18 @@
   "status": "reviewed-current-snapshot",
   "audit_date": "2026-09-04",
   "report_file": "reports/commander-social-audit-2026-09-04.md",
-  "report_sha256": "6e5ccd6bb4e5637f0826c80be4ad9d5b96484e872576a8efdb1b161f0e62c4a9",
+  "report_sha256": "afb022c6c97ff53ca9d8556c30b5023304db1e5953d57c01c93003c593cc8e5f",
   "deck_sha256": {
     "aragorn-the-uniter": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
     "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
-    "frodo-sam": "a217307fb8789b57a818675bd33227f459feb739bc43c82b5eb8c037a9e19567",
+    "frodo-sam": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
     "gandalf-party-guest": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
-    "henzie-toolbox-torre": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb",
-    "magda-brazen-outlaw": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
+    "henzie-toolbox-torre": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
+    "thorin-king-of-durins-folk": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
     "minn-wily-illusionist": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
     "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
     "the-notary-hobbits": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de"
   },
-  "notes": "Current 10-deck social-power report based on the complete 2026-09-04 public Moxfield refresh, current Oracle and official Commander policy checks, hash-current Commander Spellbook evidence, and manual exact-list prerequisite review. Gandalf is recorded as an exact nine-for-nine Maximum Flavor / Maximum Power configuration switch. Six unchanged deck hashes retain prior findings; four changed or new lists were fully rescanned."
+  "notes": "Current 10-deck report based on the complete 2026-09-04 public roster, current Oracle and official Commander policy checks, hash-current Commander Spellbook evidence, and manual exact-list prerequisite review. Thorin was added, the retired deck record was removed, and newer Henzie and Frodo & Sam exports were synchronized."
 }

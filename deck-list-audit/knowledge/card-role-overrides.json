@@ -108,19 +108,32 @@
         "card_advantage"
       ]
     },
-    "magda-brazen-outlaw": {
+    "thorin-king-of-durins-folk": {
+      "Thorin, King of Durin's Folk": [
+        "commander_engine",
+        "ramp",
+        "win_condition"
+      ],
       "Magda, Brazen Outlaw": [
         "commander_engine",
         "ramp",
         "tutor"
       ],
-      "Fíli and Kíli, Joyous": [
-        "commander_engine",
-        "ramp"
+      "Cadric, Soul Kindler": [
+        "commander_engine"
       ],
-      "Idol of Oblivion": [
-        "commander_engine",
-        "card_advantage"
+      "Panharmonicon": [
+        "commander_engine"
+      ],
+      "Molten Echoes": [
+        "commander_engine"
+      ],
+      "Warleader's Call": [
+        "win_condition"
+      ],
+      "The Reaver Cleaver": [
+        "ramp",
+        "win_condition"
       ]
     },
     "minn-wily-illusionist": {

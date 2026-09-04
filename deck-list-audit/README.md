@@ -9,20 +9,20 @@ deck edits so one layer cannot silently masquerade as another.
 
 - **10 public decks**: the full collection was downloaded from Moxfield and
   locally audited on **2026-09-04**
-- **8 Bracket 3 targets** and **2 posted Bracket 2 configurations**: Gandalf's
-  Maximum Flavor main and Frodo & Sam's B2* Game Changer exception
+- **9 public Bracket 3 labels** and **1 posted Bracket 2* configuration**:
+  Gandalf's main is labeled B3 but plays as a B2-style Rule Zero mode, and
+  Frodo & Sam uses a disclosed Game Changer exception
 - All 10 main decks resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, banned-card, and configured exception checks
 - All 10 exact lists have hash-current Commander Spellbook evidence and manual
-  prerequisite review; the four changed or new lists were scanned on
-  **2026-09-04**
+  prerequisite review; Thorin, Henzie, and Frodo & Sam have exact-list scans from **2026-09-04**
 - Gandalf's posted Maximum Flavor main has no complete combo; its exact
   nine-for-nine Maximum Power switch restores one intentional conditional
   unlimited-combat line. Pantlaza has three
   conditional near-infinite lines, Queen Marchesa has one finite line and one
   five-card loop, and Henzie's returned persist template is incomplete
 - The current 10-deck social and bracket reviews are pinned to these exact
-  hashes; superseded seven-deck reports remain dated historical evidence
+  hashes; retired lineup reports and deck-specific evidence were removed
 
 Browse titles, source dates, Moxfield links, and hashes in
 [`decks/README.md`](decks/README.md). Deterministic totals are in
@@ -87,8 +87,8 @@ For each configured deck:
 
 ```text
 python3 scripts/refresh_sources.py import-moxfield \
-  --deck magda-brazen-outlaw \
-  --file /path/to/magda-brazen-outlaw.txt \
+  --deck thorin-king-of-durins-folk \
+  --file /path/to/thorin-king-of-durins-folk.txt \
   --expected-sha CURRENT_LOCAL_SHA256
 ```
 
@@ -117,7 +117,7 @@ maintenance. Refresh Commander Spellbook with:
 
 ```text
 python3 scripts/refresh_sources.py spellbook \
-  --deck magda-brazen-outlaw \
+  --deck thorin-king-of-durins-folk \
   --allow-deck-upload
 ```
 

@@ -3,7 +3,7 @@
   "profile_url": "https://moxfield.com/users/dunamismax",
   "refreshed_on": "2026-09-04",
   "method": "Moxfield public profile plus each deck page, Download, Copy Plain Text",
-  "notes": "All 10 public decks were enumerated and exported. Ekthi was retired, The Notary Hobbits was added, every retained list was re-downloaded, and Gandalf's exact nine-for-nine Maximum Flavor / Maximum Power switch was preserved separately.",
+  "notes": "The complete 10-deck public roster was enumerated on 2026-09-04. Thorin was added, one retired roster entry was removed, and the newer Henzie and Frodo & Sam pages were re-downloaded through Moxfield's public Download → Copy Plain Text export. The other seven local exports remain pinned to their earlier 2026-09-04 downloads.",
   "deck_count": 10,
   "decks": {
     "aragorn-the-uniter": {
@@ -27,11 +27,11 @@
     "frodo-sam": {
       "title": "Frodo & Sam | There and Snack Again",
       "moxfield_id": "g9oUYlV4TU27CtQyGMgF2Q",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-04",
       "refreshed_on": "2026-09-04",
-      "deck_sha256": "a217307fb8789b57a818675bd33227f459feb739bc43c82b5eb8c037a9e19567",
+      "deck_sha256": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
       "export_file": "data/moxfield-exports/2026-09-04/frodo-sam.txt",
-      "export_sha256": "851982654f1c68ab99d3bd343a7b35c1dbd2c203066cca6a3611e52fbb2eeb59"
+      "export_sha256": "45571bdc8a9ad1809664e34daf2f10db42bb24c54275980ea2e20ad1f35b49af"
     },
     "gandalf-party-guest": {
       "title": "Gandalf, Party Guest | You Shall Not Pay!",
@@ -46,20 +46,20 @@
     "henzie-toolbox-torre": {
       "title": "Henzie “Toolbox” Torre | Jundyard Shift",
       "moxfield_id": "hmDd37TPIEaienBhw05Udw",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-04",
       "refreshed_on": "2026-09-04",
-      "deck_sha256": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb",
+      "deck_sha256": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
       "export_file": "data/moxfield-exports/2026-09-04/henzie-toolbox-torre.txt",
-      "export_sha256": "9e07241b53670516c9c8e35f65e5cff434a7d253f61103e31f7349fdbc3c03dc"
+      "export_sha256": "eb378328857c6007c2f4fdeea78775c3e791d5f81bcc12123d75266df2a5bab3"
     },
-    "magda-brazen-outlaw": {
-      "title": "Magda, Brazen Outlaw | Dragon Delivery Service",
-      "moxfield_id": "sfMB4JriEkaOXwGSCqoZlw",
-      "source_updated_on": "2026-09-02",
+    "thorin-king-of-durins-folk": {
+      "title": "Thorin, King of Durin’s Folk | Long Live the Short Kings",
+      "moxfield_id": "ajEk9aexw0KTAXG7aL9ysg",
+      "source_updated_on": "2026-09-04",
       "refreshed_on": "2026-09-04",
-      "deck_sha256": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
-      "export_file": "data/moxfield-exports/2026-09-04/magda-brazen-outlaw.txt",
-      "export_sha256": "ab27fe738777c4d1cb615f28001cbc79fb05253a04c3ec222400ca9da47c8e63"
+      "deck_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
+      "export_file": "data/moxfield-exports/2026-09-04/thorin-king-of-durins-folk.txt",
+      "export_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48"
     },
     "minn-wily-illusionist": {
       "title": "Minn, Wily Illusionist | Now You See Minn",

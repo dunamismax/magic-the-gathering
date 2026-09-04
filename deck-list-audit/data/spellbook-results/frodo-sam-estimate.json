@@ -809,32 +809,6 @@
     },
     {
       "card": {
-        "id": 3897,
-        "name": "Terramorphic Expanse",
-        "oracleId": "1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Land",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/8/a81f924b-0527-4311-8120-9bfff71524f6.png?1783903191",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/8/a81f924b-0527-4311-8120-9bfff71524f6.jpg?1783903191",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/8/a81f924b-0527-4311-8120-9bfff71524f6.jpg?1783903191",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/8/a81f924b-0527-4311-8120-9bfff71524f6.jpg?1783903191",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/8/a81f924b-0527-4311-8120-9bfff71524f6.jpg?1783903191",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 3363,
         "name": "The One Ring",
         "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",

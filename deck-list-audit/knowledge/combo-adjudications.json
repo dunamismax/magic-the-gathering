@@ -2,8 +2,8 @@
   "schema_version": 1,
   "reviewed_on": "2026-09-04",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
-  "archive": "reports/archive/combo-adjudications-2026-08-29.json",
-  "notes": "All ten exact current main decks have full-list Commander Spellbook scans plus manual prerequisite review. Six unchanged hashes retain their earlier current scans; Frodo and Sam, Gandalf, Minn, and The Notary Hobbits were scanned and reviewed on 2026-09-04. Gandalf's separate nine-card sideboard configuration was manually preserved and reviewed.",
+  "archive": null,
+  "notes": "All ten exact current main decks have full-list Commander Spellbook scans plus manual prerequisite review. Thorin, Henzie, and Frodo & Sam were refreshed and reviewed on 2026-09-04; Gandalf's separate nine-card sideboard configuration remains manually preserved and reviewed.",
   "decks": [
     {
       "deck": "aragorn-the-uniter",
@@ -26,12 +26,12 @@
     },
     {
       "deck": "frodo-sam",
-      "deck_sha256": "a217307fb8789b57a818675bd33227f459feb739bc43c82b5eb8c037a9e19567",
+      "deck_sha256": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
       "status": "reviewed",
       "reviewed_on": "2026-09-04",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The refreshed exact-list scan returned no included combo. The One Ring replaces Shire Terrace and adds protection plus escalating card draw, but it does not recur spent Food, generate the activation mana, or create a repeatable historic-card loop. Prize Pig and the Food/Hobbit engines remain finite.",
+      "summary": "The refreshed exact-list scan returned no included combo. Hobbit Hole replaces Terramorphic Expanse without adding a repeatable Food, life-gain, sacrifice, or historic-card recursion loop; The One Ring and the Food/Hobbit engines remain finite.",
       "lines": []
     },
     {
@@ -60,11 +60,11 @@
     },
     {
       "deck": "henzie-toolbox-torre",
-      "deck_sha256": "46926448c70984993964a711a145bd6d4f061c42ddd3fe8c3a0ba8848eb37feb",
+      "deck_sha256": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
       "status": "reviewed",
-      "reviewed_on": "2026-08-30",
+      "reviewed_on": "2026-09-04",
       "spellbook_included_candidates": 1,
-      "summary": "Commander Spellbook returned the Mikaeus and Viscera Seer template, but the exact list has no qualifying persist creature. Manual review of the death, blitz, and reanimation package found no replacement that closes the loop.",
+      "summary": "Commander Spellbook returned the Mikaeus and Viscera Seer template, but the refreshed exact list still has no qualifying persist creature. Metamorphosis Fanatic and Tortured Existence improve recursion, while Kardur adds finite combat control; manual review found no replacement prerequisite or new deterministic loop.",
       "lines": [
         {
           "id": "628-2292--5",
@@ -79,16 +79,8 @@
           "disclosure_required": false,
           "source": "commander-spellbook-and-manual-prerequisite-review"
         }
-      ]
-    },
-    {
-      "deck": "magda-brazen-outlaw",
-      "deck_sha256": "45e6b6c2e0140283a7ae10b3824e337bee189942f675480b3367672fbfd2b7e0",
-      "status": "reviewed",
-      "reviewed_on": "2026-08-30",
-      "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Dwarven Bloodboiler, Relic of Legends, crew effects, Maskwood Nexus, and Roaming Throne create or double a finite number of Magda triggers because the deck has no repeatable untap engine.",
-      "lines": []
+      ],
+      "review_basis": "commander-spellbook-and-manual-prerequisite-review"
     },
     {
       "deck": "minn-wily-illusionist",
@@ -190,6 +182,16 @@
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
       "summary": "The exact-list scan returned no included combo. Haste can turn the original Notary and its two token copies into nine mana, while Parallel Lives, Panharmonicon, Strionic Resonator, Maskwood Nexus, and changelings scale that output. The list has only finite untaps and token multipliers, so manual review found no deterministic loop.",
+      "lines": []
+    },
+    {
+      "deck": "thorin-king-of-durins-folk",
+      "deck_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
+      "status": "reviewed",
+      "reviewed_on": "2026-09-04",
+      "review_basis": "commander-spellbook-and-manual-prerequisite-review",
+      "spellbook_included_candidates": 0,
+      "summary": "The exact-list scan returned no included combo. Thorin, Bifur, Panharmonicon, Anointed Procession, Cadric, Molten Echoes, Fíli, and the other Dwarf payoffs multiply enter-the-battlefield triggers, temporary legendary copies, creature tokens, and Treasures only a finite number of times. Magda can tutor artifacts and The Reaver Cleaver can fund explosive attacks, but the list omits the repeatable untap or extra-combat pieces required by the closest Spellbook templates.",
       "lines": []
     }
   ]

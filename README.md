@@ -5,8 +5,8 @@ lineup. It stores exact public Moxfield snapshots, deterministic construction
 audits, dated external evidence, safe change tooling, and reusable review
 prompts.
 
-The current collection contains **10 decks**: eight Bracket 3 targets and two
-posted Bracket 2 configurations. Every public list was downloaded on
+The current collection contains **10 decks**: nine labeled Bracket 3 and one
+posted Bracket 2* configuration. Every public list was downloaded on
 **2026-09-04**, including Gandalf's exact nine-card **Maximum Flavor** / **Maximum
 Power** configuration switch, and the full deterministic collection audit was
 regenerated that day.

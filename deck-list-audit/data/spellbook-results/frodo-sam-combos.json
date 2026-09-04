@@ -150,7 +150,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 90725,
+        "popularity": 90901,
         "bracketTag": "E",
         "description": "Earthbend a land, thus animating it.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko and Tireless Provisioner trigger.\nResolve the Tireless Provisioner trigger, creating a Treasure token.\nHolding priority, activate the Treasure by tapping and sacrificing it, adding {G}.\nResolve the Springheart Nantuko trigger, causing you to pay {1}{G} to create a token copy of the land it is attached to.\nWhen the land token enters the battlefield, Tireless Provisioner and Springheart Nantuko trigger.\nHolding priority, activate the land token by tapping it, adding at least {1}.\nRepeat from step 5.",
         "manaNeeded": "{2}{G} plus enough mana to animate the land",
@@ -301,7 +301,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 90725,
+        "popularity": 90901,
         "bracketTag": "E",
         "description": "Animate the land.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko and Tireless Provisioner trigger.\nResolve the Tireless Provisioner trigger, creating a Treasure token.\nActivate the Treasure by tapping and sacrificing it, adding {G}.\nResolve the Springheart Nantuko trigger, causing you to pay {1}{G} to create a token copy of the land it is attached to.\nWhen the land token enters the battlefield, Tireless Provisioner and Springheart Nantuko trigger.\nHolding priority, activate the land token by tapping it, adding at least {1}.\nRepeat from step 5.",
         "manaNeeded": "{2}{G} plus enough mana to animate the land",
@@ -446,7 +446,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 58547,
+        "popularity": 58658,
         "bracketTag": "S",
         "description": "Activate Peregrin Took by sacrificing three Foods.\nNuka-Cola Vending Machine triggers three times, creating three tapped Treasure and three tapped Food tokens.\nResolve the Peregrin Took ability, causing you to draw a card.\nRepeat.",
         "manaNeeded": "",
@@ -600,7 +600,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 33783,
+        "popularity": 33796,
         "bracketTag": "S",
         "description": "Activate Peregrin Took by sacrificing three Foods.\nExperimental Confectioner's second ability triggers three times, creating three 1/1 Rat creature tokens and three Food artifact tokens.\nResolve the Peregrin Took ability, causing you to draw a card.\nRepeat.",
         "manaNeeded": "",
@@ -790,7 +790,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 23039,
+        "popularity": 23090,
         "bracketTag": "R",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Basking Broodscale.\nBasking Broodscale triggers, creating a creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -920,7 +920,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 19569,
+        "popularity": 19651,
         "bracketTag": "C",
         "description": "Cast Approach of the Second Sun by paying {6}{W}.\nHolding priority, cast Reprieve by paying {1}{W}, returning Approach of the Second Sun to your hand and causing you to draw a card.\nCast Approach of the Second Sun by paying {6}{W}, causing you to win the game.",
         "manaNeeded": "{13}{W}{W}{W}",
@@ -1065,7 +1065,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 18647,
+        "popularity": 18685,
         "bracketTag": "R",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Scurry Oak.\nScurry Oak triggers, creating a creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -1216,7 +1216,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 16149,
+        "popularity": 16170,
         "bracketTag": "E",
         "description": "Activate Boromir by sacrificing it.\nWhen Boromir dies, Ratadrabik triggers, creating a  nonlegendary token copy of Boromir that is a 2/2 Zombie in addition to its other types.\nResolve the Boromir ability from step 1, causing the Ring to tempt you, and for the Boromir token to become your Ring-bearer, thus making it legendary.\nRepeat.",
         "manaNeeded": "",
@@ -1340,7 +1340,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 10692,
+        "popularity": 10723,
         "bracketTag": "R",
         "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nCast Swords to Plowshares by paying {W}, exiling Jumbo Cactuar and causing you to gain 10,000 life.",
         "manaNeeded": "{W}",
@@ -1485,7 +1485,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 8645,
+        "popularity": 8658,
         "bracketTag": "R",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on Herd Baloth.\nHerd Baloth triggers, creating a 4/4 Beast creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -1636,7 +1636,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 5710,
+        "popularity": 5730,
         "bracketTag": "O",
         "description": "Cast Plague of Vermin by paying {6}{B}, causing you to pay life equal to the highest life total your opponents have and create that many 1/1 Rat creature tokens.\nMirkwood Bats triggers for each token created this way, causing each opponent to lose that much life.\nEach opponent loses the game due to having zero or less life.",
         "manaNeeded": "{6}{B}",
@@ -1985,7 +1985,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2292,
+        "popularity": 2299,
         "bracketTag": "E",
         "description": "Gain life.\nTreebeard's second ability triggers, putting that many +1/+1 counters on Scurry Oak.\nScurry Oak triggers, creating a 1/1 Squirrel creature token.\nWhen the Squirrel enters the battlefield, Prosperous Innkeeper triggers, causing you to gain life.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -2277,7 +2277,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1688,
+        "popularity": 1691,
         "bracketTag": "E",
         "description": "Activate Prize Pig by tapping it, adding {1}.\nActivate a Food you control by paying {1}, tapping and sacrificing it, causing you to gain 3 life.\nTreebeard's second ability and Prize Pig trigger.\nResolve the Prize Pig trigger, putting three ribbon counters on it, then removing all ribbon counters from it and untapping it.\nResolve the Treebeard trigger, putting three +1/+1 counters on Scurry Oak.\nScurry Oak triggers, creating a 1/1 Squirrel creature token and a Food artifact token.\nRepeat.",
         "manaNeeded": "",
@@ -2413,7 +2413,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1635,
+        "popularity": 1643,
         "bracketTag": "S",
         "description": "Whenever a player casts a spell from their hand, Knowledge Pool triggers, exiling the spell and allowing the player to cast another card exiled by Knowledge Pool without paying its mana cost.\nIf the player chooses to cast a spell, Boromir triggers, countering that spell since no mana was spent to cast it.",
         "manaNeeded": "",
@@ -2567,7 +2567,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1586,
+        "popularity": 1589,
         "bracketTag": "S",
         "description": "Activate Peregrin Took by sacrificing three Foods.\nSummoning Station triggers three times.\nResolve the first trigger, untapping it.\nActivate Summoning Station by tapping it, creating a 2/2 Pincher creature token and a Food artifact token.\nRepeat from step 3 two additional times.\nResolve the Peregrin Took ability from step 1, causing you to draw a card.\nRepeat.",
         "manaNeeded": "",
@@ -2881,7 +2881,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 104,
+        "popularity": 110,
         "bracketTag": "S",
         "description": "Cast Rosie Cotton by paying {2}{W}.\nWhen Rosie Cotton enters the battlefield, its first ability triggers, creating a Food token.\nRosie Cotton's second ability triggers, putting a +1/+1 counter on the other Hero\nInvisible Woman triggers, creating a creature token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -3034,7 +3034,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 344892,
+        "popularity": 345692,
         "bracketTag": "E",
         "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
         "manaNeeded": "",
@@ -3170,7 +3170,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 36594,
+        "popularity": 36667,
         "bracketTag": "S",
         "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{1}",
@@ -3261,10 +3261,10 @@
         "identity": "U",
         "includes": [
           {
-            "id": 60
+            "id": 26878
           },
           {
-            "id": 26878
+            "id": 60
           },
           {
             "id": 28463
@@ -3351,7 +3351,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 6770,
+        "popularity": 6781,
         "bracketTag": "R",
         "description": "Activate The One Ring by tapping it, putting a burden counter on it and then causing you to draw a card for each burden counter on it.\nActivate Mind Over Matter by discarding a card, untapping The One Ring.\nRepeat.",
         "manaNeeded": "",
@@ -3499,7 +3499,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3247,
+        "popularity": 3256,
         "bracketTag": "S",
         "description": "Activate Drafna's first ability by paying {1}{U}, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
         "manaNeeded": "{5}{U} each turn",
@@ -3653,7 +3653,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 926,
+        "popularity": 934,
         "bracketTag": "S",
         "description": "Cast Rosie by paying {2}{W}.\nWhen Rosie enters the battlefield, its first ability triggers, creating a Food artifact token.\nRosie's second ability triggers, putting a +1/+1 counter on Lonis.\nLonis' second ability triggers, creating a Clue artifact token.\nRepeat from step 3.",
         "manaNeeded": "{2}{W}",
@@ -3789,7 +3789,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 571,
+        "popularity": 574,
         "bracketTag": "S",
         "description": "Whenever a player casts a spell from their hand, Possibility Storm triggers, exiling the spell and allowing the player to reveal cards from the top of their library until they reveal a spell that shares a type with the exiled spell, and cast it without paying its mana cost.\nIf the player chooses to cast the spell, Boromir triggers, countering that spell since no mana was spent to cast it.",
         "manaNeeded": "",
@@ -4079,7 +4079,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 324,
+        "popularity": 328,
         "bracketTag": "S",
         "description": "Activate Vedalken Mastermind by paying {U} and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
         "manaNeeded": "{4}{U} each turn",
@@ -4369,7 +4369,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 148,
+        "popularity": 149,
         "bracketTag": "E",
         "description": "Cast Slip On the Ring by paying its mana cost.\nHolding priority, cast Naru Meha by paying its mana cost.\nWhen Naru Meha enters, it triggers, copying Slip On the Ring, with the copy targeting Naru Meha.\nResolve the copy of Slip On the Ring, blinking Naru Meha.\nRepeat from step 3.",
         "manaNeeded": "{3}{W}{U}{U}",
@@ -5109,7 +5109,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 30,
+        "popularity": 31,
         "bracketTag": "S",
         "description": "Activate Time Elemental by paying {2}{U}{U} and tapping it, returning The One Ring from the battlefield to your hand.\nCast The One Ring by paying {4}.\nThe One Ring triggers, giving you protection from everything until your next turn.\nRepeat each turn.",
         "manaNeeded": "{6}{U}{U} each turn",

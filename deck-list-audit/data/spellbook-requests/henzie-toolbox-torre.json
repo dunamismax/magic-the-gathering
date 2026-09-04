@@ -61,6 +61,10 @@
       "quantity": 1
     },
     {
+      "card": "Bloodstained Mire",
+      "quantity": 1
+    },
+    {
       "card": "Bloom Tender",
       "quantity": 1
     },
@@ -70,6 +74,10 @@
     },
     {
       "card": "Bojuka Bog",
+      "quantity": 1
+    },
+    {
+      "card": "Boseiju, Who Endures",
       "quantity": 1
     },
     {
@@ -93,10 +101,6 @@
       "quantity": 1
     },
     {
-      "card": "Deathcap Glade",
-      "quantity": 1
-    },
-    {
       "card": "Delighted Halfling",
       "quantity": 1
     },
@@ -109,10 +113,6 @@
       "quantity": 1
     },
     {
-      "card": "Dragonskull Summit",
-      "quantity": 1
-    },
-    {
       "card": "Druid of Purification",
       "quantity": 1
     },
@@ -121,19 +121,11 @@
       "quantity": 1
     },
     {
-      "card": "Incarnation Technique",
-      "quantity": 1
-    },
-    {
       "card": "Etali, Primal Conqueror",
       "quantity": 1
     },
     {
       "card": "Exotic Orchard",
-      "quantity": 1
-    },
-    {
-      "card": "Fabled Passage",
       "quantity": 1
     },
     {
@@ -149,10 +141,6 @@
       "quantity": 5
     },
     {
-      "card": "Fyndhorn Elves",
-      "quantity": 1
-    },
-    {
       "card": "Greater Good",
       "quantity": 1
     },
@@ -165,11 +153,19 @@
       "quantity": 1
     },
     {
+      "card": "Incarnation Technique",
+      "quantity": 1
+    },
+    {
       "card": "Industrial Advancement",
       "quantity": 1
     },
     {
       "card": "Junji, the Midnight Sky",
+      "quantity": 1
+    },
+    {
+      "card": "Kardur, Doomscourge",
       "quantity": 1
     },
     {
@@ -189,10 +185,6 @@
       "quantity": 1
     },
     {
-      "card": "Llanowar Elves",
-      "quantity": 1
-    },
-    {
       "card": "Llanowar Wastes",
       "quantity": 1
     },
@@ -205,7 +197,15 @@
       "quantity": 1
     },
     {
+      "card": "Mana Confluence",
+      "quantity": 1
+    },
+    {
       "card": "Massacre Wurm",
+      "quantity": 1
+    },
+    {
+      "card": "Metamorphosis Fanatic",
       "quantity": 1
     },
     {
@@ -237,7 +237,15 @@
       "quantity": 1
     },
     {
+      "card": "Phyrexian Tower",
+      "quantity": 1
+    },
+    {
       "card": "Plaza of Heroes",
+      "quantity": 1
+    },
+    {
+      "card": "Primaris Eliminator",
       "quantity": 1
     },
     {
@@ -257,18 +265,6 @@
       "quantity": 1
     },
     {
-      "card": "Riveteers Overlook",
-      "quantity": 1
-    },
-    {
-      "card": "Rockfall Vale",
-      "quantity": 1
-    },
-    {
-      "card": "Rootbound Crag",
-      "quantity": 1
-    },
-    {
       "card": "Roxanne, Starfall Savant",
       "quantity": 1
     },
@@ -285,15 +281,15 @@
       "quantity": 1
     },
     {
-      "card": "Sol Ring",
-      "quantity": 1
-    },
-    {
       "card": "Solemn Simulacrum",
       "quantity": 1
     },
     {
       "card": "Spire Garden",
+      "quantity": 1
+    },
+    {
+      "card": "Starting Town",
       "quantity": 1
     },
     {
@@ -329,6 +325,10 @@
       "quantity": 1
     },
     {
+      "card": "Tortured Existence",
+      "quantity": 1
+    },
+    {
       "card": "Treeshaker Chimera",
       "quantity": 1
     },
@@ -341,7 +341,7 @@
       "quantity": 1
     },
     {
-      "card": "Veil of Summer",
+      "card": "Verdant Catacombs",
       "quantity": 1
     },
     {
@@ -361,7 +361,7 @@
       "quantity": 1
     },
     {
-      "card": "Woodland Cemetery",
+      "card": "Wooded Foothills",
       "quantity": 1
     },
     {
