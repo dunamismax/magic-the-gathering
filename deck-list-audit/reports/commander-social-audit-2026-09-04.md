@@ -3,7 +3,7 @@
 Reviewed: 2026-09-04
 Profile: <https://moxfield.com/users/dunamismax>
 Scope: the exact 10 public main-deck lists and hashes recorded in
-`data/moxfield-refresh.json`, plus Gandalf's separately pinned nine-card switch
+`data/moxfield-refresh.json`, plus Gandalf's separately pinned nine-for-nine switch
 
 This report combines the current Oracle corpus, the official Commander policy
 pages checked on 2026-09-04, exact-list Commander Spellbook evidence, and
@@ -13,8 +13,9 @@ the exact deck hash is unchanged.
 ## Lineup view
 
 The current public lineup has eight Bracket 3 targets and two posted Bracket 2
-configurations. Gandalf is a maximum-flavor, Bracket 2-style Rule Zero main deck
-with a nine-card switch to a Commander-legal Bracket 3 power configuration.
+configurations. Gandalf's **Maximum Flavor** mode is a Bracket 2-style Rule Zero
+main deck; its exact nine-for-nine switch creates the streamlined, maximally
+tuned, Commander-legal Bracket 3 **Maximum Power** configuration.
 Frodo & Sam is labeled Bracket 2* on Moxfield but contains The One Ring, so it
 requires a bracket exception discussion and otherwise belongs at Bracket 3.
 
@@ -28,7 +29,7 @@ requires a bracket exception discussion and otherwise belongs at Bracket 3.
 | 6 | Blor | B3 | Mid-to-upper B3; Rule Zero today | Resilient Voltron and commander-damage multipliers | No complete line |
 | 7 | Queen Marchesa | B3 | Middle B3 with loop disclosure | Political control, redirection, Sunforger/Wishclaw access | One finite kill and one five-card unbounded loop |
 | 8 | Minn | B3 | Middle B3; Rule Zero today | Draw multiplication, Illusions, sacrifice outlets | No complete line |
-| 9 | Gandalf | B2-style | Maximum-flavor Rule Zero main; sideboard switches to B3 | Eleven Gandalfs and free spells each combat | No main-deck line; alternate mode has one conditional loop |
+| 9 | Gandalf | B2-style | Maximum Flavor Rule Zero main; sideboard switches to B3 Maximum Power | Eleven Gandalfs and free spells each combat | No Maximum Flavor line; Maximum Power has one conditional loop |
 | 10 | Frodo & Sam | B2* | Upper B2 by play pattern; B3 without a bracket exception | Food/Hobbit value, Ring pressure, The One Ring | No complete line |
 
 The order measures likely blind-pod concern. The middle can move with a pod's
@@ -76,18 +77,26 @@ until 2026-10-02.
 
 ### Gandalf, Party Guest
 
-The posted main deck is now the maximum-flavor configuration: all eleven
-printed Gandalfs plus Gandalf's Sanction. It removes Mox Amber, Roaming Throne,
-Solve the Equation, Time Warp, and both pieces of the prior unlimited-combat
-line. It is a Bracket 2-style deck with zero Game Changers and no current
-complete combo, but Gandalf, Westward Voyager requires an explicit color-identity
-house rule.
+**Maximum Flavor — Bracket 2-style Rule Zero.** The posted main deck contains
+all eleven printed Gandalfs plus Gandalf's Sanction. It removes the dedicated
+tutor, extra-turn spell, artifact trigger multipliers, fast Mox, and
+unlimited-combat package. It has zero Game Changers and no complete combo, but
+Gandalf, Westward Voyager requires an explicit color-identity house rule.
 
-The separately stored nine-card sideboard makes one exact switch to a legal B3
-power configuration. That version restores Surge to Victory plus Savage
-Beating, a conditional unlimited-combat line requiring Savage Beating in the
-graveyard and a creature that can continue connecting. Disclose the line when
-using that configuration.
+**Maximum Power — Bracket 3.** Remove Gandalf of the Secret Fire; Gandalf the
+White; Gandalf, Friend of the Shire; Gandalf, Shadow's Foe; Gandalf, Spark
+Starter; Gandalf, Wandering Wizard; Gandalf, Westward Voyager; Gandalf, White
+Rider; and Gandalf's Sanction. Add the complete sideboard: Mizzix of the
+Izmagnus; Mox Amber; Roaming Throne; Savage Beating; Solve the Equation; Surge
+to Victory; The Emperor of Palamecia; Time Warp; and Wizard's Staff. No other
+cards change.
+
+That streamlined, maximally tuned configuration keeps only the strongest
+Gandalfs and restores acceleration, trigger multiplication, tutoring, an extra
+turn, and the deck's intentional conditional unlimited-combat finish. The line
+requires Savage Beating in the graveyard and a creature that can continue
+connecting; disclose it when using Maximum Power. Reverse the same exact
+nine-for-nine exchange to return to Maximum Flavor.
 
 ### Frodo & Sam
 
@@ -116,7 +125,7 @@ once-per-turn second-draw trigger, so the exact-list combo result remains none.
 - Henzie's Mikaeus and Viscera Seer template remains incomplete because the
   exact list has no persist creature.
 - Gandalf's Surge to Victory and Savage Beating line exists only after applying
-  the exact nine-card sideboard switch.
+  the exact nine-for-nine Maximum Power switch.
 
 ## Evidence boundaries
 

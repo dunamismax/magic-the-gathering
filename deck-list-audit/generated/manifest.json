@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "audit_date": "2026-09-04",
-  "audit_sha256": "3fa345128d9dcbdb04dea0dadf2a585c3eeca1593719ae840f79e7a661c2fd6d",
-  "collection_sha256": "45991230dc6833ebfa74c1f7501c563ff0bf3f7f735067d44ed57d5e39c0bdfc",
-  "moxfield_refresh_sha256": "c52464f9851ac5b135f2c7269021fc1971b667f682f27d596b08dcdfcd308575",
-  "decks_readme_sha256": "79e5cc0b9437dcdbef99fd9782c4f0f2dfa6052d7343ff029f1b05bb838f5bb5",
+  "audit_sha256": "4846a2925ac6fe26cbec35748eb8f227c10b47d4f1ae4fd444ced106d2fead0e",
+  "collection_sha256": "91eb4eac7305d18066e89529c1645da1a33513e0ee009b491aee978554eaa227",
+  "moxfield_refresh_sha256": "ec5c652c711894c8a15ff8b95ccd0b76393d435ac9557d3ba2630deca3bab616",
+  "decks_readme_sha256": "9c10ed07d9f4694b16aef320d73dc7af1f5c10feb931f71fc0a11524b821a4bd",
   "collection_summary_sha256": "7135a60380f4892fcebaa0185a6f887307dac316c0cd5732b92c66a12c647dfd",
-  "functional_analysis_sha256": "08b254982491bee766ae45f74658e9a5fdf72bd9d2ed02a3f83cbabb8c00649f",
+  "functional_analysis_sha256": "8e832dffed4854a32d3ab354a4308819c56ad7eef32285373c5c5f14f14dc598",
   "deck_sha256": {
     "aragorn-the-uniter": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
     "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",

@@ -37,6 +37,33 @@ def deck_readme(collection: dict[str, Any], audit: dict[str, Any]) -> str:
             f"{metadata['source_updated_on']} | {metadata['source_refreshed_on']} | "
             f"[list]({slug}.txt) | {options} | `{deck['deck_sha256']}` |"
         )
+    documented_switches = [
+        (slug, metadata)
+        for slug, metadata in collection["decks"].items()
+        if metadata.get("sideboard")
+    ]
+    if documented_switches:
+        lines.extend(["", "## Documented configuration switches"])
+        for slug, metadata in documented_switches:
+            sideboard = metadata["sideboard"]
+            lines.extend(
+                [
+                    "",
+                    f"### {metadata['title']}",
+                    "",
+                    metadata["constraints"]["experience"],
+                    "",
+                    sideboard["purpose"],
+                    "",
+                    "**Remove:** " + "; ".join(sideboard["swap_out"]) + ".",
+                    "",
+                    f"**Add:** the complete [{slug} sideboard]"
+                    f"({str(sideboard['file']).removeprefix('decks/')}).",
+                    "",
+                    "Enable Tags on Moxfield to see every card's role, and read the",
+                    "Primer for the complete play guide and combo explanation.",
+                ]
+            )
     aliases = collection.get("aliases") or {}
     lines.extend(
         [

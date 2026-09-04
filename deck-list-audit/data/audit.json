@@ -8,7 +8,7 @@
   },
   "inputs": {
     "collection_file": "collection.json",
-    "collection_sha256": "45991230dc6833ebfa74c1f7501c563ff0bf3f7f735067d44ed57d5e39c0bdfc",
+    "collection_sha256": "91eb4eac7305d18066e89529c1645da1a33513e0ee009b491aee978554eaa227",
     "oracle_file": "data/oracle-cards.jsonl.gz",
     "oracle_sha256": "712d6dbf7a4e8c5d5bb39d943a1b9663ef85581f998eb4983bb233822761e31e",
     "oracle_source_updated_at": "2026-09-04T09:01:54.392+00:00",
@@ -14427,7 +14427,7 @@
         ],
         "locked_cards": [],
         "budget": null,
-        "experience": "Maximum-flavor Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs; the posted main deck requires a disclosed Westward Voyager color-identity house rule."
+        "experience": "Maximum Flavor — a Bracket 2-style Rule Zero Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs plus Gandalf's Sanction; the posted main deck requires a disclosed Gandalf, Westward Voyager color-identity house rule."
       },
       "total_cards": 100,
       "resolved_cards": 100,

@@ -41,7 +41,7 @@
       "reviewed_on": "2026-09-04",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The posted maximum-flavor main deck returned no included combo and contains neither Surge to Victory nor Savage Beating. Its exact nine-card sideboard switch adds both cards plus Solve the Equation, restoring the previously confirmed conditional unlimited-combat line only in the alternate maximum-power configuration.",
+      "summary": "The posted Maximum Flavor main deck returned no included combo and contains neither Surge to Victory nor Savage Beating. Its exact nine-for-nine Maximum Power switch adds both cards plus Solve the Equation, restoring the deck's intentional conditional unlimited-combat finish only in the Maximum Power configuration.",
       "lines": [
         {
           "id": "771-1760",
@@ -51,7 +51,7 @@
           ],
           "status": "alternate-configuration-only",
           "classification": "two-card-conditional-unlimited-combat-damage",
-          "reason": "The line is absent from the posted main deck. In the exact sideboard configuration, cast Surge to Victory with Savage Beating in the graveyard; each successful combat-damage trigger can cast another untap-and-additional-combat copy.",
+          "reason": "The line is absent from the posted Maximum Flavor main deck. In the exact Maximum Power configuration, cast Surge to Victory with Savage Beating in the graveyard; each successful combat-damage trigger can cast another untap-and-additional-combat copy.",
           "disclosure_required": true,
           "source": "commander-spellbook-prior-confirmation-current-sideboard-and-manual-prerequisite-review"
         }

@@ -16,6 +16,21 @@ is linked to its exact SHA-256 and public Moxfield reference.
 | [Queen Marchesa \| Mardu Your Business](https://moxfield.com/decks/CXl1HrG9uE21A_07vqY3lA) | B3 | 2026-09-02 | 2026-09-04 | [list](queen-marchesa.txt) | None | `67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94` |
 | [The Notary Hobbits \| Signed, Sealed, Annihilated](https://moxfield.com/decks/hbbDeqN5L060nsGjc3_QOQ) | B3 | 2026-09-03 | 2026-09-04 | [list](the-notary-hobbits.txt) | None | `94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de` |
 
+## Documented configuration switches
+
+### Gandalf, Party Guest | You Shall Not Pay!
+
+Maximum Flavor — a Bracket 2-style Rule Zero Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs plus Gandalf's Sanction; the posted main deck requires a disclosed Gandalf, Westward Voyager color-identity house rule.
+
+Maximum Power — the exact nine-for-nine switch from the posted Maximum Flavor Rule Zero main deck to its streamlined, maximally tuned, Commander-legal Bracket 3 configuration. No other cards change.
+
+**Remove:** Gandalf of the Secret Fire; Gandalf the White; Gandalf, Friend of the Shire; Gandalf, Shadow's Foe; Gandalf, Spark Starter; Gandalf, Wandering Wizard; Gandalf, Westward Voyager; Gandalf, White Rider; Gandalf's Sanction.
+
+**Add:** the complete [gandalf-party-guest sideboard](sideboards/gandalf-party-guest.txt).
+
+Enable Tags on Moxfield to see every card's role, and read the
+Primer for the complete play guide and combo explanation.
+
 `Moxfield updated` is the public page date. `Refreshed locally` records
 when the export was last downloaded and verified. The local text files
 are the source of truth. Alternate/flavor names are

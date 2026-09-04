@@ -10,14 +10,15 @@ deck edits so one layer cannot silently masquerade as another.
 - **10 public decks**: the full collection was downloaded from Moxfield and
   locally audited on **2026-09-04**
 - **8 Bracket 3 targets** and **2 posted Bracket 2 configurations**: Gandalf's
-  flavor main and Frodo & Sam's B2* Game Changer exception
+  Maximum Flavor main and Frodo & Sam's B2* Game Changer exception
 - All 10 main decks resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, banned-card, and configured exception checks
 - All 10 exact lists have hash-current Commander Spellbook evidence and manual
   prerequisite review; the four changed or new lists were scanned on
   **2026-09-04**
-- Gandalf's active flavor main has no complete combo; its nine-card B3 switch
-  restores one conditional unlimited-combat line. Pantlaza has three
+- Gandalf's posted Maximum Flavor main has no complete combo; its exact
+  nine-for-nine Maximum Power switch restores one intentional conditional
+  unlimited-combat line. Pantlaza has three
   conditional near-infinite lines, Queen Marchesa has one finite line and one
   five-card loop, and Henzie's returned persist template is incomplete
 - The current 10-deck social and bracket reviews are pinned to these exact

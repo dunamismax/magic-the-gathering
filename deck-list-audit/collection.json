@@ -114,12 +114,12 @@
         ],
         "locked_cards": [],
         "budget": null,
-        "experience": "Maximum-flavor Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs; the posted main deck requires a disclosed Westward Voyager color-identity house rule."
+        "experience": "Maximum Flavor — a Bracket 2-style Rule Zero Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs plus Gandalf's Sanction; the posted main deck requires a disclosed Gandalf, Westward Voyager color-identity house rule."
       },
       "source_refreshed_on": "2026-09-04",
       "sideboard": {
         "file": "decks/sideboards/gandalf-party-guest.txt",
-        "purpose": "Exact nine-card switch from the posted maximum-flavor Rule Zero main deck to its Commander-legal Bracket 3 maximum-power configuration.",
+        "purpose": "Maximum Power — the exact nine-for-nine switch from the posted Maximum Flavor Rule Zero main deck to its streamlined, maximally tuned, Commander-legal Bracket 3 configuration. No other cards change.",
         "swap_out": [
           "Gandalf of the Secret Fire",
           "Gandalf the White",

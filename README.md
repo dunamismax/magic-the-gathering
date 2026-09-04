@@ -7,8 +7,9 @@ prompts.
 
 The current collection contains **10 decks**: eight Bracket 3 targets and two
 posted Bracket 2 configurations. Every public list was downloaded on
-**2026-09-04**, including Gandalf's exact nine-card configuration switch, and
-the full deterministic collection audit was regenerated that day.
+**2026-09-04**, including Gandalf's exact nine-card **Maximum Flavor** / **Maximum
+Power** configuration switch, and the full deterministic collection audit was
+regenerated that day.
 
 ## Start here
 
