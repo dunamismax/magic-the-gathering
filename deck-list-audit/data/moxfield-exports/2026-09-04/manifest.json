@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "profile_url": "https://moxfield.com/users/dunamismax",
+  "refreshed_on": "2026-09-04",
+  "method": "Moxfield public profile plus each deck page, Download, Copy Plain Text",
+  "notes": "The complete 10-deck public roster was enumerated on 2026-09-04. Thorin was added, one retired roster entry was removed, and the newer Henzie and Frodo & Sam pages were re-downloaded through Moxfield's public Download → Copy Plain Text export. The other seven local exports remain pinned to their earlier 2026-09-04 downloads.",
+  "deck_count": 10,
+  "decks": {
+    "aragorn-the-uniter": {
+      "title": "Aragorn, the Uniter | United Colors of Middle-earth",
+      "moxfield_id": "tlvcePZQCUeaEkzNEHXA4Q",
+      "source_updated_on": "2026-09-02",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
+      "export_file": "data/moxfield-exports/2026-09-04/aragorn-the-uniter.txt",
+      "export_sha256": "552cc73cf7bb51882e49658232f053e3547ede0ea194e61d563b3bdc3610e37f"
+    },
+    "blor-the-impervious": {
+      "title": "Blor the Impervious | Built Frog Tough",
+      "moxfield_id": "jfWEvfYBHkGi7P1oqzAQww",
+      "source_updated_on": "2026-09-02",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+      "export_file": "data/moxfield-exports/2026-09-04/blor-the-impervious.txt",
+      "export_sha256": "30f51355fe453391fbfce26e0af7dc686f192d00770b46ec7fe39b6a550b85be"
+    },
+    "frodo-sam": {
+      "title": "Frodo & Sam | There and Snack Again",
+      "moxfield_id": "g9oUYlV4TU27CtQyGMgF2Q",
+      "source_updated_on": "2026-09-04",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
+      "export_file": "data/moxfield-exports/2026-09-04/frodo-sam.txt",
+      "export_sha256": "45571bdc8a9ad1809664e34daf2f10db42bb24c54275980ea2e20ad1f35b49af"
+    },
+    "gandalf-party-guest": {
+      "title": "Gandalf, Party Guest | You Shall Not Pay!",
+      "moxfield_id": "K90JyPq-kEW6CBX8RnNJ8w",
+      "source_updated_on": "2026-09-02",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
+      "export_file": "data/moxfield-exports/2026-09-04/gandalf-party-guest.txt",
+      "export_sha256": "89798f1db411ae7951d003c5c163abff84c5e288f32b988de1a6846426a8a9c6",
+      "sideboard_sha256": "87ecbaa4ccdea01507e255dbdf206bcc826adb5c1ced7ef86f7ad6debd037c4c"
+    },
+    "henzie-toolbox-torre": {
+      "title": "Henzie “Toolbox” Torre | Jundyard Shift",
+      "moxfield_id": "hmDd37TPIEaienBhw05Udw",
+      "source_updated_on": "2026-09-04",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
+      "export_file": "data/moxfield-exports/2026-09-04/henzie-toolbox-torre.txt",
+      "export_sha256": "eb378328857c6007c2f4fdeea78775c3e791d5f81bcc12123d75266df2a5bab3"
+    },
+    "thorin-king-of-durins-folk": {
+      "title": "Thorin, King of Durin’s Folk | Long Live the Short Kings",
+      "moxfield_id": "ajEk9aexw0KTAXG7aL9ysg",
+      "source_updated_on": "2026-09-04",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
+      "export_file": "data/moxfield-exports/2026-09-04/thorin-king-of-durins-folk.txt",
+      "export_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48"
+    },
+    "minn-wily-illusionist": {
+      "title": "Minn, Wily Illusionist | Now You See Minn",
+      "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
+      "source_updated_on": "2026-09-02",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
+      "export_file": "data/moxfield-exports/2026-09-04/minn-wily-illusionist.txt",
+      "export_sha256": "b0f6b86291f5eb7cfaecfe0dc81f7d4030fa87c9e1eb35d8a423df6181bcde47"
+    },
+    "pantlaza-sun-favored": {
+      "title": "Pantlaza, Sun-Favored | The Land Before Value",
+      "moxfield_id": "zqJp4nSGKEqfbE0Jx1iJJA",
+      "source_updated_on": "2026-09-02",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
+      "export_file": "data/moxfield-exports/2026-09-04/pantlaza-sun-favored.txt",
+      "export_sha256": "765d039efd85fd96888f589cf3f41262a6d1db916f6449e6a3e2647bb63f4f49"
+    },
+    "queen-marchesa": {
+      "title": "Queen Marchesa | Mardu Your Business",
+      "moxfield_id": "CXl1HrG9uE21A_07vqY3lA",
+      "source_updated_on": "2026-09-02",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
+      "export_file": "data/moxfield-exports/2026-09-04/queen-marchesa.txt",
+      "export_sha256": "15598eaefe4733840a197ac9ec74423676dfe5a478ffb266ab69fc4c16836ae2"
+    },
+    "the-notary-hobbits": {
+      "title": "The Notary Hobbits | Signed, Sealed, Annihilated",
+      "moxfield_id": "hbbDeqN5L060nsGjc3_QOQ",
+      "source_updated_on": "2026-09-03",
+      "refreshed_on": "2026-09-04",
+      "deck_sha256": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de",
+      "export_file": "data/moxfield-exports/2026-09-04/the-notary-hobbits.txt",
+      "export_sha256": "f1113afa5ecb6ce78b7d175fa99918b69042511d377db64f99bd44165bfcf0e8"
+    }
+  }
+}

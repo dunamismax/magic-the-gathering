@@ -80,9 +80,9 @@
         ],
         "notes": "Once you have infinite mana, you may use it to activate Staff of Domination's other abilities.",
         "prices": {
-          "tcgplayer": "15.59",
-          "cardmarket": "11.46",
-          "cardkingdom": "20.98"
+          "tcgplayer": "15.27",
+          "cardmarket": "11.96",
+          "cardkingdom": "20.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -227,7 +227,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 22113,
+        "popularity": 22394,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {5}{G}.\nActivate Staff of Domination's third ability by paying {3} and tapping it, untapping Selvala.\nActivate Staff of Domination's first ability by paying {1}, untapping it.\nRepeat.",
         "manaNeeded": "{G}",
@@ -240,10 +240,10 @@
         "id": "527-2816",
         "of": [
           {
-            "id": 2725
+            "id": 27971
           },
           {
-            "id": 27971
+            "id": 2725
           }
         ],
         "uses": [
@@ -312,9 +312,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.43",
-          "cardmarket": "8.00",
-          "cardkingdom": "15.48"
+          "tcgplayer": "11.41",
+          "cardmarket": "8.59",
+          "cardkingdom": "16.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -435,7 +435,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 14322,
+        "popularity": 14494,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding an amount of {G} equal to the greatest power among creatures you control.\nActivate Selvala by paying {3} and untapping it, giving it +2/+2 until end of turn.\nRepeat.",
         "manaNeeded": "{2}{G} at most",
@@ -517,9 +517,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "8.55",
-          "cardmarket": "5.80",
-          "cardkingdom": "11.48"
+          "tcgplayer": "8.99",
+          "cardmarket": "6.15",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -527,9 +527,6 @@
         "includes": [
           {
             "id": 29337
-          },
-          {
-            "id": 31522
           }
         ],
         "produces": [
@@ -562,7 +559,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 9829,
+        "popularity": 9987,
         "bracketTag": "R",
         "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nActivate Selvala by paying {G} and tapping it, adding 10,000 mana in any combination of colors.",
         "manaNeeded": "{G}",
@@ -570,142 +567,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "Jumbo Cactuar does not have summoning sickness\nSelvala, Heart of the Wilds does not have summoning sickness.",
         "notablePrerequisites": ""
-      },
-      {
-        "id": "4762-6189",
-        "of": [
-          {
-            "id": 28828
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 6189,
-              "name": "Tyvar, the Pummeler",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "5a242eab-204c-4411-860f-c0f3582a8f38",
-              "typeLine": "Legendary Creature — Elf Warrior",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/f/5f7687b1-630a-4e95-89c7-eaf456d8cb68.png?1783909447",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/f/5f7687b1-630a-4e95-89c7-eaf456d8cb68.jpg?1783909447",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/f/5f7687b1-630a-4e95-89c7-eaf456d8cb68.jpg?1783909447",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/f/5f7687b1-630a-4e95-89c7-eaf456d8cb68.jpg?1783909447",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/f/5f7687b1-630a-4e95-89c7-eaf456d8cb68.jpg?1783909447"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "5.20",
-          "cardmarket": "4.75",
-          "cardkingdom": "14.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "G",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 28828
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1016,
-              "name": "Infinitely large creatures you control until end of turn",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 8824,
-        "bracketTag": "S",
-        "description": "Activate Tyvar by paying {3}{G}{G}, giving creatures you control at least +5/+5 until end of turn.\nActivate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat from step 2 four additional times.\nRepeat from step 1.",
-        "manaNeeded": "{3}{G}{G}",
-        "variantCount": 1,
-        "manaValueNeeded": 5,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control a creature with power 5 or greater.\nDevoted Druid does not have summoning sickness."
       },
       {
         "id": "2816-5711",
@@ -780,9 +641,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "26.12",
-          "cardmarket": "14.17",
-          "cardkingdom": "31.48"
+          "tcgplayer": "27.32",
+          "cardmarket": "14.58",
+          "cardkingdom": "32.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -864,7 +725,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 6954,
+        "popularity": 7011,
         "bracketTag": "S",
         "description": "Activate Fanatic of Rhonas's second ability by tapping it, adding {G}{G}{G}{G}.\nActivate Fanatic of Rhonas using the ability from Umbral Mantle by paying {3} and untapping it, giving it +2/+2 until end of turn.\nRepeat.",
         "manaNeeded": "",
@@ -872,142 +733,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Umbral Mantle attached to Fanatic of Rhonas.\nFanatic of Rhonas does not have summoning sickness.\nYou control a creature with power 4 or greater."
-      },
-      {
-        "id": "4762-5455",
-        "of": [
-          {
-            "id": 26579
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 5455,
-              "name": "Bristly Bill, Spine Sower",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "d3b2d8a2-d3bc-448c-9cf6-6bead6010c28",
-              "typeLine": "Legendary Creature — Plant Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/2/52eef0d6-24b7-40b7-8403-e8e863d0cd55.png?1783911810",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/2/52eef0d6-24b7-40b7-8403-e8e863d0cd55.jpg?1783911810",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/2/52eef0d6-24b7-40b7-8403-e8e863d0cd55.jpg?1783911810",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/2/52eef0d6-24b7-40b7-8403-e8e863d0cd55.jpg?1783911810",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/2/52eef0d6-24b7-40b7-8403-e8e863d0cd55.jpg?1783911810"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "without summoning sickness and with five or more +1/+1 counters on it"
-          }
-        ],
-        "notes": "If Devoted Druid has six or more +1/+1 counters when you begin the combo, it will also get infinite +1/+1 counters which can be removed for infinite green mana.",
-        "prices": {
-          "tcgplayer": "38.91",
-          "cardmarket": "23.71",
-          "cardkingdom": "49.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "G",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 26579
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2287,
-              "name": "Infinite +1/+1 counters on certain creatures",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 5253,
-        "bracketTag": "R",
-        "description": "Activate Bristly Bill by paying {3}{G}{G}, doubling the number of +1/+1 counters on each creature you control.\nActivate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat from step 2 four additional times.\nRepeat from step 1.",
-        "manaNeeded": "{3}{G}{G}",
-        "variantCount": 1,
-        "manaValueNeeded": 5,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
       },
       {
         "id": "527-5200",
@@ -1082,9 +807,9 @@
         ],
         "notes": "Once you have infinite mana, you may equip Sword of the Paruns to any creature you control and untap them infinite times.\r\nOnce you have infinite mana, you may attach Sword of the Paruns to any other creature(s) to untap them.",
         "prices": {
-          "tcgplayer": "5.75",
-          "cardmarket": "3.91",
-          "cardkingdom": "7.48"
+          "tcgplayer": "5.53",
+          "cardmarket": "4.06",
+          "cardkingdom": "7.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -1190,7 +915,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3641,
+        "popularity": 3672,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {4}{G}.\nActivate Sword of the Paruns by paying {3}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -1198,269 +923,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Selvala does not have summoning sickness. You control a creature with power 5 or greater.\nSword of the Paruns attached to Selvala"
-      },
-      {
-        "id": "3774-4762",
-        "of": [
-          {
-            "id": 8328
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3774,
-              "name": "Luxior, Giada's Gift",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "2f9263d7-916f-4535-95d2-888ab73cf339",
-              "typeLine": "Legendary Artifact — Equipment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.png?1783923061",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1783923061",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1783923061",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1783923061",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/8/1833662b-ccf3-4c16-9767-666d6407aa65.jpg?1783923061"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "5.62",
-          "cardmarket": "3.48",
-          "cardkingdom": "7.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "G",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 8328
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 3156,
-        "bracketTag": "S",
-        "description": "Activate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nBecause Luxior gives Devoted Druid +1/+1 for each counter on it, Devoted Druid's toughness remains unchanged.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Luxior attached to Devoted Druid.\nDevoted Druid does not have summoning sickness."
-      },
-      {
-        "id": "4762-6315",
-        "of": [
-          {
-            "id": 29311
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 6315,
-              "name": "Haldir, Lórien Lieutenant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "653217b1-1e92-49a7-81d9-fc4d70d4f27f",
-              "typeLine": "Legendary Creature — Elf Soldier",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/4/440e5796-9264-4649-bf2f-58826dd0352c.png?1783916026",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/4/440e5796-9264-4649-bf2f-58826dd0352c.jpg?1783916026",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/4/440e5796-9264-4649-bf2f-58826dd0352c.jpg?1783916026",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/4/440e5796-9264-4649-bf2f-58826dd0352c.jpg?1783916026",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/4/440e5796-9264-4649-bf2f-58826dd0352c.jpg?1783916026"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "1.11",
-          "cardmarket": "1.18",
-          "cardkingdom": "2.28"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "G",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 29311
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2289,
-              "name": "Infinite power and toughness for certain creatures until end of turn",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 2646,
-        "bracketTag": "S",
-        "description": "Activate Devoted Druid's first ability by tapping it, adding {G}.\nIf Devoted Druid has toughness 2 or greater, activate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat steps 1 and 2 until Devoted Druid has toughness equal to 1.\nActivate Haldir by paying {5}{G}, giving Elves you control +1/+1 until end of turn for each +1/+1 counter on Haldir.\nIf Devoted Druid is tapped, activate its second ability by putting a -1/-1 counter on it, untapping it.\nRepeat.",
-        "manaNeeded": "{5} minus {X}, where X is Devoted Druid's toughness minus one",
-        "variantCount": 1,
-        "manaValueNeeded": 5,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Haldir has at least six +1/+1 counters on it.\nDevoted Druid does not have summoning sickness."
       },
       {
         "id": "4447-4859",
@@ -1535,9 +997,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.51",
-          "cardmarket": "6.03",
-          "cardkingdom": "18.58"
+          "tcgplayer": "11.55",
+          "cardmarket": "6.65",
+          "cardkingdom": "19.58"
         },
         "status": "OK",
         "spoiler": false,
@@ -1577,7 +1039,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1042,
+        "popularity": 1050,
         "bracketTag": "S",
         "description": "Give control of Bronze Bombshell to an opponent.\nBronze Bombshell triggers, causing its controller to sacrifice it.\nHowever, Bronze Bombshell cannot be sacrificed due to Assault Suit.\nBronze Bombshell triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -1587,32 +1049,32 @@
         "notablePrerequisites": "Assault Suit attached to Bronze Bombshell."
       },
       {
-        "id": "2028-4762",
+        "id": "2488-4546",
         "of": [
           {
-            "id": 13049
+            "id": 12428
           }
         ],
         "uses": [
           {
             "card": {
-              "id": 2028,
-              "name": "Hexavus",
+              "id": 2488,
+              "name": "Apex Altisaur",
               "faces": 1,
               "spoiler": false,
-              "oracleId": "ba48a1a6-a53f-4e7e-881a-472637a3a007",
-              "typeLine": "Artifact Creature — Construct",
+              "oracleId": "fc467fe5-85ab-4c95-8d21-49096778b107",
+              "typeLine": "Creature — Dinosaur",
               "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/5/b599064e-1c44-4df0-ac7d-d2eb0ba44b16.png?1783919721",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.png?1783913862",
               "imageUriBackLarge": null,
               "imageUriBackSmall": null,
               "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/5/b599064e-1c44-4df0-ac7d-d2eb0ba44b16.jpg?1783919721",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/5/b599064e-1c44-4df0-ac7d-d2eb0ba44b16.jpg?1783919721",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.jpg?1783913862",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.jpg?1783913862",
               "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/5/b599064e-1c44-4df0-ac7d-d2eb0ba44b16.jpg?1783919721",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.jpg?1783913862",
               "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/5/b599064e-1c44-4df0-ac7d-d2eb0ba44b16.jpg?1783919721"
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/e/1e6beba4-128c-418e-83ed-8a82afc0c39e.jpg?1783913862"
             },
             "quantity": 1,
             "usedFace": null,
@@ -1627,23 +1089,23 @@
           },
           {
             "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
+              "id": 4546,
+              "name": "Hammer of Nazahn",
               "faces": 1,
               "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
+              "oracleId": "e3955573-3db5-490e-903e-65e0172a9202",
+              "typeLine": "Legendary Artifact — Equipment",
               "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/7/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e.png?1783915599",
               "imageUriBackLarge": null,
               "imageUriBackSmall": null,
               "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/7/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e.jpg?1783915599",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/7/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e.jpg?1783915599",
               "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/7/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e.jpg?1783915599",
               "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/7/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e.jpg?1783915599"
             },
             "quantity": 1,
             "usedFace": null,
@@ -1659,24 +1121,24 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.24",
-          "cardmarket": "0.95",
-          "cardkingdom": "2.28"
+          "tcgplayer": "23.89",
+          "cardmarket": "12.06",
+          "cardkingdom": "26.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "G",
         "includes": [
           {
-            "id": 13049
+            "id": 12428
           }
         ],
         "produces": [
           {
             "feature": {
-              "id": 2244,
-              "name": "Infinite +1/+1 counters on a creature",
-              "status": "C",
+              "id": 1070,
+              "name": "Infinite damage to most creatures",
+              "status": "H",
               "uncountable": true
             },
             "quantity": 1
@@ -1701,14 +1163,14 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 399,
-        "bracketTag": "O",
-        "description": "Activate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nActivate Hexavus' second ability by paying {1} and removing the -1/-1 counter from Devoted Druid, putting a +1/+1 counter on Hexavus.\nRepeat.",
-        "manaNeeded": "",
+        "popularity": 778,
+        "bracketTag": "E",
+        "description": "Deal damage to Apex Altisaur, triggering its enrage ability, causing it to fight an opponent's creature with power one or greater.\nApex Altisaur is dealt damage by the creature, triggering its enrage ability, causing it to fight an opponent's creature with power one or greater.\nRepeat step 2.",
+        "manaNeeded": "{G}",
         "variantCount": 1,
-        "manaValueNeeded": 0,
+        "manaValueNeeded": 1,
         "easyPrerequisites": "",
-        "notablePrerequisites": "Devoted Druid does not have summoning sickness."
+        "notablePrerequisites": "Hammer of Nazahn attached to Apex Altisaur.\nYou have a way to deal damage to Apex Altisaur."
       },
       {
         "id": "1713-4447",
@@ -1784,7 +1246,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.53",
-          "cardmarket": "0.45",
+          "cardmarket": "0.36",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -1825,7 +1287,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 84,
+        "popularity": 82,
         "bracketTag": "S",
         "description": "At the beginning of the upkeep of the player who controls no permanents of the chosen color, Assault Suit triggers, causing that player to gain control of Lurebound Scarecrow.\nLurebound Scarecrow triggers, causing them to sacrifice it.\nHowever, Lurebound Scarecrow cannot be sacrificed due to Assault Suit.\nLurebound Scarecrow triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -1907,9 +1369,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "38.28",
-          "cardmarket": "43.41",
-          "cardkingdom": "40.58"
+          "tcgplayer": "36.67",
+          "cardmarket": "42.31",
+          "cardkingdom": "38.58"
         },
         "status": "OK",
         "spoiler": false,
@@ -2156,7 +1618,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.35",
-          "cardmarket": "0.27",
+          "cardmarket": "0.26",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -2279,9 +1741,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1086.32",
-          "cardmarket": "1026.65",
-          "cardkingdom": "1808.98"
+          "tcgplayer": "1086.53",
+          "cardmarket": "1036.63",
+          "cardkingdom": "1809.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -2417,17 +1879,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.70",
-          "cardmarket": "4.83",
-          "cardkingdom": "11.78"
+          "tcgplayer": "6.50",
+          "cardmarket": "4.87",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 26516
           }
@@ -2489,7 +1948,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 343432,
+        "popularity": 345692,
         "bracketTag": "E",
         "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
         "manaNeeded": "",
@@ -2571,17 +2030,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.90",
-          "cardmarket": "2.02",
-          "cardkingdom": "5.08"
+          "tcgplayer": "2.82",
+          "cardmarket": "2.00",
+          "cardkingdom": "5.28"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 29370
           },
@@ -2628,7 +2084,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 36493,
+        "popularity": 36667,
         "bracketTag": "S",
         "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{1}",
@@ -2636,260 +2092,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control a nontoken permanent that can be cast using {C}."
-      },
-      {
-        "id": "3807-4762",
-        "of": [
-          {
-            "id": 7444
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3807,
-              "name": "Swift Reconfiguration",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "5d47e820-913f-441a-a6cc-37ab3181d79a",
-              "typeLine": "Enchantment — Aura",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.png?1783923997",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.jpg?1783923997",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.jpg?1783923997",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.jpg?1783923997",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.jpg?1783923997"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "4.65",
-          "cardmarket": "5.77",
-          "cardkingdom": "6.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GW",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 7444
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 18654,
-        "bracketTag": "S",
-        "description": "Activate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping itself.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Swift Reconfiguration attached to Devoted Druid."
-      },
-      {
-        "id": "4762-5856",
-        "of": [
-          {
-            "id": 27994
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 5856,
-              "name": "Hazel's Brewmaster",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "e8180024-1979-4677-9a0d-e08d4b7c825a",
-              "typeLine": "Creature — Squirrel Warlock",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.png?1783910733",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/2/52af8b70-a9c8-40d7-99da-fa51dc293688.jpg?1783910733"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "E"
-            ],
-            "exileCardState": "exiled by Hazel's Brewmaster",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "4.57",
-          "cardmarket": "3.26",
-          "cardkingdom": "6.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "BG",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 27994
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 17714,
-        "bracketTag": "S",
-        "description": "Activate a Food using Devoted Druid's first ability by tapping it, adding {G}.\nActivate a Food using Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control at least one Food."
       },
       {
         "id": "527-3750",
@@ -2967,58 +2169,43 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "29.96",
-          "cardmarket": "17.87",
-          "cardkingdom": "35.98"
+          "tcgplayer": "29.41",
+          "cardmarket": "17.92",
+          "cardkingdom": "36.48"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "RG",
         "includes": [
           {
-            "id": 27473
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27045
+            "id": 2725
           },
           {
             "id": 26311
           },
           {
-            "id": 28220
+            "id": 27045
+          },
+          {
+            "id": 28137
           },
           {
             "id": 28216
-          },
-          {
-            "id": 2725
-          },
-          {
-            "id": 28221
           },
           {
             "id": 28217
           },
           {
             "id": 28218
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28221
           },
           {
             "id": 6079
@@ -3090,7 +2277,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 17446,
+        "popularity": 17538,
         "bracketTag": "S",
         "description": "Activate Selvala to add {3}{R}{R}{G}.\nActivate Aggravated Assualt, untapping all creatures you control and gaining an addition combat step and post combat mainphase.\nRepeat.",
         "manaNeeded": "{G}",
@@ -3172,9 +2359,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "37.25",
-          "cardmarket": "20.50",
-          "cardkingdom": "47.98"
+          "tcgplayer": "37.32",
+          "cardmarket": "20.46",
+          "cardkingdom": "48.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -3214,7 +2401,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 16474,
+        "popularity": 16550,
         "bracketTag": "S",
         "description": "Declare enchanted creature as attacker.\nBear Umbra triggers, untapping all lands you control.\nProceed to your next main phase.\nActivate Aggravated Assault by paying {3}{R}{R}, untapping all creatures you control and getting an additional combat and main phase after this one.\nRepeat.",
         "manaNeeded": "",
@@ -3296,9 +2483,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "30.75",
-          "cardmarket": "22.83",
-          "cardkingdom": "31.48"
+          "tcgplayer": "30.88",
+          "cardmarket": "22.85",
+          "cardkingdom": "30.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -3359,7 +2546,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 15552,
+        "popularity": 15617,
         "bracketTag": "S",
         "description": "Activate Goblin Sharpshooter by tapping it, dealing 1 damage to target creature.\nThat creature dies from lethal damage due to Goblin Sharpshooter's deathtouch ability.\nGoblin Sharpshooter triggers, untapping itself.\nRepeat for each creature opponents control and whenever an opponent controls a creature.",
         "manaNeeded": "",
@@ -3367,145 +2554,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Basilisk Collar attached to Goblin Sharpshooter.\nGoblin Sharpshooter does not have summoning sickness."
-      },
-      {
-        "id": "1562-4762",
-        "of": [
-          {
-            "id": 13028
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1562,
-              "name": "Machine God's Effigy",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "64ebdd6f-acde-4aab-a86b-2798bad5f70c",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.png?1783919719",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1783919719",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1783919719",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1783919719",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/3/637f69c2-ba24-42d1-9345-8ebdb04b6904.jpg?1783919719"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "as a copy of Devoted Druid"
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "6.63",
-          "cardmarket": "5.74",
-          "cardkingdom": "12.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GU",
-        "includes": [
-          {
-            "id": 27471
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 13028
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 37,
-              "name": "Infinite blue mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 13412,
-        "bracketTag": "R",
-        "description": "Activate Machine God's Effigy by tapping it, adding {G} or {U}.\nActivate Machine God's Effigy by putting a -1/-1 counter on it, untapping it.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
       },
       {
         "id": "864-5352",
@@ -3580,8 +2628,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "3.16",
-          "cardmarket": "1.51",
+          "tcgplayer": "3.14",
+          "cardmarket": "1.69",
           "cardkingdom": "4.98"
         },
         "status": "OK",
@@ -3592,16 +2640,10 @@
             "id": 27481
           },
           {
-            "id": 27474
-          },
-          {
-            "id": 29755
-          },
-          {
             "id": 28148
           },
           {
-            "id": 31074
+            "id": 29755
           }
         ],
         "produces": [
@@ -3706,7 +2748,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 12323,
+        "popularity": 12351,
         "bracketTag": "E",
         "description": "Cast Doppelgang by paying {15}{G}{U}, creating five token copies of Eternal Witness and of the four mana-producing permanents.\nWhen the Eternal Witness tokens enter the battlefield, they trigger, returning Doppelgang and up to four other cards from your graveyard to your hand.\nActivate seventeen of the mana-producing permanent tokens by tapping them, adding at least {15}{G}{U}.\nRepeat.\nOnce you have infinite tokens and mana, you may instead target any other permanents using Doppelgang.",
         "manaNeeded": "{15}{G}{U}",
@@ -3791,8 +2833,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.93",
-          "cardmarket": "7.60",
+          "tcgplayer": "11.68",
+          "cardmarket": "7.69",
           "cardkingdom": "15.98"
         },
         "status": "OK",
@@ -3804,21 +2846,6 @@
           },
           {
             "id": 26311
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
           },
           {
             "id": 28137
@@ -3875,7 +2902,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 9783,
+        "popularity": 9893,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{U}.\nActivate Freed from the Real's second ability by paying {U}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -3883,142 +2910,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Freed from the Real attached to Selvala.\nSelvala does not have summoning sickness.\nYou control a creature with power three or greater."
-      },
-      {
-        "id": "687-4762",
-        "of": [
-          {
-            "id": 28615
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 687,
-              "name": "Tayam, Luminous Enigma",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "84be8354-0bfa-4df1-868a-13197bd49191",
-              "typeLine": "Legendary Creature — Nightmare Beast",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/5/05b837a2-5773-4340-87f9-b4d6a43deb27.png?1783931228",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/5/05b837a2-5773-4340-87f9-b4d6a43deb27.jpg?1783931228",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/5/05b837a2-5773-4340-87f9-b4d6a43deb27.jpg?1783931228",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/5/05b837a2-5773-4340-87f9-b4d6a43deb27.jpg?1783931228",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/5/05b837a2-5773-4340-87f9-b4d6a43deb27.jpg?1783931228"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "3.98",
-          "cardmarket": "1.94",
-          "cardkingdom": "2.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WBG",
-        "includes": [
-          {
-            "id": 28615
-          },
-          {
-            "id": 30965
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 10,
-              "name": "Infinite self-mill",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 623,
-              "name": "Put a selection of permanant cards from your library and graveyard onto the battlefield",
-              "status": "C",
-              "uncountable": false
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 7629,
-        "bracketTag": "S",
-        "description": "Boost Devoted Druid's toughness by at least 2 without using +1/+1 counters.\nActivate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat from step 2 two additional times.\nActivate Tayam by paying {3} and removing three -1/-1 counters from Devoted Druid, causing you to mill three cards and return a permanent with mana value 3 or less from your graveyard to the battlefield.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Devoted Druid does not have summoning sickness.\nYou have a way to boost Devoted Druid's toughness by at least 2 without using +1/+1 counters."
       },
       {
         "id": "1478-3293",
@@ -4093,8 +2984,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.30",
-          "cardmarket": "1.73",
+          "tcgplayer": "2.69",
+          "cardmarket": "1.36",
           "cardkingdom": "4.28"
         },
         "status": "OK",
@@ -4135,154 +3026,9 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 7517,
+        "popularity": 7540,
         "bracketTag": "E",
         "description": "Activate Sakura-Tribe Elder by sacrificing it, searching your library for a basic Plains and put it onto the battlefield tapped.\nThe Plains enters the battlefield, triggering Emeria Shepherd, returning Sakura-Tribe Elder from your graveyard to the battlefield.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
-      },
-      {
-        "id": "628-4762",
-        "of": [
-          {
-            "id": 8412
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 628,
-              "name": "Mikaeus, the Unhallowed",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "5d27c63e-d1ef-48af-b51d-01ebc6daeac9",
-              "typeLine": "Legendary Creature — Zombie Cleric",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.png?1783915670",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "23.88",
-          "cardmarket": "23.46",
-          "cardkingdom": "29.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "BG",
-        "includes": [
-          {
-            "id": 8412
-          },
-          {
-            "id": 31074
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 7,
-              "name": "Infinite death triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 4,
-              "name": "Infinite creature ETB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 3,
-              "name": "Infinite creature LTB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 7175,
-        "bracketTag": "E",
-        "description": "Activate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat step 1 until Devoted Druid dies as a state-based action due to having zero toughness.\nDevoted Druid dies, triggering its undying ability, returning it from your graveyard to the battlefield with a +1/+1 counter on it.\nRepeat.",
         "manaNeeded": "",
         "variantCount": 1,
         "manaValueNeeded": 0,
@@ -4365,9 +3111,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "14.85",
-          "cardmarket": "8.02",
-          "cardkingdom": "16.98"
+          "tcgplayer": "14.19",
+          "cardmarket": "7.68",
+          "cardkingdom": "16.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -4378,21 +3124,6 @@
           },
           {
             "id": 26311
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
           },
           {
             "id": 28137
@@ -4449,7 +3180,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 6647,
+        "popularity": 6709,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{U}.\nActivate Pemmin's Aura's first ability by paying {U}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -4457,384 +3188,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Pemmin's Aura attached to Selvala.\nSelvala does not have summoning sickness.\nYou control a creature with power three or greater."
-      },
-      {
-        "id": "75-4762",
-        "of": [
-          {
-            "id": 2187
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 75,
-              "name": "Quillspike",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "b8c748ed-7ba2-4f92-a9de-5080382c2fc2",
-              "typeLine": "Creature — Beast",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/4/14cb4054-d5d6-4015-ae86-6f99280afe0a.png?1783942668",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/4/14cb4054-d5d6-4015-ae86-6f99280afe0a.jpg?1783942668",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/4/14cb4054-d5d6-4015-ae86-6f99280afe0a.jpg?1783942668",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/4/14cb4054-d5d6-4015-ae86-6f99280afe0a.jpg?1783942668",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/4/14cb4054-d5d6-4015-ae86-6f99280afe0a.jpg?1783942668"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "12.81",
-          "cardmarket": "5.35",
-          "cardkingdom": "5.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "BG",
-        "includes": [
-          {
-            "id": 2187
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 651,
-              "name": "Infinitely large creature until end of turn",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": true,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": true,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 6410,
-        "bracketTag": "O",
-        "description": "Activate Devoted Druid's first ability by tapping it, adding {G}.\nActivate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping itself.\nActivate Quillspike by paying {B/G} and removing a -1/-1 counter from Devoted Druid, giving Quillspike +3/+3 until end of turn.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Devoted Druid does not have summoning sickness."
-      },
-      {
-        "id": "2144-4762",
-        "of": [
-          {
-            "id": 8584
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 2144,
-              "name": "Myrkul, Lord of Bones",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "11329dd8-b10b-4659-b747-fbdbecf16308",
-              "typeLine": "Legendary Creature — God",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.png?1783922688",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/2/82824d05-5215-459a-aa73-3c5a6be3d464.jpg?1783922688"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "1.10",
-          "cardmarket": "0.81",
-          "cardkingdom": "1.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WBG",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 8584
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 5219,
-        "bracketTag": "R",
-        "description": "Activate Devoted Druid's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat step 1 until Devoted Druid dies as a state-based action due to having zero or less toughness.\nMyrkul triggers, causing you to exile Devoted Druid and create a token copy of Devoted Druid that is an enchantment and loses all other card types.\nActivate the Devoted Druid token's first ability by tapping it, adding {G}.\nActivate the Devoted Druid token's second ability by putting a -1/-1 counter on it, untapping it.\nRepeat from step 4.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
-      },
-      {
-        "id": "978-4762",
-        "of": [
-          {
-            "id": 360
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 978,
-              "name": "Vizier of Remedies",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "79770e65-740a-44c7-bea2-a24e6a722c22",
-              "typeLine": "Creature — Human Cleric",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.png?1783936529",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.jpg?1783936529",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.jpg?1783936529",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.jpg?1783936529",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.jpg?1783936529"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "1.03",
-          "cardmarket": "0.75",
-          "cardkingdom": "1.88"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GW",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 360
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 4754,
-        "bracketTag": "S",
-        "description": "Activate Devoted Druid by tapping it, adding {G}.\nActivate Devoted Druid by putting a zero -1/-1 counter on it due to Vizier of Remedies, untapping it.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Devoted Druid does not have summoning sickness."
       },
       {
         "id": "527-2011",
@@ -4909,20 +3262,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.92",
-          "cardmarket": "6.47",
-          "cardkingdom": "11.48"
+          "tcgplayer": "11.87",
+          "cardmarket": "6.65",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "WUBRG",
         "includes": [
-          {
-            "id": 26311
-          },
-          {
-            "id": 27480
-          },
           {
             "id": 29387
           },
@@ -4978,7 +3325,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 4028,
+        "popularity": 4060,
         "bracketTag": "S",
         "description": "Declare Selvala as an attacker.\nHolding priority, activate Selvala by paying {G} and tapping it, adding at least {W}{U}{B}{R}{G}{G}.\nActivate Najeela by paying {W}{U}{B}{R}{G}, untapping all attacking creatures, giving them trample, lifelink and haste, and gaining an additional combat phase after this one.\nRepeat from step 2.",
         "manaNeeded": "{G}",
@@ -5060,9 +3407,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "15.32",
-          "cardmarket": "7.55",
-          "cardkingdom": "23.48"
+          "tcgplayer": "15.67",
+          "cardmarket": "7.48",
+          "cardkingdom": "24.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -5102,7 +3449,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3687,
+        "popularity": 3684,
         "bracketTag": "S",
         "description": "Declare Hellkite Charger as attacker.\nBear Umbra and Hellkite Charger triggers.\nResolve the Bear Umbra's trigger, untapping all lands you control.\nResolve the Hellkite Charger's trigger, choosing to pay {5}{R}{R} to untap all attacking creatures and to get an additional combat phase after this one.\nRepeat.",
         "manaNeeded": "",
@@ -5184,9 +3531,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "19.21",
-          "cardmarket": "9.10",
-          "cardkingdom": "23.48"
+          "tcgplayer": "19.78",
+          "cardmarket": "9.19",
+          "cardkingdom": "24.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -5200,9 +3547,6 @@
           },
           {
             "id": 4139
-          },
-          {
-            "id": 31074
           },
           {
             "id": 33804
@@ -5274,7 +3618,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2738,
+        "popularity": 2745,
         "bracketTag": "S",
         "description": "Declare Najeela as an attacker, attacking an opponent unable to block and kill it.\nNajeela and Bear Umbra triggers.\nResolve the Najeela trigger, creating a 1/1 Warrior creature token that is tapped and attacking.\nResolve the Bear Umbra trigger, untapping all lands you control.\nActivate all lands you control by tapping them, adding {W}{U}{B}{R}{G}.\nActivate Najeela by paying {W}{U}{B}{R}{G}, untapping all attacking creatures, giving them trample, lifelink and haste, and gaining an additional combat phase after this one.\nRepeat each combat phase.",
         "manaNeeded": "",
@@ -5282,151 +3626,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Bear Umbra attached to Najeela.\nNajeela does not have summoning sickness.\nAn opponent is unable to kill Najeela.\nLands you control can tap to produce at least {W}{U}{B}{R}{G}."
-      },
-      {
-        "id": "3500-4968",
-        "of": [
-          {
-            "id": 19956
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4968,
-              "name": "Deathbringer Thoctar",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "2500a811-2435-4915-ac83-9bfe2887621a",
-              "typeLine": "Creature — Zombie Beast",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.png?1783939652",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3500,
-              "name": "Basilisk Collar",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "f5f4dd28-f4ae-4d39-b9b8-6ebfd63c93fe",
-              "typeLine": "Artifact — Equipment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.png?1783908907",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "5.39",
-          "cardmarket": "3.56",
-          "cardkingdom": "7.78"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "BR",
-        "includes": [
-          {
-            "id": 19956
-          },
-          {
-            "id": 32062
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 543,
-              "name": "Destroy all creatures opponents control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 477,
-              "name": "Destroy each creature that enters the battlefield under an opponent's control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2617,
-              "name": "Lock",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": true,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 1809,
-        "bracketTag": "S",
-        "description": "Activate Deathbringer Thoctar by removing a +1/+1 counter from it, dealing 1 damage to any creature an opponent controls and causing you to gain 1 life.\nThe creature dies as a state-based action due to Deathbringer Thoctar's deathtouch.\nDeathbringer Thoctar triggers, putting a +1/+1 counter on itself.\nRepeat as desired.\nYou may also repeat this combo whenever a creature enters the battlefield under an opponent's control.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Deathbringer Thoctar has at least one +1/+1 counter on it.\nBasilisk Collar attached to Deathbringer Thoctar."
       },
       {
         "id": "149-7124",
@@ -5501,9 +3700,9 @@
         ],
         "notes": "The Incredible Hulk cannot have vigilance to ensure it taps during the declare attackers step.",
         "prices": {
-          "tcgplayer": "50.68",
-          "cardmarket": "36.40",
-          "cardkingdom": "65.98"
+          "tcgplayer": "53.53",
+          "cardmarket": "36.50",
+          "cardkingdom": "65.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -5561,7 +3760,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1796,
+        "popularity": 1842,
         "bracketTag": "S",
         "description": "Cast Legolas's Quick Reflexes by paying {G}, targeting The Incredible Hulk.\nDeclare The Incredible Hulk as an attacker, tapping him in the process.\nThe Incredible Hulk triggers, dealing damage equal to its power to itself.\nThe Incredible Hulk triggers, putting a +1/+1 counter on it and then untapping it and causing you to gain an additional combat phase after this one.\nRepeat from step 2 each combat phase.",
         "manaNeeded": "{G}",
@@ -5569,6 +3768,151 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "The Incredible Hulk is indestructible."
+      },
+      {
+        "id": "3500-4968",
+        "of": [
+          {
+            "id": 19956
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4968,
+              "name": "Deathbringer Thoctar",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "2500a811-2435-4915-ac83-9bfe2887621a",
+              "typeLine": "Creature — Zombie Beast",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.png?1783939652",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/d/fdffa46e-8802-4479-a669-d33618f75d4f.jpg?1783939652"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3500,
+              "name": "Basilisk Collar",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "f5f4dd28-f4ae-4d39-b9b8-6ebfd63c93fe",
+              "typeLine": "Artifact — Equipment",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.png?1783908907",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/b/7b36fba7-71f7-4b7f-bde5-b3a9752ad21c.jpg?1783908907"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "5.42",
+          "cardmarket": "3.74",
+          "cardkingdom": "6.98"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "BR",
+        "includes": [
+          {
+            "id": 19956
+          },
+          {
+            "id": 32062
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 543,
+              "name": "Destroy all creatures opponents control",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 477,
+              "name": "Destroy each creature that enters the battlefield under an opponent's control",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2617,
+              "name": "Lock",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": true,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 1814,
+        "bracketTag": "S",
+        "description": "Activate Deathbringer Thoctar by removing a +1/+1 counter from it, dealing 1 damage to any creature an opponent controls and causing you to gain 1 life.\nThe creature dies as a state-based action due to Deathbringer Thoctar's deathtouch.\nDeathbringer Thoctar triggers, putting a +1/+1 counter on itself.\nRepeat as desired.\nYou may also repeat this combo whenever a creature enters the battlefield under an opponent's control.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Deathbringer Thoctar has at least one +1/+1 counter on it.\nBasilisk Collar attached to Deathbringer Thoctar."
       },
       {
         "id": "148-4869",
@@ -5643,9 +3987,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.60",
-          "cardmarket": "5.69",
-          "cardkingdom": "18.98"
+          "tcgplayer": "12.17",
+          "cardmarket": "5.93",
+          "cardkingdom": "19.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -5715,7 +4059,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1743,
+        "popularity": 1742,
         "bracketTag": "S",
         "description": "Proceed to your cleanup step, causing you to discard down to your maximum hand size.\nGlint-Horn Buccaneer triggers for each card discarded this way.\nResolve the first trigger, dealing 1 damage to each opponent.\nKeen Sense triggers, causing you to draw a card.\nRepeat from step 3 for each remaining trigger.\nAfter all players pass priority, another cleanup step occurs, causing you to discard down to your maximum hand size.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -5828,9 +4172,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "8.53",
-          "cardmarket": "5.86",
-          "cardkingdom": "13.77"
+          "tcgplayer": "8.54",
+          "cardmarket": "5.77",
+          "cardkingdom": "12.77"
         },
         "status": "OK",
         "spoiler": false,
@@ -5838,9 +4182,6 @@
         "includes": [
           {
             "id": 26062
-          },
-          {
-            "id": 27473
           }
         ],
         "produces": [
@@ -5882,7 +4223,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": true
         },
-        "popularity": 1535,
+        "popularity": 1552,
         "bracketTag": "E",
         "description": "Activate the Forest Utopia Sprawl is attached to by tapping it, adding {G} or any color it can produce.\nUtopia Sprawl's last ability triggers, adding {U}\nActivate Arbor Elf by tapping it, untapping the Forest.\nActivate the Aura by paying {U}, untapping Arbor Elf.\nRepeat.",
         "manaNeeded": "",
@@ -5964,8 +4305,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.91",
-          "cardmarket": "3.67",
+          "tcgplayer": "2.94",
+          "cardmarket": "3.78",
           "cardkingdom": "9.98"
         },
         "status": "OK",
@@ -6027,7 +4368,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1246,
+        "popularity": 1240,
         "bracketTag": "S",
         "description": "Draw a card.\nNiv-Mizzet triggers, dealing 1 damage to an opponent.\nKeen Sense triggers, allowing you to draw a card.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -6109,8 +4450,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.88",
-          "cardmarket": "3.04",
+          "tcgplayer": "5.01",
+          "cardmarket": "2.93",
           "cardkingdom": "7.48"
         },
         "status": "OK",
@@ -6163,7 +4504,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1206,
+        "popularity": 1214,
         "bracketTag": "C",
         "description": "Cast Body of Research by paying {G}{G}{G}{U}{U}{U}, creating a 0/0 Fractal creature token, then putting a number of +1/+1 counters on it equal to your deck size.\nCast Rishkar's Expertise by paying {4}{G}{G}, causing you to draw cards equal to Body of Research's power, thus causing you to draw your entire library.",
         "manaNeeded": "{4}{G}{G}{G}{G}{G}{U}{U}{U}",
@@ -6171,164 +4512,6 @@
         "manaValueNeeded": 12,
         "easyPrerequisites": "",
         "notablePrerequisites": ""
-      },
-      {
-        "id": "1729-2439-4762",
-        "of": [
-          {
-            "id": 17729
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1729,
-              "name": "Shelob, Child of Ungoliant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "8372115d-c963-4a41-8759-72f7f6a8935a",
-              "typeLine": "Legendary Creature — Spider Demon",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/1/a14c4b29-3363-45ce-9190-0f79e1a0ef7f.png?1783916243",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/1/a14c4b29-3363-45ce-9190-0f79e1a0ef7f.jpg?1783916243",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/1/a14c4b29-3363-45ce-9190-0f79e1a0ef7f.jpg?1783916243",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/1/a14c4b29-3363-45ce-9190-0f79e1a0ef7f.jpg?1783916243",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/1/a14c4b29-3363-45ce-9190-0f79e1a0ef7f.jpg?1783916243"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2439,
-              "name": "Ulvenwald Tracker",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "63a37c08-7e38-4fe2-9a71-cc4604c4f831",
-              "typeLine": "Creature — Human Shaman",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/d/4da9e7d8-5f01-4d55-a0a8-afe5e7d5f8e4.png?1783936626",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/d/4da9e7d8-5f01-4d55-a0a8-afe5e7d5f8e4.jpg?1783936626",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/d/4da9e7d8-5f01-4d55-a0a8-afe5e7d5f8e4.jpg?1783936626",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/d/4da9e7d8-5f01-4d55-a0a8-afe5e7d5f8e4.jpg?1783936626",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/d/4da9e7d8-5f01-4d55-a0a8-afe5e7d5f8e4.jpg?1783936626"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "8.21",
-          "cardmarket": "5.28",
-          "cardkingdom": "13.27"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "BG",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 17729
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 1172,
-        "bracketTag": "E",
-        "description": "Activate Ulvenwald Tracker by paying {1}{G} and tapping it, causing Shelob to fight Devoted Druid.\nDevoted Druid dies as a state-based action due to Shelob's deathtouch.\nShelob triggers, creating a token copy of Devoted Druid that is a Food artifact.\nActivate the Devoted Druid token by tapping it, adding {G}.\nActivate the Devoted Druid token by putting a -1/-1 counter on it, untapping it.\nRepeat from step 4.",
-        "manaNeeded": "{1}{G}",
-        "variantCount": 1,
-        "manaValueNeeded": 2,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Shelob and Ulvenwald Tracker do not have summoning sickness."
       },
       {
         "id": "2050-3525-5227",
@@ -6434,9 +4617,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.45",
-          "cardmarket": "6.28",
-          "cardkingdom": "14.77"
+          "tcgplayer": "11.05",
+          "cardmarket": "5.76",
+          "cardkingdom": "13.27"
         },
         "status": "OK",
         "spoiler": false,
@@ -6444,9 +4627,6 @@
         "includes": [
           {
             "id": 26062
-          },
-          {
-            "id": 27473
           }
         ],
         "produces": [
@@ -6488,7 +4668,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 986,
+        "popularity": 1000,
         "bracketTag": "E",
         "description": "Activate the Forest Utopia Sprawl is attached to by tapping it, adding {G} or any color it can produce.\nUtopia Sprawl's last ability triggers, adding {U}\nActivate Arbor Elf by tapping it, untapping the Forest.\nActivate the Aura by paying {U}, untapping Arbor Elf.\nRepeat.",
         "manaNeeded": "",
@@ -6570,9 +4750,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.89",
-          "cardmarket": "2.09",
-          "cardkingdom": "6.28"
+          "tcgplayer": "2.88",
+          "cardmarket": "2.07",
+          "cardkingdom": "6.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -6636,7 +4816,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 491,
+        "popularity": 492,
         "bracketTag": "S",
         "description": "Draw a card.\nNiv-Mizzet triggers, dealing 1 damage to an opponent.\nKeen Sense triggers, allowing you to draw a card.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -6721,9 +4901,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.56",
-          "cardmarket": "3.91",
-          "cardkingdom": "7.98"
+          "tcgplayer": "5.28",
+          "cardmarket": "4.03",
+          "cardkingdom": "8.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -6740,21 +4920,6 @@
           },
           {
             "id": 27045
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
           },
           {
             "id": 28137
@@ -6844,7 +5009,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 466,
+        "popularity": 471,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{W}.\nActivate Seedcradle Witch by paying {2}{G}{W}, untapping Selvala and giving it +3/+3 until end of turn.\nRepeat.",
         "manaNeeded": "{G}, plus an additional {1} available if you do not control a creature with power 5 or greater",
@@ -6926,9 +5091,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "16.44",
-          "cardmarket": "5.88",
-          "cardkingdom": "11.78"
+          "tcgplayer": "16.16",
+          "cardmarket": "6.14",
+          "cardkingdom": "12.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -6971,7 +5136,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 432,
+        "popularity": 434,
         "bracketTag": "S",
         "description": "Activate The Mycosynth Gardens' third ability by paying {2} and tapping it, causing it to become a copy of Blazing Sunsteel.\nActivate The Mycosynth Gardens' equip ability by paying {4}, attaching it to the creature that has Blazing Sunsteel attached.\nDeal damage to the creature with Blazing Sunsteel and The Mycosynth Gardens attached.\nBlazing Sunsteel and The Mycosynth Gardens trigger.\nResolve the Blazing Sunsteel trigger, dealing damage to any target.\nResolve the Mycosynth Gardens trigger, dealing damage to the creature.\nRepeat from step 4.",
         "manaNeeded": "{6}",
@@ -7053,9 +5218,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "10.99",
-          "cardmarket": "6.67",
-          "cardkingdom": "7.48"
+          "tcgplayer": "11.00",
+          "cardmarket": "6.42",
+          "cardkingdom": "7.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -7134,7 +5299,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 397,
+        "popularity": 396,
         "bracketTag": "S",
         "description": "During your cleanup step, discard to your maximum hand size.\nBrallin triggers for each card discarded, getting a +1/+1 counter and dealing 1 damage to each opponent.\nKeen Sense triggers, causing you to draw a card for each damage dealt.\nPass priority, moving to an additional cleanup step.\nRepeat until you have no cards left in library or have won the game.",
         "manaNeeded": "",
@@ -7216,8 +5381,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.39",
-          "cardmarket": "1.57",
+          "tcgplayer": "2.40",
+          "cardmarket": "1.55",
           "cardkingdom": "5.68"
         },
         "status": "OK",
@@ -7288,7 +5453,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 381,
+        "popularity": 389,
         "bracketTag": "S",
         "description": "During the next cleanup step, discard cards down to your maximum hand size.\nMagmakin Artillerist triggers, dealing 1 damage to each opponent for each card discarded this way.\nKeen Sense triggers, causing you to draw a card.\nAs you are still in the cleanup step, once the stack is empty and priority has been passed by all players, you will discard down to your maximum hand size again.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -7370,9 +5535,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "14.45",
-          "cardmarket": "7.87",
-          "cardkingdom": "15.98"
+          "tcgplayer": "14.40",
+          "cardmarket": "7.86",
+          "cardkingdom": "14.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -7380,9 +5545,6 @@
         "includes": [
           {
             "id": 915
-          },
-          {
-            "id": 31074
           }
         ],
         "produces": [
@@ -7451,7 +5613,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 232,
+        "popularity": 230,
         "bracketTag": "R",
         "description": "Activate the mutated Gemrazer and Kiki-Jiki creature by tapping it, creating a token copy of it with haste.\nRepeat.",
         "manaNeeded": "",
@@ -7533,8 +5695,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.89",
-          "cardmarket": "1.05",
+          "tcgplayer": "1.91",
+          "cardmarket": "1.04",
           "cardkingdom": "3.08"
         },
         "status": "OK",
@@ -7575,7 +5737,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 208,
+        "popularity": 209,
         "bracketTag": "S",
         "description": "Whenever you control seven or more Thrulls, Endrek Sahr's second ability triggers.\nResolve the ability, causing you to not sacrifice Endrek Sahr due to Assault Suit.\nEndrek Sahr's second ability triggers again, causing a mandatory infinite loop, ending the game in a draw.",
         "manaNeeded": "",
@@ -7660,9 +5822,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.39",
-          "cardmarket": "3.87",
-          "cardkingdom": "6.68"
+          "tcgplayer": "5.13",
+          "cardmarket": "4.04",
+          "cardkingdom": "7.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -7673,21 +5835,6 @@
           },
           {
             "id": 26311
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
           },
           {
             "id": 28137
@@ -7744,7 +5891,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 194,
+        "popularity": 197,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {2}{G}{U}.\nActivate Crab Umbra by paying {2}{U}, untapping Selvala.\nRepeat.\nIf you control a creature with power 5 or greater, this combo nets infinite colored mana.",
         "manaNeeded": "{G}",
@@ -7829,55 +5976,40 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.17",
-          "cardmarket": "3.60",
-          "cardkingdom": "6.34"
+          "tcgplayer": "4.89",
+          "cardmarket": "3.84",
+          "cardkingdom": "6.84"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GW",
         "includes": [
           {
-            "id": 2725
-          },
-          {
-            "id": 26311
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28219
+            "id": 28221
           },
           {
             "id": 28220
           },
           {
-            "id": 28221
+            "id": 28219
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 26311
+          },
+          {
+            "id": 2725
           },
           {
             "id": 6943
@@ -7913,7 +6045,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 172,
+        "popularity": 174,
         "bracketTag": "S",
         "description": "Activate Selvala by tapping it and paying {G}, adding {W}{G} and three mana of any color.\nActivate Gauntlets of Light by paying {2}{W}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -7921,133 +6053,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Gauntlets of Light attached to Selvala.\nSelvala does not have summoning sickness.\nYou control a creature with power five or greater."
-      },
-      {
-        "id": "3785-4762",
-        "of": [
-          {
-            "id": 357
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3785,
-              "name": "One with the Stars",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "0ab43fc3-53ec-4686-873d-8dbeee2634f4",
-              "typeLine": "Enchantment — Aura",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.png?1783931580",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.jpg?1783931580",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.jpg?1783931580",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.jpg?1783931580",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/8/98b7070d-4b09-4390-aa21-1bc0aa2b629c.jpg?1783931580"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "1.01",
-          "cardmarket": "0.68",
-          "cardkingdom": "1.84"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GU",
-        "includes": [
-          {
-            "id": 357
-          },
-          {
-            "id": 27473
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 170,
-        "bracketTag": "S",
-        "description": "Activate Devoted Druid by tapping it, adding {G}.\nActivate Devoted Druid by putting a -1/-1 counter on it, untapping it.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "One with the Stars attached to Devoted Druid."
       },
       {
         "id": "319-4447",
@@ -8122,7 +6127,7 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.50",
+          "tcgplayer": "0.51",
           "cardmarket": "0.30",
           "cardkingdom": "1.08"
         },
@@ -8164,7 +6169,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 160,
+        "popularity": 157,
         "bracketTag": "S",
         "description": "If needed, give control of Phylactery Lich to an opponent who controls no permanents with a phylactery counter on them.\nWhen Phylactery Lich's controller controls no permanents with a phylactery counter on them, Phylactery Lich triggers, causing them to sacrifice it.\nHowever, Phylactery Lich cannot be sacrificed due to Assault Suit.\nPhylactery Lich triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -8172,169 +6177,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Assault Suit attached to Phylactery Lich.\nA player does not control a permanent with a phylactery counter on it."
-      },
-      {
-        "id": "618-7623",
-        "of": [
-          {
-            "id": 915
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 618,
-              "name": "Kiki-Jiki, Mirror Breaker",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "a34b7416-cfe3-4a1e-a8c1-a3056b747519",
-              "typeLine": "Legendary Creature — Goblin Shaman",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.png?1783935527",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 7623,
-              "name": "Sawtusk Demolisher",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "7f93a368-9568-456c-9bd6-20d5fe5ad2f1",
-              "typeLine": "Creature — Beast",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/7/574d1a02-a403-4b6e-8ce0-a472325c9c2c.png?1783931210",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/7/574d1a02-a403-4b6e-8ce0-a472325c9c2c.jpg?1783931210",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/7/574d1a02-a403-4b6e-8ce0-a472325c9c2c.jpg?1783931210",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/7/574d1a02-a403-4b6e-8ce0-a472325c9c2c.jpg?1783931210",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/7/574d1a02-a403-4b6e-8ce0-a472325c9c2c.jpg?1783931210"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "on top of Kiki-Jiki"
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "17.02",
-          "cardmarket": "10.61",
-          "cardkingdom": "20.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "RG",
-        "includes": [
-          {
-            "id": 915
-          },
-          {
-            "id": 31074
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 4,
-              "name": "Infinite creature ETB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 3,
-              "name": "Infinite creature LTB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 7,
-              "name": "Infinite death triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 6,
-              "name": "Infinite creature sacrifice triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 80,
-              "name": "Infinite tapped creature tokens",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 128,
-        "bracketTag": "R",
-        "description": "Activate the mutated Sawtusk Demolisher and Kiki-Jiki creature by tapping it, creating a token copy of it with haste.\nRepeat.",
-        "manaNeeded": "",
-        "variantCount": 28,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
       },
       {
         "id": "4447-4781",
@@ -8409,8 +6251,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.33",
-          "cardmarket": "1.42",
+          "tcgplayer": "2.18",
+          "cardmarket": "1.28",
           "cardkingdom": "3.38"
         },
         "status": "OK",
@@ -8451,7 +6293,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 90,
+        "popularity": 88,
         "bracketTag": "S",
         "description": "If needed, give control of Dandân to an opponent who controls no Islands.\nWhen Dandân's controller controls no Islands, Dandân triggers, causing them to sacrifice it.\nHowever, Dandân cannot be sacrificed due to Assault Suit.\nDandân triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -8534,7 +6376,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.46",
-          "cardmarket": "0.48",
+          "cardmarket": "0.49",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -8575,7 +6417,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 77,
+        "popularity": 74,
         "bracketTag": "S",
         "description": "If needed, give control of Seasinger to an opponent who controls no Islands.\nWhen Seasinger's controller controls no Islands, Seasinger triggers, causing them to sacrifice it.\nHowever, Seasinger cannot be sacrificed due to Assault Suit.\nSeasinger triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -8660,58 +6502,43 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.37",
-          "cardmarket": "3.94",
-          "cardkingdom": "6.68"
+          "tcgplayer": "5.11",
+          "cardmarket": "4.12",
+          "cardkingdom": "7.18"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GWU",
         "includes": [
           {
-            "id": 2725
-          },
-          {
-            "id": 26311
-          },
-          {
-            "id": 27045
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28219
+            "id": 28221
           },
           {
             "id": 28220
           },
           {
-            "id": 28221
+            "id": 28219
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 27045
+          },
+          {
+            "id": 26311
+          },
+          {
+            "id": 2725
           },
           {
             "id": 8184
@@ -8774,7 +6601,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 72,
+        "popularity": 74,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {3}{G}{W}{U}.\nActivate High Alert by paying {2}{W}{U}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -8861,7 +6688,7 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.37",
+          "tcgplayer": "2.42",
           "cardmarket": "1.42",
           "cardkingdom": "5.34"
         },
@@ -8950,7 +6777,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 70,
+        "popularity": 72,
         "bracketTag": "R",
         "description": "Draw a card.\nHuman Torch triggers, dealing 1 damage.\nKeen Sense triggers, causing you to draw a card.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -8958,130 +6785,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "You have a way to draw a card.",
         "notablePrerequisites": ""
-      },
-      {
-        "id": "788-4447",
-        "of": [
-          {
-            "id": 14562
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4447,
-              "name": "Assault Suit",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "c3b6e114-7bc8-4890-97d9-edbeea1f425f",
-              "typeLine": "Artifact — Equipment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.png?1783915605",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 788,
-              "name": "Manta Ray",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "d5129531-e4b6-454e-9c67-dae925c8f2ee",
-              "typeLine": "Creature — Fish",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.png?1783946741",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "0.36",
-          "cardmarket": "0.30",
-          "cardkingdom": "0.94"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 14562
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 22,
-              "name": "Draw the game",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 65,
-        "bracketTag": "S",
-        "description": "If needed, give control of Manta Ray to an opponent who controls no Islands.\nWhen Manta Ray's controller controls no Islands, Manta Ray triggers, causing them to sacrifice it.\nHowever, Manta Ray cannot be sacrificed due to Assault Suit.\nManta Ray triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Assault Suit attached to Manta Ray.\nA player controls no Islands."
       },
       {
         "id": "527-7500",
@@ -9156,9 +6859,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.09",
-          "cardmarket": "3.57",
-          "cardkingdom": "6.34"
+          "tcgplayer": "4.84",
+          "cardmarket": "3.77",
+          "cardkingdom": "6.84"
         },
         "status": "OK",
         "spoiler": false,
@@ -9184,21 +6887,6 @@
           },
           {
             "id": 28137
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27469
           },
           {
             "id": 27045
@@ -9261,7 +6949,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 64,
+        "popularity": 67,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {6}{G}\nActivate Ringing Strike Mastery by paying {5}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -9269,6 +6957,130 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control a creature with power 7 or greater."
+      },
+      {
+        "id": "788-4447",
+        "of": [
+          {
+            "id": 14562
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 4447,
+              "name": "Assault Suit",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "c3b6e114-7bc8-4890-97d9-edbeea1f425f",
+              "typeLine": "Artifact — Equipment",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.png?1783915605",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 788,
+              "name": "Manta Ray",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "d5129531-e4b6-454e-9c67-dae925c8f2ee",
+              "typeLine": "Creature — Fish",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.png?1783946741",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/0/80f74884-9b82-419d-9e97-c947a6b7d09f.jpg?1783946741"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "0.35",
+          "cardmarket": "0.32",
+          "cardkingdom": "0.94"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 14562
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 22,
+              "name": "Draw the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 63,
+        "bracketTag": "S",
+        "description": "If needed, give control of Manta Ray to an opponent who controls no Islands.\nWhen Manta Ray's controller controls no Islands, Manta Ray triggers, causing them to sacrifice it.\nHowever, Manta Ray cannot be sacrificed due to Assault Suit.\nManta Ray triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Assault Suit attached to Manta Ray.\nA player controls no Islands."
       },
       {
         "id": "3322-4447",
@@ -9343,9 +7155,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.57",
-          "cardmarket": "0.31",
-          "cardkingdom": "1.28"
+          "tcgplayer": "0.58",
+          "cardmarket": "0.29",
+          "cardkingdom": "1.18"
         },
         "status": "OK",
         "spoiler": false,
@@ -9491,9 +7303,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.22",
-          "cardmarket": "1.25",
-          "cardkingdom": "1.28"
+          "tcgplayer": "1.23",
+          "cardmarket": "1.04",
+          "cardkingdom": "1.18"
         },
         "status": "OK",
         "spoiler": false,
@@ -9533,7 +7345,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 44,
+        "popularity": 43,
         "bracketTag": "S",
         "description": "If needed, give control of Vodalian Knights to an opponent who controls no Islands.\nWhen Vodalian Knights's controller controls no Islands, Vodalian Knights triggers, causing them to sacrifice it.\nHowever, Vodalian Knights cannot be sacrificed due to Assault Suit.\nVodalian Knights triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -9616,7 +7428,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.36",
-          "cardmarket": "0.21",
+          "cardmarket": "0.25",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -9657,7 +7469,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 42,
+        "popularity": 41,
         "bracketTag": "S",
         "description": "If needed, give control of Kukemssa Serpent to an opponent who controls no Islands.\nWhen Kukemssa Serpent's controller controls no Islands, Kukemssa Serpent triggers, causing them to sacrifice it.\nHowever, Kukemssa Serpent cannot be sacrificed due to Assault Suit.\nKukemssa Serpent triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -9740,7 +7552,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.32",
-          "cardmarket": "0.24",
+          "cardmarket": "0.25",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -9781,7 +7593,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 37,
+        "popularity": 35,
         "bracketTag": "S",
         "description": "If necessary, at the beginning of the upkeep of an opponent who controls no Swamps, Assault Suit triggers, causing that player to gain control of Bog Serpent and untap it.\nBog Serpent triggers, but cannot be sacrificed due to Assault Suit's ability.\nStep 2 repeats forever, resulting in a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -9789,130 +7601,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Assault Suit attached to Bog Serpent.\nA player controls no Swamps."
-      },
-      {
-        "id": "591-4447",
-        "of": [
-          {
-            "id": 9703
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 591,
-              "name": "Serendib Djinn",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "683e7135-de54-49c8-a978-4f84628a6a91",
-              "typeLine": "Creature — Djinn",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.png?1783941450",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4447,
-              "name": "Assault Suit",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "c3b6e114-7bc8-4890-97d9-edbeea1f425f",
-              "typeLine": "Artifact — Equipment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.png?1783915605",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "151.78",
-          "cardmarket": "142.33",
-          "cardkingdom": "160.58"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 9703
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 22,
-              "name": "Draw the game",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 35,
-        "bracketTag": "S",
-        "description": "If needed, give control of Serendib Djinn to an opponent who controls no lands.\nWhen Serendib Djinn's controller controls no lands, Serendib Djinn triggers, causing them to sacrifice it.\nHowever, Serendib Djinn cannot be sacrificed due to Assault Suit.\nSerendib Djinn triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Assault Suit attached to Serendib Djinn.\nA player controls no lands."
       },
       {
         "id": "527-5090",
@@ -9990,9 +7678,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.02",
-          "cardmarket": "3.57",
-          "cardkingdom": "6.34"
+          "tcgplayer": "4.75",
+          "cardmarket": "3.75",
+          "cardkingdom": "6.84"
         },
         "status": "OK",
         "spoiler": false,
@@ -10003,21 +7691,6 @@
           },
           {
             "id": 26311
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27473
           },
           {
             "id": 28137
@@ -10082,6 +7755,130 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Singing Bell Strike attached to Selvala.\nSelvala does not have summoning sickness.\nYou control a creature with a power of at least eight."
+      },
+      {
+        "id": "591-4447",
+        "of": [
+          {
+            "id": 9703
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 591,
+              "name": "Serendib Djinn",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "683e7135-de54-49c8-a978-4f84628a6a91",
+              "typeLine": "Creature — Djinn",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.png?1783941450",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/d/ed1409f0-f17b-4f5c-9cf7-8ed18143b7b8.jpg?1783941450"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 4447,
+              "name": "Assault Suit",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "c3b6e114-7bc8-4890-97d9-edbeea1f425f",
+              "typeLine": "Artifact — Equipment",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.png?1783915605",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/2/92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c.jpg?1783915605"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "151.78",
+          "cardmarket": "148.17",
+          "cardkingdom": "160.58"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "U",
+        "includes": [
+          {
+            "id": 9703
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 22,
+              "name": "Draw the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 34,
+        "bracketTag": "S",
+        "description": "If needed, give control of Serendib Djinn to an opponent who controls no lands.\nWhen Serendib Djinn's controller controls no lands, Serendib Djinn triggers, causing them to sacrifice it.\nHowever, Serendib Djinn cannot be sacrificed due to Assault Suit.\nSerendib Djinn triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Assault Suit attached to Serendib Djinn.\nA player controls no lands."
       },
       {
         "id": "2962-4447",
@@ -10156,8 +7953,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.71",
-          "cardmarket": "0.38",
+          "tcgplayer": "0.72",
+          "cardmarket": "0.39",
           "cardkingdom": "0.98"
         },
         "status": "OK",
@@ -10198,7 +7995,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 34,
+        "popularity": 33,
         "bracketTag": "S",
         "description": "If needed, give control of Pirate Ship to an opponent who controls no Islands.\nWhen Pirate Ship's controller controls no Islands, Pirate Ship triggers, causing them to sacrifice it.\nHowever, Pirate Ship cannot be sacrificed due to Assault Suit.\nPirate Ship triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -10280,9 +8077,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.37",
-          "cardmarket": "2.00",
-          "cardkingdom": "3.38"
+          "tcgplayer": "6.41",
+          "cardmarket": "2.11",
+          "cardkingdom": "3.08"
         },
         "status": "OK",
         "spoiler": false,
@@ -10322,7 +8119,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 31,
+        "popularity": 30,
         "bracketTag": "S",
         "description": "If needed, give control of Skeleton Ship to an opponent who controls no Islands.\nWhen Skeleton Ship's controller controls no Islands, Skeleton Ship triggers, causing them to sacrifice it.\nHowever, Skeleton Ship cannot be sacrificed due to Assault Suit.\nSkeleton Ship triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -10404,8 +8201,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.53",
-          "cardmarket": "0.31",
+          "tcgplayer": "0.52",
+          "cardmarket": "0.35",
           "cardkingdom": "1.38"
         },
         "status": "OK",
@@ -10446,7 +8243,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 30,
+        "popularity": 29,
         "bracketTag": "S",
         "description": "If needed, give control of Giant Shark to an opponent who controls no Islands.\nWhen Giant Shark's controller controls no Islands, Giant Shark triggers, causing them to sacrifice it.\nHowever, Giant Shark cannot be sacrificed due to Assault Suit.\nGiant Shark triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -10570,7 +8367,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 29,
+        "popularity": 28,
         "bracketTag": "S",
         "description": "If needed, give control of Sea Serpent to an opponent who controls no Islands.\nWhen Sea Serpent's controller controls no Islands, Sea Serpent triggers, causing them to sacrifice it.\nHowever, Sea Serpent cannot be sacrificed due to Assault Suit.\nSea Serpent triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -10653,8 +8450,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "44.00",
-          "cardmarket": "18.78",
-          "cardkingdom": "40.58"
+          "cardmarket": "17.94",
+          "cardkingdom": "38.58"
         },
         "status": "OK",
         "spoiler": false,
@@ -10694,7 +8491,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 29,
+        "popularity": 28,
         "bracketTag": "S",
         "description": "If needed, give control of Merchant Ship to an opponent who controls no Islands.\nWhen Merchant Ship's controller controls no Islands, Merchant Ship triggers, causing them to sacrifice it.\nHowever, Merchant Ship cannot be sacrificed due to Assault Suit.\nMerchant Ship triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -10776,8 +8573,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.52",
-          "cardmarket": "0.54",
+          "tcgplayer": "0.54",
+          "cardmarket": "0.60",
           "cardkingdom": "1.08"
         },
         "status": "OK",
@@ -10818,7 +8615,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 23,
+        "popularity": 22,
         "bracketTag": "S",
         "description": "If needed, give control of Island Fish Jasconius to an opponent who controls no Islands.\nWhen Island Fish Jasconius's controller controls no Islands, Island Fish Jasconius triggers, causing them to sacrifice it.\nHowever, Island Fish Jasconius cannot be sacrificed due to Assault Suit.\nIsland Fish Jasconius triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -10942,7 +8739,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 22,
+        "popularity": 21,
         "bracketTag": "S",
         "description": "If needed, give control of Slipstream Serpent to an opponent who controls no Islands.\nWhen Slipstream Serpent's controller controls no Islands, Slipstream Serpent triggers, causing them to sacrifice it.\nHowever, Slipstream Serpent cannot be sacrificed due to Assault Suit.\nSlipstream Serpent triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -11025,7 +8822,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.31",
-          "cardmarket": "0.22",
+          "cardmarket": "0.21",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -11066,7 +8863,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 21,
+        "popularity": 20,
         "bracketTag": "S",
         "description": "If needed, give control of Ronom Serpent to an opponent who controls no snow lands.\nWhen Ronom Serpent's controller controls no snow lands, Ronom Serpent triggers, causing them to sacrifice it.\nHowever, Ronom Serpent cannot be sacrificed due to Assault Suit.\nRonom Serpent triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -11149,7 +8946,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.31",
-          "cardmarket": "0.20",
+          "cardmarket": "0.19",
           "cardkingdom": "0.94"
         },
         "status": "OK",
@@ -11190,7 +8987,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 18,
+        "popularity": 17,
         "bracketTag": "S",
         "description": "If needed, give control of Barbarian Outcast to an opponent who controls no Swamps.\nWhen Barbarian Outcast's controller controls no Swamps, Barbarian Outcast triggers, causing them to sacrifice it.\nHowever, Barbarian Outcast cannot be sacrificed due to Assault Suit.\nBarbarian Outcast triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -11198,176 +8995,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Assault Suit attached to Barbarian Outcast.\nA player controls no Swamps."
-      },
-      {
-        "id": "1323-4762-7315",
-        "of": [
-          {
-            "id": 4910
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1323,
-              "name": "Experiment Kraj",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "93cfa771-067f-44ed-9e29-6caf698ee9aa",
-              "typeLine": "Legendary Creature — Ooze Mutant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/d/6d938197-2557-421a-985e-5add932d4bac.png?1783915616",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/d/6d938197-2557-421a-985e-5add932d4bac.jpg?1783915616",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/d/6d938197-2557-421a-985e-5add932d4bac.jpg?1783915616",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/d/6d938197-2557-421a-985e-5add932d4bac.jpg?1783915616",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/d/6d938197-2557-421a-985e-5add932d4bac.jpg?1783915616"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 7315,
-              "name": "High Score",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "d81fc181-ecb0-43a5-88e8-c61aca3428d8",
-              "typeLine": "Enchantment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9077ef5-d19a-4106-950b-bb49b3b37510.png?1783904165",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9077ef5-d19a-4106-950b-bb49b3b37510.jpg?1783904165",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9077ef5-d19a-4106-950b-bb49b3b37510.jpg?1783904165",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9077ef5-d19a-4106-950b-bb49b3b37510.jpg?1783904165",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9077ef5-d19a-4106-950b-bb49b3b37510.jpg?1783904165"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "2.51",
-          "cardmarket": "1.85",
-          "cardkingdom": "3.97"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GU",
-        "includes": [
-          {
-            "id": 26672
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 4910
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 115,
-              "name": "Infinite +1/+1 counters on creatures you control",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 18,
-        "bracketTag": "E",
-        "description": "Activate Experiment Kraj by tapping it, putting two +1/+1 counters onto Devoted Druid.\nActivate Experiment Kraj using Devoted Druid's last ability by putting a -1/-1 counter on itself, untapping it.\nActivate Experiment Kraj's own ability, putting two +1/+1 counters on itself.\nRemove the -1/-1 counter and one of the +1/+1 counters from Experiment Kraj as a state-based action.\nRepeat steps 2 through 4 any number of times, resulting in any number of +1/+1 counters on Experiment Kraj.\nActivate Experiment Kraj using Devoted Druid's last ability by putting a -1/-1 counter on itself, untapping it.\nActivate Experiment Kraj using Devoted Druid's first ability by tapping it, add {G}.\nRepeat steps 6 and 7 any number of times.\nYou may also activate Experiment Kraj's own ability any number of times instead of step 7, putting any number of +1/+1 counters onto creatures.",
-        "manaNeeded": "",
-        "variantCount": 14,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Experiment Kraj does not have summoning sickness."
       },
       {
         "id": "1280-4447",
@@ -11443,8 +9070,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.78",
-          "cardmarket": "0.97",
-          "cardkingdom": "1.38"
+          "cardmarket": "0.93",
+          "cardkingdom": "1.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -11484,7 +9111,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 17,
+        "popularity": 16,
         "bracketTag": "S",
         "description": "If needed, give control of Marjhan to an opponent who controls no Islands.\nWhen Marjhan's controller controls no Islands, Marjhan triggers, causing them to sacrifice it.\nHowever, Marjhan cannot be sacrificed due to Assault Suit.\nMarjhan triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -11566,8 +9193,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.33",
-          "cardmarket": "0.97",
+          "tcgplayer": "1.35",
+          "cardmarket": "1.08",
           "cardkingdom": "1.88"
         },
         "status": "OK",
@@ -11608,7 +9235,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 15,
+        "popularity": 14,
         "bracketTag": "S",
         "description": "If needed, give control of Tethered Griffin to an opponent who controls no enchantments.\nWhen Tethered Griffin's controller controls no enchantments, Tethered Griffin triggers, causing them to sacrifice it.\nHowever, Tethered Griffin cannot be sacrificed due to Assault Suit.\nTethered Griffin triggers again, creating a mandatory infinite loop that causes the game to end in a draw.",
         "manaNeeded": "",
@@ -11616,133 +9243,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Assault Suit attached to Tethered Griffin.\nA player controls no enchantments."
-      },
-      {
-        "id": "1410-4762",
-        "of": [
-          {
-            "id": 11803
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 4762,
-              "name": "Devoted Druid",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
-              "typeLine": "Creature — Elf Druid",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.png?1783904550",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/2/22589a81-3ea8-4e78-98c9-c015e7539cf9.jpg?1783904550"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 1410,
-              "name": "Captain Rex Nebula",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "984adc49-421b-488f-b316-ed7323c5735b",
-              "typeLine": "Legendary Creature — Human Pilot Employee",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/5/85e8bdd9-24a3-42f0-8b0c-dbc05be8fc20.png?1783920544",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/5/85e8bdd9-24a3-42f0-8b0c-dbc05be8fc20.jpg?1783920544",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/5/85e8bdd9-24a3-42f0-8b0c-dbc05be8fc20.jpg?1783920544",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/5/85e8bdd9-24a3-42f0-8b0c-dbc05be8fc20.jpg?1783920544",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/5/85e8bdd9-24a3-42f0-8b0c-dbc05be8fc20.jpg?1783920544"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "0.98",
-          "cardmarket": "0.76",
-          "cardkingdom": "1.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "RGW",
-        "includes": [
-          {
-            "id": 27473
-          },
-          {
-            "id": 11803
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 35,
-              "name": "Infinite green mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 8,
-        "bracketTag": "R",
-        "description": "At the beginning of combat, Captain Rex Nebula triggers, making Devoted Druid a Vehicle until end of turn.\nActivate Devoted Druid's first activated ability by tapping it, adding {G}.\nActivate Devoted Druid's second activated ability by putting a -1/-1 counter on it, untapping it.\nRepeat from step 2.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": ""
       },
       {
         "id": "5534--28",
@@ -11787,7 +9287,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.28",
-          "cardmarket": "4.30",
+          "cardmarket": "4.41",
           "cardkingdom": "5.99"
         },
         "status": "OK",
@@ -11824,8 +9324,8 @@
             "template": {
               "id": 28,
               "name": "Instant or Sorcery that untaps a Creature",
-              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+o%3A%22untap+%22+%28o%3Acreature+-o%3A%22nonlegendary+creature%22+or+o%3Apermanent+-o%3A%22noncreature+permanent%22%29+-o%3Adestroy%29+legal%3Acommander",
-              "scryfallQuery": "(t:instant or t:sorcery) o:\"untap \" (o:creature -o:\"nonlegendary creature\" or o:permanent -o:\"noncreature permanent\") -o:destroy"
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+otag%3Auntapper-creature%29+legal%3Acommander",
+              "scryfallQuery": "(t:instant or t:sorcery) otag:untapper-creature"
             },
             "zoneLocations": [
               "H"
@@ -11907,17 +9407,14 @@
         ],
         "notes": "Moritte can only be your commander if the sources from both templates fit within its commander identity.",
         "prices": {
-          "tcgplayer": "0.21",
-          "cardmarket": "0.08",
+          "tcgplayer": "0.22",
+          "cardmarket": "0.10",
           "cardkingdom": "0.35"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GU",
         "includes": [
-          {
-            "id": 31074
-          },
           {
             "id": 32385
           }

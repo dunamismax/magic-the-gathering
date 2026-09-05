@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "status": "applied",
+  "refreshed_on": "2026-09-05",
+  "source": "Moxfield public plain-text exports",
+  "notes": "Local source synchronization only; the baseline guard was enforced for every changed deck. No edits were sent to Moxfield.",
+  "decks": {
+    "aragorn-the-uniter": {
+      "before_sha256": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
+      "adds": [
+        {
+          "quantity": 1,
+          "name": "Balmor, Battlemage Captain"
+        },
+        {
+          "quantity": 1,
+          "name": "Cosmic Rebirth"
+        },
+        {
+          "quantity": 1,
+          "name": "Tocasia's Welcome"
+        },
+        {
+          "quantity": 1,
+          "name": "Winds of Abandon"
+        }
+      ],
+      "cuts": [
+        {
+          "quantity": 1,
+          "name": "Bard Class"
+        },
+        {
+          "quantity": 1,
+          "name": "Gold-Forged Thopteryx"
+        },
+        {
+          "quantity": 1,
+          "name": "Jhoira, Weatherlight Captain"
+        },
+        {
+          "quantity": 1,
+          "name": "Time Wipe"
+        }
+      ],
+      "after_sha256": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
+      "changed_quantity": 4
+    },
+    "blor-the-impervious": {
+      "before_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+      "adds": [
+        {
+          "quantity": 1,
+          "name": "Bala Ged Recovery"
+        },
+        {
+          "quantity": 1,
+          "name": "Bridgeworks Battle"
+        },
+        {
+          "quantity": 1,
+          "name": "Hammer of Nazahn"
+        },
+        {
+          "quantity": 1,
+          "name": "Krosan Grip"
+        }
+      ],
+      "cuts": [
+        {
+          "quantity": 1,
+          "name": "Blackblade Reforged"
+        },
+        {
+          "quantity": 1,
+          "name": "Devoted Druid"
+        },
+        {
+          "quantity": 1,
+          "name": "Epic Fight"
+        },
+        {
+          "quantity": 1,
+          "name": "Sawtusk Demolisher"
+        }
+      ],
+      "after_sha256": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
+      "changed_quantity": 4
+    },
+    "frodo-sam": {
+      "before_sha256": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
+      "adds": [],
+      "cuts": [],
+      "after_sha256": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
+      "changed_quantity": 0
+    },
+    "gandalf-party-guest": {
+      "before_sha256": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
+      "adds": [],
+      "cuts": [],
+      "after_sha256": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
+      "changed_quantity": 0
+    },
+    "henzie-toolbox-torre": {
+      "before_sha256": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
+      "adds": [],
+      "cuts": [],
+      "after_sha256": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
+      "changed_quantity": 0
+    },
+    "thorin-king-of-durins-folk": {
+      "before_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
+      "adds": [
+        {
+          "quantity": 1,
+          "name": "Ascend from Avernus"
+        },
+        {
+          "quantity": 1,
+          "name": "Chronicle of Victory"
+        },
+        {
+          "quantity": 1,
+          "name": "Mountain"
+        },
+        {
+          "quantity": 1,
+          "name": "Priest of Ancient Lore"
+        },
+        {
+          "quantity": 1,
+          "name": "Sevinne's Reclamation"
+        }
+      ],
+      "cuts": [
+        {
+          "quantity": 1,
+          "name": "Bruenor Battlehammer"
+        },
+        {
+          "quantity": 1,
+          "name": "Liquimetal Torque"
+        },
+        {
+          "quantity": 1,
+          "name": "Molten Echoes"
+        },
+        {
+          "quantity": 1,
+          "name": "Sundering Eruption"
+        },
+        {
+          "quantity": 1,
+          "name": "Warleader's Call"
+        }
+      ],
+      "after_sha256": "d5a578583ca70bf5348cda329e21a12d9d2039271ebaaab0afd510e35a402627",
+      "changed_quantity": 5
+    },
+    "minn-wily-illusionist": {
+      "before_sha256": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
+      "adds": [
+        {
+          "quantity": 1,
+          "name": "Abjure"
+        },
+        {
+          "quantity": 1,
+          "name": "Arcane Denial"
+        },
+        {
+          "quantity": 1,
+          "name": "Flare of Denial"
+        },
+        {
+          "quantity": 1,
+          "name": "Flow of Knowledge"
+        },
+        {
+          "quantity": 1,
+          "name": "Swan Song"
+        },
+        {
+          "quantity": 1,
+          "name": "Thirst for Discovery"
+        },
+        {
+          "quantity": 1,
+          "name": "Thirst for Knowledge"
+        }
+      ],
+      "cuts": [
+        {
+          "quantity": 1,
+          "name": "Fresh Start"
+        },
+        {
+          "quantity": 1,
+          "name": "Lat-Nam's Legacy"
+        },
+        {
+          "quantity": 1,
+          "name": "Minamo, School at Water's Edge"
+        },
+        {
+          "quantity": 1,
+          "name": "Phantasmal Abomination"
+        },
+        {
+          "quantity": 1,
+          "name": "Phantasmal Bear"
+        },
+        {
+          "quantity": 1,
+          "name": "Phantasmal Form"
+        },
+        {
+          "quantity": 1,
+          "name": "Wizard Class"
+        }
+      ],
+      "after_sha256": "46276865a242b46f71a022f8b39767afaffb5887eb627a9d2d529e2c0b76a9c8",
+      "changed_quantity": 7
+    },
+    "pantlaza-sun-favored": {
+      "before_sha256": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
+      "adds": [],
+      "cuts": [],
+      "after_sha256": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
+      "changed_quantity": 0
+    },
+    "queen-marchesa": {
+      "before_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
+      "adds": [
+        {
+          "quantity": 1,
+          "name": "Blood Crypt"
+        },
+        {
+          "quantity": 1,
+          "name": "Combat Calligrapher"
+        },
+        {
+          "quantity": 1,
+          "name": "Fighter Class"
+        },
+        {
+          "quantity": 1,
+          "name": "Galadriel's Dismissal"
+        },
+        {
+          "quantity": 1,
+          "name": "Godless Shrine"
+        },
+        {
+          "quantity": 1,
+          "name": "Kor Haven"
+        },
+        {
+          "quantity": 1,
+          "name": "Nils, Discipline Enforcer"
+        },
+        {
+          "quantity": 1,
+          "name": "Sacred Foundry"
+        },
+        {
+          "quantity": 1,
+          "name": "Tibalt's Trickery"
+        }
+      ],
+      "cuts": [
+        {
+          "quantity": 1,
+          "name": "Desolate Mire"
+        },
+        {
+          "quantity": 1,
+          "name": "Excise the Imperfect"
+        },
+        {
+          "quantity": 1,
+          "name": "Flumph"
+        },
+        {
+          "quantity": 1,
+          "name": "Nomad Outpost"
+        },
+        {
+          "quantity": 1,
+          "name": "Oft-Nabbed Goat"
+        },
+        {
+          "quantity": 1,
+          "name": "Rogue's Passage"
+        },
+        {
+          "quantity": 1,
+          "name": "Scheming Symmetry"
+        },
+        {
+          "quantity": 1,
+          "name": "Shadowblood Ridge"
+        },
+        {
+          "quantity": 1,
+          "name": "Sunscorched Divide"
+        }
+      ],
+      "after_sha256": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
+      "changed_quantity": 9
+    },
+    "the-notary-hobbits": {
+      "before_sha256": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de",
+      "adds": [
+        {
+          "quantity": 1,
+          "name": "Sylvan Library"
+        },
+        {
+          "quantity": 1,
+          "name": "Tamiyo's Safekeeping"
+        }
+      ],
+      "cuts": [
+        {
+          "quantity": 1,
+          "name": "Strionic Resonator"
+        },
+        {
+          "quantity": 1,
+          "name": "The Shire"
+        }
+      ],
+      "after_sha256": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f",
+      "changed_quantity": 2
+    }
+  }
+}

@@ -6,10 +6,12 @@ audits, dated external evidence, safe change tooling, and reusable review
 prompts.
 
 The current collection contains **10 decks**: nine labeled Bracket 3 and one
-posted Bracket 2* configuration. Every public list was downloaded on
-**2026-09-04**, including Gandalf's exact nine-card **Maximum Flavor** / **Maximum
+posted Bracket 2* configuration. Every public Commander list was downloaded on
+**2026-09-05**, including Gandalf's exact nine-card **Maximum Flavor** / **Maximum
 Power** configuration switch, and the full deterministic collection audit was
-regenerated that day.
+regenerated that day. Six decks received 31 card substitutions; the other four
+mains and Gandalf's sideboard were verified unchanged. This repository tracks
+Commander decks only.
 
 ## Start here
 

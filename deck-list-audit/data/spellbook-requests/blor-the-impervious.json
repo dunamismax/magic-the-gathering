@@ -17,6 +17,10 @@
       "quantity": 1
     },
     {
+      "card": "Bala Ged Recovery",
+      "quantity": 1
+    },
+    {
       "card": "Basilisk Collar",
       "quantity": 1
     },
@@ -33,10 +37,6 @@
       "quantity": 1
     },
     {
-      "card": "Blackblade Reforged",
-      "quantity": 1
-    },
-    {
       "card": "Bloodforged Battle-Axe",
       "quantity": 1
     },
@@ -50,6 +50,10 @@
     },
     {
       "card": "Brass Knuckles",
+      "quantity": 1
+    },
+    {
+      "card": "Bridgeworks Battle",
       "quantity": 1
     },
     {
@@ -81,15 +85,7 @@
       "quantity": 1
     },
     {
-      "card": "Devoted Druid",
-      "quantity": 1
-    },
-    {
       "card": "Elvish Mystic",
-      "quantity": 1
-    },
-    {
-      "card": "Epic Fight",
       "quantity": 1
     },
     {
@@ -121,6 +117,10 @@
       "quantity": 1
     },
     {
+      "card": "Hammer of Nazahn",
+      "quantity": 1
+    },
+    {
       "card": "High Score",
       "quantity": 1
     },
@@ -142,6 +142,10 @@
     },
     {
       "card": "Keen Sense",
+      "quantity": 1
+    },
+    {
+      "card": "Krosan Grip",
       "quantity": 1
     },
     {
@@ -202,10 +206,6 @@
     },
     {
       "card": "Sakura-Tribe Elder",
-      "quantity": 1
-    },
-    {
-      "card": "Sawtusk Demolisher",
       "quantity": 1
     },
     {

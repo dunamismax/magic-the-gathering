@@ -78,9 +78,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.00",
-          "cardmarket": "1.91",
-          "cardkingdom": "4.58"
+          "tcgplayer": "1.98",
+          "cardmarket": "2.01",
+          "cardkingdom": "4.18"
         },
         "status": "OK",
         "spoiler": false,
@@ -123,7 +123,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 3484,
+        "popularity": 3607,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Brash Taunter.\nBrash Taunter triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -208,9 +208,9 @@
         ],
         "notes": "This combo will also deal damage to you equal to 13 times the number of creatures you control. It is recommended that your life total is above this number to ensure you don't lose the game from the damage if your opponents will not take lethal damage from this combo.",
         "prices": {
-          "tcgplayer": "10.93",
-          "cardmarket": "6.88",
-          "cardkingdom": "15.78"
+          "tcgplayer": "10.98",
+          "cardmarket": "7.02",
+          "cardkingdom": "16.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -250,7 +250,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 37641,
+        "popularity": 37908,
         "bracketTag": "C",
         "description": "Cast Blasphemous Act by paying at most {8}{R}, dealing 13 damage to each creature.\nRepercussion triggers for each creature dealt damage this way.\nResolve the first Repercussion trigger, dealing 13 damage to an opponent.\nRepeat step 3 for each Repercussion trigger, ensuring to resolve all triggers that would damage your opponent(s) first.",
         "manaNeeded": "{8}{R} at most",
@@ -332,8 +332,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.41",
-          "cardmarket": "2.87",
+          "tcgplayer": "4.79",
+          "cardmarket": "2.95",
           "cardkingdom": "7.78"
         },
         "status": "OK",
@@ -374,7 +374,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 21622,
+        "popularity": 21723,
         "bracketTag": "P",
         "description": "Cast Blasphemous Act by paying at most {7}{R}, dealing 13 damage to each creature.\nEach creature an opponent controls who was dealt dealt excess damage this way causes Toralf to trigger.\nResolve the first Toralf trigger, dealing an amount of damage to an opponent.\nRepeat step 3 for each remaining trigger.",
         "manaNeeded": "{7}{R} at most",
@@ -456,9 +456,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.13",
-          "cardmarket": "1.32",
-          "cardkingdom": "2.58"
+          "tcgplayer": "1.19",
+          "cardmarket": "1.38",
+          "cardkingdom": "2.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -507,7 +507,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 13464,
+        "popularity": 13601,
         "bracketTag": "O",
         "description": "Cast Blasphemous Act by paying at most {7}{R}, dealing 13 damage to each creature.\nFor each creature opponents control that is dealt excess damage, Fall of Cair Andros triggers, creating a 0/0 Army if you dont control one, and putting a number of +1/+1 counters on an Army you control equal to the excess damage.",
         "manaNeeded": "{7}{R} (at most)",
@@ -589,9 +589,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.00",
-          "cardmarket": "4.42",
-          "cardkingdom": "8.98"
+          "tcgplayer": "5.04",
+          "cardmarket": "4.51",
+          "cardkingdom": "9.08"
         },
         "status": "OK",
         "spoiler": false,
@@ -640,7 +640,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 13436,
+        "popularity": 13507,
         "bracketTag": "S",
         "description": "Give Boros Reckoner lifelink.\nCast Boros Charm by paying {R}{W}, giving permanents you control indestructible until end of turn.\nDeal damage to Boros Reckoner.\nBoros Reckoner triggers, dealing that much damage to itself and causing you to gain that much life.\nRepeat step 4 any number of times.",
         "manaNeeded": "{R}{W}",
@@ -722,9 +722,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.89",
-          "cardmarket": "0.82",
-          "cardkingdom": "1.98"
+          "tcgplayer": "0.90",
+          "cardmarket": "0.93",
+          "cardkingdom": "2.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -764,7 +764,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 11576,
+        "popularity": 11722,
         "bracketTag": "E",
         "description": "Cast any instant or sorcery by paying its mana cost.\nHolding priority, activate Pyromancer's Goggles by tapping it, adding {R}.\nCast Return the Favor by paying its mana cost, choosing its first mode, targeting the instant or sorcery cast in step 1.\nPyromancer's Goggles triggers, copying Return the Favor, with the copy targeting the original Return the Favor.\nResolve the copy of Return the Favor, creating a copy of Return the Favor targeting the original Return the Favor.\nRepeat step 5.",
         "manaNeeded": "{1}{R} plus enough mana to cast the additional instant or sorcery",
@@ -846,9 +846,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "11.60",
-          "cardmarket": "4.51",
-          "cardkingdom": "15.98"
+          "tcgplayer": "12.00",
+          "cardmarket": "5.46",
+          "cardkingdom": "15.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -891,7 +891,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 5870,
+        "popularity": 6033,
         "bracketTag": "E",
         "description": "Declare any creature as an attacker. Dawnsire triggers, dealing 100 damage to  Brash Taunter.\nBrash Taunter triggers, dealing 100 damage to target opponent.",
         "manaNeeded": "",
@@ -899,139 +899,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "You control a creature that can attack this turn.",
         "notablePrerequisites": "Dawnsire has ten or more charge counters on it."
-      },
-      {
-        "id": "1694-3011",
-        "of": [
-          {
-            "id": 8463
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1694,
-              "name": "Gisela, Blade of Goldnight",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5",
-              "typeLine": "Legendary Creature — Angel",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.png?1783912978",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3011,
-              "name": "Heartless Hidetsugu",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "b68e965a-96f4-447a-99be-35dbd27846e9",
-              "typeLine": "Legendary Creature — Ogre Shaman",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.png?1783915651",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "7.95",
-          "cardmarket": "1.89",
-          "cardkingdom": "10.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "RW",
-        "includes": [
-          {
-            "id": 8463
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 50,
-              "name": "Each opponent loses the game",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1,
-              "name": "Near-infinite damage",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 4348,
-        "bracketTag": "S",
-        "description": "Activate Heartless Hidetsugu by tapping it, causing it to deal damage to each opponent equal to their life total, and causing it to deal damage to you equal to a quarter of your life total.\nEach opponent loses the game due to having zero or less life.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Heartless Hidetsugu does not have summoning sickness.\nAll opponents have even life totals."
       },
       {
         "id": "2484-7502",
@@ -1106,8 +973,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.02",
-          "cardmarket": "1.48",
+          "tcgplayer": "1.10",
+          "cardmarket": "1.53",
           "cardkingdom": "2.78"
         },
         "status": "OK",
@@ -1157,7 +1024,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 4323,
+        "popularity": 4407,
         "bracketTag": "O",
         "description": "Cast Blasphemous Act by paying at most {7}{R}, dealing 13 damage to each creature.\nExpedited Inheritance triggers for each creature dealt damage.\nResolve the first trigger, allowing the creature's controller to exile 13 cards from the top of their library with the ability until the end of their next turn\nRepeat step 3 as needed for any remaining triggers.",
         "manaNeeded": "{7}{R} at most",
@@ -1165,6 +1032,139 @@
         "manaValueNeeded": 8,
         "easyPrerequisites": "There's a creature on the battlefield.",
         "notablePrerequisites": ""
+      },
+      {
+        "id": "1694-3011",
+        "of": [
+          {
+            "id": 8463
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 1694,
+              "name": "Gisela, Blade of Goldnight",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "66f9f325-5e8e-4ebf-b5b3-c6410d80f2c5",
+              "typeLine": "Legendary Creature — Angel",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.png?1783912978",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/0/900b8908-ba51-472e-ab7a-43bd07f90577.jpg?1783912978"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 3011,
+              "name": "Heartless Hidetsugu",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "b68e965a-96f4-447a-99be-35dbd27846e9",
+              "typeLine": "Legendary Creature — Ogre Shaman",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.png?1783915651",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/b/7b3ff07c-9653-4197-ad3d-638e712e8465.jpg?1783915651"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "8.16",
+          "cardmarket": "1.85",
+          "cardkingdom": "9.98"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "RW",
+        "includes": [
+          {
+            "id": 8463
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 50,
+              "name": "Each opponent loses the game",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 1,
+              "name": "Near-infinite damage",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": false,
+          "predh": false,
+          "legacy": true,
+          "modern": true,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": false,
+          "pauperCommanderMain": false
+        },
+        "popularity": 4382,
+        "bracketTag": "S",
+        "description": "Activate Heartless Hidetsugu by tapping it, causing it to deal damage to each opponent equal to their life total, and causing it to deal damage to you equal to a quarter of your life total.\nEach opponent loses the game due to having zero or less life.",
+        "manaNeeded": "",
+        "variantCount": 1,
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "Heartless Hidetsugu does not have summoning sickness.\nAll opponents have even life totals."
       },
       {
         "id": "220-5166--86",
@@ -1239,9 +1239,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "3.35",
-          "cardmarket": "1.84",
-          "cardkingdom": "5.28"
+          "tcgplayer": "3.31",
+          "cardmarket": "1.90",
+          "cardkingdom": "4.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -1303,7 +1303,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 4176,
+        "popularity": 4208,
         "bracketTag": "E",
         "description": "Cause Brash Taunter to take damage by any method.\nBrash Taunter triggers, dealing damage to an opponent.\nGuilty Conscience triggers, dealing damage to Brash Taunter.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -1385,8 +1385,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "3.81",
-          "cardmarket": "1.25",
+          "tcgplayer": "3.60",
+          "cardmarket": "1.22",
           "cardkingdom": "4.58"
         },
         "status": "OK",
@@ -1427,7 +1427,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3948,
+        "popularity": 3971,
         "bracketTag": "S",
         "description": "Cast Arcbond by paying {2}{R}, targeting the indestructible creature with Pariah attached.\nDeal damage to the indestructible creature.\nThe creature triggers, dealing that much damage to each other creature and each player, with the damage that would be dealt to you instead being dealt to the indestructible creature due to Pariah.\nRepeat step 3.",
         "manaNeeded": "{2}{R}",
@@ -1509,9 +1509,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.44",
-          "cardmarket": "1.82",
-          "cardkingdom": "9.28"
+          "tcgplayer": "5.38",
+          "cardmarket": "1.83",
+          "cardkingdom": "8.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -1551,7 +1551,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3852,
+        "popularity": 3897,
         "bracketTag": "S",
         "description": "Cast Arcbond by paying {2}{R}, targeting the indestructible creature with Pariah's Shield attached.\nDeal damage to the indestructible creature.\nThe creature triggers, dealing that much damage to each other creature and each player, with the damage that would be dealt to you instead being dealt to the indestructible creature due to Pariah's Shield.\nRepeat step 3.",
         "manaNeeded": "{2}{R}",
@@ -1633,9 +1633,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "19.72",
-          "cardmarket": "15.88",
-          "cardkingdom": "33.98"
+          "tcgplayer": "20.62",
+          "cardmarket": "15.30",
+          "cardkingdom": "33.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -1684,7 +1684,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 3679,
+        "popularity": 3701,
         "bracketTag": "S",
         "description": "Give Brash Taunter lifelink.\nActivate Aetherflux Reservoir by paying fifty life, dealing fifty damage to Brash Taunter.\nBrash Taunter triggers, dealing fifty damage to an opponent and causing you to gain fifty life.\nRepeat from step 2.",
         "manaNeeded": "",
@@ -1766,9 +1766,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.56",
-          "cardmarket": "7.47",
-          "cardkingdom": "10.58"
+          "tcgplayer": "6.63",
+          "cardmarket": "7.73",
+          "cardkingdom": "11.68"
         },
         "status": "OK",
         "spoiler": false,
@@ -1811,7 +1811,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1112,
+        "popularity": 1160,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Screaming Nemesis.\nScreaming Nemesis triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -1893,9 +1893,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.21",
-          "cardmarket": "3.35",
-          "cardkingdom": "6.58"
+          "tcgplayer": "5.96",
+          "cardmarket": "2.93",
+          "cardkingdom": "7.18"
         },
         "status": "OK",
         "spoiler": false,
@@ -1903,9 +1903,6 @@
         "includes": [
           {
             "id": 30624
-          },
-          {
-            "id": 30630
           },
           {
             "id": 33252
@@ -1941,7 +1938,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1009,
+        "popularity": 1065,
         "bracketTag": "R",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Stuffy Doll.\nStuffy Doll triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -2023,8 +2020,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.08",
-          "cardmarket": "0.91",
+          "tcgplayer": "1.84",
+          "cardmarket": "0.89",
           "cardkingdom": "2.98"
         },
         "status": "OK",
@@ -2065,7 +2062,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 996,
+        "popularity": 1044,
         "bracketTag": "S",
         "description": "Cast Arcbond by paying {2}{R}, targeting the indestructible creature.\nCast Martyrdom by paying {1}{W}{W}, targeting the indestructible creature.\nDeal damage to the indestructible creature.\nArcbond triggers, holding priority, activate the indestructible creature an arbitrarily large number of times by paying {0}, redirecting all damage done this turn to the indestructible creature.\nResolve the Arcbond trigger, dealing damage to the indestructible creature.\nRepeat from step 4 an arbitrarily large number of times.\nActivate the indestructible creature an arbitrarily large number of times by paying {0}, redirecting all damage done to you and creatures you control to the indestructible creature.\nResolve the final Arcbond trigger, dealing infinite damage to all opponent and all creatures your opponent control.",
         "manaNeeded": "{3}{R}{W}{W}",
@@ -2147,9 +2144,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.64",
-          "cardmarket": "5.24",
-          "cardkingdom": "11.58"
+          "tcgplayer": "7.24",
+          "cardmarket": "5.21",
+          "cardkingdom": "11.68"
         },
         "status": "OK",
         "spoiler": false,
@@ -2192,7 +2189,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 868,
+        "popularity": 921,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Wrathful Red Dragon.\nWrathful Red Dragon triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -2274,7 +2271,7 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.43",
+          "tcgplayer": "2.21",
           "cardmarket": "0.65",
           "cardkingdom": "3.08"
         },
@@ -2316,7 +2313,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 850,
+        "popularity": 868,
         "bracketTag": "S",
         "description": "Cast Arcbond by paying {2}{R}, targeting the indestructible creature with With Great Power... attached.\nDeal damage to the indestructible creature.\nThe creature triggers, dealing that much damage to each other creature and each player, with the damage that would be dealt to you instead being dealt to the indestructible creature due to With Great Power....\nRepeat step 3.",
         "manaNeeded": "{2}{R}",
@@ -2429,9 +2426,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.34",
-          "cardmarket": "5.35",
-          "cardkingdom": "10.77"
+          "tcgplayer": "5.44",
+          "cardmarket": "5.43",
+          "cardkingdom": "9.77"
         },
         "status": "OK",
         "spoiler": false,
@@ -2471,7 +2468,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 847,
+        "popularity": 845,
         "bracketTag": "E",
         "description": "Activate Tree of Perdition, exchanging target opponent's life total with Tree of Perdition's toughness.\nCast Blasphemous Act, dealing thirteen damage to all creatures.\nBrash Taunter triggers, dealing thirteen damage to target opponent.",
         "manaNeeded": "",
@@ -2479,169 +2476,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "Tree of Perdition does not have summoning sickness.\nYou have enough mana available to cast Blasphemous Act."
-      },
-      {
-        "id": "2677-3862",
-        "of": [
-          {
-            "id": 19837
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 3862,
-              "name": "Orcish Bowmasters",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "ea5103f5-27e0-4eb1-902c-7f34652d6bf3",
-              "typeLine": "Creature — Orc Archer",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.png?1783916299",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2677,
-              "name": "Flumph",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "bc328acc-8521-4581-88c3-99a7cb2c1cdb",
-              "typeLine": "Creature — Jellyfish",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.png?1783926532",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "48.24",
-          "cardmarket": "34.44",
-          "cardkingdom": "61.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WB",
-        "includes": [
-          {
-            "id": 26876
-          },
-          {
-            "id": 19837
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 24,
-              "name": "Infinite card draw",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 61,
-              "name": "Infinite draw triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 2288,
-              "name": "Near-infinite +1/+1 counters on certain creatures",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 333,
-              "name": "Near-infinite card draw for target opponent",
-              "status": "S",
-              "uncountable": false
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 332,
-              "name": "Near-infinite draw triggers for target opponent",
-              "status": "H",
-              "uncountable": false
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 738,
-        "bracketTag": "S",
-        "description": "Give Flumph indestructible, if needed.\nDeal damage to Flumph.\nFlumph triggers, causing you and an opponent to draw a card.\nOrcish Bowmasters triggers, dealing 1 damage to Flumph and causing you to amass Orcs 1.\nRepeat from step 3.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You have a way to give Flumph indestructible.\nYou have a way to deal damage to Flumph."
       },
       {
         "id": "518-3111",
@@ -2716,8 +2550,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.23",
-          "cardmarket": "1.90",
+          "tcgplayer": "4.22",
+          "cardmarket": "2.05",
           "cardkingdom": "7.28"
         },
         "status": "OK",
@@ -2758,7 +2592,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 608,
+        "popularity": 615,
         "bracketTag": "S",
         "description": "Give Protector of the Crown indestructible, if needed.\nCast Arcbond by paying {2}{R}, targeting Protector of the Crown.\nDeal damage to Protector of the Crown.\nArcbond triggers, dealing damage to each creature and player equal to the damage dealt to Protector of the Crown, with the damage that would be dealt to you being dealt to Protector of the Crown instead.\nRepeat from step 4.",
         "manaNeeded": "{2}{R}",
@@ -2840,9 +2674,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.73",
-          "cardmarket": "1.00",
-          "cardkingdom": "1.08"
+          "tcgplayer": "0.71",
+          "cardmarket": "0.97",
+          "cardkingdom": "1.18"
         },
         "status": "OK",
         "spoiler": false,
@@ -2973,8 +2807,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "7.79",
-          "cardmarket": "8.03",
+          "tcgplayer": "8.37",
+          "cardmarket": "7.96",
           "cardkingdom": "11.48"
         },
         "status": "OK",
@@ -3015,7 +2849,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 347,
+        "popularity": 351,
         "bracketTag": "O",
         "description": "Cast Selfless Squire by paying {3}{W}.\nWhen Selfless Squire enters the battlefield, its first ability triggers, preventing all damage that would be dealt to you this turn.\nCast Wheel of Misfortune by paying {2}{R}, selecting an arbitrarily large number, and dealing that much damage to you if you chose the largest number, which is prevented due to Selfless Squire.\nSelfless Squire's second ability triggers, putting a number of +1/+1 counters on it equal to the damage prevented.\nIf you didn't choose the largest number, Wheel of Misfortune deals damage equal to that number to each opponent who chose that number.",
         "manaNeeded": "{5}{R}{W}",
@@ -3097,9 +2931,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.66",
-          "cardmarket": "0.99",
-          "cardkingdom": "1.08"
+          "tcgplayer": "0.63",
+          "cardmarket": "0.95",
+          "cardkingdom": "1.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -3142,7 +2976,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 257,
+        "popularity": 296,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Boros Reckoner.\nBoros Reckoner triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -3224,9 +3058,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.71",
-          "cardmarket": "1.18",
-          "cardkingdom": "0.98"
+          "tcgplayer": "0.68",
+          "cardmarket": "1.10",
+          "cardkingdom": "1.08"
         },
         "status": "OK",
         "spoiler": false,
@@ -3269,7 +3103,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 223,
+        "popularity": 261,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Mogg Maniac.\nMogg Maniac triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -3351,9 +3185,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.78",
+          "tcgplayer": "0.75",
           "cardmarket": "1.30",
-          "cardkingdom": "1.58"
+          "cardkingdom": "1.68"
         },
         "status": "OK",
         "spoiler": false,
@@ -3396,7 +3230,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 203,
+        "popularity": 237,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Ill-Tempered Loner // Howlpack Avenger.\nIll-Tempered Loner // Howlpack Avenger triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -3478,9 +3312,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.43",
-          "cardmarket": "1.80",
-          "cardkingdom": "3.58"
+          "tcgplayer": "2.40",
+          "cardmarket": "1.90",
+          "cardkingdom": "4.18"
         },
         "status": "OK",
         "spoiler": false,
@@ -3529,7 +3363,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 182,
+        "popularity": 221,
         "bracketTag": "R",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Spiteful Sliver.\nSpiteful Sliver triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -3611,8 +3445,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.72",
-          "cardmarket": "1.24",
+          "tcgplayer": "0.69",
+          "cardmarket": "1.19",
           "cardkingdom": "1.28"
         },
         "status": "OK",
@@ -3656,7 +3490,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 171,
+        "popularity": 208,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Spitemare.\nSpitemare triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -3738,9 +3572,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.81",
-          "cardmarket": "1.03",
-          "cardkingdom": "1.28"
+          "tcgplayer": "0.77",
+          "cardmarket": "1.00",
+          "cardkingdom": "1.38"
         },
         "status": "OK",
         "spoiler": false,
@@ -3783,7 +3617,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 167,
+        "popularity": 206,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Donna Noble.\nDonna Noble triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
@@ -3865,9 +3699,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.77",
-          "cardmarket": "5.28",
-          "cardkingdom": "8.58"
+          "tcgplayer": "5.14",
+          "cardmarket": "5.45",
+          "cardkingdom": "8.68"
         },
         "status": "OK",
         "spoiler": false,
@@ -3910,9 +3744,142 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 151,
+        "popularity": 185,
         "bracketTag": "E",
         "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Wrathful Raptors.\nWrathful Raptors triggers, dealing that much damage to the opponent.",
+        "manaNeeded": "{1}{B}{R}",
+        "variantCount": 13,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "You have more life than an opponent.",
+        "notablePrerequisites": ""
+      },
+      {
+        "id": "1203-1330",
+        "of": [
+          {
+            "id": 33252
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 1203,
+              "name": "Fire Covenant",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "025939a0-424a-41bf-8fc9-2ef9ea5485f7",
+              "typeLine": "Instant",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.png?1783911521",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "H"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          },
+          {
+            "card": {
+              "id": 1330,
+              "name": "Truefire Captain",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "3677e743-8d3d-4ec7-8bfe-21e36979a79b",
+              "typeLine": "Creature — Human Knight",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.png?1783913271",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": ""
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "0.57",
+          "cardmarket": "0.80",
+          "cardkingdom": "1.04"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "RWB",
+        "includes": [
+          {
+            "id": 30624
+          },
+          {
+            "id": 30625
+          },
+          {
+            "id": 30630
+          },
+          {
+            "id": 33252
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 2415,
+              "name": "Near-infinite damage to target player",
+              "status": "S",
+              "uncountable": false
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 147,
+        "bracketTag": "R",
+        "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Truefire Captain.\nTruefire Captain triggers, dealing that much damage to the opponent.",
         "manaNeeded": "{1}{B}{R}",
         "variantCount": 13,
         "manaValueNeeded": 3,
@@ -3992,8 +3959,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.01",
-          "cardmarket": "0.88",
+          "tcgplayer": "1.76",
+          "cardmarket": "0.89",
           "cardkingdom": "2.78"
         },
         "status": "OK",
@@ -4042,139 +4009,6 @@
         "manaValueNeeded": 5,
         "easyPrerequisites": "",
         "notablePrerequisites": "You have a way to give Palisade Giant indestructible.\nYou have a way to deal damage to yourself or a permanent you control."
-      },
-      {
-        "id": "1203-1330",
-        "of": [
-          {
-            "id": 33252
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1203,
-              "name": "Fire Covenant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "025939a0-424a-41bf-8fc9-2ef9ea5485f7",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.png?1783911521",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 1330,
-              "name": "Truefire Captain",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "3677e743-8d3d-4ec7-8bfe-21e36979a79b",
-              "typeLine": "Creature — Human Knight",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.png?1783913271",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/e/d/eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d.jpg?1783913271"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "0.58",
-          "cardmarket": "0.83",
-          "cardkingdom": "0.94"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "RWB",
-        "includes": [
-          {
-            "id": 30624
-          },
-          {
-            "id": 30625
-          },
-          {
-            "id": 30630
-          },
-          {
-            "id": 33252
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 2415,
-              "name": "Near-infinite damage to target player",
-              "status": "S",
-              "uncountable": false
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 112,
-        "bracketTag": "R",
-        "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Truefire Captain.\nTruefire Captain triggers, dealing that much damage to the opponent.",
-        "manaNeeded": "{1}{B}{R}",
-        "variantCount": 13,
-        "manaValueNeeded": 3,
-        "easyPrerequisites": "You have more life than an opponent.",
-        "notablePrerequisites": ""
       },
       {
         "id": "4169-5109",
@@ -4249,9 +4083,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.70",
-          "cardmarket": "1.54",
-          "cardkingdom": "5.28"
+          "tcgplayer": "1.67",
+          "cardmarket": "1.57",
+          "cardkingdom": "4.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -4291,7 +4125,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 87,
+        "popularity": 89,
         "bracketTag": "P",
         "description": "Cast Volcano Hellion by paying {2}{R}{R}.\nWhen Volcano Hellion enters the battlefield, it triggers.\nHolding priority, activate Vault of the Archangel's second ability by paying {2}{W}{B} and tapping it, giving creatures you control deathtouch and lifelink until end of turn.\nResolve the Volcano Hellion trigger, dealing an arbitrarily large amount of damage to you and Volcano Hellion, and causing you to gain twice that much life due to Volcano Hellion's lifelink.",
         "manaNeeded": "{4}{R}{R}{W}{B}",
@@ -4301,37 +4135,37 @@
         "notablePrerequisites": ""
       },
       {
-        "id": "602-2677",
+        "id": "1203-7872",
         "of": [
           {
-            "id": 17826
+            "id": 33252
           }
         ],
         "uses": [
           {
             "card": {
-              "id": 602,
-              "name": "Feast of Sanity",
+              "id": 1203,
+              "name": "Fire Covenant",
               "faces": 1,
               "spoiler": false,
-              "oracleId": "af384946-e22a-45cd-ba07-1a5fbd4a3f0c",
-              "typeLine": "Enchantment",
+              "oracleId": "025939a0-424a-41bf-8fc9-2ef9ea5485f7",
+              "typeLine": "Instant",
               "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/f/9f71309d-1b62-461d-b939-87f2932937a7.png?1783926861",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.png?1783911521",
               "imageUriBackLarge": null,
               "imageUriBackSmall": null,
               "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/f/9f71309d-1b62-461d-b939-87f2932937a7.jpg?1783926861",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/f/9f71309d-1b62-461d-b939-87f2932937a7.jpg?1783926861",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
               "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/f/9f71309d-1b62-461d-b939-87f2932937a7.jpg?1783926861",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
               "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/f/9f71309d-1b62-461d-b939-87f2932937a7.jpg?1783926861"
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521"
             },
             "quantity": 1,
             "usedFace": null,
             "zoneLocations": [
-              "B"
+              "H"
             ],
             "exileCardState": "",
             "mustBeCommander": false,
@@ -4341,23 +4175,23 @@
           },
           {
             "card": {
-              "id": 2677,
-              "name": "Flumph",
+              "id": 7872,
+              "name": "Black Panther, Most Dangerous",
               "faces": 1,
               "spoiler": false,
-              "oracleId": "bc328acc-8521-4581-88c3-99a7cb2c1cdb",
-              "typeLine": "Creature — Jellyfish",
+              "oracleId": "7ba593fd-93db-452f-ad80-7f0f37afb09d",
+              "typeLine": "Legendary Creature — Human Warrior Hero",
               "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.png?1783926532",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.png?1783903088",
               "imageUriBackLarge": null,
               "imageUriBackSmall": null,
               "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088",
               "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088",
               "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.jpg?1783926532"
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088"
             },
             "quantity": 1,
             "usedFace": null,
@@ -4373,92 +4207,38 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "3.16",
-          "cardmarket": "1.96",
-          "cardkingdom": "4.78"
+          "tcgplayer": "0.65",
+          "cardmarket": "1.36",
+          "cardkingdom": "1.18"
         },
         "status": "OK",
         "spoiler": false,
-        "identity": "WB",
+        "identity": "RWB",
         "includes": [
           {
-            "id": 26878
+            "id": 30626
           },
           {
-            "id": 17826
+            "id": 33252
           }
         ],
         "produces": [
           {
             "feature": {
-              "id": 61,
-              "name": "Infinite draw triggers",
+              "id": 1206,
+              "name": "Near-infinite damage to one opponent",
               "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 62,
-              "name": "Infinite looting",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 36,
-              "name": "Infinite self-discard triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 837,
-              "name": "Near-infinite card draw for each opponent",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 838,
-              "name": "Near-infinite draw triggers for each opponent",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 46,
-              "name": "Near-infinite lifegain",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 59,
-              "name": "Near-infinite lifegain triggers",
-              "status": "C",
-              "uncountable": true
+              "uncountable": false
             },
             "quantity": 1
           }
         ],
         "requires": [],
         "legalities": {
-          "brawl": false,
+          "brawl": true,
           "predh": false,
           "legacy": true,
-          "modern": true,
+          "modern": false,
           "pauper": false,
           "alchemy": false,
           "pioneer": false,
@@ -4469,17 +4249,17 @@
           "oathbreaker": true,
           "standardBrawl": false,
           "pauperCommander": false,
-          "competitiveBrawl": false,
+          "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 27,
-        "bracketTag": "S",
-        "description": "Proceed to your cleanup step, causing you to discard down to your maximum hand size and remove all damage from all permanents.\nFeast of Sanity triggers for each card discarded this way.\nResolve the first trigger, dealing 1 damage to Flumph and causing you to gain one life.\nFlumph triggers, causing you and an opponent to draw a card.\nRepeat from step 3 as necessary for each remaining trigger.\nOnce all triggers have been resolved, and all players pass priority, another cleanup step will occur, causing you to discard down to your maximum hand size and remove all damage from all permanents.\nRepeat from step 2.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You have between eight and ten cards in your hand."
+        "popularity": 52,
+        "bracketTag": "E",
+        "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Black Panther.\nBlack Panther triggers, dealing that much damage to the opponent.",
+        "manaNeeded": "{1}{B}{R}",
+        "variantCount": 13,
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "You have more life than an opponent.",
+        "notablePrerequisites": ""
       },
       {
         "id": "518-5940-6191",
@@ -4585,9 +4365,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "35.51",
-          "cardmarket": "27.34",
-          "cardkingdom": "48.27"
+          "tcgplayer": "35.61",
+          "cardmarket": "26.96",
+          "cardkingdom": "48.57"
         },
         "status": "OK",
         "spoiler": false,
@@ -4645,7 +4425,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 21,
+        "popularity": 22,
         "bracketTag": "E",
         "description": "Cast Arcbond by paying {2}{R}, targeting Bloodthirsty Conqueror.\nHolding priority, cast Return the Favor by paying its mana cost, copying Arcbond, with the copy targeting another indestructible creature you control.\nResolve both Arcbonds.\nDeal damage to Bloodthirsty Conqueror.\nArbond triggers, dealing that much damage to each player and each other creature.\nBloodthirsty Conqueror triggers for each opponent dealt damage, and Arcbond triggers due to the other indestructible creature being dealt damage.\nResolve all Bloodthirsty Conqueror triggers, causing you to gain life.\nResolve the Arcbond trigger, dealing that much damage to each player and each other creature.\nBloodthirsty Conqueror triggers for each opponent dealt damage, and Arcbond triggers due to Bloodthirsty Conqueror being dealt damage.\nResolve all Bloodthirsty Conqueror triggers, causing you to gain life.\nResolve the Arcbond trigger, dealing that much damage to each player and each other creature.\nRepeat form step 6.",
         "manaNeeded": "{3}{R}{R}{R}",
@@ -4653,133 +4433,6 @@
         "manaValueNeeded": 6,
         "easyPrerequisites": "",
         "notablePrerequisites": "Bloodthirsty Conqueror has indestructible.\nYou control another indestructible creature.\nYou have a way to deal damage to Bloodthirsty Conqueror."
-      },
-      {
-        "id": "1203-7872",
-        "of": [
-          {
-            "id": 33252
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1203,
-              "name": "Fire Covenant",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "025939a0-424a-41bf-8fc9-2ef9ea5485f7",
-              "typeLine": "Instant",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.png?1783911521",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 7872,
-              "name": "Black Panther, Most Dangerous",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "7ba593fd-93db-452f-ad80-7f0f37afb09d",
-              "typeLine": "Legendary Creature — Human Warrior Hero",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.png?1783903088",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/1/a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f.jpg?1783903088"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "0.72",
-          "cardmarket": "1.36",
-          "cardkingdom": "1.08"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "RWB",
-        "includes": [
-          {
-            "id": 30626
-          },
-          {
-            "id": 33252
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 1206,
-              "name": "Near-infinite damage to one opponent",
-              "status": "H",
-              "uncountable": false
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 14,
-        "bracketTag": "E",
-        "description": "Cast Fire Covenant by {1}{B}{R} and paying an amount of life equal to an opponent's life total, dealing that much damage to Black Panther.\nBlack Panther triggers, dealing that much damage to the opponent.",
-        "manaNeeded": "{1}{B}{R}",
-        "variantCount": 13,
-        "manaValueNeeded": 3,
-        "easyPrerequisites": "You have more life than an opponent.",
-        "notablePrerequisites": ""
       }
     ],
     "almostIncludedByAddingColors": [
@@ -4856,17 +4509,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "6.70",
-          "cardmarket": "4.83",
-          "cardkingdom": "11.78"
+          "tcgplayer": "6.50",
+          "cardmarket": "4.87",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 26516
           }
@@ -4928,7 +4578,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 343432,
+        "popularity": 345692,
         "bracketTag": "E",
         "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
         "manaNeeded": "",
@@ -5010,17 +4660,14 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.90",
-          "cardmarket": "2.02",
-          "cardkingdom": "5.08"
+          "tcgplayer": "2.82",
+          "cardmarket": "2.00",
+          "cardkingdom": "5.28"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "U",
         "includes": [
-          {
-            "id": 26301
-          },
           {
             "id": 29370
           },
@@ -5067,7 +4714,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 36493,
+        "popularity": 36667,
         "bracketTag": "S",
         "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{1}",
@@ -5149,9 +4796,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "2.92",
-          "cardmarket": "1.69",
-          "cardkingdom": "4.48"
+          "tcgplayer": "2.93",
+          "cardmarket": "1.78",
+          "cardkingdom": "4.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -5191,7 +4838,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 12425,
+        "popularity": 12653,
         "bracketTag": "E",
         "description": "Cast any instant or sorcery by paying its mana cost.\nHolding priority, cast Return the Favor by paying {R}{R} plus an additional {1} to choose its first mode, targeting the instant or sorcery cast in step 1.\nCast Narset's Reversal by paying {U}{U}, copying Return the Favor targeting the spell cast in step 1 and returning the original Return the Favor to your hand.\nCast Return the Favor by paying its mana cost, copying the copy of Return the Favor, targeting the copy of Return the Favor.\nResolve the copy of Return the Favor, creating a copy of Return the Favor targeting the copy of Return the Favor.\nRepeat step 5.",
         "manaNeeded": "{1}{U}{U}{R}{R} plus enough mana to cast the additional instant or sorcery",
@@ -5273,9 +4920,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "4.89",
-          "cardmarket": "3.02",
-          "cardkingdom": "8.28"
+          "tcgplayer": "5.62",
+          "cardmarket": "3.51",
+          "cardkingdom": "8.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -5315,7 +4962,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 10609,
+        "popularity": 10723,
         "bracketTag": "R",
         "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nCast Swords to Plowshares by paying {W}, exiling Jumbo Cactuar and causing you to gain 10,000 life.",
         "manaNeeded": "{W}",
@@ -5397,9 +5044,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.81",
-          "cardmarket": "0.41",
-          "cardkingdom": "1.58"
+          "tcgplayer": "0.86",
+          "cardmarket": "0.43",
+          "cardkingdom": "1.88"
         },
         "status": "OK",
         "spoiler": false,
@@ -5439,7 +5086,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 6248,
+        "popularity": 6312,
         "bracketTag": "E",
         "description": "Cast the additional sorcery by paying its mana cost.\nAlania triggers; choose not to have an opponent draw a card.\nHolding priority, cast Return the Favor by paying {1}{R}{R}, targeting the additional sorcery.\nAlania triggers, causing an opponent to draw a card and you to copy Return the Favor, with the copy targeting the original Return the Favor.\nResolve the copy of Return the Favor, copying the original Return the Favor, with the copy targeting the original Return the Favor.\nRepeat step 5.",
         "manaNeeded": "{1}{R}{R} plus enough mana to cast the additional sorcery",
@@ -5521,9 +5168,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.12",
-          "cardmarket": "3.41",
-          "cardkingdom": "4.98"
+          "tcgplayer": "5.07",
+          "cardmarket": "3.44",
+          "cardkingdom": "5.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -5563,7 +5210,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 6093,
+        "popularity": 6277,
         "bracketTag": "E",
         "description": "Cast any other instant or sorcery by paying its mana cost.\nHolding priority, cast Return the Favor by paying its mana cost, targeting the instant or sorcery cast in step 1.\nReturn the Favor's storm ability triggers, creating at least one copy of Return the Favor targeting the original Return the Favor.\nResolve a copy of Return the Favor, copying Return the Favor targeting the original Return the Favor.\nRepeat step 4.",
         "manaNeeded": "{1}{R}{R}",
@@ -5645,8 +5292,8 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.11",
-          "cardmarket": "1.63",
+          "tcgplayer": "1.20",
+          "cardmarket": "1.59",
           "cardkingdom": "2.78"
         },
         "status": "OK",
@@ -5696,7 +5343,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2116,
+        "popularity": 2125,
         "bracketTag": "P",
         "description": "Cast Blasphemous Act by paying at most {7}{R}, dealing 13 damage to each creature and causing you to gain life equal to the damage dealt this way due to Soulfire Grand Master.",
         "manaNeeded": "{7}{R} at most",
@@ -5778,9 +5425,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "1.17",
+          "tcgplayer": "1.22",
           "cardmarket": "0.37",
-          "cardkingdom": "1.98"
+          "cardkingdom": "2.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -5829,7 +5476,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1656,
+        "popularity": 1682,
         "bracketTag": "O",
         "description": "Cast any sorcery by paying its mana cost.\nHolding priority, cast Return the Favor by paying its mana cost.\nKalamax's first and second abilities trigger.\nResolve the first ability, creating a copy of Return the Favor and choosing to copy the original Return the Favor.\nResolve the second ability, putting a +1/+1 counter on Kalamax.\nResolve the Return the Favor copy, creating a copy of Return the Favor.\nKalamax's second ability triggers, putting a +1/+1 counter on itself.\nRepeat from step 6 any number of times.",
         "manaNeeded": "{1}{R}{R} plus the cost of the additional sorcery",
@@ -5911,9 +5558,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "52.19",
-          "cardmarket": "32.45",
-          "cardkingdom": "57.98"
+          "tcgplayer": "52.03",
+          "cardmarket": "31.70",
+          "cardkingdom": "55.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -5995,7 +5642,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1422,
+        "popularity": 1467,
         "bracketTag": "R",
         "description": "Activate Loran of the Third Path by tapping it, causing you and an opponent to draw a card.\nActivate Mind Over Matter by discarding a card, untapping Loran of the Third Path.\nRepeat.",
         "manaNeeded": "",
@@ -6077,9 +5724,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.76",
-          "cardmarket": "0.49",
-          "cardkingdom": "1.48"
+          "tcgplayer": "0.82",
+          "cardmarket": "0.51",
+          "cardkingdom": "1.78"
         },
         "status": "OK",
         "spoiler": false,
@@ -6119,7 +5766,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1036,
+        "popularity": 1057,
         "bracketTag": "E",
         "description": "Cast the additional instant or sorcery by paying its mana cost.\nIf Adaptive Training Post had two charge counters on it, it triggers, putting a charge counter on it.\nHolding priority, activate Adaptive Training Post by removing three charge counters from it, copying the next instant or sorcery spell you cast this turn.\nCast Return the Favor by paying its mana cost, targeting the spell cast in step 1.\nAdaptive Training Post triggers, copying Return the Favor, with the copy targeting the original Return the Favor.\nResolve the copy of Return the Favor, copying the original Return the Favor, with the copy targeting the original Return the Favor.\nRepeat step 5.",
         "manaNeeded": "",
@@ -6201,9 +5848,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "5.38",
-          "cardmarket": "3.61",
-          "cardkingdom": "7.28"
+          "tcgplayer": "5.08",
+          "cardmarket": "3.94",
+          "cardkingdom": "8.28"
         },
         "status": "OK",
         "spoiler": false,
@@ -6243,7 +5890,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 54,
+        "popularity": 55,
         "bracketTag": "S",
         "description": "Give Ancient Adamantoise indestructible by any method.\nCast Arcbond by paying {2}{R}, targeting Ancient Adamantoise\nDeal damage to yourself or a permanent you control, with that damage being redirected to Ancient Adamantoise\nArcbond triggers, dealing damage equal to the damage dealt to Ancient Adamantoise to each other creature and each player, with all damage that would be dealt to you and creatures you control being dealt to Ancient Adamantoise instead.\nRepeat from step 4.",
         "manaNeeded": "{2}{R}{R}{W}",
@@ -6325,9 +5972,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "21.92",
-          "cardmarket": "13.40",
-          "cardkingdom": "32.98"
+          "tcgplayer": "22.40",
+          "cardmarket": "14.39",
+          "cardkingdom": "33.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -6338,9 +5985,21 @@
           },
           {
             "id": 32034
+          },
+          {
+            "id": 33946
           }
         ],
         "produces": [
+          {
+            "feature": {
+              "id": 2618,
+              "name": "Mass Land Denial",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
           {
             "feature": {
               "id": 254,
@@ -6431,7 +6090,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.28",
-          "cardmarket": "4.30",
+          "cardmarket": "4.41",
           "cardkingdom": "5.99"
         },
         "status": "OK",
@@ -6468,8 +6127,8 @@
             "template": {
               "id": 28,
               "name": "Instant or Sorcery that untaps a Creature",
-              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+o%3A%22untap+%22+%28o%3Acreature+-o%3A%22nonlegendary+creature%22+or+o%3Apermanent+-o%3A%22noncreature+permanent%22%29+-o%3Adestroy%29+legal%3Acommander",
-              "scryfallQuery": "(t:instant or t:sorcery) o:\"untap \" (o:creature -o:\"nonlegendary creature\" or o:permanent -o:\"noncreature permanent\") -o:destroy"
+              "scryfallApi": "https://api.scryfall.com/cards/search?q=%28%28t%3Ainstant+or+t%3Asorcery%29+otag%3Auntapper-creature%29+legal%3Acommander",
+              "scryfallQuery": "(t:instant or t:sorcery) otag:untapper-creature"
             },
             "zoneLocations": [
               "H"
@@ -6551,17 +6210,14 @@
         ],
         "notes": "Moritte can only be your commander if the sources from both templates fit within its commander identity.",
         "prices": {
-          "tcgplayer": "0.21",
-          "cardmarket": "0.08",
+          "tcgplayer": "0.22",
+          "cardmarket": "0.10",
           "cardkingdom": "0.35"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GU",
         "includes": [
-          {
-            "id": 31074
-          },
           {
             "id": 32385
           }
@@ -6734,9 +6390,9 @@
         ],
         "notes": "",
         "prices": {
-          "tcgplayer": "0.74",
-          "cardmarket": "0.89",
-          "cardkingdom": "1.58"
+          "tcgplayer": "0.71",
+          "cardmarket": "0.86",
+          "cardkingdom": "1.68"
         },
         "status": "OK",
         "spoiler": false,
@@ -6776,7 +6432,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 749,
+        "popularity": 756,
         "bracketTag": "S",
         "description": "Cast Fire Covenant by paying {1}{B}{R} and 16 life, dealing 16 damage divided among any number of creatures and causing Greven to become a 21/21 until end of turn due to its first ability.\nDeal combat damage to an opponent using Greven.\nThe opponent loses the game due to being dealt 21 combat damage from your commander.",
         "manaNeeded": "{1}{B}{R}",

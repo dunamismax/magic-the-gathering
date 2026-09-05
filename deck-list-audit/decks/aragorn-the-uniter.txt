@@ -3,8 +3,8 @@
 1 Aragorn, King of Gondor
 1 Arcane Signet
 1 Arid Mesa
+1 Balmor, Battlemage Captain
 1 Bant Charm
-1 Bard Class
 1 Birds of Paradise
 1 Bloom Tender
 1 Boros Charm
@@ -18,6 +18,7 @@
 1 Coiling Oracle
 1 Cold-Eyed Selkie
 1 Command Tower
+1 Cosmic Rebirth
 1 Decisive Denial
 1 Delighted Halfling
 1 Dovin's Veto
@@ -36,7 +37,6 @@
 1 Frostcliff Siege
 1 Galadriel, Light of Valinor
 1 General Ferrous Rokiric
-1 Gold-Forged Thopteryx
 1 Growth Spiral
 1 Guided Passage
 1 Hallowed Fountain
@@ -46,7 +46,6 @@
 1 Jeskai Ascendancy
 1 Jetmir, Nexus of Revels
 1 Jetmir's Garden
-1 Jhoira, Weatherlight Captain
 1 Katilda, Dawnhart Prime
 1 Ketria Triome
 1 Kutzil, Malamet Exemplar
@@ -88,13 +87,14 @@
 1 Temur Ascendancy
 1 Third Path Iconoclast
 1 Three Visits
-1 Time Wipe
 1 Titanic Ultimatum
+1 Tocasia's Welcome
 1 Trace of Abundance
 1 Training Center
 1 Warleader's Call
 1 Wear/Tear
 1 Whirlwind of Thought
+1 Winds of Abandon
 1 Windswept Heath
 1 Wooded Foothills
 1 Aragorn, the Uniter

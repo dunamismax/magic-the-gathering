@@ -25,6 +25,10 @@
       "quantity": 1
     },
     {
+      "card": "Blood Crypt",
+      "quantity": 1
+    },
+    {
       "card": "Boros Charm",
       "quantity": 1
     },
@@ -42,6 +46,10 @@
     },
     {
       "card": "Caves of Koilos",
+      "quantity": 1
+    },
+    {
+      "card": "Combat Calligrapher",
       "quantity": 1
     },
     {
@@ -77,19 +85,11 @@
       "quantity": 1
     },
     {
-      "card": "Desolate Mire",
-      "quantity": 1
-    },
-    {
       "card": "Disrupt Decorum",
       "quantity": 1
     },
     {
       "card": "Duelist's Heritage",
-      "quantity": 1
-    },
-    {
-      "card": "Excise the Imperfect",
       "quantity": 1
     },
     {
@@ -109,15 +109,19 @@
       "quantity": 1
     },
     {
+      "card": "Fighter Class",
+      "quantity": 1
+    },
+    {
       "card": "Fire Covenant",
       "quantity": 1
     },
     {
-      "card": "Flumph",
+      "card": "Forbidden Orchard",
       "quantity": 1
     },
     {
-      "card": "Forbidden Orchard",
+      "card": "Galadriel's Dismissal",
       "quantity": 1
     },
     {
@@ -134,6 +138,10 @@
     },
     {
       "card": "Gisela, Blade of Goldnight",
+      "quantity": 1
+    },
+    {
+      "card": "Godless Shrine",
       "quantity": 1
     },
     {
@@ -162,6 +170,10 @@
     },
     {
       "card": "Kardur, Doomscourge",
+      "quantity": 1
+    },
+    {
+      "card": "Kor Haven",
       "quantity": 1
     },
     {
@@ -205,11 +217,7 @@
       "quantity": 1
     },
     {
-      "card": "Nomad Outpost",
-      "quantity": 1
-    },
-    {
-      "card": "Oft-Nabbed Goat",
+      "card": "Nils, Discipline Enforcer",
       "quantity": 1
     },
     {
@@ -253,23 +261,15 @@
       "quantity": 1
     },
     {
-      "card": "Rogue's Passage",
-      "quantity": 1
-    },
-    {
       "card": "Rugged Prairie",
       "quantity": 1
     },
     {
-      "card": "Scheming Symmetry",
+      "card": "Sacred Foundry",
       "quantity": 1
     },
     {
       "card": "Selfless Squire",
-      "quantity": 1
-    },
-    {
-      "card": "Shadowblood Ridge",
       "quantity": 1
     },
     {
@@ -305,10 +305,6 @@
       "quantity": 1
     },
     {
-      "card": "Sunscorched Divide",
-      "quantity": 1
-    },
-    {
       "card": "Swamp",
       "quantity": 3
     },
@@ -338,6 +334,10 @@
     },
     {
       "card": "Tempt with Bunnies",
+      "quantity": 1
+    },
+    {
+      "card": "Tibalt's Trickery",
       "quantity": 1
     },
     {

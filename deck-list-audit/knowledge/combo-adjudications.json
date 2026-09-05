@@ -1,28 +1,29 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-09-04",
+  "reviewed_on": "2026-09-05",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
-  "archive": null,
-  "notes": "All ten exact current main decks have full-list Commander Spellbook scans plus manual prerequisite review. Thorin, Henzie, and Frodo & Sam were refreshed and reviewed on 2026-09-04; Gandalf's separate nine-card sideboard configuration remains manually preserved and reviewed.",
+  "archive": "data/spellbook-results/archive/2026-09-05-superseded/combo-adjudications.json",
+  "notes": "Six changed exact main lists were rescanned and manually reviewed on 2026-09-05. The four unchanged mains and Gandalf’s nine-card configuration switch retain hash-matching reviewed evidence with their original dates. Database omissions and manual screening do not prove combo completeness.",
   "decks": [
     {
       "deck": "aragorn-the-uniter",
-      "deck_sha256": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
+      "deck_sha256": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
       "status": "reviewed",
-      "reviewed_on": "2026-09-01",
+      "reviewed_on": "2026-09-05",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Annie Joins Up and Roaming Throne can multiply Aragorn triggers, and Jeskai Ascendancy repeatedly untaps Bloom Tender, Faeburrow Elder, and the other mana creatures. Manual review found no repeatable spell, buyback engine, or creature recast loop to turn those engines into a deterministic cycle; all current multicolor-spell and token sequences are finite.",
+      "summary": "The 2026-09-05 exact-list scan returned no included combo. Balmor adds finite instant/sorcery combat scaling, Tocasia's Welcome triggers only once each turn, and Cosmic Rebirth is a one-shot recursion spell. Jeskai Ascendancy and mana creatures still lack a repeatable spell or bounce engine; the nearby buyback, Freed from the Real, and Intruder Alarm templates have missing named cards.",
       "lines": []
     },
     {
       "deck": "blor-the-impervious",
-      "deck_sha256": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+      "deck_sha256": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
       "status": "reviewed",
-      "reviewed_on": "2026-08-30",
+      "reviewed_on": "2026-09-05",
       "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Manual review found no loop among Selvala, Devoted Druid, Pip-Boy 3000, Bear Umbra, or the Equipment-copy package; the deck's sharp finishes remain finite commander-damage attacks.",
-      "lines": []
+      "summary": "The 2026-09-05 exact-list scan returned no included combo. Devoted Druid has left the deck. Bala Ged Recovery and Bridgeworks Battle add two spell/land MDFCs, while Hammer of Nazahn and Krosan Grip add protection and interaction. Selvala, Bear Umbra, Pip-Boy 3000, Shifting Woodland, and the Equipment-copy package still lack a repeatable untap or extra-combat loop; the Hammer/Apex Altisaur candidate lacks Apex Altisaur.",
+      "lines": [],
+      "review_basis": "commander-spellbook-and-manual-prerequisite-review"
     },
     {
       "deck": "frodo-sam",
@@ -84,12 +85,12 @@
     },
     {
       "deck": "minn-wily-illusionist",
-      "deck_sha256": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
+      "deck_sha256": "46276865a242b46f71a022f8b39767afaffb5887eb627a9d2d529e2c0b76a9c8",
       "status": "reviewed",
-      "reviewed_on": "2026-09-04",
+      "reviewed_on": "2026-09-05",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The refreshed exact-list scan returned no included combo. Living Lies of Loki, Lyla, Holographic Assistant, and Monument to Endurance add Illusion, draw, counter, and discard value, but none returns a sacrificed Illusion or creates an unrestricted draw/sacrifice cycle with Minn's once-per-turn second-draw trigger.",
+      "summary": "The 2026-09-05 exact-list scan returned no included combo. Abjure and Flare of Denial provide one-shot sacrifice costs; Flare requires a nontoken blue creature and cannot sacrifice an Illusion token. Flow of Knowledge and the two Thirst spells improve finite instant-speed draw/discard. Manual review of Minn, Illusion copies, the Altars, Blasting Station, and draw engines found no unrestricted return-and-sacrifice cycle. The nearby Meloku, Fool's Demise, persist/undying, and Lyla templates remain incomplete. Teferi, Master of Time can take two consecutive extra turns via its ultimate, which remains a separate pregame disclosure.",
       "lines": []
     },
     {
@@ -140,11 +141,11 @@
     },
     {
       "deck": "queen-marchesa",
-      "deck_sha256": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
+      "deck_sha256": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
       "status": "reviewed",
-      "reviewed_on": "2026-08-30",
+      "reviewed_on": "2026-09-05",
       "spellbook_included_candidates": 1,
-      "summary": "Commander Spellbook returned the finite Fire Covenant and Brash Taunter kill. Manual review also found a real but expensive five-card Arcbond loop: copy Arcbond onto Selfless Squire, make both it and Brash Taunter indestructible, then have Brash fight the Squire. The two delayed triggers feed each other while the Squire prevents damage to you.",
+      "summary": "The 2026-09-05 exact-list scan again returned the finite Fire Covenant and Brash Taunter kill. Fighter Class improves Sunforger access, while Galadriel's Dismissal, Tibalt's Trickery, Nils, and Combat Calligrapher add finite interaction or combat incentives. The five-card Arcbond loop remains present: copy Arcbond onto Brash Taunter and Selfless Squire, resolve the Squire's enter trigger that turn, make both indestructible, then have Brash fight the Squire. No new complete loop was identified among the changed cards.",
       "lines": [
         {
           "id": "220-1203",
@@ -168,30 +169,31 @@
           ],
           "status": "confirmed-conditional",
           "classification": "five-card-unbounded-damage-loop",
-          "reason": "Copy Arcbond so Brash Taunter and Selfless Squire each have its delayed trigger, give both indestructible, and activate Brash Taunter to fight the Squire. Each Arcbond trigger damages the other creature and creates the next trigger; Selfless Squire prevents the damage to you while opponents take every iteration.",
+          "reason": "Resolve Selfless Squire's enter trigger this turn to prevent damage to you. Copy Arcbond so Brash Taunter and the Squire each have its delayed trigger, give both indestructible with Boros Charm, and activate Brash Taunter to fight the Squire while it can tap. Each Arcbond trigger damages the other creature and creates the next trigger; the prevention effect protects you while opponents take each iteration.",
           "disclosure_required": true,
           "source": "manual-oracle-and-rules-prerequisite-review"
         }
-      ]
+      ],
+      "review_basis": "commander-spellbook-and-manual-prerequisite-review"
     },
     {
       "deck": "the-notary-hobbits",
-      "deck_sha256": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de",
+      "deck_sha256": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f",
       "status": "reviewed",
-      "reviewed_on": "2026-09-04",
+      "reviewed_on": "2026-09-05",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Haste can turn the original Notary and its two token copies into nine mana, while Parallel Lives, Panharmonicon, Strionic Resonator, Maskwood Nexus, and changelings scale that output. The list has only finite untaps and token multipliers, so manual review found no deterministic loop.",
+      "summary": "The 2026-09-05 exact-list scan returned no included combo. Sylvan Library and Tamiyo's Safekeeping replace Strionic Resonator and The Shire, adding selection and protection without a repeatable untap or creature-recast engine. The Notary's two token copies, Parallel Lives, Panharmonicon, Maskwood Nexus, and haste still generate large finite mana bursts. Nearby Staff of Domination, Umbral Mantle, Sword of the Paruns, Food Chain, and Temur Sabertooth lines have missing named pieces.",
       "lines": []
     },
     {
       "deck": "thorin-king-of-durins-folk",
-      "deck_sha256": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
+      "deck_sha256": "d5a578583ca70bf5348cda329e21a12d9d2039271ebaaab0afd510e35a402627",
       "status": "reviewed",
-      "reviewed_on": "2026-09-04",
+      "reviewed_on": "2026-09-05",
       "review_basis": "commander-spellbook-and-manual-prerequisite-review",
       "spellbook_included_candidates": 0,
-      "summary": "The exact-list scan returned no included combo. Thorin, Bifur, Panharmonicon, Anointed Procession, Cadric, Molten Echoes, Fíli, and the other Dwarf payoffs multiply enter-the-battlefield triggers, temporary legendary copies, creature tokens, and Treasures only a finite number of times. Magda can tutor artifacts and The Reaver Cleaver can fund explosive attacks, but the list omits the repeatable untap or extra-combat pieces required by the closest Spellbook templates.",
+      "summary": "The 2026-09-05 exact-list scan returned no included combo. Molten Echoes has left the deck. Chronicle of Victory adds cast-based draw and combat pressure; Priest of Ancient Lore adds a Dwarf enter trigger; Ascend from Avernus and Sevinne's Reclamation add finite recovery and exile after their relevant graveyard use. Thorin, Bifur, Panharmonicon, Anointed Procession, Cadric, and Fíli still multiply triggers, tokens, and Treasures finitely. The closest Reaver Cleaver, Magda, and Thorin, Company's Leader loops lack Aggravated Assault, Hellkite Charger, or a repeatable untap engine.",
       "lines": []
     }
   ]

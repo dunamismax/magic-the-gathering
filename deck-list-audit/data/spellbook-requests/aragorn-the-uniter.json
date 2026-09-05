@@ -21,11 +21,11 @@
       "quantity": 1
     },
     {
-      "card": "Bant Charm",
+      "card": "Balmor, Battlemage Captain",
       "quantity": 1
     },
     {
-      "card": "Bard Class",
+      "card": "Bant Charm",
       "quantity": 1
     },
     {
@@ -78,6 +78,10 @@
     },
     {
       "card": "Command Tower",
+      "quantity": 1
+    },
+    {
+      "card": "Cosmic Rebirth",
       "quantity": 1
     },
     {
@@ -153,10 +157,6 @@
       "quantity": 1
     },
     {
-      "card": "Gold-Forged Thopteryx",
-      "quantity": 1
-    },
-    {
       "card": "Growth Spiral",
       "quantity": 1
     },
@@ -190,10 +190,6 @@
     },
     {
       "card": "Jetmir's Garden",
-      "quantity": 1
-    },
-    {
-      "card": "Jhoira, Weatherlight Captain",
       "quantity": 1
     },
     {
@@ -361,11 +357,11 @@
       "quantity": 1
     },
     {
-      "card": "Time Wipe",
+      "card": "Titanic Ultimatum",
       "quantity": 1
     },
     {
-      "card": "Titanic Ultimatum",
+      "card": "Tocasia's Welcome",
       "quantity": 1
     },
     {
@@ -386,6 +382,10 @@
     },
     {
       "card": "Whirlwind of Thought",
+      "quantity": 1
+    },
+    {
+      "card": "Winds of Abandon",
       "quantity": 1
     },
     {

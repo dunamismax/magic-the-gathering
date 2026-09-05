@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "archived_on": "2026-09-05",
+  "notes": "Superseded exact-list scans. Each original result is stored here as its basename plus .gz; decompress before comparing its original manifest SHA-256. These scans do not describe the revised decks.",
+  "decks": {
+    "aragorn-the-uniter": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-01",
+      "request_sha256": "9330c135d627210db97ee21f96f7fece77798498904f55d064d473b7d8cf2f74",
+      "estimate_file": "data/spellbook-results/aragorn-the-uniter-estimate.json",
+      "estimate_sha256": "ec947e0d55a870800877cf380965ba37de4e6595c868fde4259d3be75c49a184",
+      "combos_file": "data/spellbook-results/aragorn-the-uniter-combos.json",
+      "combos_sha256": "5d151aba7c845ac18c6ca8adea21e7a3848466148c8eaff03eb72a8dfefb1132"
+    },
+    "blor-the-impervious": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "8c9c0c9657b7911cdc4d5bc76100dc43817240ca51880772b70e71ec0789afd1",
+      "estimate_file": "data/spellbook-results/blor-the-impervious-estimate.json",
+      "estimate_sha256": "8a091e2e46caa4678c7c09cb1add03aff5d5b7693f868529c466fb55c3c9fb37",
+      "combos_file": "data/spellbook-results/blor-the-impervious-combos.json",
+      "combos_sha256": "3f68b46eea641005ee0b45dd3f34393332f7c716d91adf9367bae118178a3856"
+    },
+    "thorin-king-of-durins-folk": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "1359db7390385aaacd73819b8c161ca907bd48f74051c082a3d6ed57aa092cf4",
+      "estimate_file": "data/spellbook-results/thorin-king-of-durins-folk-estimate.json",
+      "estimate_sha256": "fe2f748f9c1053920ca995ae048b4b7154787efd3287a4f188411811afe330b1",
+      "combos_file": "data/spellbook-results/thorin-king-of-durins-folk-combos.json",
+      "combos_sha256": "902f2a91aedf9e9e500eea630907baa808b6ebf105212902c075755da1c0887f"
+    },
+    "minn-wily-illusionist": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "1cdbaa39edece93d105ed76c2ff4fc5f8c8c871160ec320760e518b03288a6df",
+      "estimate_file": "data/spellbook-results/minn-wily-illusionist-estimate.json",
+      "estimate_sha256": "fbbb9902764f5116bdfe79751fac49476e861a46cedc31c3c2efe2b7af527daa",
+      "combos_file": "data/spellbook-results/minn-wily-illusionist-combos.json",
+      "combos_sha256": "eaee98c64d0f5940a24248c2c764cf7b47b3f52435ac6ca8ce126a80d7570973"
+    },
+    "queen-marchesa": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-08-30",
+      "request_sha256": "cbc62f85249637bbdb0583b4c845015128e61838df6e9edf1ce0659e63ed1844",
+      "estimate_file": "data/spellbook-results/queen-marchesa-estimate.json",
+      "estimate_sha256": "30ed4cd68b7748f402007512d438072bea2193d1f7a374be82f0c1f47f3432b0",
+      "combos_file": "data/spellbook-results/queen-marchesa-combos.json",
+      "combos_sha256": "f0b1310168b6a7f2678214fcc4207928b041dadf7bc1e6b4f95e65a9a3a69728"
+    },
+    "the-notary-hobbits": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-04",
+      "request_sha256": "566c8f1faa3a6604a79f8a25afd9ba9cfcb79009bc8fd2522cd95d75c36a5ceb",
+      "estimate_file": "data/spellbook-results/the-notary-hobbits-estimate.json",
+      "estimate_sha256": "e14f53ca154dd44d47c7a7323195b121b51f715595e74b51bf3c63ebbfd709fe",
+      "combos_file": "data/spellbook-results/the-notary-hobbits-combos.json",
+      "combos_sha256": "f4760bbdbd0c1b290351755d1c77df8b0ab267c1d245998be61eb4450f006b84"
+    }
+  }
+}

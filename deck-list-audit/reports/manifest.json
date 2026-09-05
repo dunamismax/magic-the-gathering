@@ -1,20 +1,22 @@
 {
   "schema_version": 1,
   "status": "reviewed-current-snapshot",
-  "audit_date": "2026-09-04",
-  "report_file": "reports/commander-social-audit-2026-09-04.md",
-  "report_sha256": "afb022c6c97ff53ca9d8556c30b5023304db1e5953d57c01c93003c593cc8e5f",
+  "audit_date": "2026-09-05",
+  "report_file": "reports/commander-social-audit-2026-09-05.md",
+  "report_sha256": "09a6878301711b492150f93f59c5cf1fb47c5badd87d55612db0185e40cf6462",
   "deck_sha256": {
-    "aragorn-the-uniter": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
-    "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+    "aragorn-the-uniter": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
+    "blor-the-impervious": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
     "frodo-sam": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
     "gandalf-party-guest": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
     "henzie-toolbox-torre": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
-    "thorin-king-of-durins-folk": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
-    "minn-wily-illusionist": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
+    "thorin-king-of-durins-folk": "d5a578583ca70bf5348cda329e21a12d9d2039271ebaaab0afd510e35a402627",
+    "minn-wily-illusionist": "46276865a242b46f71a022f8b39767afaffb5887eb627a9d2d529e2c0b76a9c8",
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
-    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
-    "the-notary-hobbits": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de"
+    "queen-marchesa": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
+    "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f"
   },
-  "notes": "Current 10-deck report based on the complete 2026-09-04 public roster, current Oracle and official Commander policy checks, hash-current Commander Spellbook evidence, and manual exact-list prerequisite review. Thorin was added, the retired deck record was removed, and newer Henzie and Frodo & Sam exports were synchronized."
+  "notes": "All 10 public Commander lists were re-downloaded on 2026-09-05. The six changed lists received fresh full-list Spellbook scans and manual prerequisite review; four unchanged lists retain their original hash-matching evidence dates. Social and bracket judgments were reviewed against the current 100-card lists. Canadian Highlander decks are excluded at the owner’s request.",
+  "companion_report_file": "reports/commander-bracket-power-evaluation-2026-09-05.md",
+  "companion_report_sha256": "8548cc22fb465dae31afa3eb2cdc8987f5fa8af8737f3cb6d749c95e479d367e"
 }

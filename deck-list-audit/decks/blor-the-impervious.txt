@@ -2,15 +2,16 @@
 1 Arbor Elf
 1 Archdruid's Charm
 1 Assault Suit
+1 Bala Ged Recovery
 1 Basilisk Collar
 1 Bear Umbra
 1 Beast Within
 1 Berserk
-1 Blackblade Reforged
 1 Bloodforged Battle-Axe
 1 Bone Sabres
 1 Boseiju, Who Endures
 1 Brass Knuckles
+1 Bridgeworks Battle
 1 Buried Ruin
 1 Buster Sword
 1 Cavern of Souls
@@ -18,9 +19,7 @@
 1 Conqueror's Flail
 1 Creeping Renaissance
 1 Delighted Halfling
-1 Devoted Druid
 1 Elvish Mystic
-1 Epic Fight
 1 Eternal Witness
 1 Excalibur, Sword of Eden
 1 Fanatic of Rhonas
@@ -28,12 +27,14 @@
 1 Fyndhorn Elves
 1 Gemrazer
 1 Genji Glove
+1 Hammer of Nazahn
 1 High Score
 1 Hunter's Insight
 1 Hunter's Talent
 1 Inquisitor's Flail
 1 Inventors' Fair
 1 Keen Sense
+1 Krosan Grip
 1 Lavaspur Boots
 1 Legolas's Quick Reflexes
 1 Level Up
@@ -49,7 +50,6 @@
 1 Return of the Wildspeaker
 1 Rishkar's Expertise
 1 Sakura-Tribe Elder
-1 Sawtusk Demolisher
 1 Selvala, Heart of the Wilds
 1 Shifting Woodland
 1 Silkguard

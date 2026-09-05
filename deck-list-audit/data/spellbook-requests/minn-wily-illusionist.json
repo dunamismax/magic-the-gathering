@@ -1,11 +1,19 @@
 {
   "main": [
     {
+      "card": "Abjure",
+      "quantity": 1
+    },
+    {
       "card": "Academy Ruins",
       "quantity": 1
     },
     {
       "card": "Agna Qel'a",
+      "quantity": 1
+    },
+    {
+      "card": "Arcane Denial",
       "quantity": 1
     },
     {
@@ -37,15 +45,19 @@
       "quantity": 1
     },
     {
+      "card": "Flare of Denial",
+      "quantity": 1
+    },
+    {
+      "card": "Flow of Knowledge",
+      "quantity": 1
+    },
+    {
       "card": "Fountainport",
       "quantity": 1
     },
     {
       "card": "Frantic Search",
-      "quantity": 1
-    },
-    {
-      "card": "Fresh Start",
       "quantity": 1
     },
     {
@@ -85,10 +97,6 @@
       "quantity": 1
     },
     {
-      "card": "Lat-Nam's Legacy",
-      "quantity": 1
-    },
-    {
       "card": "Ledger Shredder",
       "quantity": 1
     },
@@ -114,10 +122,6 @@
     },
     {
       "card": "Maskwood Nexus",
-      "quantity": 1
-    },
-    {
-      "card": "Minamo, School at Water's Edge",
       "quantity": 1
     },
     {
@@ -157,19 +161,7 @@
       "quantity": 1
     },
     {
-      "card": "Phantasmal Abomination",
-      "quantity": 1
-    },
-    {
-      "card": "Phantasmal Bear",
-      "quantity": 1
-    },
-    {
       "card": "Phantasmal Dreadmaw",
-      "quantity": 1
-    },
-    {
-      "card": "Phantasmal Form",
       "quantity": 1
     },
     {
@@ -237,6 +229,10 @@
       "quantity": 1
     },
     {
+      "card": "Swan Song",
+      "quantity": 1
+    },
+    {
       "card": "Teferi, Master of Time",
       "quantity": 1
     },
@@ -254,6 +250,14 @@
     },
     {
       "card": "The Unagi of Kyoshi Island",
+      "quantity": 1
+    },
+    {
+      "card": "Thirst for Discovery",
+      "quantity": 1
+    },
+    {
+      "card": "Thirst for Knowledge",
       "quantity": 1
     },
     {
@@ -294,10 +298,6 @@
     },
     {
       "card": "Waterbending Scroll",
-      "quantity": 1
-    },
-    {
-      "card": "Wizard Class",
       "quantity": 1
     },
     {

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-09-04",
+  "reviewed_on": "2026-09-05",
   "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. Current commanders and direct engine pieces are explicitly routed; absence remains unclassified, not proof that a card lacks a role.",
   "global": {
     "Ancient Tomb": [
@@ -29,7 +29,32 @@
       ],
       "Roaming Throne": [
         "commander_engine"
-      ]
+      ],
+      "Balmor, Battlemage Captain": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Tocasia's Welcome": [
+        "commander_engine",
+        "card_advantage"
+      ],
+      "Cosmic Rebirth": {
+        "include": [
+          "recursion"
+        ],
+        "exclude": [
+          "ramp"
+        ]
+      },
+      "Winds of Abandon": {
+        "include": [
+          "spot_removal",
+          "board_wipe"
+        ],
+        "exclude": [
+          "ramp"
+        ]
+      }
     },
     "blor-the-impervious": {
       "Blor the Impervious": [
@@ -50,7 +75,27 @@
       "Creeping Renaissance": [
         "recursion",
         "card_advantage"
-      ]
+      ],
+      "Hammer of Nazahn": [
+        "commander_engine",
+        "protection"
+      ],
+      "Bala Ged Recovery": {
+        "include": [
+          "recursion"
+        ],
+        "exclude": [
+          "ramp"
+        ]
+      },
+      "Bridgeworks Battle": {
+        "include": [
+          "spot_removal"
+        ],
+        "exclude": [
+          "ramp"
+        ]
+      }
     },
     "frodo-sam": {
       "Frodo, Adventurous Hobbit": [
@@ -125,15 +170,25 @@
       "Panharmonicon": [
         "commander_engine"
       ],
-      "Molten Echoes": [
-        "commander_engine"
-      ],
-      "Warleader's Call": [
-        "win_condition"
-      ],
       "The Reaver Cleaver": [
         "ramp",
         "win_condition"
+      ],
+      "Chronicle of Victory": [
+        "commander_engine",
+        "card_advantage",
+        "win_condition"
+      ],
+      "Priest of Ancient Lore": [
+        "commander_engine",
+        "card_advantage"
+      ],
+      "Ascend from Avernus": [
+        "recursion",
+        "card_advantage"
+      ],
+      "Sevinne's Reclamation": [
+        "recursion"
       ]
     },
     "minn-wily-illusionist": {
@@ -174,6 +229,28 @@
         "commander_engine",
         "card_advantage",
         "selection"
+      ],
+      "Abjure": [
+        "commander_engine",
+        "countermagic"
+      ],
+      "Flare of Denial": [
+        "commander_engine",
+        "countermagic"
+      ],
+      "Flow of Knowledge": [
+        "card_advantage",
+        "commander_engine"
+      ],
+      "Thirst for Discovery": [
+        "selection",
+        "card_advantage",
+        "commander_engine"
+      ],
+      "Thirst for Knowledge": [
+        "selection",
+        "card_advantage",
+        "commander_engine"
       ]
     },
     "pantlaza-sun-favored": {
@@ -202,9 +279,6 @@
         "commander_engine",
         "card_advantage"
       ],
-      "Flumph": [
-        "card_advantage"
-      ],
       "Fire Covenant": [
         "board_wipe",
         "combo_piece"
@@ -212,6 +286,23 @@
       "Brash Taunter": [
         "win_condition",
         "combo_piece"
+      ],
+      "Fighter Class": [
+        "tutor",
+        "cost_reduction"
+      ],
+      "Galadriel's Dismissal": [
+        "protection"
+      ],
+      "Nils, Discipline Enforcer": [
+        "protection"
+      ],
+      "Combat Calligrapher": [
+        "win_condition",
+        "protection"
+      ],
+      "Kor Haven": [
+        "protection"
       ]
     },
     "the-notary-hobbits": {
@@ -223,9 +314,6 @@
         "commander_engine"
       ],
       "Panharmonicon": [
-        "commander_engine"
-      ],
-      "Strionic Resonator": [
         "commander_engine"
       ],
       "Maskwood Nexus": [

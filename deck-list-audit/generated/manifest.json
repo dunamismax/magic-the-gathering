@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "audit_date": "2026-09-04",
-  "audit_sha256": "aff4b12b014cac08f0dabc9f78e1dc5678f5dd13793fbfefe4d2978027f26224",
-  "collection_sha256": "a7054ce74d176c772ff543e050d67712b47bed115ada411a64d37a54305ebaf9",
-  "moxfield_refresh_sha256": "47b905d5c8b54d9c958a34336e754506589bb2c20d2f7fa5adf4fcf2be821235",
-  "decks_readme_sha256": "c602dce082968dcbdebf4017d36b88763b15bb23040bdb41b5e130f83db4eaf6",
-  "collection_summary_sha256": "125d62f702c6a71db8567c248689b552ea0b7e60abad9ee306f6858302c43a52",
-  "functional_analysis_sha256": "d7655900d102eaeaabb69191eef226c911e880a8cb867540accc77138800fcb1",
+  "audit_date": "2026-09-05",
+  "audit_sha256": "58adacb5617571e5646480ed11ef85bf1dc26421f4eff4b4efc2d126d34b580e",
+  "collection_sha256": "e197e1595eee9a885bf26d898dd62153e965c9f18d14e43318615f8bdcf1f32c",
+  "moxfield_refresh_sha256": "ee9da860d18edeb56f3aa428c9d71e8b602ce59528f035725f5c1654cfda2dcf",
+  "decks_readme_sha256": "bf31085f6afe680ffd95e6f108767c5c3b4f48bdb594fdc226ebb5f668c077a9",
+  "collection_summary_sha256": "381fdac7283687ee15977924d78ad298ac5f6f30eba77a848d2b5e644d420bc6",
+  "functional_analysis_sha256": "3a366e2ccd0c308a2735c9effda13de3f0b3722f18feb6f73ca16fe8d4ffa6eb",
   "deck_sha256": {
-    "aragorn-the-uniter": "09174011563bec10ce35e81fc0ef74b0b83f674a9f34ad1ce779397375d255e8",
-    "blor-the-impervious": "0120c09d84a9d4611dd16ab4cea9e1876e39e7f4246889716806788e7de8449f",
+    "aragorn-the-uniter": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
+    "blor-the-impervious": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
     "frodo-sam": "27d3ce97451e91cbefded5e5e5ea3e1cb269cbd68ed383a543c9cfe8e978cb91",
     "gandalf-party-guest": "6df06af50c30158827a646b88b424f077acb235c5d3d2920868e25e9c95eeb4e",
     "henzie-toolbox-torre": "2f84116cf7b5ec9026c875dffb952aec60203e34cb5bdd3d2068774472d11cc6",
-    "thorin-king-of-durins-folk": "fae8c69f0bb82ab0689d17a9db776faed33db8aac6225f181ac56aa609243a48",
-    "minn-wily-illusionist": "19958cf0b2d171049ba5c2f6bbae472e6d81347c449dc8c1d4a5f1b5f1202074",
+    "thorin-king-of-durins-folk": "d5a578583ca70bf5348cda329e21a12d9d2039271ebaaab0afd510e35a402627",
+    "minn-wily-illusionist": "46276865a242b46f71a022f8b39767afaffb5887eb627a9d2d529e2c0b76a9c8",
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
-    "queen-marchesa": "67dd7a309bc3d39ecfb181367b67e296f7955e40b7727d0235c54bfac1e53f94",
-    "the-notary-hobbits": "94b2505f51a789d07eedd433f03d85d30478d260a9b3bfed794f9f4eb33264de"
+    "queen-marchesa": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
+    "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f"
   }
 }

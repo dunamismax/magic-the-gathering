@@ -887,32 +887,6 @@
     },
     {
       "card": {
-        "id": 2751,
-        "name": "Strionic Resonator",
-        "oracleId": "cf751552-156f-4f81-ac94-9814dce099f9",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Artifact",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.png?1783917105",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 7954,
         "name": "Summon: Bahamut",
         "oracleId": "fe9f6825-597b-4d80-ab7c-f4ee4e824b6f",

@@ -40,7 +40,7 @@
       ],
       "title": "Aragorn, the Uniter | United Colors of Middle-earth",
       "moxfield_id": "tlvcePZQCUeaEkzNEHXA4Q",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-05",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -51,7 +51,7 @@
         "budget": null,
         "experience": "Four-color multicolor-spell value and creature pressure built around Aragorn's four triggered abilities."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "blor-the-impervious": {
       "commanders": [
@@ -59,7 +59,7 @@
       ],
       "title": "Blor the Impervious | Built Frog Tough",
       "moxfield_id": "jfWEvfYBHkGi7P1oqzAQww",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-05",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -72,7 +72,7 @@
         "budget": null,
         "experience": "Resilient mono-green Voltron with visible combat wins."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "frodo-sam": {
       "commanders": [
@@ -95,7 +95,7 @@
           "The One Ring"
         ]
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "gandalf-party-guest": {
       "commanders": [
@@ -116,7 +116,7 @@
         "budget": null,
         "experience": "Maximum Flavor — a Bracket 2-style Rule Zero Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs plus Gandalf's Sanction; the posted main deck requires a disclosed Gandalf, Westward Voyager color-identity house rule."
       },
-      "source_refreshed_on": "2026-09-04",
+      "source_refreshed_on": "2026-09-05",
       "sideboard": {
         "file": "decks/sideboards/gandalf-party-guest.txt",
         "purpose": "Maximum Power — the exact nine-for-nine switch from the posted Maximum Flavor Rule Zero main deck to its streamlined, maximally tuned, Commander-legal Bracket 3 configuration. No other cards change.",
@@ -153,7 +153,7 @@
         "budget": null,
         "experience": "Replayable Jund blitz, creature-toolbox, and reanimation gameplay."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "thorin-king-of-durins-folk": {
       "commanders": [
@@ -161,7 +161,7 @@
       ],
       "title": "Thorin, King of Durin’s Folk | Long Live the Short Kings",
       "moxfield_id": "ajEk9aexw0KTAXG7aL9ysg",
-      "source_updated_on": "2026-09-04",
+      "source_updated_on": "2026-09-05",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -172,7 +172,7 @@
         "budget": null,
         "experience": "Boros all-Dwarf kindred with creature-triggered Treasure, legendary-copy and token multipliers, Equipment, and combat wins."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "minn-wily-illusionist": {
       "commanders": [
@@ -180,7 +180,7 @@
       ],
       "title": "Minn, Wily Illusionist | Now You See Minn",
       "moxfield_id": "yRogqEE7oE29tp9aASt9IQ",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-05",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -196,7 +196,7 @@
         "budget": null,
         "experience": "Illusion and second-draw engine with strong protection and replayable value."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "pantlaza-sun-favored": {
       "commanders": [
@@ -217,7 +217,7 @@
         "budget": null,
         "experience": "Dinosaur discover and combat deck with commander-specific value."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "queen-marchesa": {
       "commanders": [
@@ -225,7 +225,7 @@
       ],
       "title": "Queen Marchesa | Mardu Your Business",
       "moxfield_id": "CXl1HrG9uE21A_07vqY3lA",
-      "source_updated_on": "2026-09-02",
+      "source_updated_on": "2026-09-05",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -236,7 +236,7 @@
         "budget": null,
         "experience": "Political monarch, goad, gifting, and damage-redirection gameplay."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     },
     "the-notary-hobbits": {
       "commanders": [
@@ -244,7 +244,7 @@
       ],
       "title": "The Notary Hobbits | Signed, Sealed, Annihilated",
       "moxfield_id": "hbbDeqN5L060nsGjc3_QOQ",
-      "source_updated_on": "2026-09-03",
+      "source_updated_on": "2026-09-05",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -257,7 +257,7 @@
         "budget": null,
         "experience": "Mono-green Halfling-token mana that accelerates into colorless Eldrazi battlecruiser threats, annihilator, cast triggers, and combat wins without an intended infinite combo."
       },
-      "source_refreshed_on": "2026-09-04"
+      "source_refreshed_on": "2026-09-05"
     }
   }
 }

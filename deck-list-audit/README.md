@@ -8,21 +8,26 @@ deck edits so one layer cannot silently masquerade as another.
 ## Current snapshot
 
 - **10 public decks**: the full collection was downloaded from Moxfield and
-  locally audited on **2026-09-04**
+  locally audited on **2026-09-05**; the Commander roster is unchanged
 - **9 public Bracket 3 labels** and **1 posted Bracket 2* configuration**:
   Gandalf's main is labeled B3 but plays as a B2-style Rule Zero mode, and
   Frodo & Sam uses a disclosed Game Changer exception
 - All 10 main decks resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, banned-card, and configured exception checks
+- Six lists changed by **31 equal-count substitutions**: Aragorn, Blor, Thorin,
+  Minn, Queen Marchesa, and The Notary Hobbits
 - All 10 exact lists have hash-current Commander Spellbook evidence and manual
-  prerequisite review; Thorin, Henzie, and Frodo & Sam have exact-list scans from **2026-09-04**
+  prerequisite review; the six changed lists were rescanned and reviewed on
+  **2026-09-05**, while the other four retain their original evidence dates
 - Gandalf's posted Maximum Flavor main has no complete combo; its exact
   nine-for-nine Maximum Power switch restores one intentional conditional
   unlimited-combat line. Pantlaza has three
   conditional near-infinite lines, Queen Marchesa has one finite line and one
   five-card loop, and Henzie's returned persist template is incomplete
 - The current 10-deck social and bracket reviews are pinned to these exact
-  hashes; retired lineup reports and deck-specific evidence were removed
+  hashes; superseded reports and scans remain dated historical evidence
+- The reports preserve all preview-card, color-identity, and bracket exceptions,
+  and explicitly discuss Minn's Teferi ultimate and Gandalf's alternate combo
 
 Browse titles, source dates, Moxfield links, and hashes in
 [`decks/README.md`](decks/README.md). Deterministic totals are in

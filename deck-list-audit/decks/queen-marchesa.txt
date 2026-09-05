@@ -4,11 +4,13 @@
 1 Arcbond
 1 Battlefield Forge
 1 Blasphemous Act
+1 Blood Crypt
 1 Boros Charm
 1 Boros Signet
 1 Brash Taunter
 1 Breena, the Demagogue
 1 Caves of Koilos
+1 Combat Calligrapher
 1 Comeuppance
 1 Command Tower
 1 Curse of Opulence
@@ -17,21 +19,21 @@
 1 Deflecting Palm
 1 Deflecting Swat
 1 Delirium
-1 Desolate Mire
 1 Disrupt Decorum
 1 Duelist's Heritage
-1 Excise the Imperfect
 1 Exotic Orchard
 1 Fabled Passage
 1 Fellwar Stone
 1 Fetid Heath
+1 Fighter Class
 1 Fire Covenant
-1 Flumph
 1 Forbidden Orchard
+1 Galadriel's Dismissal
 1 Generous Gift
 1 Generous Plunderer
 1 Get Lost
 1 Gisela, Blade of Goldnight
+1 Godless Shrine
 1 Graven Cairns
 1 Horizon of Progress
 1 Humble Defector
@@ -39,6 +41,7 @@
 1 Kambal, Profiteering Mayor
 1 Karazikar, the Eye Tyrant
 1 Kardur, Doomscourge
+1 Kor Haven
 1 Legion Leadership
 1 Loran of the Third Path
 1 Lotho, Corrupt Shirriff
@@ -49,8 +52,7 @@
 1 Mistveil Plains
 3 Mountain
 1 Nelly Borca, Impulsive Accuser
-1 Nomad Outpost
-1 Oft-Nabbed Goat
+1 Nils, Discipline Enforcer
 1 Olórin's Searing Light
 1 Orzhov Signet
 1 Path of Ancestry
@@ -61,11 +63,9 @@
 1 Rakdos Signet
 1 Reflecting Pool
 1 Return the Favor
-1 Rogue's Passage
 1 Rugged Prairie
-1 Scheming Symmetry
+1 Sacred Foundry
 1 Selfless Squire
-1 Shadowblood Ridge
 1 Shadrix Silverquill
 1 Shattered Landscape
 1 Sol Ring
@@ -74,7 +74,6 @@
 1 Sulfurous Springs
 1 Sunbillow Verge
 1 Sunforger
-1 Sunscorched Divide
 3 Swamp
 1 Swords to Plowshares
 1 Take the Bait
@@ -83,6 +82,7 @@
 1 Talisman of Indulgence
 1 Taunt from the Rampart
 1 Tempt with Bunnies
+1 Tibalt's Trickery
 1 Trouble in Pairs
 1 Untimely Malfunction
 1 Vault of Champions

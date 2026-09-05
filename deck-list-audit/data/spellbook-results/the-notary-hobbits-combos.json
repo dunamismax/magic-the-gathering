@@ -81,8 +81,8 @@
         "notes": "Once you have infinite mana, you may use it to activate Staff of Domination's other abilities.",
         "prices": {
           "tcgplayer": "15.27",
-          "cardmarket": "12.03",
-          "cardkingdom": "21.48"
+          "cardmarket": "11.96",
+          "cardkingdom": "20.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -227,7 +227,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 22306,
+        "popularity": 22394,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {5}{G}.\nActivate Staff of Domination's third ability by paying {3} and tapping it, untapping Selvala.\nActivate Staff of Domination's first ability by paying {1}, untapping it.\nRepeat.",
         "manaNeeded": "{G}",
@@ -310,7 +310,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "33.06",
-          "cardmarket": "23.83",
+          "cardmarket": "24.05",
           "cardkingdom": "48.48"
         },
         "status": "OK",
@@ -400,7 +400,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 18296,
+        "popularity": 18330,
         "bracketTag": "E",
         "description": "Earthbend a land that can tap to produce at least {G}, thus animating it.\nCast Springheart Nantuko for its bestow cost by paying {1}{G}, attaching it to the animated land.\nPlay any land.\nWhen the land enters the battlefield, Springheart Nantuko triggers, causing you to pay {1}{G} to create two token copies of the land it is attached to due to Parallel Lives.\nWhen the land tokens enter the battlefield, Springheart Nantuko triggers twice.\nHolding priority, activate the two land tokens by tapping them, adding at least {G}{G}.\nResolve the first Springheart Nantuko trigger, choosing not to pay and create two 1/1 Insect creature tokens due to Parallel Lives\nResolve the second trigger, causing you to pay {1}{G} to create two token copies of the land it is attached to due to Parallel Lives.\nRepeat from step 5.",
         "manaNeeded": "{2}{G} plus enough mana to animate the land",
@@ -483,7 +483,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "76.13",
-          "cardmarket": "53.76",
+          "cardmarket": "55.52",
           "cardkingdom": "96.98"
         },
         "status": "OK",
@@ -581,7 +581,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 16815,
+        "popularity": 16863,
         "bracketTag": "E",
         "description": "Activate Ashnod's Altar by sacrificing the persist creature, adding {C}{C}.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nRepeat.",
         "manaNeeded": "",
@@ -667,7 +667,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "11.41",
-          "cardmarket": "8.49",
+          "cardmarket": "8.59",
           "cardkingdom": "16.48"
         },
         "status": "OK",
@@ -675,55 +675,55 @@
         "identity": "G",
         "includes": [
           {
-            "id": 29455
-          },
-          {
-            "id": 28221
-          },
-          {
-            "id": 28220
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 27971
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27045
+            "id": 2725
           },
           {
             "id": 26311
           },
           {
-            "id": 2725
+            "id": 27045
+          },
+          {
+            "id": 27469
+          },
+          {
+            "id": 27470
+          },
+          {
+            "id": 27471
+          },
+          {
+            "id": 27472
+          },
+          {
+            "id": 27473
+          },
+          {
+            "id": 27971
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28221
+          },
+          {
+            "id": 29455
           },
           {
             "id": 30758
@@ -789,7 +789,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 14440,
+        "popularity": 14494,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding an amount of {G} equal to the greatest power among creatures you control.\nActivate Selvala by paying {3} and untapping it, giving it +2/+2 until end of turn.\nRepeat.",
         "manaNeeded": "{2}{G} at most",
@@ -872,7 +872,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "118.33",
-          "cardmarket": "77.70",
+          "cardmarket": "79.40",
           "cardkingdom": "149.98"
         },
         "status": "OK",
@@ -976,7 +976,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 12114,
+        "popularity": 12143,
         "bracketTag": "E",
         "description": "Activate Phyrexian Altar by sacrificing the persist creature, adding one mana of any color.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nRepeat.",
         "manaNeeded": "",
@@ -1059,7 +1059,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "8.99",
-          "cardmarket": "6.10",
+          "cardmarket": "6.15",
           "cardkingdom": "11.98"
         },
         "status": "OK",
@@ -1100,7 +1100,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 9947,
+        "popularity": 9987,
         "bracketTag": "R",
         "description": "Declare Jumbo Cactuar as an attacker, triggering its ability, giving it +9999/+0 until end of turn.\nActivate Selvala by paying {G} and tapping it, adding 10,000 mana in any combination of colors.",
         "manaNeeded": "{G}",
@@ -1183,8 +1183,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "80.71",
-          "cardmarket": "55.79",
-          "cardkingdom": "99.98"
+          "cardmarket": "57.61",
+          "cardkingdom": "100.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -1290,7 +1290,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 8621,
+        "popularity": 8636,
         "bracketTag": "E",
         "description": "Activate Altar of Dementia by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -1373,8 +1373,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "1.92",
-          "cardmarket": "1.38",
-          "cardkingdom": "2.98"
+          "cardmarket": "1.42",
+          "cardkingdom": "2.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -1414,7 +1414,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 6293,
+        "popularity": 6300,
         "bracketTag": "E",
         "description": "Activate Realmbreaker's second ability by paying {10}, tapping and sacrificing it, causing you to search for all creatures in your library, as they are all Praetors due to Maskwood Nexus, and put them onto the battlefield.",
         "manaNeeded": "{10}",
@@ -1528,7 +1528,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "10.16",
-          "cardmarket": "7.41",
+          "cardmarket": "7.60",
           "cardkingdom": "13.97"
         },
         "status": "OK",
@@ -1608,7 +1608,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 6031,
+        "popularity": 6052,
         "bracketTag": "E",
         "description": "Activate Lightning Greaves' equip ability by paying {0}, attaching it to Selvala.\nActivate Selvala by paying {G} and tapping it, adding at least {3}{G}{G}{G}{G}.\nActivate Temur Sabertooth by paying {1}{G}, returning Selvala from the battlefield to your hand.\nCast Selvala by paying {1}{G}{G}.\nRepeat.",
         "manaNeeded": "{G}",
@@ -1722,7 +1722,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "38.64",
-          "cardmarket": "22.28",
+          "cardmarket": "21.74",
           "cardkingdom": "50.97"
         },
         "status": "OK",
@@ -1832,7 +1832,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 4392,
+        "popularity": 4411,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {2}{G}{G}{G}{G}\nActivate Temur Sabertooth by paying {1}{G}, returning Selvala from the battlefield to your hand.\nCast Selvala by paying its mana cost.\nRepeat.",
         "manaNeeded": "{G}",
@@ -1915,7 +1915,7 @@
         "notes": "Once you have infinite mana, you may equip Sword of the Paruns to any creature you control and untap them infinite times.\r\nOnce you have infinite mana, you may attach Sword of the Paruns to any other creature(s) to untap them.",
         "prices": {
           "tcgplayer": "5.53",
-          "cardmarket": "4.04",
+          "cardmarket": "4.06",
           "cardkingdom": "7.98"
         },
         "status": "OK",
@@ -1923,52 +1923,52 @@
         "identity": "G",
         "includes": [
           {
-            "id": 28223
-          },
-          {
-            "id": 28221
-          },
-          {
-            "id": 28220
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 27473
-          },
-          {
-            "id": 27472
-          },
-          {
-            "id": 27471
-          },
-          {
-            "id": 27470
-          },
-          {
-            "id": 27469
-          },
-          {
-            "id": 27045
+            "id": 2725
           },
           {
             "id": 26311
           },
           {
-            "id": 2725
+            "id": 27045
+          },
+          {
+            "id": 27469
+          },
+          {
+            "id": 27470
+          },
+          {
+            "id": 27471
+          },
+          {
+            "id": 27472
+          },
+          {
+            "id": 27473
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28221
+          },
+          {
+            "id": 28223
           },
           {
             "id": 31521
@@ -2022,7 +2022,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3662,
+        "popularity": 3672,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {4}{G}.\nActivate Sword of the Paruns by paying {3}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -2105,7 +2105,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "4.63",
-          "cardmarket": "3.09",
+          "cardmarket": "3.24",
           "cardkingdom": "6.34"
         },
         "status": "OK",
@@ -2146,7 +2146,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 3564,
+        "popularity": 3584,
         "bracketTag": "O",
         "description": "Activate Lightning Greaves's equip ability by paying {0}, targeting any creature you control except the creature that has Lightning Greaves attached.\nCrackdown Construct triggers, giving it +1/+1 until end of turn.\nResolve Lightning Greaves's equip ability.\nRepeat.",
         "manaNeeded": "",
@@ -2260,7 +2260,7 @@
         "notes": "You'll create double as many Squirrels each loop. All Squirrels beyond the first four will be untapped and can be used to add additional mana.",
         "prices": {
           "tcgplayer": "44.78",
-          "cardmarket": "29.56",
+          "cardmarket": "29.00",
           "cardkingdom": "56.97"
         },
         "status": "OK",
@@ -2349,7 +2349,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3072,
+        "popularity": 3094,
         "bracketTag": "E",
         "description": "Activate The Unbeatable Squirrel Girl by paying {1}{G}{G}{G}, creating a 1/1 Squirrel creature token for each Squirrel you control.\nActivate four Squirrels by tapping them, adding {1}{G}{G}{G}.\nRepeat",
         "manaNeeded": "{1}{G}{G}{G}",
@@ -2432,8 +2432,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "3.42",
-          "cardmarket": "1.58",
-          "cardkingdom": "3.28"
+          "cardmarket": "1.68",
+          "cardkingdom": "2.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -2494,7 +2494,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2471,
+        "popularity": 2474,
         "bracketTag": "R",
         "description": "Cast Turntimber Ranger by paying {3}{G}{G}.\nTurntimber Ranger enters the battlefield, creating a 2/2 Wolf creature token and putting a +1/+1 counter on Turntimber Ranger.\n2/2 Wolf creature token enters the battlefield triggering Turntimber Ranger, creating a 2/2 Wolf creature token and putting a +1/+1 counter on Turntimber Ranger.\nRepeat from step 2.",
         "manaNeeded": "{3}{G}{G}",
@@ -2670,7 +2670,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2283,
+        "popularity": 2300,
         "bracketTag": "E",
         "description": "Activate The Unbeatable Squirrel Girl by paying {1}{G}{G}{G}, creating a 1/1 Squirrel creature token for each Squirrel you control.\nActivate four Squirrels by tapping them, adding {1}{G}{G}{G}.\nRepeat",
         "manaNeeded": "{1}{G}{G}{G}",
@@ -2753,7 +2753,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "74.05",
-          "cardmarket": "47.54",
+          "cardmarket": "49.27",
           "cardkingdom": "94.98"
         },
         "status": "OK",
@@ -2851,7 +2851,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2113,
+        "popularity": 2122,
         "bracketTag": "E",
         "description": "Activate Blasting Station by tapping it and sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge and Blasting Station trigger.\nResolve the Great Henge trigger, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nResolve the Blasting Station trigger, untapping it.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -2965,8 +2965,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "20.42",
-          "cardmarket": "15.90",
-          "cardkingdom": "37.97"
+          "cardmarket": "15.68",
+          "cardkingdom": "35.97"
         },
         "status": "OK",
         "spoiler": false,
@@ -3075,7 +3075,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2080,
+        "popularity": 2092,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {2}{G}{G}{G}{G}\nActivate Temur Sabertooth by paying {1}{G}, returning Selvala from the battlefield to your hand.\nCast Selvala by paying its mana cost.\nRepeat.",
         "manaNeeded": "{G}",
@@ -3159,7 +3159,7 @@
         "prices": {
           "tcgplayer": "1.70",
           "cardmarket": "1.24",
-          "cardkingdom": "2.64"
+          "cardkingdom": "2.34"
         },
         "status": "OK",
         "spoiler": false,
@@ -3217,7 +3217,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1914,
+        "popularity": 1926,
         "bracketTag": "E",
         "description": "Activate a creature by tapping it, adding at least {G}.\nActivate Wirewood Symbiote by returning it from the battlefield to your hand, untapping the mana-producing creature.\nCast Wirewood Symbiote by paying {G}.\nRepeat.",
         "manaNeeded": "",
@@ -3331,8 +3331,8 @@
         "notes": "You'll create double as many Squirrels each loop. All Squirrels beyond the first four will be untapped and can be used to add additional mana.",
         "prices": {
           "tcgplayer": "26.56",
-          "cardmarket": "23.18",
-          "cardkingdom": "43.97"
+          "cardmarket": "22.94",
+          "cardkingdom": "41.97"
         },
         "status": "OK",
         "spoiler": false,
@@ -3393,7 +3393,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 1027,
+        "popularity": 1036,
         "bracketTag": "E",
         "description": "Activate The Unbeatable Squirrel Girl by paying {1}{G}{G}{G}, creating a 1/1 Squirrel creature token for each Squirrel you control.\nActivate four Squirrels by tapping them, adding {1}{G}{G}{G}.\nRepeat",
         "manaNeeded": "{1}{G}{G}{G}",
@@ -3476,7 +3476,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "38.82",
-          "cardmarket": "23.91",
+          "cardmarket": "24.12",
           "cardkingdom": "47.48"
         },
         "status": "OK",
@@ -3627,8 +3627,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "51.28",
-          "cardmarket": "24.80",
-          "cardkingdom": "51.98"
+          "cardmarket": "24.86",
+          "cardkingdom": "50.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -3680,7 +3680,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 750,
+        "popularity": 753,
         "bracketTag": "R",
         "description": "At the beginning of your upkeep, Panoptic Mirror triggers, casting a copy of Rise of the Eldrazi without paying its mana cost.\nResolve Rise of the Eldrazi, causing you to take an extra turn after this one.\nRepeat each turn.",
         "manaNeeded": "",
@@ -3794,7 +3794,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "16.72",
-          "cardmarket": "12.97",
+          "cardmarket": "12.99",
           "cardkingdom": "21.97"
         },
         "status": "OK",
@@ -3904,7 +3904,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 589,
+        "popularity": 603,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {2}{G}{G}{G}{G}\nActivate Temur Sabertooth by paying {1}{G}, returning Selvala from the battlefield to your hand.\nCast Selvala by paying its mana cost.\nRepeat.",
         "manaNeeded": "{G}",
@@ -3987,8 +3987,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "11.23",
-          "cardmarket": "8.40",
-          "cardkingdom": "15.48"
+          "cardmarket": "8.43",
+          "cardkingdom": "14.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -4097,7 +4097,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 346,
+        "popularity": 363,
         "bracketTag": "S",
         "description": "Activate The Notary Hobbits by tapping it, adding at least {C}{C}{C}{C}{C}\nActivate Staff of Domination's third ability by paying {3}, untapping The Notary Hobbits.\nActivate Staff of Domination's first ability by paying {1}, untapping it.\nRepeat.",
         "manaNeeded": "",
@@ -4211,7 +4211,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "26.58",
-          "cardmarket": "18.74",
+          "cardmarket": "19.31",
           "cardkingdom": "28.47"
         },
         "status": "OK",
@@ -4301,10 +4301,10 @@
         "id": "2816-7908",
         "of": [
           {
-            "id": 27971
+            "id": 2725
           },
           {
-            "id": 2725
+            "id": 27971
           }
         ],
         "uses": [
@@ -4374,7 +4374,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "7.37",
-          "cardmarket": "4.86",
+          "cardmarket": "5.06",
           "cardkingdom": "10.48"
         },
         "status": "OK",
@@ -4382,22 +4382,22 @@
         "identity": "G",
         "includes": [
           {
-            "id": 2725
-          },
-          {
-            "id": 26301
-          },
-          {
-            "id": 27045
-          },
-          {
-            "id": 27971
+            "id": 29455
           },
           {
             "id": 28215
           },
           {
-            "id": 29455
+            "id": 27971
+          },
+          {
+            "id": 27045
+          },
+          {
+            "id": 26301
+          },
+          {
+            "id": 2725
           },
           {
             "id": 30758
@@ -4460,7 +4460,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 246,
+        "popularity": 254,
         "bracketTag": "S",
         "description": "Activate The Notary Hobbits by tapping it, adding at least {C}{C}{C}{C}\nActivate The Notary Hobbits by paying {3} and untapping it, giving it +2/+2 until end of turn.\nRepeat.",
         "manaNeeded": "",
@@ -4468,136 +4468,6 @@
         "manaValueNeeded": 0,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control at least four Halflings."
-      },
-      {
-        "id": "2751-3737",
-        "of": [
-          {
-            "id": 2884
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 2751,
-              "name": "Strionic Resonator",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cf751552-156f-4f81-ac94-9814dce099f9",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.png?1783917105",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 3737,
-              "name": "Sands of Time",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "c8f69b48-a3b2-4324-852d-11fad19d6432",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/7/a782ee95-bde4-41f4-a947-b073cc4c1e7c.png?1783946972",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/7/a782ee95-bde4-41f4-a947-b073cc4c1e7c.jpg?1783946972",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/7/a782ee95-bde4-41f4-a947-b073cc4c1e7c.jpg?1783946972",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/7/a782ee95-bde4-41f4-a947-b073cc4c1e7c.jpg?1783946972",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/7/a782ee95-bde4-41f4-a947-b073cc4c1e7c.jpg?1783946972"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "10.30",
-          "cardmarket": "9.00",
-          "cardkingdom": "13.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "C",
-        "includes": [
-          {
-            "id": 2884
-          },
-          {
-            "id": 26849
-          },
-          {
-            "id": 27047
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 151,
-              "name": "Infinite mana permanents you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 205,
-        "bracketTag": "S",
-        "description": "At the beginning of your upkeep, Sands of Time triggers.\nHolding priority, activate any number of permanents you control by tapping them, adding at least {3}.\nActivate Strionic Resonator by paying {2} and tapping it, copying Sands of Time's ability.\nResolve the copy of Sands of Time's ability, untapping all tapped artifacts, creatures and lands you control and tapping all untapped artifacts, creatures, and lands you control.\nRepeat from step 2.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Permanents you control can tap to produce at least {3}."
       },
       {
         "id": "3519-5295-7908",
@@ -4705,8 +4575,8 @@
         "notes": "It's possible to start with a higher commander tax, but you'll need to control more Halflings and/or have more mana to start.",
         "prices": {
           "tcgplayer": "37.02",
-          "cardmarket": "36.80",
-          "cardkingdom": "52.47"
+          "cardmarket": "36.68",
+          "cardkingdom": "50.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -4803,7 +4673,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 80,
+        "popularity": 82,
         "bracketTag": "O",
         "description": "Cast The Notary Hobbits by paying {3}{G}{G} plus commander tax if applicable.\nWhen The Notary Hobbits enters, it triggers, creating two nonlegendary token copies of it.\nActivate The Notary Hobbits and the two Notary Hobbits tokens by tapping them, adding {C}{C}{C} for each Halfling you control.\nActivate Food Chain by exiling the nontoken Notary Hobbits, adding six {G} that can only be spent to cast creature spells.\nChoose to return The Notary Hobbits from exile to the command zone.\nRepeat.",
         "manaNeeded": "{3}{G}{G} plus commander tax if applicable",
@@ -4918,7 +4788,7 @@
         "notes": "It's possible to start with a higher commander tax, but you'll need to control more Halflings and/or have more mana to start.",
         "prices": {
           "tcgplayer": "33.32",
-          "cardmarket": "33.87",
+          "cardmarket": "33.99",
           "cardkingdom": "36.47"
         },
         "status": "OK",
@@ -5016,7 +4886,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 76,
+        "popularity": 78,
         "bracketTag": "O",
         "description": "Cast The Notary Hobbits by paying {3}{G}{G} plus commander tax if applicable.\nWhen The Notary Hobbits enters, it triggers, creating two nonlegendary token copies of it.\nActivate The Notary Hobbits and the two Notary Hobbits tokens by tapping them, adding {C}{C}{C} for each Halfling you control.\nActivate Food Chain by exiling the nontoken Notary Hobbits, adding six {G} that can only be spent to cast creature spells.\nChoose to return The Notary Hobbits from exile to the command zone.\nRepeat.",
         "manaNeeded": "{3}{G}{G} plus commander tax if applicable",
@@ -5131,7 +5001,7 @@
         "notes": "It's possible to start with a higher commander tax, but you'll need to control more Halflings and/or have more mana to start.",
         "prices": {
           "tcgplayer": "55.24",
-          "cardmarket": "43.18",
+          "cardmarket": "42.74",
           "cardkingdom": "65.47"
         },
         "status": "OK",
@@ -5235,7 +5105,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 74,
+        "popularity": 77,
         "bracketTag": "O",
         "description": "Cast The Notary Hobbits by paying {3}{G}{G} plus commander tax if applicable.\nWhen The Notary Hobbits enters, it triggers, creating two nonlegendary token copies of it.\nActivate The Notary Hobbits and the two Notary Hobbits tokens by tapping them, adding {C}{C}{C} for each Halfling you control.\nActivate Food Chain by exiling the nontoken Notary Hobbits, adding six {G} that can only be spent to cast creature spells.\nChoose to return The Notary Hobbits from exile to the command zone.\nRepeat.",
         "manaNeeded": "{3}{G}{G} plus commander tax if applicable",
@@ -5349,7 +5219,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "55.06",
-          "cardmarket": "33.61",
+          "cardmarket": "33.45",
           "cardkingdom": "65.47"
         },
         "status": "OK",
@@ -5509,7 +5379,7 @@
         "notes": "Once you have infinite mana, you may attach Sword of the Paruns to any other creature(s) to untap them.",
         "prices": {
           "tcgplayer": "1.49",
-          "cardmarket": "0.41",
+          "cardmarket": "0.53",
           "cardkingdom": "1.98"
         },
         "status": "OK",
@@ -5517,19 +5387,19 @@
         "identity": "G",
         "includes": [
           {
-            "id": 2725
-          },
-          {
-            "id": 26301
-          },
-          {
-            "id": 27045
+            "id": 28223
           },
           {
             "id": 28215
           },
           {
-            "id": 28223
+            "id": 27045
+          },
+          {
+            "id": 26301
+          },
+          {
+            "id": 2725
           }
         ],
         "produces": [
@@ -5580,7 +5450,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 45,
+        "popularity": 47,
         "bracketTag": "S",
         "description": "Activate The Notary Hobbits by tapping it, adding at least {C}{C}{C}{C}\nActivate Sword of the Paruns by paying {3}, untapping The Notary Hobbits.\nRepeat.",
         "manaNeeded": "",
@@ -5694,8 +5564,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "36.84",
-          "cardmarket": "27.23",
-          "cardkingdom": "52.47"
+          "cardmarket": "27.39",
+          "cardkingdom": "50.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -5885,7 +5755,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.52",
-          "cardmarket": "2.67",
+          "cardmarket": "2.77",
           "cardkingdom": "6.57"
         },
         "status": "OK",
@@ -5926,7 +5796,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 14,
+        "popularity": 15,
         "bracketTag": "E",
         "description": "Activate Pili-Pala by tapping it, adding {G}{G}.\nActivate Pili-Pala by paying {2} and untapping it, adding one mana of any color.\nRepeat.",
         "manaNeeded": "",
@@ -6079,7 +5949,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 344892,
+        "popularity": 345692,
         "bracketTag": "E",
         "description": "Activate Sol Ring by tapping it, adding {C} {C}.\nCast the permanent that can be cast using {C} by paying its mana cost.\nHullbreaker Horror triggers, returning Sol Ring from the battlefield to your hand.\nCast Sol Ring by paying {1}. \nHullbreaker Horror triggers, returning the permanent cast in step 2 from the battlefield to your hand.\nRepeat.\nIf the permanent can be cast by paying {0}, this combo nets infinite colorless mana.",
         "manaNeeded": "",
@@ -6162,7 +6032,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "2.82",
-          "cardmarket": "2.02",
+          "cardmarket": "2.00",
           "cardkingdom": "5.28"
         },
         "status": "OK",
@@ -6215,7 +6085,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 36594,
+        "popularity": 36667,
         "bracketTag": "S",
         "description": "Cast Sol Ring by paying its mana cost.\nTidespout Tyrant triggers, returning a nontoken permanent that can be cast using {C} from the battlefield to your hand.\nActivate Sol Ring by tapping it, adding {C}{C}.\nCast the nontoken permanent returned in step 2 by paying its mana cost.\nTidespout Tyrant triggers, returning Sol Ring from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{1}",
@@ -6298,8 +6168,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "7.98",
-          "cardmarket": "6.06",
-          "cardkingdom": "13.28"
+          "cardmarket": "6.07",
+          "cardkingdom": "11.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -6339,7 +6209,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 20846,
+        "popularity": 20893,
         "bracketTag": "C",
         "description": "Activate The World Tree's second ability by paying {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, tapping and sacrificing it, causing you to search for all creatures in your library, as they are all Gods due to Maskwood Nexus and put them onto the battlefield.",
         "manaNeeded": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
@@ -6425,7 +6295,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "29.41",
-          "cardmarket": "17.87",
+          "cardmarket": "17.92",
           "cardkingdom": "36.48"
         },
         "status": "OK",
@@ -6532,7 +6402,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 17490,
+        "popularity": 17538,
         "bracketTag": "S",
         "description": "Activate Selvala to add {3}{R}{R}{G}.\nActivate Aggravated Assualt, untapping all creatures you control and gaining an addition combat step and post combat mainphase.\nRepeat.",
         "manaNeeded": "{G}",
@@ -6540,157 +6410,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Selvala does not have summoning sickness.\nYou control a creature with power seven or greater."
-      },
-      {
-        "id": "2751-3557",
-        "of": [
-          {
-            "id": 170
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 3557,
-              "name": "Brago, King Eternal",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "fcb0c7db-bd07-4c25-b7f8-b6c207e4f6be",
-              "typeLine": "Legendary Creature — Spirit Noble",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/a/0ac3fb08-741a-49e5-9fae-b26819677d24.png?1783928307",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/a/0ac3fb08-741a-49e5-9fae-b26819677d24.jpg?1783928307",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/a/0ac3fb08-741a-49e5-9fae-b26819677d24.jpg?1783928307",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/a/0ac3fb08-741a-49e5-9fae-b26819677d24.jpg?1783928307",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/a/0ac3fb08-741a-49e5-9fae-b26819677d24.jpg?1783928307"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2751,
-              "name": "Strionic Resonator",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cf751552-156f-4f81-ac94-9814dce099f9",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.png?1783917105",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "9.26",
-          "cardmarket": "7.91",
-          "cardkingdom": "12.48"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "WU",
-        "includes": [
-          {
-            "id": 170
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 559,
-              "name": "Infinite blinking of nonland permanents",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 4,
-              "name": "Infinite creature ETB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 3,
-              "name": "Infinite creature LTB",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 69,
-              "name": "Infinite mana artifacts you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 12327,
-        "bracketTag": "S",
-        "description": "Deal combat damage with Brago.\nBrago triggers.\nIn response, activate artifacts you control by tapping them, adding at least {C}{C}.\nActivate Strionic Resonator by paying {2} and tapping itself, copying Brago's triggered ability.\nResolve the copied triggered ability, blinking Strionic Resonator, the artifacts that tapped for mana, and any number of nonland permanents you control.\nRepeat from step 3.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control artifacts that can tap to add at least {2}.\nBrago does not have summoning sickness.\nOpponents cannot block and kill Brago."
       },
       {
         "id": "527-4222",
@@ -6769,7 +6488,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "11.68",
-          "cardmarket": "7.80",
+          "cardmarket": "7.69",
           "cardkingdom": "15.98"
         },
         "status": "OK",
@@ -6777,31 +6496,31 @@
         "identity": "GU",
         "includes": [
           {
-            "id": 28137
+            "id": 2725
           },
           {
             "id": 26311
           },
           {
-            "id": 2725
+            "id": 28137
           },
           {
-            "id": 28221
-          },
-          {
-            "id": 28220
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28218
+            "id": 28216
           },
           {
             "id": 28217
           },
           {
-            "id": 28216
+            "id": 28218
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28221
           },
           {
             "id": 8493
@@ -6837,7 +6556,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 9864,
+        "popularity": 9893,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{U}.\nActivate Freed from the Real's second ability by paying {U}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -6920,7 +6639,7 @@
         "notes": "You want to reduce the affinity creature's cost by {2} or more using its affinity ability. For example, if you choose Ancestral Statue, you need to control two or more attacking creatures.",
         "prices": {
           "tcgplayer": "11.38",
-          "cardmarket": "9.81",
+          "cardmarket": "9.96",
           "cardkingdom": "15.98"
         },
         "status": "OK",
@@ -6997,7 +6716,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 7975,
+        "popularity": 8018,
         "bracketTag": "E",
         "description": "Activate Lightning Greaves's equip ability by paying {0}, targeting the affinity creature.\nMonk Gyatso triggers, airbending the targeted creature.\nThe Lightning Greaves ability fizzles due to no longer having a legal target.\nCast the creature from exile by paying {0} due to its affinity ability.\nRepeat.",
         "manaNeeded": "",
@@ -7083,7 +6802,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "14.19",
-          "cardmarket": "7.74",
+          "cardmarket": "7.68",
           "cardkingdom": "16.48"
         },
         "status": "OK",
@@ -7091,31 +6810,31 @@
         "identity": "GU",
         "includes": [
           {
-            "id": 28221
-          },
-          {
-            "id": 28220
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28137
+            "id": 2725
           },
           {
             "id": 26311
           },
           {
-            "id": 2725
+            "id": 28137
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28221
           },
           {
             "id": 8494
@@ -7151,7 +6870,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 6694,
+        "popularity": 6709,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{U}.\nActivate Pemmin's Aura's first ability by paying {U}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -7234,7 +6953,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "65.03",
-          "cardmarket": "45.30",
+          "cardmarket": "46.92",
           "cardkingdom": "83.98"
         },
         "status": "OK",
@@ -7332,7 +7051,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 5202,
+        "popularity": 5210,
         "bracketTag": "E",
         "description": "Activate Goblin Bombardment by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -7415,7 +7134,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "63.05",
-          "cardmarket": "44.06",
+          "cardmarket": "45.75",
           "cardkingdom": "80.68"
         },
         "status": "OK",
@@ -7513,7 +7232,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 4895,
+        "popularity": 4906,
         "bracketTag": "E",
         "description": "Activate Viscera Seer by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -7596,7 +7315,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "11.87",
-          "cardmarket": "6.63",
+          "cardmarket": "6.65",
           "cardkingdom": "11.98"
         },
         "status": "OK",
@@ -7658,7 +7377,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 4045,
+        "popularity": 4060,
         "bracketTag": "S",
         "description": "Declare Selvala as an attacker.\nHolding priority, activate Selvala by paying {G} and tapping it, adding at least {W}{U}{B}{R}{G}{G}.\nActivate Najeela by paying {W}{U}{B}{R}{G}, untapping all attacking creatures, giving them trample, lifelink and haste, and gaining an additional combat phase after this one.\nRepeat from step 2.",
         "manaNeeded": "{G}",
@@ -7741,8 +7460,8 @@
         "notes": "If the land adds more than one mana on its own, then you may also get other types and/or colors of mana as a result of this combo.",
         "prices": {
           "tcgplayer": "54.66",
-          "cardmarket": "49.60",
-          "cardkingdom": "69.48"
+          "cardmarket": "49.69",
+          "cardkingdom": "74.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -7782,7 +7501,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3647,
+        "popularity": 3671,
         "bracketTag": "R",
         "description": "Cast Badgermole Cub by paying {1}{G}, When it enters, its first ability triggers, earthbending a land that can produce at least {U}.\nCast Freed from the Real by paying its mana cost, attaching it to the earthbent land.\nActivate the land by tapping it, adding at least {U}.\nBadgermole Cub's second ability triggers, adding {G}.\nActivate Freed from the Real by paying {U}, untapping the land.\nRepeat from step 3.",
         "manaNeeded": "{3}{G}{U}",
@@ -7865,7 +7584,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "27.85",
-          "cardmarket": "19.79",
+          "cardmarket": "20.00",
           "cardkingdom": "40.48"
         },
         "status": "OK",
@@ -7915,7 +7634,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 3347,
+        "popularity": 3353,
         "bracketTag": "S",
         "description": "Cast Replication Technique by paying {4}{U}, targeting Parallel Lives.\nReplication Technique's demonstrate ability triggers, causing you to copy it, with the copy targeting Parallel Lives.\nResolve the copy of Replcation Technique, creating two token copies of Parallel Lives.\nResolve the original Replication Technique, creating eight token copies of Parallel Lives.\nCreate a creature token, causing you to instead create 2,048 creature tokens.",
         "manaNeeded": "{4}{U}",
@@ -7998,7 +7717,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "66.96",
-          "cardmarket": "46.37",
+          "cardmarket": "48.16",
           "cardkingdom": "85.48"
         },
         "status": "OK",
@@ -8096,7 +7815,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2905,
+        "popularity": 2914,
         "bracketTag": "E",
         "description": "Activate Carrion Feeder by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -8179,8 +7898,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "48.75",
-          "cardmarket": "32.39",
-          "cardkingdom": "51.98"
+          "cardmarket": "32.46",
+          "cardkingdom": "48.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -8259,7 +7978,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2894,
+        "popularity": 2892,
         "bracketTag": "S",
         "description": "Activate six lands by tapping them, adding at least {4}{U}{U}.\nCast Palinchron by paying {5}{U}{U}.\nWhen Palinchron enters the battlefield, it triggers twice.\nResolve the first trigger, untapping up to seven lands you control.\nActivate six lands by tapping them, adding at least {4}{U}{U}.\nResolve the second Palinchron trigger, untapping up to seven lands you control.\nActivate Palinchron by paying {2}{U}{U}, returning it to your hand from the battlefield.\nRepeat.",
         "manaNeeded": "{1}",
@@ -8267,142 +7986,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "You control at least six mana-producing lands, two of which can produce at least {U}."
-      },
-      {
-        "id": "2751-6286",
-        "of": [
-          {
-            "id": 31170
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 6286,
-              "name": "Unstoppable Plan",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "3f6f4c98-ed7e-4fb1-8bfe-4210a39f77f2",
-              "typeLine": "Enchantment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/a/aaeb5981-7e6a-4ffd-bb02-4757b2e92f08.png?1783907901",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/a/aaeb5981-7e6a-4ffd-bb02-4757b2e92f08.jpg?1783907901",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/a/aaeb5981-7e6a-4ffd-bb02-4757b2e92f08.jpg?1783907901",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/a/aaeb5981-7e6a-4ffd-bb02-4757b2e92f08.jpg?1783907901",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/a/aaeb5981-7e6a-4ffd-bb02-4757b2e92f08.jpg?1783907901"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2751,
-              "name": "Strionic Resonator",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cf751552-156f-4f81-ac94-9814dce099f9",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.png?1783917105",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "8.75",
-          "cardmarket": "7.20",
-          "cardkingdom": "12.98"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 27841
-          },
-          {
-            "id": 31170
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 92,
-              "name": "Infinite mana nonland permanents you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 93,
-              "name": "Infinite untap of nonland permanents you control",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": true,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": true,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 2614,
-        "bracketTag": "S",
-        "description": "At the beginning of your end step, Unstoppable Plan triggers.\nHolding priority, activate any number of other nonland permanents by tapping them, adding at least {3}.\nActivate Strionic Resonator by paying {2} and tapping it, copying Unstoppable Plan's trigger.\nResolve the copy of Unstoppable Plan's trigger, untapping all nonland permanents you control.\nRepeat from step 2.",
-        "manaNeeded": "",
-        "variantCount": 1,
-        "manaValueNeeded": 0,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "Nonland permanents you control can tap to produce at least {3}."
       },
       {
         "id": "3525-7008",
@@ -8478,8 +8061,8 @@
         "notes": "If the land adds more than one mana on its own, then you may also get other types and/or colors of mana as a result of this combo.",
         "prices": {
           "tcgplayer": "57.17",
-          "cardmarket": "49.54",
-          "cardkingdom": "69.98"
+          "cardmarket": "49.68",
+          "cardkingdom": "74.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -8519,7 +8102,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2324,
+        "popularity": 2342,
         "bracketTag": "R",
         "description": "Cast Badgermole Cub by paying {1}{G}, When it enters, its first ability triggers, earthbending a land that can produce at least {U}.\nCast Pemmin's Aura by paying its mana cost, attaching it to the earthbent land.\nActivate the land by tapping it, adding at least {U}.\nBadgermole Cub's second ability triggers, adding {G}.\nActivate Pemmin's Aura by paying {U}, untapping the land.\nRepeat from step 3.",
         "manaNeeded": "{2}{G}{U}{U}",
@@ -8602,7 +8185,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.08",
-          "cardmarket": "3.44",
+          "cardmarket": "3.59",
           "cardkingdom": "6.78"
         },
         "status": "OK",
@@ -8643,7 +8226,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 2316,
+        "popularity": 2314,
         "bracketTag": "R",
         "description": "Activate Lightning Greaves's equip ability by paying {0}, targeting Cephalid Illusionist.\nCephalid Illusionist triggers, causing you to mill three cards.\nResolve the Lightning Greaves ability, attaching it to Cephalid Illusionist.\nRepeat.",
         "manaNeeded": "",
@@ -8726,7 +8309,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "62.99",
-          "cardmarket": "43.86",
+          "cardmarket": "45.55",
           "cardkingdom": "80.48"
         },
         "status": "OK",
@@ -8812,7 +8395,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1626,
+        "popularity": 1627,
         "bracketTag": "E",
         "description": "Activate Yahenni by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -8895,7 +8478,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.01",
-          "cardmarket": "3.03",
+          "cardmarket": "2.93",
           "cardkingdom": "7.48"
         },
         "status": "OK",
@@ -8948,7 +8531,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 1212,
+        "popularity": 1214,
         "bracketTag": "C",
         "description": "Cast Body of Research by paying {G}{G}{G}{U}{U}{U}, creating a 0/0 Fractal creature token, then putting a number of +1/+1 counters on it equal to your deck size.\nCast Rishkar's Expertise by paying {4}{G}{G}, causing you to draw cards equal to Body of Research's power, thus causing you to draw your entire library.",
         "manaNeeded": "{4}{G}{G}{G}{G}{G}{U}{U}{U}",
@@ -9031,8 +8614,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "62.94",
-          "cardmarket": "43.80",
-          "cardkingdom": "80.58"
+          "cardmarket": "45.48",
+          "cardkingdom": "80.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -9138,7 +8721,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 854,
+        "popularity": 859,
         "bracketTag": "E",
         "description": "Activate Woe Strider by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -9221,7 +8804,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "2.80",
-          "cardmarket": "3.68",
+          "cardmarket": "3.69",
           "cardkingdom": "6.98"
         },
         "status": "OK",
@@ -9289,7 +8872,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 761,
+        "popularity": 765,
         "bracketTag": "R",
         "description": "Activate Ominous Seas by removing eight foreshadow counters from it, creating a 8/8 Kraken creature token.\nActivate Greater Good by sacrificing the Kraken token, drawing eight cards and discarding three cards.\nOminous Seas triggers eight times, putting eight foreshadow counters on itself.\nRepeat",
         "manaNeeded": "",
@@ -9403,7 +8986,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "42.79",
-          "cardmarket": "25.61",
+          "cardmarket": "25.09",
           "cardkingdom": "58.47"
         },
         "status": "OK",
@@ -9471,7 +9054,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 676,
+        "popularity": 679,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{G} plus enough mana to cast a creature card from your hand.\nCast a creature card by paying its mana cost.\nHullbreaker Horror triggers, returning Selvala from the battlefield to your hand.\nCast Selvala by paying {1}{G}{G}.\nHullbreaker Horror triggers, returning the creature cast in step 2 from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{G}",
@@ -9585,8 +9168,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "31.81",
-          "cardmarket": "24.09",
-          "cardkingdom": "49.47"
+          "cardmarket": "23.79",
+          "cardkingdom": "48.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -9662,7 +9245,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 675,
+        "popularity": 676,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {3}{G}\nActivate Emiel the Blessed by paying {3}, blinking Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -9776,8 +9359,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "50.03",
-          "cardmarket": "30.47",
-          "cardkingdom": "62.47"
+          "cardmarket": "29.85",
+          "cardkingdom": "63.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -9853,7 +9436,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 654,
+        "popularity": 655,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {3}{G}\nActivate Emiel the Blessed by paying {3}, blinking Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -9936,7 +9519,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "63.75",
-          "cardmarket": "44.06",
+          "cardmarket": "45.80",
           "cardkingdom": "81.98"
         },
         "status": "OK",
@@ -9956,10 +9539,10 @@
             "id": 13439
           },
           {
-            "id": 28929
+            "id": 28928
           },
           {
-            "id": 28928
+            "id": 28929
           },
           {
             "id": 29740
@@ -10031,7 +9614,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 631,
+        "popularity": 634,
         "bracketTag": "R",
         "description": "Cast Murderous Redcap by paying {2}{B/R}{B/R}.\nWhen Murderous Redcap enters the battlefield, it and The Great Henge trigger.\nResolve the The Great Henge trigger, putting a +1/+1 counter on Murderous Redcap and causing you to draw a card.\nResolve the Murderous Redcap trigger, dealing an amount of damage to itself equal to its power.\nMurderous Redcap dies as a state-based action due to having 0 toughness.\nMurderous Redcap's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nRepeat from step 2.",
         "manaNeeded": "{2}{B/R}{B/R}",
@@ -10117,7 +9700,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.28",
-          "cardmarket": "3.99",
+          "cardmarket": "4.03",
           "cardkingdom": "8.48"
         },
         "status": "OK",
@@ -10224,7 +9807,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 469,
+        "popularity": 471,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{W}.\nActivate Seedcradle Witch by paying {2}{G}{W}, untapping Selvala and giving it +3/+3 until end of turn.\nRepeat.",
         "manaNeeded": "{G}, plus an additional {1} available if you do not control a creature with power 5 or greater",
@@ -10307,7 +9890,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "62.98",
-          "cardmarket": "43.79",
+          "cardmarket": "45.50",
           "cardkingdom": "80.48"
         },
         "status": "OK",
@@ -10405,7 +9988,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 428,
+        "popularity": 430,
         "bracketTag": "O",
         "description": "Activate Bartolomé del Presidio by sacrificing the persist creature.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nResolve the ability from step 1.\nRepeat.",
         "manaNeeded": "",
@@ -10519,8 +10102,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "24.57",
-          "cardmarket": "19.23",
-          "cardkingdom": "45.47"
+          "cardmarket": "19.03",
+          "cardkingdom": "43.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -10670,7 +10253,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "27.80",
-          "cardmarket": "19.74",
+          "cardmarket": "19.92",
           "cardkingdom": "40.34"
         },
         "status": "OK",
@@ -10738,7 +10321,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 396,
+        "popularity": 397,
         "bracketTag": "E",
         "description": "Activate Tooth and Claw by sacrificing two creatures, creating two 3/1 Carnivore creature tokens.\nRepeat.",
         "manaNeeded": "",
@@ -10821,7 +10404,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "2.82",
-          "cardmarket": "3.25",
+          "cardmarket": "3.24",
           "cardkingdom": "5.48"
         },
         "status": "OK",
@@ -10874,7 +10457,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 367,
+        "popularity": 366,
         "bracketTag": "R",
         "description": "Cast Body of Research by paying {G}{G}{G}{U}{U}{U}, creating a 0/0 Fractal creature token and putting a number of +1/+1 counters on it equal to the number of cards in your library.\nActivate Greater Good by sacrificing the Fractal, causing you to draw cards equal to the Fractal's power, then discard three cards.",
         "manaNeeded": "{G}{G}{G}{U}{U}{U}",
@@ -10988,7 +10571,7 @@
         "notes": "The chosen Eldrazi must be colorless.",
         "prices": {
           "tcgplayer": "69.91",
-          "cardmarket": "51.69",
+          "cardmarket": "51.55",
           "cardkingdom": "80.97"
         },
         "status": "OK",
@@ -11065,7 +10648,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 337,
+        "popularity": 338,
         "bracketTag": "E",
         "description": "Activate Lightning Greaves's equip ability by paying {0}, targeting the Eldrazi.\nMonk Gyatso triggers, airbending the Eldrazi.\nLightning Greaves's ability fizzles due to no longer having a legal target.\nCast the Eldrazi from exile by paying {0} due to Eye of Ugin.\nRepeat.",
         "manaNeeded": "",
@@ -11151,8 +10734,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "10.94",
-          "cardmarket": "5.57",
-          "cardkingdom": "14.28"
+          "cardmarket": "5.66",
+          "cardkingdom": "12.98"
         },
         "status": "OK",
         "spoiler": false,
@@ -11290,8 +10873,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "62.97",
-          "cardmarket": "43.84",
-          "cardkingdom": "80.58"
+          "cardmarket": "45.53",
+          "cardkingdom": "80.48"
         },
         "status": "OK",
         "spoiler": false,
@@ -11388,7 +10971,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 213,
+        "popularity": 214,
         "bracketTag": "E",
         "description": "Activate Thermopod by sacrificing the persist creature, adding {R}.\nThe sacrificed creature's persist ability triggers, returning it from your graveyard to the battlefield with a -1/-1 counter on it.\nThe Great Henge triggers, putting a +1/+1 counter on the persist creature and causing you to draw a card.\nThe -1/-1 and +1/+1 counters are removed as a state-based action.\nRepeat.",
         "manaNeeded": "",
@@ -11474,7 +11057,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.13",
-          "cardmarket": "4.02",
+          "cardmarket": "4.04",
           "cardkingdom": "7.28"
         },
         "status": "OK",
@@ -11625,7 +11208,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "4.68",
-          "cardmarket": "3.11",
+          "cardmarket": "3.26",
           "cardkingdom": "6.34"
         },
         "status": "OK",
@@ -11666,7 +11249,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 193,
+        "popularity": 194,
         "bracketTag": "R",
         "description": "Activate Lightning Greaves's equip ability by paying {0}, targeting Cephalid Aristocrat.\nCephalid Aristocrat triggers, causing you to mill two cards.\nResolve Lightning Greaves's ability, attaching it to Cephalid Aristrocrat.\nActivate Lightning Greaves's equip ability by paying {0}, attaching it to another creature you control.\nRepeat.",
         "manaNeeded": "",
@@ -11749,7 +11332,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "4.46",
-          "cardmarket": "3.94",
+          "cardmarket": "3.91",
           "cardkingdom": "6.98"
         },
         "status": "OK",
@@ -11844,7 +11427,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 183,
+        "popularity": 184,
         "bracketTag": "O",
         "description": "During an opponent's turn, activate Greater Good by sacrificing another creature with power one or greater.\nIf the creature was a Tentacle, The Watcher triggers, untapping up to one Kraken you control and putting a stun counter on up to one nonland permanent.\nResolve the Greater Good ability, causing you to draw cards equal to the sacrificed creature's power and then discard three cards.\nFor each card drawn this way, The Watcher's first ability triggers, creating that many 1/1 Tentacle creature tokens.\nRepeat.",
         "manaNeeded": "",
@@ -11958,7 +11541,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "39.45",
-          "cardmarket": "22.83",
+          "cardmarket": "22.29",
           "cardkingdom": "52.47"
         },
         "status": "OK",
@@ -12029,7 +11612,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 177,
+        "popularity": 178,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {3}{G}{U}.\nActivate Selvala by paying {1}{U}, blinking it.\nWhen Selvala enters, Deadeye Navigator's soulbond ability triggers, repairing it and Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -12115,7 +11698,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "4.89",
-          "cardmarket": "3.81",
+          "cardmarket": "3.84",
           "cardkingdom": "6.84"
         },
         "status": "OK",
@@ -12123,31 +11706,31 @@
         "identity": "GW",
         "includes": [
           {
-            "id": 2725
-          },
-          {
-            "id": 26311
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28219
+            "id": 28221
           },
           {
             "id": 28220
           },
           {
-            "id": 28221
+            "id": 28219
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 26311
+          },
+          {
+            "id": 2725
           },
           {
             "id": 6943
@@ -12183,7 +11766,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 173,
+        "popularity": 174,
         "bracketTag": "S",
         "description": "Activate Selvala by tapping it and paying {G}, adding {W}{G} and three mana of any color.\nActivate Gauntlets of Light by paying {2}{W}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -12266,7 +11849,7 @@
         "notes": "If you choose a creature with mobilize 2 or higher, this combo makes extra Warrior tokens each loop.",
         "prices": {
           "tcgplayer": "41.65",
-          "cardmarket": "23.35",
+          "cardmarket": "22.74",
           "cardkingdom": "54.98"
         },
         "status": "OK",
@@ -12486,16 +12069,13 @@
         "notes": "",
         "prices": {
           "tcgplayer": "4.90",
-          "cardmarket": "3.77",
+          "cardmarket": "3.81",
           "cardkingdom": "6.84"
         },
         "status": "OK",
         "spoiler": false,
         "identity": "GW",
         "includes": [
-          {
-            "id": 28218
-          },
           {
             "id": 28221
           },
@@ -12504,6 +12084,9 @@
           },
           {
             "id": 28219
+          },
+          {
+            "id": 28218
           },
           {
             "id": 28217
@@ -12596,7 +12179,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 150,
+        "popularity": 152,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {4}{G}{G}{G}{W}.\nActivate Meticulous Excavation by paying {2}{W}, returning Selvala from the battlefield to your hand.\nCast Selvala by paying its mana cost.\nRepeat.",
         "manaNeeded": "{G}",
@@ -12710,8 +12293,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "21.23",
-          "cardmarket": "16.45",
-          "cardkingdom": "39.47"
+          "cardmarket": "16.23",
+          "cardkingdom": "37.47"
         },
         "status": "OK",
         "spoiler": false,
@@ -12781,7 +12364,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 149,
+        "popularity": 150,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {3}{G}{U}.\nActivate Selvala by paying {1}{U}, blinking it.\nWhen Selvala enters, Deadeye Navigator's soulbond ability triggers, repairing it and Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -12895,7 +12478,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "16.09",
-          "cardmarket": "13.46",
+          "cardmarket": "13.65",
           "cardkingdom": "22.47"
         },
         "status": "OK",
@@ -12990,7 +12573,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 134,
+        "popularity": 138,
         "bracketTag": "S",
         "description": "Activate Lightning Greaves' equip ability by paying {0}, targeting Selvala.\nMonk Gyatso triggers. Choose not to airbend Selvala.\nResolve Lightning Greaves' ability, attaching it to Selvala.\nActivate Selvala by paying {G} and tapping it, adding at least {2}{G}\nActivate Lightning Greaves' equip ability by paying {0}, attaching it to Monk Gyatso.\nActivate Lightning Greaves' equip ability by paying {0}, targeting Selvala.\nMonk Gyatso triggers, airbending Selvala.\nThe Lightning Greaves ability fizzles due to no longer having a legal target.\nCast Selvala from exile by paying {2}.\nRepeat.",
         "manaNeeded": "{G}",
@@ -13073,7 +12656,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "1.80",
-          "cardmarket": "2.61",
+          "cardmarket": "2.60",
           "cardkingdom": "4.78"
         },
         "status": "OK",
@@ -13294,7 +12877,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "39.11",
-          "cardmarket": "22.76",
+          "cardmarket": "22.22",
           "cardkingdom": "51.77"
         },
         "status": "OK",
@@ -13362,7 +12945,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 120,
+        "popularity": 122,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{G} plus enough mana to cast a creature card from your hand.\nCast a creature card by paying its mana cost.\nTidespout Tyrant triggers, returning Selvala from the battlefield to your hand.\nCast Selvala by paying {1}{G}{G}.\nTidespout Tyrant triggers, returning the creature cast in step 2 from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{G}",
@@ -13476,7 +13059,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "20.87",
-          "cardmarket": "16.30",
+          "cardmarket": "16.34",
           "cardkingdom": "29.47"
         },
         "status": "OK",
@@ -13544,7 +13127,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 114,
+        "popularity": 116,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{G} plus enough mana to cast a creature card from your hand.\nCast a creature card by paying its mana cost.\nHullbreaker Horror triggers, returning Selvala from the battlefield to your hand.\nCast Selvala by paying {1}{G}{G}.\nHullbreaker Horror triggers, returning the creature cast in step 2 from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{G}",
@@ -13627,7 +13210,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "62.79",
-          "cardmarket": "43.66",
+          "cardmarket": "45.36",
           "cardkingdom": "80.34"
         },
         "status": "OK",
@@ -13811,7 +13394,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "5.11",
-          "cardmarket": "4.08",
+          "cardmarket": "4.12",
           "cardkingdom": "7.18"
         },
         "status": "OK",
@@ -13819,34 +13402,34 @@
         "identity": "GWU",
         "includes": [
           {
-            "id": 2725
-          },
-          {
-            "id": 26311
-          },
-          {
-            "id": 27045
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28219
+            "id": 28221
           },
           {
             "id": 28220
           },
           {
-            "id": 28221
+            "id": 28219
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 27045
+          },
+          {
+            "id": 26311
+          },
+          {
+            "id": 2725
           },
           {
             "id": 8184
@@ -13909,7 +13492,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 73,
+        "popularity": 74,
         "bracketTag": "S",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {3}{G}{W}{U}.\nActivate High Alert by paying {2}{W}{U}, untapping Selvala.\nRepeat.",
         "manaNeeded": "{G}",
@@ -13917,6 +13500,178 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Selvala does not have summoning sickness.\nYou control a creature with power 6 or greater."
+      },
+      {
+        "id": "527-7500",
+        "of": [
+          {
+            "id": 2725
+          }
+        ],
+        "uses": [
+          {
+            "card": {
+              "id": 527,
+              "name": "Selvala, Heart of the Wilds",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "1d725121-e50c-42f0-9128-56802f07c89e",
+              "typeLine": "Legendary Creature — Elf Scout",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.png?1783904541",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": "without summoning sickness"
+          },
+          {
+            "card": {
+              "id": 7500,
+              "name": "Ringing Strike Mastery",
+              "faces": 1,
+              "spoiler": false,
+              "oracleId": "334ffdc4-9fe6-4a7f-bf5d-bcd88adab715",
+              "typeLine": "Enchantment — Aura",
+              "imageUriBackPng": null,
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.png?1783907391",
+              "imageUriBackLarge": null,
+              "imageUriBackSmall": null,
+              "imageUriBackNormal": null,
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391",
+              "layoutRotationFront": null,
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391",
+              "imageUriBackArtCrop": null,
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391"
+            },
+            "quantity": 1,
+            "usedFace": null,
+            "zoneLocations": [
+              "B"
+            ],
+            "exileCardState": "",
+            "mustBeCommander": false,
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "battlefieldCardState": "attached to Selvala"
+          }
+        ],
+        "notes": "",
+        "prices": {
+          "tcgplayer": "4.84",
+          "cardmarket": "3.77",
+          "cardkingdom": "6.84"
+        },
+        "status": "OK",
+        "spoiler": false,
+        "identity": "GU",
+        "includes": [
+          {
+            "id": 28221
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28137
+          },
+          {
+            "id": 27045
+          },
+          {
+            "id": 26311
+          },
+          {
+            "id": 2725
+          },
+          {
+            "id": 31521
+          }
+        ],
+        "produces": [
+          {
+            "feature": {
+              "id": 5,
+              "name": "Infinite colored mana",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 65,
+              "name": "Infinite mana creatures you control can produce",
+              "status": "S",
+              "uncountable": true
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 57,
+              "name": "Infinite untap of creatures you control",
+              "status": "H",
+              "uncountable": true
+            },
+            "quantity": 1
+          }
+        ],
+        "requires": [],
+        "legalities": {
+          "brawl": true,
+          "predh": false,
+          "legacy": true,
+          "modern": false,
+          "pauper": false,
+          "alchemy": false,
+          "pioneer": false,
+          "vintage": true,
+          "standard": false,
+          "commander": true,
+          "premodern": false,
+          "oathbreaker": true,
+          "standardBrawl": false,
+          "pauperCommander": false,
+          "competitiveBrawl": true,
+          "pauperCommanderMain": false
+        },
+        "popularity": 67,
+        "bracketTag": "S",
+        "description": "Activate Selvala by paying {G} and tapping it, adding at least {6}{G}\nActivate Ringing Strike Mastery by paying {5}, untapping Selvala.\nRepeat.",
+        "manaNeeded": "{G}",
+        "variantCount": 234,
+        "manaValueNeeded": 1,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "You control a creature with power 7 or greater."
       },
       {
         "id": "527-542-5295",
@@ -14023,8 +13778,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "20.89",
-          "cardmarket": "16.38",
-          "cardkingdom": "38.77"
+          "cardmarket": "16.16",
+          "cardkingdom": "36.77"
         },
         "status": "OK",
         "spoiler": false,
@@ -14091,7 +13846,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 68,
+        "popularity": 67,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{G} plus enough mana to cast a creature card from your hand.\nCast a creature card by paying its mana cost.\nTidespout Tyrant triggers, returning Selvala from the battlefield to your hand.\nCast Selvala by paying {1}{G}{G}.\nTidespout Tyrant triggers, returning the creature cast in step 2 from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{G}",
@@ -14099,178 +13854,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "You have a creature card in hand that can be cast using only colored mana.\nSelvala can tap to produce at least {1}{G}{G}{G} plus enough mana to cast the other creature card."
-      },
-      {
-        "id": "527-7500",
-        "of": [
-          {
-            "id": 2725
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 527,
-              "name": "Selvala, Heart of the Wilds",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "1d725121-e50c-42f0-9128-56802f07c89e",
-              "typeLine": "Legendary Creature — Elf Scout",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.png?1783904541",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/1/812856be-cf51-42de-96d2-4ac91e71d442.jpg?1783904541"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "without summoning sickness"
-          },
-          {
-            "card": {
-              "id": 7500,
-              "name": "Ringing Strike Mastery",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "334ffdc4-9fe6-4a7f-bf5d-bcd88adab715",
-              "typeLine": "Enchantment — Aura",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.png?1783907391",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/f/ff4fc7ec-05f5-479a-8fbb-31e12a67b57e.jpg?1783907391"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": "attached to Selvala"
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "4.84",
-          "cardmarket": "3.73",
-          "cardkingdom": "6.84"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "GU",
-        "includes": [
-          {
-            "id": 28221
-          },
-          {
-            "id": 28220
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28137
-          },
-          {
-            "id": 27045
-          },
-          {
-            "id": 26311
-          },
-          {
-            "id": 2725
-          },
-          {
-            "id": 31521
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 5,
-              "name": "Infinite colored mana",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 65,
-              "name": "Infinite mana creatures you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 57,
-              "name": "Infinite untap of creatures you control",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": true,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": true,
-          "pauperCommanderMain": false
-        },
-        "popularity": 67,
-        "bracketTag": "S",
-        "description": "Activate Selvala by paying {G} and tapping it, adding at least {6}{G}\nActivate Ringing Strike Mastery by paying {5}, untapping Selvala.\nRepeat.",
-        "manaNeeded": "{G}",
-        "variantCount": 234,
-        "manaValueNeeded": 1,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control a creature with power 7 or greater."
       },
       {
         "id": "3139-5686--5",
@@ -14346,7 +13929,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "63.02",
-          "cardmarket": "43.82",
+          "cardmarket": "45.51",
           "cardkingdom": "80.48"
         },
         "status": "OK",
@@ -14570,7 +14153,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "38.02",
-          "cardmarket": "21.66",
+          "cardmarket": "21.11",
           "cardkingdom": "49.97"
         },
         "status": "OK",
@@ -14755,7 +14338,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "17.19",
-          "cardmarket": "13.45",
+          "cardmarket": "13.47",
           "cardkingdom": "22.77"
         },
         "status": "OK",
@@ -14823,7 +14406,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 39,
+        "popularity": 38,
         "bracketTag": "E",
         "description": "Activate Selvala by paying {G} and tapping it, adding at least {1}{G}{G}{G} plus enough mana to cast a creature card from your hand.\nCast a creature card by paying its mana cost.\nTidespout Tyrant triggers, returning Selvala from the battlefield to your hand.\nCast Selvala by paying {1}{G}{G}.\nTidespout Tyrant triggers, returning the creature cast in step 2 from the battlefield to your hand.\nRepeat.",
         "manaNeeded": "{G}",
@@ -14937,8 +14520,8 @@
         "notes": "",
         "prices": {
           "tcgplayer": "19.80",
-          "cardmarket": "15.28",
-          "cardkingdom": "36.97"
+          "cardmarket": "15.05",
+          "cardkingdom": "34.97"
         },
         "status": "OK",
         "spoiler": false,
@@ -15094,7 +14677,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "4.75",
-          "cardmarket": "3.71",
+          "cardmarket": "3.75",
           "cardkingdom": "6.84"
         },
         "status": "OK",
@@ -15102,31 +14685,31 @@
         "identity": "GU",
         "includes": [
           {
-            "id": 28221
-          },
-          {
-            "id": 28220
-          },
-          {
-            "id": 28219
-          },
-          {
-            "id": 28218
-          },
-          {
-            "id": 28217
-          },
-          {
-            "id": 28216
-          },
-          {
-            "id": 28137
+            "id": 2725
           },
           {
             "id": 26311
           },
           {
-            "id": 2725
+            "id": 28137
+          },
+          {
+            "id": 28216
+          },
+          {
+            "id": 28217
+          },
+          {
+            "id": 28218
+          },
+          {
+            "id": 28219
+          },
+          {
+            "id": 28220
+          },
+          {
+            "id": 28221
           },
           {
             "id": 8837
@@ -15170,212 +14753,6 @@
         "manaValueNeeded": 1,
         "easyPrerequisites": "",
         "notablePrerequisites": "Singing Bell Strike attached to Selvala.\nSelvala does not have summoning sickness.\nYou control a creature with a power of at least eight."
-      },
-      {
-        "id": "1209-2751-4067",
-        "of": [
-          {
-            "id": 14499
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1209,
-              "name": "Kozilek, Butcher of Truth",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "7b8528b0-71eb-4c9e-bed9-aa2d2e84038f",
-              "typeLine": "Legendary Creature — Eldrazi",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.png?1783921940",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?1783921940",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?1783921940",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?1783921940",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/2/d27cf7b7-7982-46bd-a559-7789c0e74bae.jpg?1783921940"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4067,
-              "name": "Mind Over Matter",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "656afde2-cdf3-4907-a0fc-7ac93f5d3e03",
-              "typeLine": "Enchantment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.png?1783946523",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2751,
-              "name": "Strionic Resonator",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cf751552-156f-4f81-ac94-9814dce099f9",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.png?1783917105",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "95.57",
-          "cardmarket": "65.74",
-          "cardkingdom": "106.97"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 26878
-          },
-          {
-            "id": 28463
-          },
-          {
-            "id": 14499
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 61,
-              "name": "Infinite draw triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 62,
-              "name": "Infinite looting",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 36,
-              "name": "Infinite self-discard triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 292,
-              "name": "Near-infinite card draw",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1032,
-              "name": "Near-infinite mana permanents you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 996,
-              "name": "Near-infinite untap of permanents you control",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 18,
-        "bracketTag": "E",
-        "description": "Cast Kozilek by paying {10}, triggering Kozilek.\nHolding priority, activate the mana-producing permanent by tapping it, adding at least {1}.\nActivate Strionic Resonator by paying {2} and tapping it, copying Kozilek's trigger.\nResolve the copy of Kozilek's trigger, causing you to draw four cards.\nActivate Mind over Matter by discarding a card, untapping Lithoform Engine.\nActivate Mind over Matter by discarding a card, untapping a mana-producing permanent.\nActivate the mana-producing permanent by tapping it, adding at least {1}.\nActivate Mind over Matter by discarding a card, untapping a mana-producing permanent.\nRepeat from step 2.",
-        "manaNeeded": "{11}",
-        "variantCount": 1,
-        "manaValueNeeded": 11,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control a mana-producing permanent that can tap to produce at least {1}."
       },
       {
         "id": "3473-7841",
@@ -15492,7 +14869,7 @@
           "competitiveBrawl": false,
           "pauperCommanderMain": false
         },
-        "popularity": 14,
+        "popularity": 15,
         "bracketTag": "R",
         "description": "Cast Transcendence by paying {3}{W}{W}{W}.\nTranscendence triggers due to you having 20 or more life. However, you cannot lose the game due to Darksteel Angel.\nStep 2 repeats in an infinite loop, causing the game to end in a draw if it isn't interacted with.",
         "manaNeeded": "{3}{W}{W}{W}",
@@ -15606,7 +14983,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "27.71",
-          "cardmarket": "22.84",
+          "cardmarket": "22.92",
           "cardkingdom": "46.97"
         },
         "status": "OK",
@@ -15761,7 +15138,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "25.56",
-          "cardmarket": "21.91",
+          "cardmarket": "22.04",
           "cardkingdom": "44.47"
         },
         "status": "OK",
@@ -15810,212 +15187,6 @@
         "manaValueNeeded": 5,
         "easyPrerequisites": "",
         "notablePrerequisites": "Emrakul has the greatest power among non-Human creatures you control.\nYou have no other cards in hand."
-      },
-      {
-        "id": "1944-2751-4067",
-        "of": [
-          {
-            "id": 14501
-          }
-        ],
-        "uses": [
-          {
-            "card": {
-              "id": 1944,
-              "name": "Kozilek, the Great Distortion",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "4c1c1537-e519-4e2f-9bc2-d34b289d4487",
-              "typeLine": "Legendary Creature — Eldrazi",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/4/c41554e7-2a07-4cc7-b01b-44deed08e588.png?1783915732",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/4/c41554e7-2a07-4cc7-b01b-44deed08e588.jpg?1783915732",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/4/c41554e7-2a07-4cc7-b01b-44deed08e588.jpg?1783915732",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/4/c41554e7-2a07-4cc7-b01b-44deed08e588.jpg?1783915732",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/4/c41554e7-2a07-4cc7-b01b-44deed08e588.jpg?1783915732"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "H"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 4067,
-              "name": "Mind Over Matter",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "656afde2-cdf3-4907-a0fc-7ac93f5d3e03",
-              "typeLine": "Enchantment",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.png?1783946523",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1783946523"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          },
-          {
-            "card": {
-              "id": 2751,
-              "name": "Strionic Resonator",
-              "faces": 1,
-              "spoiler": false,
-              "oracleId": "cf751552-156f-4f81-ac94-9814dce099f9",
-              "typeLine": "Artifact",
-              "imageUriBackPng": null,
-              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.png?1783917105",
-              "imageUriBackLarge": null,
-              "imageUriBackSmall": null,
-              "imageUriBackNormal": null,
-              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "layoutRotationFront": null,
-              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105",
-              "imageUriBackArtCrop": null,
-              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/9/b9edb215-f967-4968-905e-d1dc3b5d3424.jpg?1783917105"
-            },
-            "quantity": 1,
-            "usedFace": null,
-            "zoneLocations": [
-              "B"
-            ],
-            "exileCardState": "",
-            "mustBeCommander": false,
-            "libraryCardState": "",
-            "graveyardCardState": "",
-            "battlefieldCardState": ""
-          }
-        ],
-        "notes": "",
-        "prices": {
-          "tcgplayer": "59.24",
-          "cardmarket": "38.04",
-          "cardkingdom": "63.97"
-        },
-        "status": "OK",
-        "spoiler": false,
-        "identity": "U",
-        "includes": [
-          {
-            "id": 26878
-          },
-          {
-            "id": 28463
-          },
-          {
-            "id": 14501
-          }
-        ],
-        "produces": [
-          {
-            "feature": {
-              "id": 61,
-              "name": "Infinite draw triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 62,
-              "name": "Infinite looting",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 36,
-              "name": "Infinite self-discard triggers",
-              "status": "H",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 292,
-              "name": "Near-infinite card draw",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 1032,
-              "name": "Near-infinite mana permanents you control can produce",
-              "status": "S",
-              "uncountable": true
-            },
-            "quantity": 1
-          },
-          {
-            "feature": {
-              "id": 996,
-              "name": "Near-infinite untap of permanents you control",
-              "status": "C",
-              "uncountable": true
-            },
-            "quantity": 1
-          }
-        ],
-        "requires": [],
-        "legalities": {
-          "brawl": false,
-          "predh": false,
-          "legacy": true,
-          "modern": false,
-          "pauper": false,
-          "alchemy": false,
-          "pioneer": false,
-          "vintage": true,
-          "standard": false,
-          "commander": true,
-          "premodern": false,
-          "oathbreaker": true,
-          "standardBrawl": false,
-          "pauperCommander": false,
-          "competitiveBrawl": false,
-          "pauperCommanderMain": false
-        },
-        "popularity": 4,
-        "bracketTag": "E",
-        "description": "Cast Kozilek by paying {8}{C}{C}, triggering Kozilek.\nHolding priority, activate the mana-producing permanent by tapping it, adding at least {1}.\nActivate Strionic Resonator by paying {2} and tapping it, copying Kozilek's trigger.\nResolve the copy of Kozilek's trigger, causing you to draw four cards.\nActivate Mind over Matter by discarding a card, untapping Lithoform Engine.\nActivate Mind over Matter by discarding a card, untapping a mana-producing permanent.\nActivate the mana-producing permanent by tapping it, adding at least {1}.\nActivate Mind over Matter by discarding a card, untapping a mana-producing permanent.\nRepeat from step 2.",
-        "manaNeeded": "{9}{C}{C}",
-        "variantCount": 1,
-        "manaValueNeeded": 11,
-        "easyPrerequisites": "",
-        "notablePrerequisites": "You control a mana-producing permanent that can tap to produce at least {1}.\nYou have less than five cards in hand."
       },
       {
         "id": "876-7070-7908",
@@ -16122,7 +15293,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "12.05",
-          "cardmarket": "9.83",
+          "cardmarket": "10.12",
           "cardkingdom": "16.47"
         },
         "status": "OK",
@@ -16196,7 +15367,7 @@
           "competitiveBrawl": true,
           "pauperCommanderMain": false
         },
-        "popularity": 2,
+        "popularity": 3,
         "bracketTag": "S",
         "description": "Activate Lightning Greaves' equip ability by paying {0}, targeting The Notary Hobbits.\nMonk Gyatso triggers. Choose not to airbend The Notary Hobbits.\nResolve Lightning Greaves' ability, attaching it to The Notary Hobbits.\nActivate The Notary Hobbits by tapping it, adding at least {C}{C}.\nActivate Lightning Greaves' equip ability by paying {0}, attaching it to Monk Gyatso.\nActivate Lightning Greaves' equip ability by paying {0}, targeting The Notary Hobbits.\nMonk Gyatso triggers, airbending The Notary Hobbits.\nThe Lightning Greaves ability fizzles due to no longer having a legal target.\nCast The Notary Hobbits from exile by paying {2}.\nRepeat.",
         "manaNeeded": "",
@@ -16279,7 +15450,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.80",
-          "cardmarket": "0.10",
+          "cardmarket": "0.24",
           "cardkingdom": "0.84"
         },
         "status": "OK",
@@ -16287,10 +15458,10 @@
         "identity": "GU",
         "includes": [
           {
-            "id": 2725
+            "id": 28215
           },
           {
-            "id": 28215
+            "id": 2725
           }
         ],
         "produces": [
@@ -16406,7 +15577,7 @@
         "notes": "",
         "prices": {
           "tcgplayer": "0.71",
-          "cardmarket": "0.08",
+          "cardmarket": "0.22",
           "cardkingdom": "0.84"
         },
         "status": "OK",
@@ -16414,10 +15585,10 @@
         "identity": "GU",
         "includes": [
           {
-            "id": 2725
+            "id": 28215
           },
           {
-            "id": 28215
+            "id": 2725
           }
         ],
         "produces": [
@@ -16623,7 +15794,7 @@
         "notes": "Moritte can only be your commander if the sources from both templates fit within its commander identity.",
         "prices": {
           "tcgplayer": "0.22",
-          "cardmarket": "0.07",
+          "cardmarket": "0.10",
           "cardkingdom": "0.35"
         },
         "status": "OK",

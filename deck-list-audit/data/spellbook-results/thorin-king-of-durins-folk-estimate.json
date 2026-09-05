@@ -133,6 +133,32 @@
     },
     {
       "card": {
+        "id": 3269,
+        "name": "Ascend from Avernus",
+        "oracleId": "451e8ece-7389-4d52-8bc9-450cb5e53e6a",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.png?1783922821",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
         "id": 7825,
         "name": "Bifur, Melodic Rider",
         "oracleId": "b8d563e4-e2bc-4e8b-8841-6655beff9138",
@@ -549,32 +575,6 @@
     },
     {
       "card": {
-        "id": 486,
-        "name": "Liquimetal Torque",
-        "oracleId": "b7d4b7dd-fbb1-4ca3-875f-ef13a95e66ad",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Artifact",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/3/13c6101a-da40-4785-8ccb-4e779bbbdb55.png?1783926804",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/3/13c6101a-da40-4785-8ccb-4e779bbbdb55.jpg?1783926804",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/3/13c6101a-da40-4785-8ccb-4e779bbbdb55.jpg?1783926804",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/3/13c6101a-da40-4785-8ccb-4e779bbbdb55.jpg?1783926804",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/3/13c6101a-da40-4785-8ccb-4e779bbbdb55.jpg?1783926804",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 1486,
         "name": "Magda, Brazen Outlaw",
         "oracleId": "3d268e48-3004-4384-bf52-e63243fb5e02",
@@ -627,32 +627,6 @@
     },
     {
       "card": {
-        "id": 2506,
-        "name": "Molten Echoes",
-        "oracleId": "26486a42-4dc6-472b-9a9b-3c3ca78cc3b5",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Enchantment",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/6/461d9f1c-53a4-48a6-bafb-0e70099f276c.png?1783924947",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/6/461d9f1c-53a4-48a6-bafb-0e70099f276c.jpg?1783924947",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/6/461d9f1c-53a4-48a6-bafb-0e70099f276c.jpg?1783924947",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/6/461d9f1c-53a4-48a6-bafb-0e70099f276c.jpg?1783924947",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/6/461d9f1c-53a4-48a6-bafb-0e70099f276c.jpg?1783924947",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
-    {
-      "card": {
         "id": 2397,
         "name": "Panharmonicon",
         "oracleId": "76678885-3674-443d-b9a2-2a460cf6aac0",
@@ -690,6 +664,32 @@
         "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/b/bb979a96-a57d-4fb5-8ebe-0bd398272abe.jpg?1783939220",
         "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/b/bb979a96-a57d-4fb5-8ebe-0bd398272abe.jpg?1783939220",
         "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/b/bb979a96-a57d-4fb5-8ebe-0bd398272abe.jpg?1783939220",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1465,
+        "name": "Sevinne's Reclamation",
+        "oracleId": "1b9f9f5b-8712-4f00-90cb-1b7b9970eccc",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/d/8deab1ef-4219-4767-a3c4-b61250d0ebe0.png?1783903800",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/d/8deab1ef-4219-4767-a3c4-b61250d0ebe0.jpg?1783903800",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/d/8deab1ef-4219-4767-a3c4-b61250d0ebe0.jpg?1783903800",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/d/8deab1ef-4219-4767-a3c4-b61250d0ebe0.jpg?1783903800",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/d/8deab1ef-4219-4767-a3c4-b61250d0ebe0.jpg?1783903800",
         "layoutRotationFront": null,
         "imageUriBackPng": null,
         "imageUriBackLarge": null,
@@ -910,46 +910,9 @@
       "gameChanger": false,
       "massLandDenial": false,
       "extraTurn": false
-    },
-    {
-      "card": {
-        "id": 5905,
-        "name": "Warleader's Call",
-        "oracleId": "a751c07b-fc21-4854-96e7-f71abf4e86c9",
-        "spoiler": false,
-        "faces": 1,
-        "typeLine": "Enchantment",
-        "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/3/b3e8f8bd-1c8b-4a7c-96c4-57a247ce9ccc.png?1783912831",
-        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/3/b3e8f8bd-1c8b-4a7c-96c4-57a247ce9ccc.jpg?1783912831",
-        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/3/b3e8f8bd-1c8b-4a7c-96c4-57a247ce9ccc.jpg?1783912831",
-        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/3/b3e8f8bd-1c8b-4a7c-96c4-57a247ce9ccc.jpg?1783912831",
-        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/3/b3e8f8bd-1c8b-4a7c-96c4-57a247ce9ccc.jpg?1783912831",
-        "layoutRotationFront": null,
-        "imageUriBackPng": null,
-        "imageUriBackLarge": null,
-        "imageUriBackNormal": null,
-        "imageUriBackSmall": null,
-        "imageUriBackArtCrop": null
-      },
-      "quantity": 1,
-      "banned": false,
-      "gameChanger": false,
-      "massLandDenial": false,
-      "extraTurn": false
     }
   ],
   "templates": [
-    {
-      "template": {
-        "id": 112,
-        "name": "Effects that Alter a Creature's Power/Toughness (Anthem Effects)",
-        "scryfallQuery": null,
-        "scryfallApi": null
-      },
-      "quantity": 1,
-      "massLandDenial": false,
-      "extraTurn": false
-    },
     {
       "template": {
         "id": 152,

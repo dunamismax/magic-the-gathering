@@ -57,10 +57,10 @@
 1 Skyshroud Claim
 1 Sol Ring
 1 Springleaf Parade
-1 Strionic Resonator
 1 Summon: Bahamut
+1 Sylvan Library
+1 Tamiyo's Safekeeping
 1 The Great Henge
-1 The Shire
 1 The Ten Rings
 1 Thousand-Year Elixir
 1 Three Visits
