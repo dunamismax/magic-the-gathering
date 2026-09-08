@@ -21,10 +21,6 @@
       "quantity": 1
     },
     {
-      "card": "Big Score",
-      "quantity": 1
-    },
-    {
       "card": "Blasphemous Act",
       "quantity": 1
     },
@@ -326,6 +322,10 @@
     },
     {
       "card": "Treasonous Ogre",
+      "quantity": 1
+    },
+    {
+      "card": "Underworld Breach",
       "quantity": 1
     },
     {

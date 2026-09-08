@@ -11,9 +11,11 @@ as the Bracket 4 / Optimized maximum-power combo deck. Every public Commander
 list was freshly exported on **2026-09-08**. All ten existing mains and Gandalf's
 exact nine-card **Maximum Flavor** / **Maximum Power** configuration switch
 were verified unchanged; Frodo & Sam and Thorin only have newer page dates.
-Smaug's combo evidence and the full deterministic collection audit were
-regenerated, with all existing Rule Zero disclosures preserved. This repository
-tracks Commander decks only.
+Smaug was subsequently re-exported after the user-confirmed **Big Score →
+Underworld Breach** swap. It now has **seven Game Changers** and a conditional
+Breach / Jeska's Will / Wheel of Fortune resource chain. Its combo evidence and
+the full deterministic audit were regenerated, with existing Rule Zero
+disclosures preserved. This repository tracks Commander decks only.
 
 ## Start here
 

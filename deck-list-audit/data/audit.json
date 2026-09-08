@@ -48244,8 +48244,8 @@
       "moxfield_id": "PyYsm-js4EG7x4j-RUkTVw",
       "moxfield_url": "https://moxfield.com/decks/PyYsm-js4EG7x4j-RUkTVw",
       "file": "decks/smaug-the-impenetrable.txt",
-      "deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
-      "spellbook_request_sha256": "49529058e17c0bdee2fcfbe752eedcae529dbf39b234fddeb5c2a47d8a1446bd",
+      "deck_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
+      "spellbook_request_sha256": "6caeda4eb8c18084d363645de05f2cd8bb93ce2d50b7353cccc1b334f36f9cee",
       "valid": true,
       "analysis_ready": true,
       "errors": [],
@@ -48298,29 +48298,30 @@
         "Creature": 21,
         "Artifact": 14,
         "Land": 36,
-        "Instant": 17,
         "Sorcery": 8,
-        "Enchantment": 8
+        "Instant": 16,
+        "Enchantment": 9
       },
       "overlapping_type_counts": {
         "Creature": 21,
         "Artifact": 14,
         "Land": 36,
-        "Instant": 17,
         "Sorcery": 8,
-        "Enchantment": 8
+        "Instant": 16,
+        "Enchantment": 9
       },
       "printed_lands": 35,
       "mdfc_lands": 1,
       "modal_land_backs": 1,
       "effective_land_faces": 36,
-      "game_changer_count": 6,
+      "game_changer_count": 7,
       "game_changers": [
         "Ancient Tomb",
         "Demonic Tutor",
         "Jeska's Will",
         "Mana Vault",
         "The One Ring",
+        "Underworld Breach",
         "Vampiric Tutor"
       ],
       "bracket_exception_cards": [],
@@ -48604,63 +48605,10 @@
           }
         },
         {
-          "listed_name": "Big Score",
-          "canonical_name": "Big Score",
-          "quantity": 1,
-          "line_number": 6,
-          "is_commander": false,
-          "card": {
-            "id": "3383a939-4ab3-4546-9995-6c65cd3f4441",
-            "oracle_id": "a5cbd257-c836-493e-bb1a-76242619dea2",
-            "name": "Big Score",
-            "released_at": "2026-06-26",
-            "mana_cost": "{3}{R}",
-            "cmc": 4.0,
-            "type_line": "Instant",
-            "oracle_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
-            "color_identity": [
-              "R"
-            ],
-            "keywords": [
-              "Treasure"
-            ],
-            "legalities": {
-              "standard": "not_legal",
-              "future": "not_legal",
-              "historic": "legal",
-              "timeless": "legal",
-              "gladiator": "legal",
-              "pioneer": "legal",
-              "modern": "legal",
-              "legacy": "legal",
-              "pauper": "legal",
-              "vintage": "legal",
-              "penny": "legal",
-              "commander": "legal",
-              "oathbreaker": "legal",
-              "standardbrawl": "not_legal",
-              "brawl": "legal",
-              "competitivebrawl": "legal",
-              "alchemy": "not_legal",
-              "paupercommander": "legal",
-              "duel": "legal",
-              "oldschool": "not_legal",
-              "premodern": "not_legal",
-              "predh": "not_legal",
-              "tlr": "not_legal"
-            },
-            "game_changer": false,
-            "layout": "normal",
-            "security_stamp": null,
-            "set_type": "commander",
-            "card_faces": []
-          }
-        },
-        {
           "listed_name": "Blasphemous Act",
           "canonical_name": "Blasphemous Act",
           "quantity": 1,
-          "line_number": 7,
+          "line_number": 6,
           "is_commander": false,
           "card": {
             "id": "7d4b1d44-126e-4987-9a9f-f0f9627a09cb",
@@ -48711,7 +48659,7 @@
           "listed_name": "Blazemire Verge",
           "canonical_name": "Blazemire Verge",
           "quantity": 1,
-          "line_number": 8,
+          "line_number": 7,
           "is_commander": false,
           "card": {
             "id": "d151c8e2-d715-470d-868a-f45191db9fa0",
@@ -48763,7 +48711,7 @@
           "listed_name": "Blazing Sunsteel",
           "canonical_name": "Blazing Sunsteel",
           "quantity": 1,
-          "line_number": 9,
+          "line_number": 8,
           "is_commander": false,
           "card": {
             "id": "69d276fe-5f2b-41aa-80fa-64d3b60fd54f",
@@ -48816,7 +48764,7 @@
           "listed_name": "Blightstep Pathway",
           "canonical_name": "Blightstep Pathway",
           "quantity": 1,
-          "line_number": 10,
+          "line_number": 9,
           "is_commander": false,
           "card": {
             "id": "0ce39a19-f51d-4a35-ae80-5b82eb15fcff",
@@ -48883,7 +48831,7 @@
           "listed_name": "Blood Crypt",
           "canonical_name": "Blood Crypt",
           "quantity": 1,
-          "line_number": 11,
+          "line_number": 10,
           "is_commander": false,
           "card": {
             "id": "1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316",
@@ -48935,7 +48883,7 @@
           "listed_name": "Bloodstained Mire",
           "canonical_name": "Bloodstained Mire",
           "quantity": 1,
-          "line_number": 12,
+          "line_number": 11,
           "is_commander": false,
           "card": {
             "id": "579743fe-f71e-4cb2-8629-d6b02ed1591d",
@@ -48984,7 +48932,7 @@
           "listed_name": "Bolt Bend",
           "canonical_name": "Bolt Bend",
           "quantity": 1,
-          "line_number": 13,
+          "line_number": 12,
           "is_commander": false,
           "card": {
             "id": "771b9f25-76f8-4da9-b3ab-ee51f4ad32d9",
@@ -49035,7 +48983,7 @@
           "listed_name": "Cavern of Souls",
           "canonical_name": "Cavern of Souls",
           "quantity": 1,
-          "line_number": 14,
+          "line_number": 13,
           "is_commander": false,
           "card": {
             "id": "3aad15a2-8a1b-4460-9b06-e85863081878",
@@ -49084,7 +49032,7 @@
           "listed_name": "Chain Lightning",
           "canonical_name": "Chain Lightning",
           "quantity": 1,
-          "line_number": 15,
+          "line_number": 14,
           "is_commander": false,
           "card": {
             "id": "2105a0d9-ea2e-4ffc-be08-424b5617205d",
@@ -49135,7 +49083,7 @@
           "listed_name": "Chain Reaction",
           "canonical_name": "Chain Reaction",
           "quantity": 1,
-          "line_number": 16,
+          "line_number": 15,
           "is_commander": false,
           "card": {
             "id": "6f34d11e-8452-448f-be4f-838e0ace9904",
@@ -49186,7 +49134,7 @@
           "listed_name": "Chaos Warp",
           "canonical_name": "Chaos Warp",
           "quantity": 1,
-          "line_number": 17,
+          "line_number": 16,
           "is_commander": false,
           "card": {
             "id": "fb8d8106-b9bd-405c-886e-72fc301c65e1",
@@ -49237,7 +49185,7 @@
           "listed_name": "Command Tower",
           "canonical_name": "Command Tower",
           "quantity": 1,
-          "line_number": 18,
+          "line_number": 17,
           "is_commander": false,
           "card": {
             "id": "0548fb60-c843-4f8f-a029-6f10efc63a41",
@@ -49286,7 +49234,7 @@
           "listed_name": "Crime Novelist",
           "canonical_name": "Crime Novelist",
           "quantity": 1,
-          "line_number": 19,
+          "line_number": 18,
           "is_commander": false,
           "card": {
             "id": "14a5cd7c-b0b1-4ffa-a806-bb0e73baffad",
@@ -49337,7 +49285,7 @@
           "listed_name": "Cursed Mirror",
           "canonical_name": "Cursed Mirror",
           "quantity": 1,
-          "line_number": 20,
+          "line_number": 19,
           "is_commander": false,
           "card": {
             "id": "077392b3-6b06-46c8-8737-51e85f690448",
@@ -49388,7 +49336,7 @@
           "listed_name": "Cut Propulsion",
           "canonical_name": "Cut Propulsion",
           "quantity": 1,
-          "line_number": 21,
+          "line_number": 20,
           "is_commander": false,
           "card": {
             "id": "d96f1c41-3d11-48a8-b962-db46a2d054de",
@@ -49439,7 +49387,7 @@
           "listed_name": "Dark Ritual",
           "canonical_name": "Dark Ritual",
           "quantity": 1,
-          "line_number": 22,
+          "line_number": 21,
           "is_commander": false,
           "card": {
             "id": "11e12a84-e7be-4afc-a230-c2e644743fa8",
@@ -49490,7 +49438,7 @@
           "listed_name": "Dawnsire, Sunstar Dreadnought",
           "canonical_name": "Dawnsire, Sunstar Dreadnought",
           "quantity": 1,
-          "line_number": 23,
+          "line_number": 22,
           "is_commander": false,
           "card": {
             "id": "6133355c-3dcf-466a-b771-fe6c44d4fa4d",
@@ -49541,7 +49489,7 @@
           "listed_name": "Deadly Rollick",
           "canonical_name": "Deadly Rollick",
           "quantity": 1,
-          "line_number": 24,
+          "line_number": 23,
           "is_commander": false,
           "card": {
             "id": "0e13f735-54fa-42b6-aea4-ced33811d7d4",
@@ -49592,7 +49540,7 @@
           "listed_name": "Deflecting Swat",
           "canonical_name": "Deflecting Swat",
           "quantity": 1,
-          "line_number": 25,
+          "line_number": 24,
           "is_commander": false,
           "card": {
             "id": "b4b36435-55b3-4615-8812-af41d4fc64d9",
@@ -49643,7 +49591,7 @@
           "listed_name": "Demonic Tutor",
           "canonical_name": "Demonic Tutor",
           "quantity": 1,
-          "line_number": 26,
+          "line_number": 25,
           "is_commander": false,
           "card": {
             "id": "a24b4cb6-cebb-428b-8654-74347a6a8d63",
@@ -49694,7 +49642,7 @@
           "listed_name": "Descent into Avernus",
           "canonical_name": "Descent into Avernus",
           "quantity": 1,
-          "line_number": 27,
+          "line_number": 26,
           "is_commander": false,
           "card": {
             "id": "faadf72f-b2d5-4271-8d5c-a586acf63453",
@@ -49747,7 +49695,7 @@
           "listed_name": "Disciple of the Vault",
           "canonical_name": "Disciple of the Vault",
           "quantity": 1,
-          "line_number": 28,
+          "line_number": 27,
           "is_commander": false,
           "card": {
             "id": "4c539843-4e3f-47a7-92e1-412eaaa2d9c5",
@@ -49798,7 +49746,7 @@
           "listed_name": "Dizzying Gaze",
           "canonical_name": "Dizzying Gaze",
           "quantity": 1,
-          "line_number": 29,
+          "line_number": 28,
           "is_commander": false,
           "card": {
             "id": "71a482cf-a1cd-47b5-a76a-08e03965c679",
@@ -49851,7 +49799,7 @@
           "listed_name": "Expedited Inheritance",
           "canonical_name": "Expedited Inheritance",
           "quantity": 1,
-          "line_number": 30,
+          "line_number": 29,
           "is_commander": false,
           "card": {
             "id": "b65209da-cf48-4d37-b045-7d181070fd05",
@@ -49902,7 +49850,7 @@
           "listed_name": "Fiendlash",
           "canonical_name": "Fiendlash",
           "quantity": 1,
-          "line_number": 31,
+          "line_number": 30,
           "is_commander": false,
           "card": {
             "id": "7ff6fab0-7872-445d-a514-774ecccd2355",
@@ -49955,7 +49903,7 @@
           "listed_name": "Fire Covenant",
           "canonical_name": "Fire Covenant",
           "quantity": 1,
-          "line_number": 32,
+          "line_number": 31,
           "is_commander": false,
           "card": {
             "id": "1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec",
@@ -50007,7 +49955,7 @@
           "listed_name": "Gemstone Caverns",
           "canonical_name": "Gemstone Caverns",
           "quantity": 1,
-          "line_number": 33,
+          "line_number": 32,
           "is_commander": false,
           "card": {
             "id": "7f273641-c5f3-48bc-b89e-3cff52d26a0b",
@@ -50056,7 +50004,7 @@
           "listed_name": "Goldspan Dragon",
           "canonical_name": "Goldspan Dragon",
           "quantity": 1,
-          "line_number": 34,
+          "line_number": 33,
           "is_commander": false,
           "card": {
             "id": "848c1951-90fa-4f01-9aed-76f1afcd9995",
@@ -50111,7 +50059,7 @@
           "listed_name": "Graven Cairns",
           "canonical_name": "Graven Cairns",
           "quantity": 1,
-          "line_number": 35,
+          "line_number": 34,
           "is_commander": false,
           "card": {
             "id": "74a13fea-4f48-428b-b42b-4ba63d4752ed",
@@ -50163,7 +50111,7 @@
           "listed_name": "Haunted Ridge",
           "canonical_name": "Haunted Ridge",
           "quantity": 1,
-          "line_number": 36,
+          "line_number": 35,
           "is_commander": false,
           "card": {
             "id": "32f1e668-89b8-4f82-afc1-6c3efb1fef3b",
@@ -50215,7 +50163,7 @@
           "listed_name": "Havoc Jester",
           "canonical_name": "Havoc Jester",
           "quantity": 1,
-          "line_number": 37,
+          "line_number": 36,
           "is_commander": false,
           "card": {
             "id": "39fb5187-a315-4a6d-9435-67db30c06c55",
@@ -50266,7 +50214,7 @@
           "listed_name": "Heroes for Hire",
           "canonical_name": "Heroes for Hire",
           "quantity": 1,
-          "line_number": 38,
+          "line_number": 37,
           "is_commander": false,
           "card": {
             "id": "37759556-ea31-47b4-8457-a83d17a51e28",
@@ -50319,7 +50267,7 @@
           "listed_name": "Hexing Squelcher",
           "canonical_name": "Hexing Squelcher",
           "quantity": 1,
-          "line_number": 39,
+          "line_number": 38,
           "is_commander": false,
           "card": {
             "id": "674960ce-ff33-4d5e-a24a-a4582b2e9809",
@@ -50372,7 +50320,7 @@
           "listed_name": "Inventors' Fair",
           "canonical_name": "Inventors' Fair",
           "quantity": 1,
-          "line_number": 40,
+          "line_number": 39,
           "is_commander": false,
           "card": {
             "id": "275471e3-ded1-40ac-91ef-369dce5764d9",
@@ -50421,7 +50369,7 @@
           "listed_name": "Jeska's Will",
           "canonical_name": "Jeska's Will",
           "quantity": 1,
-          "line_number": 41,
+          "line_number": 40,
           "is_commander": false,
           "card": {
             "id": "99e0c371-1024-4432-9fd9-3bc29c8d38e4",
@@ -50472,7 +50420,7 @@
           "listed_name": "Lightning Bolt",
           "canonical_name": "Lightning Bolt",
           "quantity": 1,
-          "line_number": 42,
+          "line_number": 41,
           "is_commander": false,
           "card": {
             "id": "7673784e-db4b-43a1-8d55-1bb9fc1e284f",
@@ -50523,7 +50471,7 @@
           "listed_name": "Luxury Suite",
           "canonical_name": "Luxury Suite",
           "quantity": 1,
-          "line_number": 43,
+          "line_number": 42,
           "is_commander": false,
           "card": {
             "id": "3c409d1e-f634-44a2-8fcf-dcdcb0babc3f",
@@ -50575,7 +50523,7 @@
           "listed_name": "Magda, Brazen Outlaw",
           "canonical_name": "Magda, Brazen Outlaw",
           "quantity": 1,
-          "line_number": 44,
+          "line_number": 43,
           "is_commander": false,
           "card": {
             "id": "079e6263-e54c-4899-a336-5315909b9322",
@@ -50628,7 +50576,7 @@
           "listed_name": "Mana Confluence",
           "canonical_name": "Mana Confluence",
           "quantity": 1,
-          "line_number": 45,
+          "line_number": 44,
           "is_commander": false,
           "card": {
             "id": "504a69eb-3c2d-4bb1-b117-252b15acf0c2",
@@ -50677,7 +50625,7 @@
           "listed_name": "Mana Geyser",
           "canonical_name": "Mana Geyser",
           "quantity": 1,
-          "line_number": 46,
+          "line_number": 45,
           "is_commander": false,
           "card": {
             "id": "dfbda387-3c7d-4c80-97c3-60c9d4757244",
@@ -50728,7 +50676,7 @@
           "listed_name": "Mana Vault",
           "canonical_name": "Mana Vault",
           "quantity": 1,
-          "line_number": 47,
+          "line_number": 46,
           "is_commander": false,
           "card": {
             "id": "c1a31d52-a407-4ded-bfca-cc812f11afa0",
@@ -50777,7 +50725,7 @@
           "listed_name": "Marionette Apprentice",
           "canonical_name": "Marionette Apprentice",
           "quantity": 1,
-          "line_number": 48,
+          "line_number": 47,
           "is_commander": false,
           "card": {
             "id": "d16f8670-f038-400a-83e7-a53a7f8c47ac",
@@ -50830,7 +50778,7 @@
           "listed_name": "Marsh Flats",
           "canonical_name": "Marsh Flats",
           "quantity": 1,
-          "line_number": 49,
+          "line_number": 48,
           "is_commander": false,
           "card": {
             "id": "9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42",
@@ -50879,7 +50827,7 @@
           "listed_name": "Mastermind Plum",
           "canonical_name": "Mastermind Plum",
           "quantity": 1,
-          "line_number": 50,
+          "line_number": 49,
           "is_commander": false,
           "card": {
             "id": "df81568b-c66a-49c6-bd48-7df98ea00117",
@@ -50932,7 +50880,7 @@
           "listed_name": "Mayhem Devil",
           "canonical_name": "Mayhem Devil",
           "quantity": 1,
-          "line_number": 51,
+          "line_number": 50,
           "is_commander": false,
           "card": {
             "id": "674f3a8a-4552-4289-b92a-06ce158f115c",
@@ -50984,7 +50932,7 @@
           "listed_name": "Mirkwood Bats",
           "canonical_name": "Mirkwood Bats",
           "quantity": 1,
-          "line_number": 52,
+          "line_number": 51,
           "is_commander": false,
           "card": {
             "id": "15f035df-784a-4dc8-b7f5-77139a4e6e99",
@@ -51037,7 +50985,7 @@
           "listed_name": "Mountain",
           "canonical_name": "Mountain",
           "quantity": 6,
-          "line_number": 53,
+          "line_number": 52,
           "is_commander": false,
           "card": {
             "id": "2a844b96-6616-4c39-8f4f-5d14a3b2bd55",
@@ -51088,7 +51036,7 @@
           "listed_name": "Not of This World",
           "canonical_name": "Not of This World",
           "quantity": 1,
-          "line_number": 54,
+          "line_number": 53,
           "is_commander": false,
           "card": {
             "id": "d18ce39e-211d-460b-a200-a26c17aeeb12",
@@ -51137,7 +51085,7 @@
           "listed_name": "Pain for All",
           "canonical_name": "Pain for All",
           "quantity": 1,
-          "line_number": 55,
+          "line_number": 54,
           "is_commander": false,
           "card": {
             "id": "d2948913-817b-4715-92d5-ed3cde347be7",
@@ -51190,7 +51138,7 @@
           "listed_name": "Pestilence",
           "canonical_name": "Pestilence",
           "quantity": 1,
-          "line_number": 56,
+          "line_number": 55,
           "is_commander": false,
           "card": {
             "id": "29d852c4-bd53-4a3b-b1e2-896917cbc27f",
@@ -51241,7 +51189,7 @@
           "listed_name": "Polluted Delta",
           "canonical_name": "Polluted Delta",
           "quantity": 1,
-          "line_number": 57,
+          "line_number": 56,
           "is_commander": false,
           "card": {
             "id": "6e288374-2b71-4ace-b1d2-a19fee6cb4af",
@@ -51290,7 +51238,7 @@
           "listed_name": "Professional Face-Breaker",
           "canonical_name": "Professional Face-Breaker",
           "quantity": 1,
-          "line_number": 58,
+          "line_number": 57,
           "is_commander": false,
           "card": {
             "id": "42acbf52-b137-44f0-a815-2817fe8d2da2",
@@ -51344,7 +51292,7 @@
           "listed_name": "Pyrohemia",
           "canonical_name": "Pyrohemia",
           "quantity": 1,
-          "line_number": 59,
+          "line_number": 58,
           "is_commander": false,
           "card": {
             "id": "ad840567-c3ac-4e14-b398-0d11c88931bc",
@@ -51395,7 +51343,7 @@
           "listed_name": "Rakdos Signet",
           "canonical_name": "Rakdos Signet",
           "quantity": 1,
-          "line_number": 60,
+          "line_number": 59,
           "is_commander": false,
           "card": {
             "id": "01cc9536-f710-4c47-9e3f-d7e83cc888f2",
@@ -51447,7 +51395,7 @@
           "listed_name": "Raucous Theater",
           "canonical_name": "Raucous Theater",
           "quantity": 1,
-          "line_number": 61,
+          "line_number": 60,
           "is_commander": false,
           "card": {
             "id": "b598c93e-dae1-4d71-a9e4-917abf76d2d0",
@@ -51501,7 +51449,7 @@
           "listed_name": "Reckless Fireweaver",
           "canonical_name": "Reckless Fireweaver",
           "quantity": 1,
-          "line_number": 62,
+          "line_number": 61,
           "is_commander": false,
           "card": {
             "id": "63ffac51-62c4-4170-85b3-a43d7cfae7d7",
@@ -51552,7 +51500,7 @@
           "listed_name": "Redirect Lightning",
           "canonical_name": "Redirect Lightning",
           "quantity": 1,
-          "line_number": 63,
+          "line_number": 62,
           "is_commander": false,
           "card": {
             "id": "2b5b14a7-1fdd-4efc-b197-cadfa7f7c860",
@@ -51603,7 +51551,7 @@
           "listed_name": "Roaming Throne",
           "canonical_name": "Roaming Throne",
           "quantity": 1,
-          "line_number": 64,
+          "line_number": 63,
           "is_commander": false,
           "card": {
             "id": "32fd8b7c-baf3-4d3d-be6f-044a917b11a0",
@@ -51654,7 +51602,7 @@
           "listed_name": "Ruby Medallion",
           "canonical_name": "Ruby Medallion",
           "quantity": 1,
-          "line_number": 65,
+          "line_number": 64,
           "is_commander": false,
           "card": {
             "id": "630febf5-58ff-4dab-a5a8-575ebc5435a6",
@@ -51703,7 +51651,7 @@
           "listed_name": "Scalding Tarn",
           "canonical_name": "Scalding Tarn",
           "quantity": 1,
-          "line_number": 66,
+          "line_number": 65,
           "is_commander": false,
           "card": {
             "id": "71e491c5-8c07-449b-b2f1-ffa052e6d311",
@@ -51752,7 +51700,7 @@
           "listed_name": "Seething Song",
           "canonical_name": "Seething Song",
           "quantity": 1,
-          "line_number": 67,
+          "line_number": 66,
           "is_commander": false,
           "card": {
             "id": "f493ce26-005c-4ddc-80f0-47bea4fd013a",
@@ -51803,7 +51751,7 @@
           "listed_name": "Self-Destruct",
           "canonical_name": "Self-Destruct",
           "quantity": 1,
-          "line_number": 68,
+          "line_number": 67,
           "is_commander": false,
           "card": {
             "id": "7661003c-bf83-46bb-bcc0-8fbf5819ffa8",
@@ -51854,7 +51802,7 @@
           "listed_name": "Shadowspear",
           "canonical_name": "Shadowspear",
           "quantity": 1,
-          "line_number": 69,
+          "line_number": 68,
           "is_commander": false,
           "card": {
             "id": "939c6e19-4b27-4023-bb9c-ae440f91e21c",
@@ -51905,7 +51853,7 @@
           "listed_name": "Smaug the Magnificent",
           "canonical_name": "Smaug the Magnificent",
           "quantity": 1,
-          "line_number": 70,
+          "line_number": 69,
           "is_commander": false,
           "card": {
             "id": "6a5d8fad-2ffd-4645-8c49-907999b6cecf",
@@ -51960,7 +51908,7 @@
           "listed_name": "Smaug, Wicked Worm",
           "canonical_name": "Smaug, Wicked Worm",
           "quantity": 1,
-          "line_number": 71,
+          "line_number": 70,
           "is_commander": false,
           "card": {
             "id": "19cc91f0-e724-41ac-b6d8-9a293bd63b42",
@@ -52015,7 +51963,7 @@
           "listed_name": "Sol Ring",
           "canonical_name": "Sol Ring",
           "quantity": 1,
-          "line_number": 72,
+          "line_number": 71,
           "is_commander": false,
           "card": {
             "id": "91fdb56b-54d5-4272-8319-505ff987fe9b",
@@ -52064,7 +52012,7 @@
           "listed_name": "Star of Extinction",
           "canonical_name": "Star of Extinction",
           "quantity": 1,
-          "line_number": 73,
+          "line_number": 72,
           "is_commander": false,
           "card": {
             "id": "526d13cb-3616-4ac8-9ac0-04c729d447b2",
@@ -52115,7 +52063,7 @@
           "listed_name": "Stinging Study",
           "canonical_name": "Stinging Study",
           "quantity": 1,
-          "line_number": 74,
+          "line_number": 73,
           "is_commander": false,
           "card": {
             "id": "b8840226-1693-44bc-a067-e50198c5e17e",
@@ -52166,7 +52114,7 @@
           "listed_name": "Sulfurous Springs",
           "canonical_name": "Sulfurous Springs",
           "quantity": 1,
-          "line_number": 75,
+          "line_number": 74,
           "is_commander": false,
           "card": {
             "id": "eedb9df2-20d3-4cfd-8aed-336edc37d5a9",
@@ -52218,7 +52166,7 @@
           "listed_name": "Swamp",
           "canonical_name": "Swamp",
           "quantity": 4,
-          "line_number": 76,
+          "line_number": 75,
           "is_commander": false,
           "card": {
             "id": "b7387103-1df1-4fd0-9e91-1544509792c7",
@@ -52269,7 +52217,7 @@
           "listed_name": "Takenuma, Abandoned Mire",
           "canonical_name": "Takenuma, Abandoned Mire",
           "quantity": 1,
-          "line_number": 77,
+          "line_number": 76,
           "is_commander": false,
           "card": {
             "id": "499037cc-a577-41cb-8ca2-5e117945634f",
@@ -52323,7 +52271,7 @@
           "listed_name": "Talisman of Indulgence",
           "canonical_name": "Talisman of Indulgence",
           "quantity": 1,
-          "line_number": 78,
+          "line_number": 77,
           "is_commander": false,
           "card": {
             "id": "ccacf88d-407d-465d-958a-1389b7d700e6",
@@ -52375,7 +52323,7 @@
           "listed_name": "The Last Agni Kai",
           "canonical_name": "The Last Agni Kai",
           "quantity": 1,
-          "line_number": 79,
+          "line_number": 78,
           "is_commander": false,
           "card": {
             "id": "61eaebc6-7575-48ed-b212-ff8b0c7ae694",
@@ -52428,7 +52376,7 @@
           "listed_name": "The One Ring",
           "canonical_name": "The One Ring",
           "quantity": 1,
-          "line_number": 80,
+          "line_number": 79,
           "is_commander": false,
           "card": {
             "id": "d5806e68-1054-458e-866d-1f2470f682b2",
@@ -52479,7 +52427,7 @@
           "listed_name": "The Sackville-Bagginses",
           "canonical_name": "The Sackville-Bagginses",
           "quantity": 1,
-          "line_number": 81,
+          "line_number": 80,
           "is_commander": false,
           "card": {
             "id": "ed87b471-79f9-45ec-9188-69e970f6121e",
@@ -52532,7 +52480,7 @@
           "listed_name": "Treasonous Ogre",
           "canonical_name": "Treasonous Ogre",
           "quantity": 1,
-          "line_number": 82,
+          "line_number": 81,
           "is_commander": false,
           "card": {
             "id": "ae48c31d-6fd9-457f-adb8-37f367724ba1",
@@ -52578,6 +52526,57 @@
             "layout": "normal",
             "security_stamp": null,
             "set_type": "draft_innovation",
+            "card_faces": []
+          }
+        },
+        {
+          "listed_name": "Underworld Breach",
+          "canonical_name": "Underworld Breach",
+          "quantity": 1,
+          "line_number": 82,
+          "is_commander": false,
+          "card": {
+            "id": "0e51d796-7279-4c06-87f0-37adbdaa41df",
+            "oracle_id": "27e0948b-9916-473b-8d8c-a51bdfbc7457",
+            "name": "Underworld Breach",
+            "released_at": "2020-01-24",
+            "mana_cost": "{1}{R}",
+            "cmc": 2.0,
+            "type_line": "Enchantment",
+            "oracle_text": "Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\nAt the beginning of the end step, sacrifice this enchantment.",
+            "color_identity": [
+              "R"
+            ],
+            "keywords": [],
+            "legalities": {
+              "standard": "not_legal",
+              "future": "not_legal",
+              "historic": "legal",
+              "timeless": "legal",
+              "gladiator": "legal",
+              "pioneer": "banned",
+              "modern": "banned",
+              "legacy": "banned",
+              "pauper": "not_legal",
+              "vintage": "legal",
+              "penny": "legal",
+              "commander": "legal",
+              "oathbreaker": "legal",
+              "standardbrawl": "not_legal",
+              "brawl": "legal",
+              "competitivebrawl": "legal",
+              "alchemy": "not_legal",
+              "paupercommander": "not_legal",
+              "duel": "banned",
+              "oldschool": "not_legal",
+              "premodern": "not_legal",
+              "predh": "not_legal",
+              "tlr": "legal"
+            },
+            "game_changer": true,
+            "layout": "normal",
+            "security_stamp": "oval",
+            "set_type": "expansion",
             "card_faces": []
           }
         },
@@ -53057,7 +53056,7 @@
           "listed_name": "Smaug the Impenetrable",
           "canonical_name": "Smaug the Impenetrable",
           "quantity": 1,
-          "line_number": 92,
+          "line_number": 93,
           "is_commander": true,
           "card": {
             "id": "55872bce-08ce-4d4f-8951-9fa230f3e160",

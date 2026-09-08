@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "refreshed_on": "2026-09-08",
+  "method": "Moxfield public deck page, Download, Copy Plain Text; final newline preserved locally",
+  "scope": "Smaug only; ten other main lists and Gandalf sideboard unchanged",
+  "deck": "smaug-the-impenetrable",
+  "moxfield_id": "PyYsm-js4EG7x4j-RUkTVw",
+  "source_updated_on": "2026-09-08",
+  "baseline_deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
+  "deck_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
+  "export_file": "data/moxfield-exports/2026-09-08-smaug-breach/smaug-the-impenetrable.txt",
+  "export_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
+  "cuts": [
+    {
+      "name": "Big Score",
+      "quantity": 1
+    }
+  ],
+  "adds": [
+    {
+      "name": "Underworld Breach",
+      "quantity": 1
+    }
+  ],
+  "applied_change": "changes/applied/smaug-the-impenetrable-f6442e0d7536.json"
+}

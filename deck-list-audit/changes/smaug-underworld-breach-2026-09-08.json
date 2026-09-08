@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "status": "user-confirmed",
+  "deck": "smaug-the-impenetrable",
+  "baseline_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
+  "game_changer_policy": "allow-increase-within-configured-ceiling",
+  "adds": [
+    {
+      "name": "Underworld Breach",
+      "quantity": 1,
+      "reason": "User-confirmed replacement; replay nonland graveyard cards during the combo turn."
+    }
+  ],
+  "cuts": [
+    {
+      "name": "Big Score",
+      "quantity": 1,
+      "reason": "User-confirmed cut for Underworld Breach."
+    }
+  ],
+  "constraints_verified": [
+    "100 cards after application",
+    "commander and color identity preserved",
+    "unrestricted Bracket 4 Game Changer ceiling preserved; six to seven",
+    "locked cards preserved"
+  ],
+  "notes": "User explicitly confirmed Big Score to Underworld Breach on 2026-09-08 and requested repository/Notion synchronization and publication to both remotes. Refresh exact-list combo evidence and reports before recertification."
+}

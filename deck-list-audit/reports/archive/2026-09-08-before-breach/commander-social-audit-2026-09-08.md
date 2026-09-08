@@ -2,7 +2,7 @@
 
 Reviewed: 2026-09-08
 Profile: <https://moxfield.com/users/dunamismax>
-Scope: all 11 public Commander mains in the [September 8 source manifest](../data/moxfield-exports/2026-09-08/manifest.json), with the later [Smaug Breach export and change record](../data/moxfield-exports/2026-09-08-smaug-breach/manifest.json), plus Gandalf's separately pinned nine-for-nine configuration switch.
+Scope: all 11 public Commander mains in the [September 8 source manifest](../data/moxfield-exports/2026-09-08/manifest.json), plus Gandalf's separately pinned nine-for-nine configuration switch.
 
 Smaug the Impenetrable | Hurts So Gold joins the lineup as the owner's **Bracket 4 / Optimized maximum-power combo deck**. All ten existing main decks and Gandalf's nine-card sideboard were freshly exported and verified byte-identical to the September 5 snapshots. Frodo & Sam and Thorin have September 7 public page dates, with no card changes. No existing Commander deck was removed or renamed.
 
@@ -22,15 +22,13 @@ All 11 mains contain exactly 100 resolved cards and pass commander configuration
 | Pantlaza | 35 | 3 | 0 | Maular releases 2026-11-09 |
 | Queen Marchesa | 35 | 2 | 0 | None |
 | The Notary Hobbits | 36 | 3 | 0 | Darksteel Angel releases 2026-10-02 |
-| Smaug | 35 | 1 | 7 | None |
+| Smaug | 35 | 1 | 6 | None |
 
-Smaug has seven Game Changers: Ancient Tomb, Demonic Tutor, Jeska's Will, Mana Vault, The One Ring, Underworld Breach, and Vampiric Tutor. Its configured ceiling is unrestricted, consistent with Bracket 4. Frodo & Sam retains its one Game Changer and explicit B2* exception; all other existing decks have zero. This is eight Game Changer copies across the collection, representing seven distinct names.
+Smaug has six Game Changers: Ancient Tomb, Demonic Tutor, Jeska's Will, Mana Vault, The One Ring, and Vampiric Tutor. Its configured ceiling is unrestricted, consistent with Bracket 4. Frodo & Sam retains its one Game Changer and explicit B2* exception; all other existing decks have zero. This is seven Game Changer copies across the collection, representing six distinct names.
 
 Fresh exports are retained in `data/moxfield-exports/2026-09-08/`. Their hashes, source dates, IDs, and normalized-list hashes are pinned in the manifest. [changes.json](../data/moxfield-exports/2026-09-08/changes.json) records the addition, zero existing substitutions, and the two metadata-only updates.
 
 The Oracle loader now excludes nonplayable `front_card` records, with a regression test for Heroes for Hire. The playable enchantment and its same-named display card have different Oracle IDs; the display record previously made the name ambiguous. No deck card was replaced to resolve this data issue.
-
-After that initial export, the owner confirmed **Big Score → Underworld Breach**. The guarded change preserved 100 cards and the 35 + 1 land configuration. A fresh public plain-text export matched the applied list byte-for-byte, and a new full-list Spellbook scan returned ten included candidates. The [pre-Breach reports](archive/2026-09-08-before-breach/) and [pre-Breach combo evidence](../data/spellbook-results/archive/2026-09-08-smaug-before-breach/) remain archived.
 
 ## Smaug's role in the lineup
 
@@ -38,11 +36,11 @@ Smaug supplies the explicit optimized combo seat. Its seven-mana commander conve
 
 The main constraint is commander dependence. Indestructible helps against damage and destruction, while exile, bounce, sacrifice, toughness reduction, ability suppression, and artifact disruption can still interrupt the plan. Resolving Smaug and an enabler can lead to a win that turn, but no measured win-turn distribution or competitive results are available. The owner's maximum-power designation describes this deck's intended role; it does not establish a proven cEDH list or an exhaustive optimization claim.
 
-Replayability comes from selecting the engine, managing mana and life, choosing a payoff, and navigating interaction. Opponents need to expect compact repeatable combos and possible abrupt wins. The deck is a poor default choice for the lineup's B2/B3 social games without an explicit agreement to play at its higher power. No extra-turn, broad land-denial, or hard-lock package was identified in Smaug's exact list. Breach can replay Star of Extinction or other interaction while mana and escape fuel last, so repeated targeted destruction is possible even though there is no dedicated mass-land-denial package. Star of Extinction destroys one targeted land; Mana Vault's self-untap restriction is not an opponent lock.
+Replayability comes from selecting the engine, managing mana and life, choosing a payoff, and navigating interaction. Opponents need to expect compact repeatable combos and possible abrupt wins. The deck is a poor default choice for the lineup's B2/B3 social games without an explicit agreement to play at its higher power. No extra-turn, broad land-denial, or hard-lock package was identified in Smaug's exact list. Star of Extinction destroys one targeted land; Mana Vault's self-untap restriction is not an opponent lock.
 
 ## Smaug combo adjudication
 
-The post-Breach September 8 full-list Commander Spellbook scan returned ten included candidates. Each was checked against current Oracle text and the exact 100. None requires an unresolved abstract template. The bracket estimator also listed two prepare templates; the deck contains no prepare card and those templates do not establish another line.
+A September 8 full-list Commander Spellbook scan returned nine included candidates. Each was checked against current Oracle text and the exact 100. None requires an unresolved abstract template. The bracket estimator also listed two prepare templates; the deck contains no prepare card and those templates do not establish another line.
 
 | Candidate | Exact-list finding |
 |---|---|
@@ -55,23 +53,12 @@ The post-Breach September 8 full-list Commander Spellbook scan returned ten incl
 | Dawnsire + Pain for All | With ten charge counters, an enchanted creature, and a legal attacker, one attack can deal 100 to each opponent. Smaug is the durable host and also creates 100 Treasures. Finite damage burst. |
 | Dawnsire + Fiendlash | **Database correction:** Fiendlash deals the equipped creature's power, not Dawnsire's 100 damage. Otherwise unmodified Smaug has 10 power with Fiendlash, so the trigger deals 10 to one target while Smaug makes 100 Treasures. |
 | Expedited Inheritance + Blasphemous Act | Finite, optional library access from each damaged creature; opponents can benefit. It is neither an infinite engine nor automatic access to the whole library. |
-| Underworld Breach + Jeska's Will + Wheel of Fortune | Conditional, commander-independent repeated spell and Wheel chain. Requires initial mana, expendable graveyard cards, and an opponent with enough cards in hand. Draws from finite libraries; not literally infinite or an automatic win. |
 
-Manual review additionally confirms **Smaug + Blazing Sunsteel + an initial damage event**. Equip Smaug, damage him, and repeatedly aim Sunsteel's trigger back at him while resolving Treasure triggers. Choose another target to end the loop. This line was absent from the ten included scan results.
+Manual review additionally confirms **Smaug + Blazing Sunsteel + an initial damage event**. Equip Smaug, damage him, and repeatedly aim Sunsteel's trigger back at him while resolving Treasure triggers. Choose another target to end the loop. This line was absent from the nine included scan results.
 
 Reckless Fireweaver, Weftstalker Ardent, Mirkwood Bats, Marionette Apprentice, Disciple of the Vault, The Sackville-Bagginses, Pain for All, and Fiendlash convert the relevant entry, sacrifice, or damage events into a finish. The payoff must survive: a sweeper can remove support creatures before the resulting Treasures enter. Heroes for Hire, Professional Face-Breaker, and optional Expedited Inheritance can turn repeatable resources into access to the remaining library. Library access remains finite.
 
 The [public primer](https://moxfield.com/decks/PyYsm-js4EG7x4j-RUkTVw/primer), read September 8, still mentions **Agent of the Iron Throne, Torment of Hailfire, and Witch's Clinic**, all absent from the current export. Those cards were not imported or counted as available outlets. The repo refresh does not edit Moxfield.
-
-## Underworld Breach change review
-
-Breach trades Big Score's instant-speed filtering and two Treasures for a one-turn window to recast nonland graveyard cards. It improves access to spent rituals, tutors, protection, removal, and combo pieces, but each escape costs the card's mana cost plus three other graveyard cards. Normal casting timing still applies. Graveyard exile, Breach removal, and running out of fuel are relevant disruption points.
-
-The new [Spellbook candidate 1368-1878-2706](https://commanderspellbook.com/combo/1368-1878-2706/) uses Breach on the battlefield with Jeska's Will and Wheel in the graveyard. Start with **2R**, **six expendable graveyard cards**, **another six cards between hand and graveyard** for the next pass, and **an opponent holding at least six cards**. Escape Jeska's Will using only its mana mode, then escape Wheel. A pass spends six mana and exiles six other cards; Wheel replaces the hand and supplies future discard fuel. Later ordinary seven-card opposing hands let Will make seven mana, netting one per pass. Both spells return to the graveyard after resolution.
-
-This resource chain works without Smaug and makes the deck less dependent on resolving him before developing a decisive turn. It is bounded by finite libraries, hand sizes, draw replacement effects, and interaction. The pilot can deck themselves and must choose a controlled exit into an available payoff. The database's infinite-draw/looting labels do not establish a literally unbounded loop or guaranteed win in this exact 100. Replaying a ritual alone also consumes finite graveyard fuel. The nearby Breach/Sol Ring/Wheel loop lacks a repeatable outlet to sacrifice Sol Ring.
-
-**Updated pregame script:** “This is Bracket 4 optimized Rakdos Treasure combo with seven Game Changers, including Underworld Breach. Damage to Smaug funds repeatable loops; Breach also replays rituals, tutors, and a conditional Jeska's Will / Wheel chain without the commander. I have fast mana and protection and can win on the turn Smaug resolves.”
 
 ## Existing-deck pod fit and disclosures
 

@@ -3,7 +3,7 @@
   "status": "reviewed-current-snapshot",
   "audit_date": "2026-09-08",
   "report_file": "reports/commander-social-audit-2026-09-08.md",
-  "report_sha256": "db111f9abb7955e1171ed96d49062b714ce10af438e05ce3784c8e3d7eb2afee",
+  "report_sha256": "09ea2dc368ec30de9cd12db953bc860806c85b2ddef0b1a5774989f2d2621e28",
   "deck_sha256": {
     "aragorn-the-uniter": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
     "blor-the-impervious": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
@@ -15,9 +15,9 @@
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
     "queen-marchesa": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
     "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f",
-    "smaug-the-impenetrable": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34"
+    "smaug-the-impenetrable": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60"
   },
-  "notes": "All 11 public Commander lists were exported on September 8. Smaug was added with a fresh exact-list Spellbook scan and manual review. Ten unchanged mains and Gandalf’s sideboard retain their hash-matching evidence and original review dates. Current social and bracket reports add the B4 combo role and preserve all existing disclosures.",
+  "notes": "All 11 public Commander lists were exported on September 8. Smaug was added with a fresh exact-list Spellbook scan and manual review. Ten unchanged mains and Gandalf’s sideboard retain their hash-matching evidence and original review dates. Current social and bracket reports add the B4 combo role and preserve all existing disclosures. Smaug was later changed from Big Score to Underworld Breach, verified against a fresh public export, rescanned, and manually reviewed. It remains B4 with seven Game Changers; the additional Wheel/Jeska chain is library-limited. The pre-swap report snapshot is archived in reports/archive/2026-09-08-before-breach/.",
   "companion_report_file": "reports/commander-bracket-power-evaluation-2026-09-08.md",
-  "companion_report_sha256": "29dd41e27404b485ed8072ebffef915e97d390b28976c6d8938f08b983dcced7"
+  "companion_report_sha256": "e61f58b8357497b86197dd134613fc98defb476dd2102b39a990e4b7e35edc65"
 }

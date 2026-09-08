@@ -15,7 +15,7 @@ is linked to its exact SHA-256 and public Moxfield reference.
 | [Pantlaza, Sun-Favored \| The Land Before Value](https://moxfield.com/decks/zqJp4nSGKEqfbE0Jx1iJJA) | B3 | 2026-09-02 | 2026-09-08 | [list](pantlaza-sun-favored.txt) | None | `9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e` |
 | [Queen Marchesa \| Mardu Your Business](https://moxfield.com/decks/CXl1HrG9uE21A_07vqY3lA) | B3 | 2026-09-05 | 2026-09-08 | [list](queen-marchesa.txt) | None | `fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a` |
 | [The Notary Hobbits \| Signed, Sealed, Annihilated](https://moxfield.com/decks/hbbDeqN5L060nsGjc3_QOQ) | B3 | 2026-09-05 | 2026-09-08 | [list](the-notary-hobbits.txt) | None | `8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f` |
-| [Smaug the Impenetrable \| Hurts So Gold](https://moxfield.com/decks/PyYsm-js4EG7x4j-RUkTVw) | B4 | 2026-09-08 | 2026-09-08 | [list](smaug-the-impenetrable.txt) | None | `611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34` |
+| [Smaug the Impenetrable \| Hurts So Gold](https://moxfield.com/decks/PyYsm-js4EG7x4j-RUkTVw) | B4 | 2026-09-08 | 2026-09-08 | [list](smaug-the-impenetrable.txt) | None | `f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60` |
 
 ## Documented configuration switches
 

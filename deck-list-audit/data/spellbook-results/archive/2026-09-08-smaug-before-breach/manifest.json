@@ -96,11 +96,11 @@
     "smaug-the-impenetrable": {
       "status": "exact-list-scan",
       "fetched_on": "2026-09-08",
-      "request_sha256": "6caeda4eb8c18084d363645de05f2cd8bb93ce2d50b7353cccc1b334f36f9cee",
+      "request_sha256": "49529058e17c0bdee2fcfbe752eedcae529dbf39b234fddeb5c2a47d8a1446bd",
       "estimate_file": "data/spellbook-results/smaug-the-impenetrable-estimate.json",
-      "estimate_sha256": "cbad123c9a47a2659116e8da810ff7d3b2fd44c4f380f52d1f4121097d0ac8e9",
+      "estimate_sha256": "55e1759566d4e464d1f5b73d65bcf72740525938d35ed5b7e0429edb47ce4746",
       "combos_file": "data/spellbook-results/smaug-the-impenetrable-combos.json",
-      "combos_sha256": "a16ba3e46bf6c1306296bdc217dd9120c02dc1db66d66aa4088676dc144dab7f"
+      "combos_sha256": "015c78c6792b86c3e90e2047d59e339d05d1c704a15480fed3c52129582e6fbb"
     }
   }
 }

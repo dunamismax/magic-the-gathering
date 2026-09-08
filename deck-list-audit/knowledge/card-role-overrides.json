@@ -563,6 +563,15 @@
         "exclude": [
           "tutor"
         ]
+      },
+      "Underworld Breach": {
+        "include": [
+          "recursion",
+          "combo_piece"
+        ],
+        "exclude": [
+          "graveyard_interaction"
+        ]
       }
     }
   }

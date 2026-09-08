@@ -19,7 +19,7 @@ conclusions require the relevant rubric and dated human/AI judgment.
 | Pantlaza, Sun-Favored / The Land Before Value | yes | 100 | 35 | 3 | 0 | Maular, the Next Evolution | None | `9efdc635e56f` |
 | Queen Marchesa / Mardu Your Business | yes | 100 | 35 | 2 | 0 | None | None | `fc353a2675ed` |
 | The Notary Hobbits / Signed, Sealed, Annihilated | yes | 100 | 36 | 3 | 0 | Darksteel Angel | None | `8526cda4caa0` |
-| Smaug the Impenetrable / Hurts So Gold | yes | 100 | 35 | 1 | 6 | None | None | `611723d57eb2` |
+| Smaug the Impenetrable / Hurts So Gold | yes | 100 | 35 | 1 | 7 | None | None | `f6442e0d7536` |
 
 ## Validation notes
 

@@ -1,12 +1,9 @@
 {
   "schema_version": 1,
+  "status": "reviewed-current-snapshot",
   "audit_date": "2026-09-08",
-  "audit_sha256": "c769dba1d07df74f26b26051f0284e26afd4755eb73921656f3fb54a58c4bd9e",
-  "collection_sha256": "350304dcbbc682d5bc2701bcda90f2ec65911e1d9e52cb697be5604ec129f8fb",
-  "moxfield_refresh_sha256": "2b871ac1846da8f0daee34396ecaf920dfc88f5711ecb35e81e193ba0772cfbe",
-  "decks_readme_sha256": "ae1ec73d3fbe35eb1768d213c871476ce2a56aa0c9102c01bde8e5c15a665ba9",
-  "collection_summary_sha256": "143fe8b74c3164b698c5282a63855e71982bd5becc30b5f45b511f9d9e7de8c8",
-  "functional_analysis_sha256": "663211662cc055a07c372511b7fe0396634f24e6ccf8bba995697c9bac28d3dc",
+  "report_file": "reports/commander-social-audit-2026-09-08.md",
+  "report_sha256": "db111f9abb7955e1171ed96d49062b714ce10af438e05ce3784c8e3d7eb2afee",
   "deck_sha256": {
     "aragorn-the-uniter": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
     "blor-the-impervious": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
@@ -18,6 +15,9 @@
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
     "queen-marchesa": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
     "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f",
-    "smaug-the-impenetrable": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60"
-  }
+    "smaug-the-impenetrable": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34"
+  },
+  "notes": "All 11 public Commander lists were exported on September 8. Smaug was added with a fresh exact-list Spellbook scan and manual review. Ten unchanged mains and Gandalf’s sideboard retain their hash-matching evidence and original review dates. Current social and bracket reports add the B4 combo role and preserve all existing disclosures.",
+  "companion_report_file": "reports/commander-bracket-power-evaluation-2026-09-08.md",
+  "companion_report_sha256": "29dd41e27404b485ed8072ebffef915e97d390b28976c6d8938f08b983dcced7"
 }

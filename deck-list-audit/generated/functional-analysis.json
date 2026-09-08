@@ -2,10 +2,10 @@
   "schema_version": 1,
   "audit_date": "2026-09-08",
   "inputs": {
-    "audit_sha256": "056b3fc0a11230b3b989a0f735e25760eb1786ebfd48ed6a17ce55aa8a9c3ad1",
+    "audit_sha256": "c769dba1d07df74f26b26051f0284e26afd4755eb73921656f3fb54a58c4bd9e",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
-    "overrides_sha256": "07c2251fb4236932e214b837cbe205ea37b449957fe40cf3f522c13eca72a77a",
-    "combo_adjudications_sha256": "c0093850d86bb80c574d2fab911d17d759360cc7ce04390f99a69f20a85f51da"
+    "overrides_sha256": "cda4ed610b525f47485dd6a6d777a997a8da903c551e887df0f2903181624468",
+    "combo_adjudications_sha256": "7b13a6568f05711c51b5d12507fa1d20dbf8babe49407bd8558164953120fb86"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",
@@ -13773,12 +13773,12 @@
       ]
     },
     "smaug-the-impenetrable": {
-      "deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
+      "deck_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
       "counts_overlap": true,
       "role_counts": {
         "board_wipe": 5,
-        "card_advantage": 12,
-        "combo_piece": 13,
+        "card_advantage": 11,
+        "combo_piece": 16,
         "commander_engine": 28,
         "cost_reduction": 6,
         "countermagic": 1,
@@ -13789,8 +13789,8 @@
         "land_tutor": 7,
         "modal": 2,
         "protection": 8,
-        "ramp": 26,
-        "recursion": 1,
+        "ramp": 25,
+        "recursion": 2,
         "selection": 2,
         "spot_removal": 9,
         "tutor": 5,
@@ -13825,11 +13825,6 @@
           }
         ],
         "card_advantage": [
-          {
-            "name": "Big Score",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
           {
             "name": "Expedited Inheritance",
             "quantity": 1,
@@ -13928,6 +13923,11 @@
             "confidence": "confirmed-combo"
           },
           {
+            "name": "Jeska's Will",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
             "name": "Mayhem Devil",
             "quantity": 1,
             "confidence": "confirmed-combo"
@@ -13944,6 +13944,16 @@
           },
           {
             "name": "Pyrohemia",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Underworld Breach",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Wheel of Fortune",
             "quantity": 1,
             "confidence": "confirmed-combo"
           },
@@ -14560,11 +14570,6 @@
             "confidence": "heuristic"
           },
           {
-            "name": "Big Score",
-            "quantity": 1,
-            "confidence": "heuristic"
-          },
-          {
             "name": "Crime Novelist",
             "quantity": 1,
             "confidence": "override"
@@ -14685,6 +14690,11 @@
             "name": "Takenuma, Abandoned Mire",
             "quantity": 1,
             "confidence": "heuristic"
+          },
+          {
+            "name": "Underworld Breach",
+            "quantity": 1,
+            "confidence": "override"
           }
         ],
         "selection": [
@@ -14872,14 +14882,6 @@
           "roles": {
             "land": "deterministic",
             "land_capable": "deterministic"
-          }
-        },
-        {
-          "name": "Big Score",
-          "quantity": 1,
-          "roles": {
-            "ramp": "heuristic",
-            "card_advantage": "heuristic"
           }
         },
         {
@@ -15159,7 +15161,8 @@
           "roles": {
             "modal": "heuristic",
             "ramp": "override",
-            "fast_mana": "override"
+            "fast_mana": "override",
+            "combo_piece": "confirmed-combo"
           }
         },
         {
@@ -15498,6 +15501,14 @@
           }
         },
         {
+          "name": "Underworld Breach",
+          "quantity": 1,
+          "roles": {
+            "recursion": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
           "name": "Urborg, Tomb of Yawgmoth",
           "quantity": 1,
           "roles": {
@@ -15552,7 +15563,8 @@
           "name": "Wheel of Fortune",
           "quantity": 1,
           "roles": {
-            "card_advantage": "override"
+            "card_advantage": "override",
+            "combo_piece": "confirmed-combo"
           }
         },
         {

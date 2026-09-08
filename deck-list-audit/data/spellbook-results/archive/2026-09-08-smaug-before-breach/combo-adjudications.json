@@ -3,7 +3,7 @@
   "reviewed_on": "2026-09-08",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
   "archive": "data/spellbook-results/archive/2026-09-05-superseded/combo-adjudications.json",
-  "notes": "Smaug was scanned and manually reviewed on 2026-09-08. All 10 existing mains and Gandalf’s nine-card switch were freshly exported and verified unchanged; their hash-matching scan and individual review dates are retained. Included database results are adjudicated individually; finite effects are not relabeled infinite. Database omissions and manual screening do not prove combo completeness. Smaug was rescanned after Big Score to Underworld Breach on September 8; the prior scan and adjudications are archived under data/spellbook-results/archive/2026-09-08-smaug-before-breach/.",
+  "notes": "Smaug was scanned and manually reviewed on 2026-09-08. All 10 existing mains and Gandalf’s nine-card switch were freshly exported and verified unchanged; their hash-matching scan and individual review dates are retained. Included database results are adjudicated individually; finite effects are not relabeled infinite. Database omissions and manual screening do not prove combo completeness.",
   "decks": [
     {
       "deck": "aragorn-the-uniter",
@@ -198,12 +198,12 @@
     },
     {
       "deck": "smaug-the-impenetrable",
-      "deck_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
+      "deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
       "status": "reviewed",
       "reviewed_on": "2026-09-08",
       "review_basis": "commander-spellbook-and-manual-oracle-prerequisite-review",
-      "spellbook_included_candidates": 10,
-      "summary": "The post-swap exact-list scan returned ten included candidates: the prior nine plus Underworld Breach, Jeska's Will, and Wheel of Fortune. Prior prerequisites and finite-result corrections remain valid. The Breach line is a conditional repeatable resource chain bounded by finite libraries, not an automatic unbounded loop or deterministic win. Blazing Sunsteel remains a manually confirmed additional engine. The list stays Bracket 4 with seven Game Changers. The estimate's two abstract prepare templates remain unmet; this list contains no prepare card.",
+      "spellbook_included_candidates": 9,
+      "summary": "Intentional Bracket 4 Treasure combo. Nine included candidates were checked individually. Mayhem Devil, Havoc Jester, Chain Lightning, and Dizzying Gaze supply repeatable engines; Blazing Sunsteel is an additional manually confirmed line. Pyrohemia/Pestilence are life-limited without support, Inheritance/Act is finite optional access, Dawnsire/Pain is a finite 100-damage burst, and Dawnsire/Fiendlash was corrected to power-based damage. The estimate’s abstract prepare templates are not satisfied by this list; it contains no prepare card.",
       "lines": [
         {
           "id": "6758-6889",
@@ -321,27 +321,13 @@
           ],
           "status": "confirmed",
           "classification": "unbounded-treasures-from-repeatable-self-damage",
-          "reason": "Equip Smaug and deal him noncombat damage with an enabler. Aim each Sunsteel trigger back at Smaug and resolve Treasure triggers along the way. Indestructible lets him survive repeated damage. Choose a different target to end the cycle. Entry/sacrifice payoffs, Pain for All, or Fiendlash convert it into lethal output. This line was not among the included database results.",
+          "reason": "Equip Smaug and deal him noncombat damage with an enabler. Aim each Sunsteel trigger back at Smaug and resolve Treasure triggers along the way. Indestructible lets him survive repeated damage. Choose a different target to end the cycle. Entry/sacrifice payoffs, Pain for All, or Fiendlash convert it into lethal output. This line was not among the nine included database results.",
           "disclosure_required": true,
           "source": "manual-oracle-and-exact-list-review"
-        },
-        {
-          "id": "1368-1878-2706",
-          "cards": [
-            "Underworld Breach",
-            "Jeska's Will",
-            "Wheel of Fortune"
-          ],
-          "status": "confirmed-conditional-finite",
-          "classification": "graveyard-fueled-library-limited-wheel-and-mana-chain",
-          "reason": "Underworld Breach must be on the battlefield; Jeska's Will and Wheel of Fortune are in the graveyard. Start with 2R, six expendable graveyard cards, another six cards between hand and graveyard to sustain the next pass, and an opponent holding at least six cards. Escape Jeska's Will using only its mana mode, then escape Wheel. Each pass costs six mana and exiles six other graveyard cards; Wheel discards the hand and draws seven, restocking escape fuel. Ordinary seven-card opposing hands make later passes mana-positive. The spells return to the graveyard after resolving. This works without Smaug, but finite libraries, altered hand sizes, draw replacements, graveyard hate, timing restrictions, or loss of Breach can stop it. Repeated Wheels may deck the pilot; a controlled exit and in-list payoff are needed for a reliable win. Database infinite-draw/looting labels are not literally unbounded in this exact list.",
-          "disclosure_required": true,
-          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
         }
       ],
       "payoff_review": "Reckless Fireweaver and Weftstalker Ardent trigger on artifact entries; Mirkwood Bats triggers on token creation and sacrifice; Marionette Apprentice, Disciple of the Vault, and The Sackville-Bagginses convert artifact/token sacrifices to life loss. Pain for All and Fiendlash convert repeated damage to Smaug to opponent damage. Heroes for Hire, Professional Face-Breaker, and optional Expedited Inheritance provide finite library access from repeatable resources. Payoffs must remain on the battlefield; sweepers can kill support creatures before Treasures enter.",
-      "primer_review": "Public primer read 2026-09-08 mentions Agent of the Iron Throne, Torment of Hailfire, and Witch’s Clinic, which are absent from the exact current export. They were not counted as cards or prerequisites. Moxfield was not edited.",
-      "breach_review": "Breach replaces instant-speed draw/filtering and two Treasures with one-turn graveyard access to rituals, tutors, removal, protection, and spent combo pieces. Each escape consumes three other graveyard cards and pays the escape mana cost; ordinary spell timing still applies. Ritual replay alone is fuel-limited. The Wheel/Jeska chain provides a commander-independent setup route but not infinite library recycling. The Breach/Sol Ring/Wheel line cannot sacrifice and recast Sol Ring repeatedly without an added artifact-sacrifice outlet; existing one-shot sacrifices do not establish that loop."
+      "primer_review": "Public primer read 2026-09-08 mentions Agent of the Iron Throne, Torment of Hailfire, and Witch’s Clinic, which are absent from the exact current export. They were not counted as cards or prerequisites. Moxfield was not edited."
     }
   ]
 }

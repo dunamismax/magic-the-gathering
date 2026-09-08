@@ -20,10 +20,11 @@ deck edits so one layer cannot silently masquerade as another.
 - All 11 exact lists have hash-current Commander Spellbook evidence and manual
   prerequisite review; Smaug was scanned and reviewed on **2026-09-08**, while
   the unchanged decks retain their original evidence dates
-- Smaug has **35 printed lands, 1 spell/land MDFC, and 6 Game Changers**, with
-  an unrestricted B4 ceiling and no Rule Zero dependency. Nine included combo
-  candidates were adjudicated individually, and Blazing Sunsteel was manually
-  confirmed as an additional engine
+- Smaug has **35 printed lands, 1 spell/land MDFC, and 7 Game Changers**, with
+  an unrestricted B4 ceiling and no Rule Zero dependency. Ten included combo
+  candidates were adjudicated individually after Big Score became Underworld
+  Breach. The new Breach / Jeska's Will / Wheel chain is limited by library size;
+  Blazing Sunsteel remains a manually confirmed additional engine
 - Gandalf's posted Maximum Flavor main has no complete combo; its exact
   nine-for-nine Maximum Power switch restores one intentional conditional
   unlimited-combat line. Pantlaza has three

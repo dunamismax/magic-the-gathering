@@ -3,7 +3,7 @@
   "profile_url": "https://moxfield.com/users/dunamismax",
   "refreshed_on": "2026-09-08",
   "method": "Moxfield public profile plus each deck page, Download, Copy Plain Text",
-  "notes": "All 11 public Commander decks were enumerated and freshly read through the plain-text export UI on 2026-09-08. Smaug the Impenetrable was added as the owner-confirmed Bracket 4 optimized maximum-power combo deck. All 10 existing mains and Gandalf’s nine-card sideboard are byte-identical to the previous exports (after adding a final newline). Frodo & Sam and Thorin have newer public page dates only. No existing Commander deck was removed or renamed. The repository remains Commander-only. Later on September 8, the owner confirmed Big Score to Underworld Breach in Smaug. A fresh plain-text export verified exactly that swap; current Smaug evidence is in data/moxfield-exports/2026-09-08-smaug-breach/. The initial September 8 export remains historical evidence.",
+  "notes": "All 11 public Commander decks were enumerated and freshly read through the plain-text export UI on 2026-09-08. Smaug the Impenetrable was added as the owner-confirmed Bracket 4 optimized maximum-power combo deck. All 10 existing mains and Gandalf’s nine-card sideboard are byte-identical to the previous exports (after adding a final newline). Frodo & Sam and Thorin have newer public page dates only. No existing Commander deck was removed or renamed. The repository remains Commander-only.",
   "deck_count": 11,
   "decks": {
     "aragorn-the-uniter": {
@@ -102,10 +102,9 @@
       "moxfield_id": "PyYsm-js4EG7x4j-RUkTVw",
       "source_updated_on": "2026-09-08",
       "refreshed_on": "2026-09-08",
-      "deck_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
-      "export_file": "data/moxfield-exports/2026-09-08-smaug-breach/smaug-the-impenetrable.txt",
-      "export_sha256": "f6442e0d75364ff518da6ff91b2a703fe0a3997d6d3436e693da5ba192b89a60",
-      "notes": "Re-exported after the user-confirmed Big Score to Underworld Breach swap; matches the guarded applied change byte-for-byte."
+      "deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
+      "export_file": "data/moxfield-exports/2026-09-08/smaug-the-impenetrable.txt",
+      "export_sha256": "210097c3433895769b89a62db81d00a25eeb1bb51e2d832f0d716e9abb1d6576"
     }
   }
 }
