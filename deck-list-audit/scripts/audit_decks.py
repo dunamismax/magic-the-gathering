@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_VERSION = 2
 NONPLAYABLE_LAYOUTS = {
     "art_series",
+    "front_card",
     "token",
     "double_faced_token",
     "emblem",

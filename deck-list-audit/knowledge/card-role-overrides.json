@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-09-05",
+  "reviewed_on": "2026-09-08",
   "notes": "Overrides are deck-context judgments. A role list is include-only shorthand; use include/exclude objects to remove heuristic false positives. Current commanders and direct engine pieces are explicitly routed; absence remains unclassified, not proof that a card lacks a role.",
   "global": {
     "Ancient Tomb": [
@@ -323,6 +323,247 @@
         "tutor",
         "win_condition"
       ]
+    },
+    "smaug-the-impenetrable": {
+      "Smaug the Impenetrable": [
+        "commander_engine",
+        "ramp",
+        "combo_piece",
+        "win_condition"
+      ],
+      "Blazing Sunsteel": [
+        "commander_engine",
+        "combo_piece"
+      ],
+      "Dizzying Gaze": [
+        "commander_engine",
+        "combo_piece"
+      ],
+      "Chain Lightning": [
+        "commander_engine",
+        "combo_piece"
+      ],
+      "Mayhem Devil": [
+        "commander_engine",
+        "combo_piece"
+      ],
+      "Havoc Jester": [
+        "commander_engine",
+        "combo_piece"
+      ],
+      "Reckless Fireweaver": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Weftstalker Ardent": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Mirkwood Bats": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Marionette Apprentice": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Disciple of the Vault": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "The Sackville-Bagginses": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Pain for All": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Fiendlash": [
+        "commander_engine",
+        "win_condition"
+      ],
+      "Xorn": [
+        "commander_engine",
+        "ramp"
+      ],
+      "Goldspan Dragon": [
+        "commander_engine",
+        "ramp"
+      ],
+      "Crime Novelist": [
+        "commander_engine",
+        "ramp"
+      ],
+      "Roaming Throne": [
+        "commander_engine",
+        "ramp"
+      ],
+      "Academy Manufactor": [
+        "commander_engine"
+      ],
+      "Cut Propulsion": [
+        "commander_engine",
+        "spot_removal"
+      ],
+      "Self-Destruct": [
+        "commander_engine",
+        "spot_removal"
+      ],
+      "The Last Agni Kai": [
+        "commander_engine",
+        "spot_removal"
+      ],
+      "Lightning Bolt": [
+        "commander_engine",
+        "spot_removal"
+      ],
+      "Dawnsire, Sunstar Dreadnought": [
+        "commander_engine",
+        "spot_removal"
+      ],
+      "Bolt Bend": [
+        "protection"
+      ],
+      "Deflecting Swat": [
+        "protection"
+      ],
+      "Redirect Lightning": [
+        "protection"
+      ],
+      "Not of This World": [
+        "protection"
+      ],
+      "Hexing Squelcher": [
+        "protection"
+      ],
+      "Cavern of Souls": [
+        "protection"
+      ],
+      "Dark Ritual": [
+        "ramp",
+        "fast_mana"
+      ],
+      "Seething Song": [
+        "ramp",
+        "fast_mana"
+      ],
+      "Treasonous Ogre": [
+        "ramp",
+        "fast_mana"
+      ],
+      "Jeska's Will": [
+        "ramp",
+        "fast_mana"
+      ],
+      "Mana Geyser": [
+        "ramp"
+      ],
+      "Descent into Avernus": [
+        "ramp"
+      ],
+      "Smaug, Wicked Worm": [
+        "ramp",
+        "card_advantage",
+        "commander_engine"
+      ],
+      "Smaug the Magnificent": [
+        "ramp",
+        "commander_engine",
+        "win_condition"
+      ],
+      "Expedited Inheritance": [
+        "card_advantage",
+        "commander_engine"
+      ],
+      "Wheel of Fortune": [
+        "card_advantage"
+      ],
+      "Shadowspear": [
+        "protection",
+        "commander_engine"
+      ],
+      "Mana Vault": {
+        "include": [
+          "ramp",
+          "fast_mana"
+        ],
+        "exclude": [
+          "lock_piece"
+        ]
+      },
+      "Chaos Warp": {
+        "include": [
+          "spot_removal"
+        ],
+        "exclude": [
+          "ramp"
+        ]
+      },
+      "Valakut Awakening": {
+        "include": [
+          "selection"
+        ],
+        "exclude": [
+          "ramp"
+        ]
+      },
+      "Arid Mesa": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      },
+      "Bloodstained Mire": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      },
+      "Marsh Flats": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      },
+      "Polluted Delta": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      },
+      "Scalding Tarn": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      },
+      "Verdant Catacombs": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      },
+      "Wooded Foothills": {
+        "include": [
+          "land_tutor"
+        ],
+        "exclude": [
+          "tutor"
+        ]
+      }
     }
   }
 }

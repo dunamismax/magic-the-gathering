@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "status": "reviewed-current-snapshot",
-  "audit_date": "2026-09-08",
-  "report_file": "reports/commander-social-audit-2026-09-08.md",
-  "report_sha256": "db111f9abb7955e1171ed96d49062b714ce10af438e05ce3784c8e3d7eb2afee",
+  "audit_date": "2026-09-05",
+  "report_file": "reports/commander-social-audit-2026-09-05.md",
+  "report_sha256": "09a6878301711b492150f93f59c5cf1fb47c5badd87d55612db0185e40cf6462",
   "deck_sha256": {
     "aragorn-the-uniter": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
     "blor-the-impervious": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
@@ -14,10 +14,9 @@
     "minn-wily-illusionist": "46276865a242b46f71a022f8b39767afaffb5887eb627a9d2d529e2c0b76a9c8",
     "pantlaza-sun-favored": "9efdc635e56f49339b4abdb13d0cfbe3796e2112dbcb8cdfda51148114762c7e",
     "queen-marchesa": "fc353a2675ede0a0e1353a12815f444809a28864b3a0a6e3879d578cae53448a",
-    "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f",
-    "smaug-the-impenetrable": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34"
+    "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f"
   },
-  "notes": "All 11 public Commander lists were exported on September 8. Smaug was added with a fresh exact-list Spellbook scan and manual review. Ten unchanged mains and Gandalf’s sideboard retain their hash-matching evidence and original review dates. Current social and bracket reports add the B4 combo role and preserve all existing disclosures.",
-  "companion_report_file": "reports/commander-bracket-power-evaluation-2026-09-08.md",
-  "companion_report_sha256": "29dd41e27404b485ed8072ebffef915e97d390b28976c6d8938f08b983dcced7"
+  "notes": "All 10 public Commander lists were re-downloaded on 2026-09-05. The six changed lists received fresh full-list Spellbook scans and manual prerequisite review; four unchanged lists retain their original hash-matching evidence dates. Social and bracket judgments were reviewed against the current 100-card lists. Canadian Highlander decks are excluded at the owner’s request.",
+  "companion_report_file": "reports/commander-bracket-power-evaluation-2026-09-05.md",
+  "companion_report_sha256": "8548cc22fb465dae31afa3eb2cdc8987f5fa8af8737f3cb6d749c95e479d367e"
 }

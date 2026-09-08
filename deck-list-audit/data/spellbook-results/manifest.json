@@ -92,6 +92,15 @@
       "estimate_sha256": "8bfa648e93d79c15f61880026dc9187feb8577d43735b6238ea927b802c56813",
       "combos_file": "data/spellbook-results/thorin-king-of-durins-folk-combos.json",
       "combos_sha256": "9bdf56c7b2224ffbaf29da68f785a4e9be363b75cd9d7f75bef8662887169af0"
+    },
+    "smaug-the-impenetrable": {
+      "status": "exact-list-scan",
+      "fetched_on": "2026-09-08",
+      "request_sha256": "49529058e17c0bdee2fcfbe752eedcae529dbf39b234fddeb5c2a47d8a1446bd",
+      "estimate_file": "data/spellbook-results/smaug-the-impenetrable-estimate.json",
+      "estimate_sha256": "55e1759566d4e464d1f5b73d65bcf72740525938d35ed5b7e0429edb47ce4746",
+      "combos_file": "data/spellbook-results/smaug-the-impenetrable-combos.json",
+      "combos_sha256": "015c78c6792b86c3e90e2047d59e339d05d1c704a15480fed3c52129582e6fbb"
     }
   }
 }

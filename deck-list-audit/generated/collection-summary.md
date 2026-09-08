@@ -1,8 +1,8 @@
 # Generated Commander collection summary
 
-Audit date: 2026-09-05
-Oracle snapshot: 2026-09-05T09:01:53.771+00:00
-Policy lock: 2026-09-05
+Audit date: 2026-09-08
+Oracle snapshot: 2026-09-08T09:01:57.053+00:00
+Policy lock: 2026-09-08
 
 This file contains deterministic construction results. Bracket and social
 conclusions require the relevant rubric and dated human/AI judgment.
@@ -19,6 +19,7 @@ conclusions require the relevant rubric and dated human/AI judgment.
 | Pantlaza, Sun-Favored / The Land Before Value | yes | 100 | 35 | 3 | 0 | Maular, the Next Evolution | None | `9efdc635e56f` |
 | Queen Marchesa / Mardu Your Business | yes | 100 | 35 | 2 | 0 | None | None | `fc353a2675ed` |
 | The Notary Hobbits / Signed, Sealed, Annihilated | yes | 100 | 36 | 3 | 0 | Darksteel Angel | None | `8526cda4caa0` |
+| Smaug the Impenetrable / Hurts So Gold | yes | 100 | 35 | 1 | 6 | None | None | `611723d57eb2` |
 
 ## Validation notes
 

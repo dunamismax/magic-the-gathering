@@ -51,7 +51,7 @@
         "budget": null,
         "experience": "Four-color multicolor-spell value and creature pressure built around Aragorn's four triggered abilities."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "blor-the-impervious": {
       "commanders": [
@@ -72,7 +72,7 @@
         "budget": null,
         "experience": "Resilient mono-green Voltron with visible combat wins."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "frodo-sam": {
       "commanders": [
@@ -81,7 +81,7 @@
       ],
       "title": "Frodo & Sam | There and Snack Again",
       "moxfield_id": "g9oUYlV4TU27CtQyGMgF2Q",
-      "source_updated_on": "2026-09-04",
+      "source_updated_on": "2026-09-07",
       "visibility": "public",
       "constraints": {
         "target_bracket": 2,
@@ -95,7 +95,7 @@
           "The One Ring"
         ]
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "gandalf-party-guest": {
       "commanders": [
@@ -116,7 +116,7 @@
         "budget": null,
         "experience": "Maximum Flavor — a Bracket 2-style Rule Zero Jeskai legendary-Wizard spellslinger with all eleven printed Gandalfs plus Gandalf's Sanction; the posted main deck requires a disclosed Gandalf, Westward Voyager color-identity house rule."
       },
-      "source_refreshed_on": "2026-09-05",
+      "source_refreshed_on": "2026-09-08",
       "sideboard": {
         "file": "decks/sideboards/gandalf-party-guest.txt",
         "purpose": "Maximum Power — the exact nine-for-nine switch from the posted Maximum Flavor Rule Zero main deck to its streamlined, maximally tuned, Commander-legal Bracket 3 configuration. No other cards change.",
@@ -153,7 +153,7 @@
         "budget": null,
         "experience": "Replayable Jund blitz, creature-toolbox, and reanimation gameplay."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "thorin-king-of-durins-folk": {
       "commanders": [
@@ -161,7 +161,7 @@
       ],
       "title": "Thorin, King of Durin’s Folk | Long Live the Short Kings",
       "moxfield_id": "ajEk9aexw0KTAXG7aL9ysg",
-      "source_updated_on": "2026-09-05",
+      "source_updated_on": "2026-09-07",
       "visibility": "public",
       "constraints": {
         "target_bracket": 3,
@@ -172,7 +172,7 @@
         "budget": null,
         "experience": "Boros all-Dwarf kindred with creature-triggered Treasure, legendary-copy and token multipliers, Equipment, and combat wins."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "minn-wily-illusionist": {
       "commanders": [
@@ -196,7 +196,7 @@
         "budget": null,
         "experience": "Illusion and second-draw engine with strong protection and replayable value."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "pantlaza-sun-favored": {
       "commanders": [
@@ -217,7 +217,7 @@
         "budget": null,
         "experience": "Dinosaur discover and combat deck with commander-specific value."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "queen-marchesa": {
       "commanders": [
@@ -236,7 +236,7 @@
         "budget": null,
         "experience": "Political monarch, goad, gifting, and damage-redirection gameplay."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
     },
     "the-notary-hobbits": {
       "commanders": [
@@ -257,7 +257,26 @@
         "budget": null,
         "experience": "Mono-green Halfling-token mana that accelerates into colorless Eldrazi battlecruiser threats, annihilator, cast triggers, and combat wins without an intended infinite combo."
       },
-      "source_refreshed_on": "2026-09-05"
+      "source_refreshed_on": "2026-09-08"
+    },
+    "smaug-the-impenetrable": {
+      "commanders": [
+        "Smaug the Impenetrable"
+      ],
+      "title": "Smaug the Impenetrable | Hurts So Gold",
+      "moxfield_id": "PyYsm-js4EG7x4j-RUkTVw",
+      "source_updated_on": "2026-09-08",
+      "source_refreshed_on": "2026-09-08",
+      "visibility": "public",
+      "constraints": {
+        "target_bracket": 4,
+        "game_changer_max": null,
+        "combo_policy": "disclose",
+        "rule_zero_cards": [],
+        "locked_cards": [],
+        "budget": null,
+        "experience": "Optimized maximum-power Bracket 4 Rakdos Treasure combo: damage to Smaug funds repeatable damage, sacrifice payoffs, tutors, and protected lethal loops."
+      }
     }
   }
 }

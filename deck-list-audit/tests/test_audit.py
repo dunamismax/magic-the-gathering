@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import sys
 import tempfile
 import unittest
@@ -10,7 +11,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from audit_decks import audit_deck, build_audit, normalize_name, read_deck  # noqa: E402
+from audit_decks import (  # noqa: E402
+    audit_deck,
+    build_audit,
+    load_oracle,
+    normalize_name,
+    read_deck,
+)
 
 
 def card(
@@ -60,6 +67,30 @@ SWAMP = card(
 
 
 class AuditTests(unittest.TestCase):
+    def test_display_card_does_not_make_playable_card_name_ambiguous(self) -> None:
+        playable = card(
+            "Heroes for Hire",
+            oracle_id="enchantment",
+            type_line="Enchantment",
+        )
+        display = card(
+            "Heroes for Hire",
+            oracle_id="display",
+            type_line="Card",
+            layout="front_card",
+            legality="not_legal",
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "oracle.jsonl"
+            path.write_text(
+                "\n".join(json.dumps(value) for value in (playable, display)) + "\n",
+                encoding="utf-8",
+            )
+            resolved, ambiguous = load_oracle(path)
+        key = normalize_name("Heroes for Hire")
+        self.assertEqual(resolved[key]["oracle_id"], "enchantment")
+        self.assertNotIn(key, ambiguous)
+
     def audit_text(
         self,
         text: str,

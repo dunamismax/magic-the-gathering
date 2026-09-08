@@ -5,13 +5,15 @@ lineup. It stores exact public Moxfield snapshots, deterministic construction
 audits, dated external evidence, safe change tooling, and reusable review
 prompts.
 
-The current collection contains **10 decks**: nine labeled Bracket 3 and one
-posted Bracket 2* configuration. Every public Commander list was downloaded on
-**2026-09-05**, including Gandalf's exact nine-card **Maximum Flavor** / **Maximum
-Power** configuration switch, and the full deterministic collection audit was
-regenerated that day. Six decks received 31 card substitutions; the other four
-mains and Gandalf's sideboard were verified unchanged. This repository tracks
-Commander decks only.
+The current collection contains **11 decks**: nine labeled Bracket 3, one
+posted Bracket 2* configuration, and **Smaug the Impenetrable | Hurts So Gold**
+as the Bracket 4 / Optimized maximum-power combo deck. Every public Commander
+list was freshly exported on **2026-09-08**. All ten existing mains and Gandalf's
+exact nine-card **Maximum Flavor** / **Maximum Power** configuration switch
+were verified unchanged; Frodo & Sam and Thorin only have newer page dates.
+Smaug's combo evidence and the full deterministic collection audit were
+regenerated, with all existing Rule Zero disclosures preserved. This repository
+tracks Commander decks only.
 
 ## Start here
 

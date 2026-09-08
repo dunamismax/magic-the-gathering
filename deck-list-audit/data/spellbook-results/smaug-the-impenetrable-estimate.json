@@ -1,0 +1,3049 @@
+{
+  "bracketTag": "R",
+  "cards": [
+    {
+      "card": {
+        "id": 4231,
+        "name": "Academy Manufactor",
+        "oracleId": "f36d1d8b-8303-44a9-ab56-531931641ea2",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact Creature — Assembly-Worker",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/6/76480f4d-ad6d-4ed6-82c6-fa12abc22557.png?1783911891",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/6/76480f4d-ad6d-4ed6-82c6-fa12abc22557.jpg?1783911891",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/6/76480f4d-ad6d-4ed6-82c6-fa12abc22557.jpg?1783911891",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/6/76480f4d-ad6d-4ed6-82c6-fa12abc22557.jpg?1783911891",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/6/76480f4d-ad6d-4ed6-82c6-fa12abc22557.jpg?1783911891",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7593,
+        "name": "Ancient Tomb",
+        "oracleId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.png?1783933762",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2739,
+        "name": "Arcane Signet",
+        "oracleId": "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.png?1783903222",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6155,
+        "name": "Arid Mesa",
+        "oracleId": "c5acf2a5-40f4-433d-a74d-1cb56c521464",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.png?1783926797",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1783926797",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1783926797",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1783926797",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/5/25ac5405-df7b-4097-914a-022cb18e20d4.jpg?1783926797",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6938,
+        "name": "Badlands",
+        "oracleId": "13ff3222-91cb-4796-a34e-899ed817694c",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land — Swamp Mountain",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/3/73403d04-fe97-4830-8b80-16dd1a1a6cc1.png?1783939227",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/3/73403d04-fe97-4830-8b80-16dd1a1a6cc1.jpg?1783939227",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/3/73403d04-fe97-4830-8b80-16dd1a1a6cc1.jpg?1783939227",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/3/73403d04-fe97-4830-8b80-16dd1a1a6cc1.jpg?1783939227",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/3/73403d04-fe97-4830-8b80-16dd1a1a6cc1.jpg?1783939227",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6811,
+        "name": "Big Score",
+        "oracleId": "a5cbd257-c836-493e-bb1a-76242619dea2",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/3/3383a939-4ab3-4546-9995-6c65cd3f4441.png?1783903010",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/3/3383a939-4ab3-4546-9995-6c65cd3f4441.jpg?1783903010",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/3/3383a939-4ab3-4546-9995-6c65cd3f4441.jpg?1783903010",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/3/3383a939-4ab3-4546-9995-6c65cd3f4441.jpg?1783903010",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/3/3383a939-4ab3-4546-9995-6c65cd3f4441.jpg?1783903010",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2484,
+        "name": "Blasphemous Act",
+        "oracleId": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.png?1783903234",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2723,
+        "name": "Blazing Sunsteel",
+        "oracleId": "46c77100-ab2e-43eb-b1cb-c22ed114213e",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact — Equipment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/9/69d276fe-5f2b-41aa-80fa-64d3b60fd54f.png?1783928737",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/9/69d276fe-5f2b-41aa-80fa-64d3b60fd54f.jpg?1783928737",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/9/69d276fe-5f2b-41aa-80fa-64d3b60fd54f.jpg?1783928737",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/9/69d276fe-5f2b-41aa-80fa-64d3b60fd54f.jpg?1783928737",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/9/69d276fe-5f2b-41aa-80fa-64d3b60fd54f.jpg?1783928737",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6159,
+        "name": "Bloodstained Mire",
+        "oracleId": "fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/7/579743fe-f71e-4cb2-8629-d6b02ed1591d.png?1783911241",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/7/579743fe-f71e-4cb2-8629-d6b02ed1591d.jpg?1783911241",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/7/579743fe-f71e-4cb2-8629-d6b02ed1591d.jpg?1783911241",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/7/579743fe-f71e-4cb2-8629-d6b02ed1591d.jpg?1783911241",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/7/579743fe-f71e-4cb2-8629-d6b02ed1591d.jpg?1783911241",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 210,
+        "name": "Chain Lightning",
+        "oracleId": "8785f42f-87b9-4a0a-89ce-ea423649ba9c",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.png?1783918467",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7105,
+        "name": "Command Tower",
+        "oracleId": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.png?1783903206",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5346,
+        "name": "Crime Novelist",
+        "oracleId": "5996b1d0-7fe3-4fec-8730-9db901d887b1",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Goblin Bard",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.png?1783912882",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/4/14a5cd7c-b0b1-4ffa-a806-bb0e73baffad.jpg?1783912882",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5291,
+        "name": "Cursed Mirror",
+        "oracleId": "4d67e2a7-4aa7-44cc-853b-500d7aac046d",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/7/077392b3-6b06-46c8-8737-51e85f690448.png?1783903775",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/7/077392b3-6b06-46c8-8737-51e85f690448.jpg?1783903775",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/7/077392b3-6b06-46c8-8737-51e85f690448.jpg?1783903775",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/7/077392b3-6b06-46c8-8737-51e85f690448.jpg?1783903775",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/7/077392b3-6b06-46c8-8737-51e85f690448.jpg?1783903775",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2701,
+        "name": "Dark Ritual",
+        "oracleId": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.png?1783903013",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6758,
+        "name": "Dawnsire, Sunstar Dreadnought",
+        "oracleId": "afc9436b-8cad-4916-929d-ff33a37b42d5",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Artifact — Spacecraft",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.png?1783905921",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 3418,
+        "name": "Deadly Rollick",
+        "oracleId": "0456ec64-2c81-4763-a352-8ff64a4c3d6b",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.png?1783915679",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/e/0e13f735-54fa-42b6-aea4-ced33811d7d4.jpg?1783915679",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6084,
+        "name": "Deflecting Swat",
+        "oracleId": "ae120613-97d6-4393-b39d-c3e6c076f5d6",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.png?1783915656",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4105,
+        "name": "Demonic Tutor",
+        "oracleId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.png?1783915679",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1783915679",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1783915679",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1783915679",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/2/a24b4cb6-cebb-428b-8654-74347a6a8d63.jpg?1783915679",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5228,
+        "name": "Descent into Avernus",
+        "oracleId": "1313da2f-92bb-4862-9153-373972cc1520",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/a/faadf72f-b2d5-4271-8d5c-a586acf63453.png?1783922742",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/a/faadf72f-b2d5-4271-8d5c-a586acf63453.jpg?1783922742",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/a/faadf72f-b2d5-4271-8d5c-a586acf63453.jpg?1783922742",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/a/faadf72f-b2d5-4271-8d5c-a586acf63453.jpg?1783922742",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/a/faadf72f-b2d5-4271-8d5c-a586acf63453.jpg?1783922742",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 3653,
+        "name": "Disciple of the Vault",
+        "oracleId": "c8625113-0ce4-4454-83a1-25c31b8bfb9a",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Human Cleric",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.png?1783930183",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1783930183",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1783930183",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1783930183",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/c/4c539843-4e3f-47a7-92e1-412eaaa2d9c5.jpg?1783930183",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 8041,
+        "name": "Dizzying Gaze",
+        "oracleId": "e04f46d9-43e7-45ef-b59c-1810f30bec72",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment — Aura",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.png?1783946512",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7502,
+        "name": "Expedited Inheritance",
+        "oracleId": "11e2f581-7c3c-4f2f-877f-e41540ab967e",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.png?1783912881",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1873,
+        "name": "Fiendlash",
+        "oracleId": "2d21dc80-2900-4dc3-9657-f17b50716481",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact — Equipment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.png?1783915654",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1203,
+        "name": "Fire Covenant",
+        "oracleId": "025939a0-424a-41bf-8fc9-2ef9ea5485f7",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.png?1783911521",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/a/1a13437b-e0c7-4ca9-a0e2-b8cb1b5813ec.jpg?1783911521",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 3809,
+        "name": "Goldspan Dragon",
+        "oracleId": "716b3ea2-45b7-4a8f-af72-de7f4e510eff",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Dragon",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/8/4/848c1951-90fa-4f01-9aed-76f1afcd9995.png?1783903774",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/8/4/848c1951-90fa-4f01-9aed-76f1afcd9995.jpg?1783903774",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/8/4/848c1951-90fa-4f01-9aed-76f1afcd9995.jpg?1783903774",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/8/4/848c1951-90fa-4f01-9aed-76f1afcd9995.jpg?1783903774",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/8/4/848c1951-90fa-4f01-9aed-76f1afcd9995.jpg?1783903774",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2415,
+        "name": "Havoc Jester",
+        "oracleId": "58f5bbd2-b876-4eb9-aa79-f4d3511961e0",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Devil",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.png?1783912539",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1878,
+        "name": "Jeska's Will",
+        "oracleId": "0fd114c4-092b-4e28-b0dc-ef529f3bc73e",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.png?1783912996",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4673,
+        "name": "Lightning Bolt",
+        "oracleId": "4457ed35-7c10-48c8-9776-456485fdf070",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/6/7673784e-db4b-43a1-8d55-1bb9fc1e284f.png?1783903008",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/6/7673784e-db4b-43a1-8d55-1bb9fc1e284f.jpg?1783903008",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/6/7673784e-db4b-43a1-8d55-1bb9fc1e284f.jpg?1783903008",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/6/7673784e-db4b-43a1-8d55-1bb9fc1e284f.jpg?1783903008",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/6/7673784e-db4b-43a1-8d55-1bb9fc1e284f.jpg?1783903008",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1486,
+        "name": "Magda, Brazen Outlaw",
+        "oracleId": "3d268e48-3004-4384-bf52-e63243fb5e02",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Creature — Dwarf Berserker",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/0/7/079e6263-e54c-4899-a336-5315909b9322.png?1783928229",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1783928229",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1783928229",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1783928229",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1783928229",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2091,
+        "name": "Mana Geyser",
+        "oracleId": "a8dba58b-2956-492e-ae30-49db2ae68e53",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/f/dfbda387-3c7d-4c80-97c3-60c9d4757244.png?1783903773",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/f/dfbda387-3c7d-4c80-97c3-60c9d4757244.jpg?1783903773",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/f/dfbda387-3c7d-4c80-97c3-60c9d4757244.jpg?1783903773",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/f/dfbda387-3c7d-4c80-97c3-60c9d4757244.jpg?1783903773",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/f/dfbda387-3c7d-4c80-97c3-60c9d4757244.jpg?1783903773",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2364,
+        "name": "Mana Vault",
+        "oracleId": "736892cb-a34b-4bb9-b56c-e26e3db207a2",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/1/c1a31d52-a407-4ded-bfca-cc812f11afa0.png?1783921790",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/1/c1a31d52-a407-4ded-bfca-cc812f11afa0.jpg?1783921790",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/1/c1a31d52-a407-4ded-bfca-cc812f11afa0.jpg?1783921790",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/1/c1a31d52-a407-4ded-bfca-cc812f11afa0.jpg?1783921790",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/1/c1a31d52-a407-4ded-bfca-cc812f11afa0.jpg?1783921790",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6199,
+        "name": "Marionette Apprentice",
+        "oracleId": "726d9d2c-736a-4852-9938-a0f50d8fd89f",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Human Artificer",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.png?1783911278",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1783911278",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1783911278",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1783911278",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/1/d16f8670-f038-400a-83e7-a53a7f8c47ac.jpg?1783911278",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1678,
+        "name": "Mayhem Devil",
+        "oracleId": "4709f11c-aef8-45ac-b2bf-e640c568dfac",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Devil",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.png?1783906026",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2612,
+        "name": "Mirkwood Bats",
+        "oracleId": "0636b6c3-0662-420a-b30d-f0a14e7c512d",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Bat",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.png?1783916303",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/5/15f035df-784a-4dc8-b7f5-77139a4e6e99.jpg?1783916303",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6889,
+        "name": "Pain for All",
+        "oracleId": "4eedf21c-0ad1-48da-a9fe-2ffdbf8371e9",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment — Aura",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.png?1783905949",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4498,
+        "name": "Pestilence",
+        "oracleId": "dafe63ef-f3d6-45e7-877a-573da92ba85e",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.png?1783946180",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2815,
+        "name": "Professional Face-Breaker",
+        "oracleId": "04152e7a-969c-4858-841b-0a569a9fc1bf",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Human Warrior",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.png?1783923119",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1783923119",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4629,
+        "name": "Pyrohemia",
+        "oracleId": "9ac57a10-3402-4656-9079-f713884cde35",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.png?1783936273",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2257,
+        "name": "Reckless Fireweaver",
+        "oracleId": "180e1a7e-890d-477c-80a5-da8a5f2857b3",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Human Artificer",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.png?1783937190",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1783937190",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1783937190",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1783937190",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1783937190",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5334,
+        "name": "Roaming Throne",
+        "oracleId": "3640c29b-1534-4952-b297-619ade948431",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact Creature — Golem",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.png?1783913723",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4833,
+        "name": "Ruby Medallion",
+        "oracleId": "0c367958-729e-416d-988b-098e90e7a1fd",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.png?1783911209",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4036,
+        "name": "Seething Song",
+        "oracleId": "64bf8929-f5f2-4d50-8667-13b1d007bcfc",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.png?1783927539",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.jpg?1783927539",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.jpg?1783927539",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.jpg?1783927539",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.jpg?1783927539",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1149,
+        "name": "Shadowspear",
+        "oracleId": "8b27326f-e7b8-4a4d-b589-df459246d19a",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Artifact — Equipment",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.png?1783931515",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1783931515",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1783931515",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1783931515",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1783931515",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7839,
+        "name": "Smaug the Impenetrable",
+        "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Creature — Dragon",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7651,
+        "name": "Smaug the Magnificent",
+        "oracleId": "c53b7602-5e36-4900-896c-844bf6eac22e",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Creature — Dragon",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.png?1783902784",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7898,
+        "name": "Smaug, Wicked Worm",
+        "oracleId": "20535126-f811-4386-bdce-d73f30691724",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Creature — Dragon",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.png?1785323313",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg?1785323313",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg?1785323313",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg?1785323313",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg?1785323313",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5034,
+        "name": "Sol Ring",
+        "oracleId": "6ad8011d-3471-4369-9d68-b264cc027487",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.png?1783903215",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 3432,
+        "name": "Star of Extinction",
+        "oracleId": "48220e6c-5752-46e0-9b7f-f0eef274d929",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/2/526d13cb-3616-4ac8-9ac0-04c729d447b2.png?1783915642",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/2/526d13cb-3616-4ac8-9ac0-04c729d447b2.jpg?1783915642",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/2/526d13cb-3616-4ac8-9ac0-04c729d447b2.jpg?1783915642",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/2/526d13cb-3616-4ac8-9ac0-04c729d447b2.jpg?1783915642",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/2/526d13cb-3616-4ac8-9ac0-04c729d447b2.jpg?1783915642",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 4548,
+        "name": "Takenuma, Abandoned Mire",
+        "oracleId": "ac2dd694-d2f1-4025-8400-12332bdc882a",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.png?1783923812",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1783923812",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1783923812",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1783923812",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.jpg?1783923812",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 7019,
+        "name": "The Last Agni Kai",
+        "oracleId": "fd1998c0-c18e-4310-82de-b6320be5fe10",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.png?1783904955",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1783904955",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1783904955",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1783904955",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1783904955",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 3363,
+        "name": "The One Ring",
+        "oracleId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Artifact",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5313,
+        "name": "Treasonous Ogre",
+        "oracleId": "826d4279-1576-4898-a1c2-26fd547fb0d0",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Ogre Shaman",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.png?1783939373",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1783939373",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1783939373",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1783939373",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/e/ae48c31d-6fd9-457f-adb8-37f367724ba1.jpg?1783939373",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 233,
+        "name": "Urborg, Tomb of Yawgmoth",
+        "oracleId": "db6174d7-211d-4817-b8e4-8384594c83f9",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Legendary Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.png?1783927747",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 658,
+        "name": "Urza's Saga",
+        "oracleId": "4c6a0c30-b547-4eff-8ff4-0ca25803c076",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Enchantment Land — Urza's Saga",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.png?1783926791",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1783926791",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 1827,
+        "name": "Vampiric Tutor",
+        "oracleId": "ededbdae-d9dc-4206-9335-d7158f2d7700",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Instant",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.png?1783918468",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg?1783918468",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg?1783918468",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg?1783918468",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/4/34a0203f-9cce-43a4-9cb7-8ce6647895cd.jpg?1783918468",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": true,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 8103,
+        "name": "Verdant Catacombs",
+        "oracleId": "67d60b24-d429-4ded-90d9-06e49f28c396",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.png?1783926791",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 6847,
+        "name": "Weftstalker Ardent",
+        "oracleId": "926d52a5-4db1-46ce-9567-17c28bf56ae7",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Drix Artificer",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.png?1783905943",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.jpg?1783905943",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.jpg?1783905943",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.jpg?1783905943",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/c/d/cddb48cc-8eb1-47ce-90f0-7aad1e93e2c4.jpg?1783905943",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 2706,
+        "name": "Wheel of Fortune",
+        "oracleId": "a8abd966-de7b-46a3-8ac7-8747ab35653a",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Sorcery",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/5/2597050f-6b1b-474e-aa16-33fd154628ca.png?1783939263",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/5/2597050f-6b1b-474e-aa16-33fd154628ca.jpg?1783939263",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/5/2597050f-6b1b-474e-aa16-33fd154628ca.jpg?1783939263",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/5/2597050f-6b1b-474e-aa16-33fd154628ca.jpg?1783939263",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/5/2597050f-6b1b-474e-aa16-33fd154628ca.jpg?1783939263",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 8101,
+        "name": "Wooded Foothills",
+        "oracleId": "6587a463-a108-4854-b6d1-944e89b8c8a4",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Land",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/4/e/4e11ea8a-f895-438d-a3b7-f070238e4161.png?1783911232",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/4/e/4e11ea8a-f895-438d-a3b7-f070238e4161.jpg?1783911232",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/4/e/4e11ea8a-f895-438d-a3b7-f070238e4161.jpg?1783911232",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/4/e/4e11ea8a-f895-438d-a3b7-f070238e4161.jpg?1783911232",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/4/e/4e11ea8a-f895-438d-a3b7-f070238e4161.jpg?1783911232",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "card": {
+        "id": 5184,
+        "name": "Xorn",
+        "oracleId": "11d8fab8-93af-4291-80bd-cf9436e99f4b",
+        "spoiler": false,
+        "faces": 1,
+        "typeLine": "Creature — Elemental",
+        "imageUriFrontPng": "https://cards.scryfall.io/png/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.png?1783926470",
+        "imageUriFrontLarge": "https://cards.scryfall.io/large/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
+        "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
+        "imageUriFrontSmall": "https://cards.scryfall.io/small/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
+        "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.jpg?1783926470",
+        "layoutRotationFront": null,
+        "imageUriBackPng": null,
+        "imageUriBackLarge": null,
+        "imageUriBackNormal": null,
+        "imageUriBackSmall": null,
+        "imageUriBackArtCrop": null
+      },
+      "quantity": 1,
+      "banned": false,
+      "gameChanger": false,
+      "massLandDenial": false,
+      "extraTurn": false
+    }
+  ],
+  "templates": [
+    {
+      "template": {
+        "id": 160,
+        "name": "Card with same name as prepare spell",
+        "scryfallQuery": null,
+        "scryfallApi": null
+      },
+      "quantity": 1,
+      "massLandDenial": false,
+      "extraTurn": false
+    },
+    {
+      "template": {
+        "id": 152,
+        "name": "One mana prepared spell",
+        "scryfallQuery": null,
+        "scryfallApi": null
+      },
+      "quantity": 1,
+      "massLandDenial": false,
+      "extraTurn": false
+    }
+  ],
+  "combos": [
+    {
+      "combo": {
+        "id": "7839-8041",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7839,
+              "name": "Smaug the Impenetrable",
+              "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Creature — Dragon",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 8041,
+              "name": "Dizzying Gaze",
+              "oracleId": "e04f46d9-43e7-45ef-b59c-1810f30bec72",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Enchantment — Aura",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.png?1783946512",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/1/71a482cf-a1cd-47b5-a76a-08e03965c679.jpg?1783946512",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 2408,
+              "name": "Infinite artifact ETB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2409,
+              "name": "Infinite artifact LTB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2419,
+              "name": "Infinite artifact sacrifice triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 33746
+          }
+        ],
+        "includes": [
+          {
+            "id": 33746
+          }
+        ],
+        "identity": "BR",
+        "manaNeeded": "{R}",
+        "manaValueNeeded": 1,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "",
+        "description": "Activate Dizzying Gaze by paying {R}, dealing 1 damage to Smaug.\nSmaug triggers, creating a Treasure token.\nActivate the Treasure by tapping and sacrificing it, adding {R}.\nRepeat.",
+        "notes": "",
+        "popularity": 482,
+        "spoiler": false,
+        "bracketTag": "E",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": false,
+          "competitiveBrawl": false,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "20.96",
+          "cardkingdom": "24.34",
+          "cardmarket": "26.85"
+        },
+        "variantCount": 1
+      },
+      "relevant": false,
+      "borderlineRelevant": false,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 4,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "1873-6758",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 6758,
+              "name": "Dawnsire, Sunstar Dreadnought",
+              "oracleId": "afc9436b-8cad-4916-929d-ff33a37b42d5",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Artifact — Spacecraft",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.png?1783905921",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 1873,
+              "name": "Fiendlash",
+              "oracleId": "2d21dc80-2900-4dc3-9657-f17b50716481",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Artifact — Equipment",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.png?1783915654",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/f/7ff6fab0-7872-445d-a514-774ecccd2355.jpg?1783915654",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 1206,
+              "name": "Near-infinite damage to one opponent",
+              "uncountable": false,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 30608
+          }
+        ],
+        "includes": [
+          {
+            "id": 30608
+          },
+          {
+            "id": 30625
+          }
+        ],
+        "identity": "R",
+        "manaNeeded": "",
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "You control a creature that can attack this turn.\nFiendlash is attached to any creature you control",
+        "notablePrerequisites": "Dawnsire has ten or more charge counters on it.",
+        "description": "Declare any creature as an attacker. Dawnsire triggers, dealing 100 damage to  the creature with Fiendlash attached\nFiendlash triggers, dealing 100 damage to target opponent.",
+        "notes": "",
+        "popularity": 2015,
+        "spoiler": false,
+        "bracketTag": "E",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": true,
+          "competitiveBrawl": true,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "11.60",
+          "cardkingdom": "12.68",
+          "cardmarket": "4.26"
+        },
+        "variantCount": 15
+      },
+      "relevant": false,
+      "borderlineRelevant": false,
+      "arguablyTwoCard": false,
+      "definitelyTwoCard": false,
+      "speed": 5,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "2415-7839",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7839,
+              "name": "Smaug the Impenetrable",
+              "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Creature — Dragon",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 2415,
+              "name": "Havoc Jester",
+              "oracleId": "58f5bbd2-b876-4eb9-aa79-f4d3511961e0",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Creature — Devil",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.png?1783912539",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/3/9/39fb5187-a315-4a6d-9435-67db30c06c55.jpg?1783912539",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 5,
+              "name": "Infinite colored mana",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2408,
+              "name": "Infinite artifact ETB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2409,
+              "name": "Infinite artifact LTB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2419,
+              "name": "Infinite artifact sacrifice triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 33585
+          }
+        ],
+        "includes": [
+          {
+            "id": 33585
+          }
+        ],
+        "identity": "BR",
+        "manaNeeded": "",
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "You control a Treasure.",
+        "notablePrerequisites": "",
+        "description": "Activate a Treasure by tapping and sacrificing it, adding one mana of any color.\nHavoc Jester triggers, dealing 1 damage to Smaug.\nSmaug triggers, creating a Treasure token.\nRepeat.",
+        "notes": "You can use any self-sacrificing artifact, such as Food or Clue tokens, in place of the Treasure to start. Depending on the token used, you may need additional mana or other pre-requisites.",
+        "popularity": 913,
+        "spoiler": false,
+        "bracketTag": "R",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": true,
+          "competitiveBrawl": true,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "20.85",
+          "cardkingdom": "24.34",
+          "cardmarket": "26.63"
+        },
+        "variantCount": 1
+      },
+      "relevant": true,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 5,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "210-7839",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7839,
+              "name": "Smaug the Impenetrable",
+              "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Creature — Dragon",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 210,
+              "name": "Chain Lightning",
+              "oracleId": "8785f42f-87b9-4a0a-89ce-ea423649ba9c",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Sorcery",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.png?1783918467",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/1/2105a0d9-ea2e-4ffc-be08-424b5617205d.jpg?1783918467",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "H"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 91,
+              "name": "Infinite Treasure tokens",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 5,
+              "name": "Infinite colored mana",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 77,
+              "name": "Infinite magecraft triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2408,
+              "name": "Infinite artifact ETB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2409,
+              "name": "Infinite artifact LTB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2419,
+              "name": "Infinite artifact sacrifice triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 587,
+              "name": "Infinite artifact tokens",
+              "uncountable": true,
+              "status": "C"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 33461
+          }
+        ],
+        "includes": [
+          {
+            "id": 26302
+          },
+          {
+            "id": 32906
+          },
+          {
+            "id": 33461
+          }
+        ],
+        "identity": "BR",
+        "manaNeeded": "{R}{R}{R}",
+        "manaValueNeeded": 3,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "",
+        "description": "Cast Chain Lightning by paying {R}, dealing 3 damage to Smaug, Then, choose to pay {R}{R} to copy Chain Lightning, with the copy targeting Smaug.\nSmaug triggers, creating three Treasure tokens.\nHolding priority, activate two Treasures by tapping and sacrificing them, adding {R}{R}.\nResolve Chain Lightning, dealing 3 damage to Smaug, Then, choose to pay {R}{R} to copy Chain Lightning, with the copy targeting Smaug.\nRepeat from step 2.",
+        "notes": "",
+        "popularity": 3181,
+        "spoiler": false,
+        "bracketTag": "R",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": true,
+          "competitiveBrawl": true,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "21.04",
+          "cardkingdom": "24.68",
+          "cardmarket": "26.90"
+        },
+        "variantCount": 1
+      },
+      "relevant": true,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 4,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "1678-7839",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7839,
+              "name": "Smaug the Impenetrable",
+              "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Creature — Dragon",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 1678,
+              "name": "Mayhem Devil",
+              "oracleId": "4709f11c-aef8-45ac-b2bf-e640c568dfac",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Creature — Devil",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.png?1783906026",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/7/674f3a8a-4552-4289-b92a-06ce158f115c.jpg?1783906026",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 5,
+              "name": "Infinite colored mana",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2408,
+              "name": "Infinite artifact ETB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2409,
+              "name": "Infinite artifact LTB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2419,
+              "name": "Infinite artifact sacrifice triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 33462
+          }
+        ],
+        "includes": [
+          {
+            "id": 33462
+          }
+        ],
+        "identity": "BR",
+        "manaNeeded": "",
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "You control a Treasure.",
+        "notablePrerequisites": "",
+        "description": "Activate a Treasure by tapping and sacrificing it, adding one mana of any color.\nMayhem Devil triggers, dealing 1 damage to Smaug.\nSmaug triggers, creating a Treasure token.\nRepeat.",
+        "notes": "You can use any self-sacrificing artifact, such as Food or Clue tokens, in place of the Treasure to start. Depending on the token used, you may need additional mana or other pre-requisites.",
+        "popularity": 6113,
+        "spoiler": false,
+        "bracketTag": "R",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": true,
+          "competitiveBrawl": true,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "21.12",
+          "cardkingdom": "24.78",
+          "cardmarket": "26.80"
+        },
+        "variantCount": 1
+      },
+      "relevant": true,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 5,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "4498-7839",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7839,
+              "name": "Smaug the Impenetrable",
+              "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Creature — Dragon",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 4498,
+              "name": "Pestilence",
+              "oracleId": "dafe63ef-f3d6-45e7-877a-573da92ba85e",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Enchantment",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.png?1783946180",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1783946180",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 1227,
+              "name": "Near-infinite damage to all players",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 1422,
+              "name": "Near-infinite damage to creatures",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2423,
+              "name": "Near-infinite artifact ETB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2424,
+              "name": "Near-infinite artifact LTB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2425,
+              "name": "Near-infinite artifact sacrifice triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 33379
+          }
+        ],
+        "includes": [
+          {
+            "id": 33379
+          }
+        ],
+        "identity": "BR",
+        "manaNeeded": "{B}",
+        "manaValueNeeded": 1,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "",
+        "description": "Activate Pestilence by paying {B}, dealing 1 damage to each player and creature.\nSmaug triggers, creating a Treasure token.\nActivate the Treasure by tapping and sacrificing it, adding {B}.\nRepeat.",
+        "notes": "",
+        "popularity": 3786,
+        "spoiler": false,
+        "bracketTag": "R",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": false,
+          "competitiveBrawl": false,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "21.08",
+          "cardkingdom": "24.58",
+          "cardmarket": "26.70"
+        },
+        "variantCount": 1
+      },
+      "relevant": true,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 4,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "4629-7839",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7839,
+              "name": "Smaug the Impenetrable",
+              "oracleId": "ce2fc562-7a71-4846-bfef-0a7c5f6c1ff3",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Creature — Dragon",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.png?1784377221",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 4629,
+              "name": "Pyrohemia",
+              "oracleId": "9ac57a10-3402-4656-9079-f713884cde35",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Enchantment",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.png?1783936273",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/a/d/ad840567-c3ac-4e14-b398-0d11c88931bc.jpg?1783936273",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 1227,
+              "name": "Near-infinite damage to all players",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 1422,
+              "name": "Near-infinite damage to creatures",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2423,
+              "name": "Near-infinite artifact ETB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2424,
+              "name": "Near-infinite artifact LTB",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2425,
+              "name": "Near-infinite artifact sacrifice triggers",
+              "uncountable": true,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 33378
+          }
+        ],
+        "includes": [
+          {
+            "id": 33378
+          }
+        ],
+        "identity": "BR",
+        "manaNeeded": "{R}",
+        "manaValueNeeded": 1,
+        "easyPrerequisites": "",
+        "notablePrerequisites": "",
+        "description": "Activate Pyrohemia by paying {R}, dealing 1 damage to each player and creature.\nSmaug triggers, creating a Treasure token.\nActivate the Treasure by tapping and sacrificing it, adding {R}.\nRepeat.",
+        "notes": "",
+        "popularity": 4031,
+        "spoiler": false,
+        "bracketTag": "R",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": false,
+          "competitiveBrawl": false,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": false,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "33.55",
+          "cardkingdom": "42.98",
+          "cardmarket": "32.12"
+        },
+        "variantCount": 1
+      },
+      "relevant": true,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 4,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "2484-7502",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 7502,
+              "name": "Expedited Inheritance",
+              "oracleId": "11e2f581-7c3c-4f2f-877f-e41540ab967e",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Enchantment",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.png?1783912881",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/b/6/b65209da-cf48-4d37-b045-7d181070fd05.jpg?1783912881",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 2484,
+              "name": "Blasphemous Act",
+              "oracleId": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Sorcery",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.png?1783903234",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/7/d/7d4b1d44-126e-4987-9a9f-f0f9627a09cb.jpg?1783903234",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "H"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 2690,
+              "name": "Each player may exile a portion of their library with the ability to play the exiled cards until the end of their next turn",
+              "uncountable": true,
+              "status": "C"
+            },
+            "quantity": 1
+          },
+          {
+            "feature": {
+              "id": 2375,
+              "name": "Exile your library with the ability to play the exiled cards until the end of your next turn",
+              "uncountable": false,
+              "status": "H"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 32742
+          }
+        ],
+        "includes": [
+          {
+            "id": 32742
+          }
+        ],
+        "identity": "R",
+        "manaNeeded": "{7}{R} at most",
+        "manaValueNeeded": 8,
+        "easyPrerequisites": "There's a creature on the battlefield.",
+        "notablePrerequisites": "",
+        "description": "Cast Blasphemous Act by paying at most {7}{R}, dealing 13 damage to each creature.\nExpedited Inheritance triggers for each creature dealt damage.\nResolve the first trigger, allowing the creature's controller to exile 13 cards from the top of their library with the ability until the end of their next turn\nRepeat step 3 as needed for any remaining triggers.",
+        "notes": "",
+        "popularity": 4450,
+        "spoiler": false,
+        "bracketTag": "O",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": false,
+          "brawl": true,
+          "competitiveBrawl": true,
+          "alchemy": false,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": true,
+          "pioneer": false,
+          "standard": false,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "1.14",
+          "cardkingdom": "2.78",
+          "cardmarket": "1.51"
+        },
+        "variantCount": 1
+      },
+      "relevant": false,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": true,
+      "speed": 3,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    },
+    {
+      "combo": {
+        "id": "6758-6889",
+        "status": "OK",
+        "uses": [
+          {
+            "card": {
+              "id": 6758,
+              "name": "Dawnsire, Sunstar Dreadnought",
+              "oracleId": "afc9436b-8cad-4916-929d-ff33a37b42d5",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Legendary Artifact — Spacecraft",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.png?1783905921",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          },
+          {
+            "card": {
+              "id": 6889,
+              "name": "Pain for All",
+              "oracleId": "4eedf21c-0ad1-48da-a9fe-2ffdbf8371e9",
+              "spoiler": false,
+              "faces": 1,
+              "typeLine": "Enchantment — Aura",
+              "imageUriFrontPng": "https://cards.scryfall.io/png/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.png?1783905949",
+              "imageUriFrontLarge": "https://cards.scryfall.io/large/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+              "imageUriFrontNormal": "https://cards.scryfall.io/normal/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+              "imageUriFrontSmall": "https://cards.scryfall.io/small/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+              "imageUriFrontArtCrop": "https://cards.scryfall.io/art_crop/front/d/2/d2948913-817b-4715-92d5-ed3cde347be7.jpg?1783905949",
+              "layoutRotationFront": null,
+              "imageUriBackPng": null,
+              "imageUriBackLarge": null,
+              "imageUriBackNormal": null,
+              "imageUriBackSmall": null,
+              "imageUriBackArtCrop": null
+            },
+            "zoneLocations": [
+              "B"
+            ],
+            "battlefieldCardState": "",
+            "exileCardState": "",
+            "libraryCardState": "",
+            "graveyardCardState": "",
+            "mustBeCommander": false,
+            "quantity": 1,
+            "usedFace": null
+          }
+        ],
+        "requires": [],
+        "produces": [
+          {
+            "feature": {
+              "id": 1,
+              "name": "Near-infinite damage",
+              "uncountable": true,
+              "status": "S"
+            },
+            "quantity": 1
+          }
+        ],
+        "of": [
+          {
+            "id": 30608
+          },
+          {
+            "id": 32295
+          }
+        ],
+        "includes": [
+          {
+            "id": 30608
+          },
+          {
+            "id": 31332
+          },
+          {
+            "id": 32295
+          }
+        ],
+        "identity": "R",
+        "manaNeeded": "",
+        "manaValueNeeded": 0,
+        "easyPrerequisites": "You control a creature that can attack this turn.",
+        "notablePrerequisites": "Dawnsire has ten or more charge counters on it.",
+        "description": "Declare a creature as an attacker. Dawnsire triggers, dealing 100 damage to the creature that has Pain for All attached.\nPain for All triggers, dealing 100 damage to each opponent.",
+        "notes": "",
+        "popularity": 7582,
+        "spoiler": false,
+        "bracketTag": "S",
+        "legalities": {
+          "commander": true,
+          "pauperCommanderMain": false,
+          "pauperCommander": false,
+          "oathbreaker": true,
+          "predh": false,
+          "standardBrawl": true,
+          "brawl": true,
+          "competitiveBrawl": true,
+          "alchemy": true,
+          "vintage": true,
+          "legacy": true,
+          "premodern": false,
+          "modern": true,
+          "pioneer": true,
+          "standard": true,
+          "pauper": false
+        },
+        "prices": {
+          "tcgplayer": "11.97",
+          "cardkingdom": "14.28",
+          "cardmarket": "4.55"
+        },
+        "variantCount": 15
+      },
+      "relevant": true,
+      "borderlineRelevant": true,
+      "arguablyTwoCard": true,
+      "definitelyTwoCard": false,
+      "speed": 5,
+      "massLandDenial": false,
+      "extraTurn": false,
+      "lock": false,
+      "skipTurns": false,
+      "controlAllOpponents": false,
+      "controlSomeOpponents": false
+    }
+  ]
+}

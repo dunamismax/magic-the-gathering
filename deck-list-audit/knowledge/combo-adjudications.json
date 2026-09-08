@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "reviewed_on": "2026-09-05",
+  "reviewed_on": "2026-09-08",
   "database_limit": "Commander Spellbook is incomplete, especially for new cards. No-match records are evidence, not proof of absence.",
   "archive": "data/spellbook-results/archive/2026-09-05-superseded/combo-adjudications.json",
-  "notes": "Six changed exact main lists were rescanned and manually reviewed on 2026-09-05. The four unchanged mains and Gandalf’s nine-card configuration switch retain hash-matching reviewed evidence with their original dates. Database omissions and manual screening do not prove combo completeness.",
+  "notes": "Smaug was scanned and manually reviewed on 2026-09-08. All 10 existing mains and Gandalf’s nine-card switch were freshly exported and verified unchanged; their hash-matching scan and individual review dates are retained. Included database results are adjudicated individually; finite effects are not relabeled infinite. Database omissions and manual screening do not prove combo completeness.",
   "decks": [
     {
       "deck": "aragorn-the-uniter",
@@ -195,6 +195,139 @@
       "spellbook_included_candidates": 0,
       "summary": "The 2026-09-05 exact-list scan returned no included combo. Molten Echoes has left the deck. Chronicle of Victory adds cast-based draw and combat pressure; Priest of Ancient Lore adds a Dwarf enter trigger; Ascend from Avernus and Sevinne's Reclamation add finite recovery and exile after their relevant graveyard use. Thorin, Bifur, Panharmonicon, Anointed Procession, Cadric, and Fíli still multiply triggers, tokens, and Treasures finitely. The closest Reaver Cleaver, Magda, and Thorin, Company's Leader loops lack Aggravated Assault, Hellkite Charger, or a repeatable untap engine.",
       "lines": []
+    },
+    {
+      "deck": "smaug-the-impenetrable",
+      "deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
+      "status": "reviewed",
+      "reviewed_on": "2026-09-08",
+      "review_basis": "commander-spellbook-and-manual-oracle-prerequisite-review",
+      "spellbook_included_candidates": 9,
+      "summary": "Intentional Bracket 4 Treasure combo. Nine included candidates were checked individually. Mayhem Devil, Havoc Jester, Chain Lightning, and Dizzying Gaze supply repeatable engines; Blazing Sunsteel is an additional manually confirmed line. Pyrohemia/Pestilence are life-limited without support, Inheritance/Act is finite optional access, Dawnsire/Pain is a finite 100-damage burst, and Dawnsire/Fiendlash was corrected to power-based damage. The estimate’s abstract prepare templates are not satisfied by this list; it contains no prepare card.",
+      "lines": [
+        {
+          "id": "6758-6889",
+          "cards": [
+            "Dawnsire, Sunstar Dreadnought",
+            "Pain for All"
+          ],
+          "status": "confirmed-conditional",
+          "classification": "finite-100-damage-to-each-opponent",
+          "reason": "Dawnsire needs at least ten charge counters and a creature able to attack. Pain for All must enchant a creature you control; Smaug is the durable in-list host. Attack with any creature, target that enchanted creature with the Dawnsire trigger, then Pain for All deals 100 to each opponent. This is a finite damage burst, not an infinite loop. Smaug also creates 100 Treasures.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "1678-7839",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Mayhem Devil"
+          ],
+          "status": "confirmed",
+          "classification": "unbounded-colored-mana-and-treasure-events",
+          "reason": "Start with both creatures on the battlefield and an untapped Treasure. Sacrifice the Treasure for mana, target Smaug with the sacrifice trigger, and resolve Smaug’s replacement Treasure. Repeat to bank mana while keeping one Treasure. The base loop uses its damage on Smaug; a separate entry/sacrifice payoff or damage amplifier supplies lethal output.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "2415-7839",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Havoc Jester"
+          ],
+          "status": "confirmed",
+          "classification": "unbounded-colored-mana-and-treasure-events",
+          "reason": "Start with both creatures on the battlefield and an untapped Treasure. Sacrifice the Treasure for mana, target Smaug with the sacrifice trigger, and resolve Smaug’s replacement Treasure. Repeat to bank mana while keeping one Treasure. The base loop uses its damage on Smaug; a separate entry/sacrifice payoff or damage amplifier supplies lethal output.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "2484-7502",
+          "cards": [
+            "Expedited Inheritance",
+            "Blasphemous Act"
+          ],
+          "status": "confirmed",
+          "classification": "finite-optional-library-access",
+          "reason": "Blasphemous Act deals 13 damage per creature. Each damaged creature produces one optional Inheritance trigger for its controller to exile that many cards and play them until the end of their next turn. The amount is bounded by damaged creatures and library size; opponents can benefit too. No repeatable loop or guaranteed library-wide access follows from these two cards alone.",
+          "disclosure_required": false,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "4629-7839",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Pyrohemia"
+          ],
+          "status": "confirmed-conditional",
+          "classification": "life-limited-repeatable-symmetric-damage",
+          "reason": "Pay one red mana to damage every creature and player, resolve Smaug’s one Treasure, then spend it to repeat. The base line breaks even on mana but damages its controller and kills unprotected support creatures. It is finite at an ordinary life total, can cause its pilot to lose, and needs a life advantage or additional protection/payoff to secure a win. Lifelink on Smaug does not grant lifelink to the enchantment.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "4498-7839",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Pestilence"
+          ],
+          "status": "confirmed-conditional",
+          "classification": "life-limited-repeatable-symmetric-damage",
+          "reason": "Pay one black mana to damage every creature and player, resolve Smaug’s one Treasure, then spend it to repeat. The base line breaks even on mana but damages its controller and kills unprotected support creatures. It is finite at an ordinary life total, can cause its pilot to lose, and needs a life advantage or additional protection/payoff to secure a win. Lifelink on Smaug does not grant lifelink to the enchantment.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "210-7839",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Chain Lightning"
+          ],
+          "status": "confirmed",
+          "classification": "unbounded-treasures-and-colored-mana",
+          "reason": "Have RRR available with Smaug on the battlefield. Spend R to cast Chain Lightning at Smaug and pay the first RR to copy it during resolution, before the first Treasure trigger resolves. Resolve that trigger above the copy to make three Treasures. Each later copy makes three and costs two Treasures to continue, leaving one extra per iteration. Declining the copy payment ends the loop; separate payoffs convert the engine to lethal output.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "1873-6758",
+          "cards": [
+            "Dawnsire, Sunstar Dreadnought",
+            "Fiendlash"
+          ],
+          "status": "confirmed-corrected-finite",
+          "classification": "finite-creature-power-damage-to-one-target",
+          "reason": "The database description incorrectly says Fiendlash repeats Dawnsire’s 100 damage. Current Oracle instead deals damage equal to the equipped creature’s power to one player or planeswalker. With ten charge counters, a legal attacker, and Fiendlash on otherwise unmodified 8-power Smaug, Dawnsire deals 100 to Smaug, Smaug makes 100 Treasures, and Fiendlash deals 10 to one target. This is finite, and 100 damage to that target is not established.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "7839-8041",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Dizzying Gaze"
+          ],
+          "status": "confirmed",
+          "classification": "unbounded-damage-and-treasure-events-mana-neutral",
+          "reason": "Enchant Smaug and start with R. Smaug has flying, so the granted ability can target himself. One damage makes one Treasure, whose red mana funds the next activation. No tap cost is involved. The base loop is mana-neutral; Xorn, Goldspan Dragon, Crime Novelist, or Roaming Throne naming Dragon creates a surplus. In-list damage or token payoffs make it lethal.",
+          "disclosure_required": true,
+          "source": "commander-spellbook-and-manual-oracle-prerequisite-review"
+        },
+        {
+          "id": "manual-smaug-blazing-sunsteel",
+          "cards": [
+            "Smaug the Impenetrable",
+            "Blazing Sunsteel"
+          ],
+          "status": "confirmed",
+          "classification": "unbounded-treasures-from-repeatable-self-damage",
+          "reason": "Equip Smaug and deal him noncombat damage with an enabler. Aim each Sunsteel trigger back at Smaug and resolve Treasure triggers along the way. Indestructible lets him survive repeated damage. Choose a different target to end the cycle. Entry/sacrifice payoffs, Pain for All, or Fiendlash convert it into lethal output. This line was not among the nine included database results.",
+          "disclosure_required": true,
+          "source": "manual-oracle-and-exact-list-review"
+        }
+      ],
+      "payoff_review": "Reckless Fireweaver and Weftstalker Ardent trigger on artifact entries; Mirkwood Bats triggers on token creation and sacrifice; Marionette Apprentice, Disciple of the Vault, and The Sackville-Bagginses convert artifact/token sacrifices to life loss. Pain for All and Fiendlash convert repeated damage to Smaug to opponent damage. Heroes for Hire, Professional Face-Breaker, and optional Expedited Inheritance provide finite library access from repeatable resources. Payoffs must remain on the battlefield; sweepers can kill support creatures before Treasures enter.",
+      "primer_review": "Public primer read 2026-09-08 mentions Agent of the Iron Throne, Torment of Hailfire, and Witch’s Clinic, which are absent from the exact current export. They were not counted as cards or prerequisites. Moxfield was not edited."
     }
   ]
 }

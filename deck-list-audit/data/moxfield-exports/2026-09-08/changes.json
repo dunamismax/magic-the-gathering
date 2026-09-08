@@ -1,9 +1,36 @@
 {
   "schema_version": 1,
-  "status": "reviewed-current-snapshot",
-  "audit_date": "2026-09-08",
-  "report_file": "reports/commander-social-audit-2026-09-08.md",
-  "report_sha256": "db111f9abb7955e1171ed96d49062b714ce10af438e05ce3784c8e3d7eb2afee",
+  "refreshed_on": "2026-09-08",
+  "status": "applied",
+  "added_decks": [
+    "smaug-the-impenetrable"
+  ],
+  "removed_decks": [],
+  "renamed_decks": [],
+  "existing_card_substitutions": 0,
+  "unchanged_main_decks": [
+    "aragorn-the-uniter",
+    "blor-the-impervious",
+    "frodo-sam",
+    "gandalf-party-guest",
+    "henzie-toolbox-torre",
+    "thorin-king-of-durins-folk",
+    "minn-wily-illusionist",
+    "pantlaza-sun-favored",
+    "queen-marchesa",
+    "the-notary-hobbits"
+  ],
+  "metadata_only_updates": {
+    "frodo-sam": {
+      "source_updated_on_before": "2026-09-04",
+      "source_updated_on_after": "2026-09-07"
+    },
+    "thorin-king-of-durins-folk": {
+      "source_updated_on_before": "2026-09-05",
+      "source_updated_on_after": "2026-09-07"
+    }
+  },
+  "gandalf_sideboard_unchanged": true,
   "deck_sha256": {
     "aragorn-the-uniter": "cc6d874e275241d02995d11d2c167ffb2f1bebd4f855575ded03ff5a2476d265",
     "blor-the-impervious": "663c68905cbcf0e2ea955ed3de6e3e08f6c32a7e7f270e02e83279c86a9d9071",
@@ -17,7 +44,5 @@
     "the-notary-hobbits": "8526cda4caa0adc5bd628e504412b409a48d4cc025e7c1a9da2ed112bdb8477f",
     "smaug-the-impenetrable": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34"
   },
-  "notes": "All 11 public Commander lists were exported on September 8. Smaug was added with a fresh exact-list Spellbook scan and manual review. Ten unchanged mains and Gandalf’s sideboard retain their hash-matching evidence and original review dates. Current social and bracket reports add the B4 combo role and preserve all existing disclosures.",
-  "companion_report_file": "reports/commander-bracket-power-evaluation-2026-09-08.md",
-  "companion_report_sha256": "29dd41e27404b485ed8072ebffef915e97d390b28976c6d8938f08b983dcced7"
+  "notes": "All fresh plain-text UI exports were SHA-256 compared, with one final newline. Byte-identical exports were retained in the dated snapshot; existing normalized deck sources were not rewritten."
 }

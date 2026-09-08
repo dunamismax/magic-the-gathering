@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "audit_date": "2026-09-05",
+  "audit_date": "2026-09-08",
   "inputs": {
-    "audit_sha256": "58adacb5617571e5646480ed11ef85bf1dc26421f4eff4b4efc2d126d34b580e",
+    "audit_sha256": "056b3fc0a11230b3b989a0f735e25760eb1786ebfd48ed6a17ce55aa8a9c3ad1",
     "taxonomy_sha256": "35c286d4894efed5e7535c6d9325987766452c2886590f1134596e97ae23987c",
-    "overrides_sha256": "d592b0ae20a99d7d8cbf0761872b66127b51127485339552a9802b97c091c91d",
-    "combo_adjudications_sha256": "45f0415c67eeebdead2f1f3b00a8734c2bdc0ec231e251e8764eea929d007d46"
+    "overrides_sha256": "07c2251fb4236932e214b837cbe205ea37b449957fe40cf3f522c13eca72a77a",
+    "combo_adjudications_sha256": "c0093850d86bb80c574d2fab911d17d759360cc7ce04390f99a69f20a85f51da"
   },
   "method": {
     "deterministic": "Land and modal-land facts derived from Oracle structure.",
@@ -13768,6 +13768,1818 @@
           "roles": {
             "ramp": "override",
             "commander_engine": "override"
+          }
+        }
+      ]
+    },
+    "smaug-the-impenetrable": {
+      "deck_sha256": "611723d57eb257ffa933f7ae89df72d26b986c8733e3be7368668ea8b9506a34",
+      "counts_overlap": true,
+      "role_counts": {
+        "board_wipe": 5,
+        "card_advantage": 12,
+        "combo_piece": 13,
+        "commander_engine": 28,
+        "cost_reduction": 6,
+        "countermagic": 1,
+        "fast_mana": 7,
+        "graveyard_interaction": 1,
+        "land": 35,
+        "land_capable": 36,
+        "land_tutor": 7,
+        "modal": 2,
+        "protection": 8,
+        "ramp": 26,
+        "recursion": 1,
+        "selection": 2,
+        "spot_removal": 9,
+        "tutor": 5,
+        "win_condition": 10
+      },
+      "role_cards": {
+        "board_wipe": [
+          {
+            "name": "Blasphemous Act",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Chain Reaction",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Pestilence",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Pyrohemia",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Star of Extinction",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "card_advantage": [
+          {
+            "name": "Big Score",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Expedited Inheritance",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Heroes for Hire",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mastermind Plum",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Professional Face-Breaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Smaug, Wicked Worm",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Stinging Study",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Takenuma, Abandoned Mire",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The One Ring",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Sackville-Bagginses",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Valakut Awakening",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Wheel of Fortune",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "combo_piece": [
+          {
+            "name": "Blasphemous Act",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Blazing Sunsteel",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Chain Lightning",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Dawnsire, Sunstar Dreadnought",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Dizzying Gaze",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Expedited Inheritance",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Fiendlash",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Havoc Jester",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Mayhem Devil",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Pain for All",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Pestilence",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Pyrohemia",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          },
+          {
+            "name": "Smaug the Impenetrable",
+            "quantity": 1,
+            "confidence": "confirmed-combo"
+          }
+        ],
+        "commander_engine": [
+          {
+            "name": "Academy Manufactor",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Blazing Sunsteel",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Chain Lightning",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Crime Novelist",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Cut Propulsion",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Dawnsire, Sunstar Dreadnought",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Disciple of the Vault",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Dizzying Gaze",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Expedited Inheritance",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Fiendlash",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Goldspan Dragon",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Havoc Jester",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Lightning Bolt",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Marionette Apprentice",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mayhem Devil",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mirkwood Bats",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Pain for All",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Reckless Fireweaver",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Roaming Throne",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Self-Destruct",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Shadowspear",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug the Magnificent",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug, Wicked Worm",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "The Last Agni Kai",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "The Sackville-Bagginses",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Weftstalker Ardent",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Xorn",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug the Impenetrable",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "cost_reduction": [
+          {
+            "name": "Blasphemous Act",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Bolt Bend",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Deadly Rollick",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Deflecting Swat",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Not of This World",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Ruby Medallion",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "countermagic": [
+          {
+            "name": "Not of This World",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "fast_mana": [
+          {
+            "name": "Ancient Tomb",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Dark Ritual",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Jeska's Will",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mana Vault",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Seething Song",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Sol Ring",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Treasonous Ogre",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "graveyard_interaction": [
+          {
+            "name": "Mastermind Plum",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "land": [
+          {
+            "name": "Ancient Tomb",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Arid Mesa",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Badlands",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Blazemire Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Blightstep Pathway",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Blood Crypt",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Bloodstained Mire",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Cavern of Souls",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Command Tower",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Gemstone Caverns",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Graven Cairns",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Haunted Ridge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Inventors' Fair",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Luxury Suite",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mana Confluence",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Marsh Flats",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mountain",
+            "quantity": 6,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Polluted Delta",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Raucous Theater",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Scalding Tarn",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sulfurous Springs",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Swamp",
+            "quantity": 4,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Takenuma, Abandoned Mire",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Urborg, Tomb of Yawgmoth",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Urza's Saga",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Verdant Catacombs",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Wooded Foothills",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "land_capable": [
+          {
+            "name": "Ancient Tomb",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Arid Mesa",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Badlands",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Blazemire Verge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Blightstep Pathway",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Blood Crypt",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Bloodstained Mire",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Cavern of Souls",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Command Tower",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Gemstone Caverns",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Graven Cairns",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Haunted Ridge",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Inventors' Fair",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Luxury Suite",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mana Confluence",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Marsh Flats",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Mountain",
+            "quantity": 6,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Polluted Delta",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Raucous Theater",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Scalding Tarn",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Sulfurous Springs",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Swamp",
+            "quantity": 4,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Takenuma, Abandoned Mire",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Urborg, Tomb of Yawgmoth",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Urza's Saga",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Valakut Awakening",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Verdant Catacombs",
+            "quantity": 1,
+            "confidence": "deterministic"
+          },
+          {
+            "name": "Wooded Foothills",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "land_tutor": [
+          {
+            "name": "Arid Mesa",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Bloodstained Mire",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Marsh Flats",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Polluted Delta",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Scalding Tarn",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Verdant Catacombs",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Wooded Foothills",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "modal": [
+          {
+            "name": "Jeska's Will",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Valakut Awakening",
+            "quantity": 1,
+            "confidence": "deterministic"
+          }
+        ],
+        "protection": [
+          {
+            "name": "Bolt Bend",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Cavern of Souls",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Deflecting Swat",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Hexing Squelcher",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Not of This World",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Redirect Lightning",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Shadowspear",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "The One Ring",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "ramp": [
+          {
+            "name": "Ancient Tomb",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Arcane Signet",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Big Score",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Crime Novelist",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Cursed Mirror",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Dark Ritual",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Descent into Avernus",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Goldspan Dragon",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Heroes for Hire",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Jeska's Will",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Magda, Brazen Outlaw",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Mana Geyser",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mana Vault",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mastermind Plum",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Professional Face-Breaker",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Rakdos Signet",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Roaming Throne",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Seething Song",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug the Magnificent",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug, Wicked Worm",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Sol Ring",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Talisman of Indulgence",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Sackville-Bagginses",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Treasonous Ogre",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Xorn",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug the Impenetrable",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "recursion": [
+          {
+            "name": "Takenuma, Abandoned Mire",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "selection": [
+          {
+            "name": "Raucous Theater",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Valakut Awakening",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "spot_removal": [
+          {
+            "name": "Chaos Warp",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Cut Propulsion",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Dawnsire, Sunstar Dreadnought",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Deadly Rollick",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Dizzying Gaze",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Lightning Bolt",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Self-Destruct",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Star of Extinction",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "The Last Agni Kai",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ],
+        "tutor": [
+          {
+            "name": "Demonic Tutor",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Inventors' Fair",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Magda, Brazen Outlaw",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Urza's Saga",
+            "quantity": 1,
+            "confidence": "heuristic"
+          },
+          {
+            "name": "Vampiric Tutor",
+            "quantity": 1,
+            "confidence": "heuristic"
+          }
+        ],
+        "win_condition": [
+          {
+            "name": "Disciple of the Vault",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Fiendlash",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Marionette Apprentice",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Mirkwood Bats",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Pain for All",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Reckless Fireweaver",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug the Magnificent",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "The Sackville-Bagginses",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Weftstalker Ardent",
+            "quantity": 1,
+            "confidence": "override"
+          },
+          {
+            "name": "Smaug the Impenetrable",
+            "quantity": 1,
+            "confidence": "override"
+          }
+        ]
+      },
+      "nonland_role_coverage": 0.9846,
+      "unclassified_nonlands": [
+        "Fire Covenant"
+      ],
+      "combo_adjudication_current": true,
+      "combo_adjudication_status": "reviewed",
+      "cards": [
+        {
+          "name": "Academy Manufactor",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Ancient Tomb",
+          "quantity": 1,
+          "roles": {
+            "land": "override",
+            "land_capable": "override",
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Arcane Signet",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Arid Mesa",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Badlands",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Big Score",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Blasphemous Act",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "board_wipe": "heuristic",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Blazemire Verge",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Blazing Sunsteel",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Blightstep Pathway",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Blood Crypt",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Bloodstained Mire",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Bolt Bend",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "protection": "override"
+          }
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "protection": "override"
+          }
+        },
+        {
+          "name": "Chain Lightning",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Chain Reaction",
+          "quantity": 1,
+          "roles": {
+            "board_wipe": "heuristic"
+          }
+        },
+        {
+          "name": "Chaos Warp",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "override"
+          }
+        },
+        {
+          "name": "Command Tower",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Crime Novelist",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "ramp": "override"
+          }
+        },
+        {
+          "name": "Cursed Mirror",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Cut Propulsion",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "spot_removal": "override"
+          }
+        },
+        {
+          "name": "Dark Ritual",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Dawnsire, Sunstar Dreadnought",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "spot_removal": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Deadly Rollick",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "spot_removal": "heuristic"
+          }
+        },
+        {
+          "name": "Deflecting Swat",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "protection": "override"
+          }
+        },
+        {
+          "name": "Demonic Tutor",
+          "quantity": 1,
+          "roles": {
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Descent into Avernus",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override"
+          }
+        },
+        {
+          "name": "Disciple of the Vault",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Dizzying Gaze",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic",
+            "commander_engine": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Expedited Inheritance",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override",
+            "commander_engine": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Fiendlash",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Fire Covenant",
+          "quantity": 1,
+          "roles": {}
+        },
+        {
+          "name": "Gemstone Caverns",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Goldspan Dragon",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Graven Cairns",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Haunted Ridge",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Havoc Jester",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Heroes for Hire",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Hexing Squelcher",
+          "quantity": 1,
+          "roles": {
+            "protection": "override"
+          }
+        },
+        {
+          "name": "Inventors' Fair",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Jeska's Will",
+          "quantity": 1,
+          "roles": {
+            "modal": "heuristic",
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Lightning Bolt",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "spot_removal": "override"
+          }
+        },
+        {
+          "name": "Luxury Suite",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Magda, Brazen Outlaw",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Mana Confluence",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Mana Geyser",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override"
+          }
+        },
+        {
+          "name": "Mana Vault",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Marionette Apprentice",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Marsh Flats",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Mastermind Plum",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic",
+            "graveyard_interaction": "heuristic"
+          }
+        },
+        {
+          "name": "Mayhem Devil",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Mirkwood Bats",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Mountain",
+          "quantity": 6,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Not of This World",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic",
+            "countermagic": "heuristic",
+            "protection": "override"
+          }
+        },
+        {
+          "name": "Pain for All",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Pestilence",
+          "quantity": 1,
+          "roles": {
+            "board_wipe": "heuristic",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Polluted Delta",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Professional Face-Breaker",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Pyrohemia",
+          "quantity": 1,
+          "roles": {
+            "board_wipe": "heuristic",
+            "combo_piece": "confirmed-combo"
+          }
+        },
+        {
+          "name": "Rakdos Signet",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "Raucous Theater",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "selection": "heuristic"
+          }
+        },
+        {
+          "name": "Reckless Fireweaver",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Redirect Lightning",
+          "quantity": 1,
+          "roles": {
+            "protection": "override"
+          }
+        },
+        {
+          "name": "Roaming Throne",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "ramp": "override"
+          }
+        },
+        {
+          "name": "Ruby Medallion",
+          "quantity": 1,
+          "roles": {
+            "cost_reduction": "heuristic"
+          }
+        },
+        {
+          "name": "Scalding Tarn",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Seething Song",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Self-Destruct",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "spot_removal": "override"
+          }
+        },
+        {
+          "name": "Shadowspear",
+          "quantity": 1,
+          "roles": {
+            "protection": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Smaug the Magnificent",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Smaug, Wicked Worm",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override",
+            "ramp": "override",
+            "commander_engine": "override"
+          }
+        },
+        {
+          "name": "Sol Ring",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Star of Extinction",
+          "quantity": 1,
+          "roles": {
+            "spot_removal": "heuristic",
+            "board_wipe": "heuristic"
+          }
+        },
+        {
+          "name": "Stinging Study",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic"
+          }
+        },
+        {
+          "name": "Sulfurous Springs",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Swamp",
+          "quantity": 4,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Takenuma, Abandoned Mire",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "card_advantage": "heuristic",
+            "recursion": "heuristic"
+          }
+        },
+        {
+          "name": "Talisman of Indulgence",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic"
+          }
+        },
+        {
+          "name": "The Last Agni Kai",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "spot_removal": "override"
+          }
+        },
+        {
+          "name": "The One Ring",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "heuristic",
+            "protection": "heuristic"
+          }
+        },
+        {
+          "name": "The Sackville-Bagginses",
+          "quantity": 1,
+          "roles": {
+            "ramp": "heuristic",
+            "card_advantage": "heuristic",
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Treasonous Ogre",
+          "quantity": 1,
+          "roles": {
+            "ramp": "override",
+            "fast_mana": "override"
+          }
+        },
+        {
+          "name": "Urborg, Tomb of Yawgmoth",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic"
+          }
+        },
+        {
+          "name": "Urza's Saga",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Valakut Awakening",
+          "quantity": 1,
+          "roles": {
+            "land_capable": "deterministic",
+            "modal": "deterministic",
+            "card_advantage": "heuristic",
+            "selection": "override"
+          }
+        },
+        {
+          "name": "Vampiric Tutor",
+          "quantity": 1,
+          "roles": {
+            "tutor": "heuristic"
+          }
+        },
+        {
+          "name": "Verdant Catacombs",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Weftstalker Ardent",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "win_condition": "override"
+          }
+        },
+        {
+          "name": "Wheel of Fortune",
+          "quantity": 1,
+          "roles": {
+            "card_advantage": "override"
+          }
+        },
+        {
+          "name": "Wooded Foothills",
+          "quantity": 1,
+          "roles": {
+            "land": "deterministic",
+            "land_capable": "deterministic",
+            "land_tutor": "override"
+          }
+        },
+        {
+          "name": "Xorn",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "ramp": "override"
+          }
+        },
+        {
+          "name": "Smaug the Impenetrable",
+          "quantity": 1,
+          "roles": {
+            "commander_engine": "override",
+            "ramp": "override",
+            "combo_piece": "confirmed-combo",
+            "win_condition": "override"
           }
         }
       ]

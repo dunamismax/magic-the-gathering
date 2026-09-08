@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "verified_on": "2026-09-05",
+  "verified_on": "2026-09-08",
   "format": "commander",
   "sources": [
     {
@@ -31,5 +31,9 @@
       "opponent agency"
     ]
   },
-  "notes": "Official Commander bracket and banned-list pages were rechecked on 2026-09-05. Brackets remain a pregame-conversation tool; the current guidance places Game Changers in Bracket 3 and above while Rule Zero exceptions remain table-dependent. Scryfall legality and game_changer fields are evidence inputs, not substitutes for official policy verification."
+  "notes": "Official Commander bracket and banned-list pages were rechecked on 2026-09-08. Brackets remain a pregame-conversation tool; the current guidance places Game Changers in Bracket 3 and above while Rule Zero exceptions remain table-dependent. Scryfall legality and game_changer fields are evidence inputs, not substitutes for official policy verification.",
+  "bracket_4": {
+    "game_changer_max": null,
+    "summary": "Optimized decks focused on high power. Unlimited Game Changers; fast mana, efficient tutors, and intentional infinite combos are compatible with this bracket. Intent distinguishes Optimized from cEDH."
+  }
 }

@@ -7,27 +7,34 @@ deck edits so one layer cannot silently masquerade as another.
 
 ## Current snapshot
 
-- **10 public decks**: the full collection was downloaded from Moxfield and
-  locally audited on **2026-09-05**; the Commander roster is unchanged
-- **9 public Bracket 3 labels** and **1 posted Bracket 2* configuration**:
+- **11 public decks**: the full collection was exported from Moxfield and
+  locally audited on **2026-09-08**; Smaug the Impenetrable joins the roster
+- **1 Bracket 4 / Optimized maximum-power combo deck**, **9 public Bracket 3
+  labels**, and **1 posted Bracket 2* configuration**:
   Gandalf's main is labeled B3 but plays as a B2-style Rule Zero mode, and
   Frodo & Sam uses a disclosed Game Changer exception
-- All 10 main decks resolve to exactly 100 cards and pass deterministic count,
+- All 11 main decks resolve to exactly 100 cards and pass deterministic count,
   commander, singleton, banned-card, and configured exception checks
-- Six lists changed by **31 equal-count substitutions**: Aragorn, Blor, Thorin,
-  Minn, Queen Marchesa, and The Notary Hobbits
-- All 10 exact lists have hash-current Commander Spellbook evidence and manual
-  prerequisite review; the six changed lists were rescanned and reviewed on
-  **2026-09-05**, while the other four retain their original evidence dates
+- All ten existing mains and Gandalf's nine-card sideboard were verified
+  unchanged; Thorin and Frodo & Sam have newer Moxfield page dates only
+- All 11 exact lists have hash-current Commander Spellbook evidence and manual
+  prerequisite review; Smaug was scanned and reviewed on **2026-09-08**, while
+  the unchanged decks retain their original evidence dates
+- Smaug has **35 printed lands, 1 spell/land MDFC, and 6 Game Changers**, with
+  an unrestricted B4 ceiling and no Rule Zero dependency. Nine included combo
+  candidates were adjudicated individually, and Blazing Sunsteel was manually
+  confirmed as an additional engine
 - Gandalf's posted Maximum Flavor main has no complete combo; its exact
   nine-for-nine Maximum Power switch restores one intentional conditional
   unlimited-combat line. Pantlaza has three
   conditional near-infinite lines, Queen Marchesa has one finite line and one
   five-card loop, and Henzie's returned persist template is incomplete
-- The current 10-deck social and bracket reviews are pinned to these exact
+- The current 11-deck social and bracket reviews are pinned to these exact
   hashes; superseded reports and scans remain dated historical evidence
 - The reports preserve all preview-card, color-identity, and bracket exceptions,
   and explicitly discuss Minn's Teferi ultimate and Gandalf's alternate combo
+- Smaug's public primer still names three absent cards; this is documented in
+  the current report without importing them or editing Moxfield
 
 Browse titles, source dates, Moxfield links, and hashes in
 [`decks/README.md`](decks/README.md). Deterministic totals are in
